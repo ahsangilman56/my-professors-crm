@@ -43,11 +43,11 @@
     "homepage": "",
     "researchProfile": "",
     "status": {
-      "mailed": false,
+      "mailed": true,
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": null,
+    "mailedAt": "Apr 16, 2026",
     "replySummary": ""
   }
 ]
