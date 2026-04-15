@@ -10,11 +10,11 @@
     "researchProfile": "",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "Apr 16, 2026",
-    "replySummary": ""
+    "replySummary": "Interested"
   },
   {
     "id": "1776276900867",
