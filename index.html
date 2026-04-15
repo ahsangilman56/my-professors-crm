@@ -432,6 +432,7 @@
         let professors = [];
         let sha = null;
         let mode = 'view';
+        const cardColors = ['#f0f9ff', '#f5f3ff', '#fdf2f8', '#fff7ed', '#f0fdf4', '#eff6ff', '#fff1f2', '#ecfdf5', '#fefce8', '#fafaf9'];
 
         // --- AUTH ---
         document.getElementById('l-btn').onclick = () => {
@@ -532,8 +533,8 @@
             });
 
             const list = document.getElementById('list');
-            list.innerHTML = filtered.map(p => `
-                <div class="prof-row">
+            list.innerHTML = filtered.map((p, i) => `
+                <div class="prof-row" style="background-color: ${cardColors[i % cardColors.length]}">
                     <div class="prof-identity">
                         <div>
                             <span class="prof-name">${p.name}</span>
