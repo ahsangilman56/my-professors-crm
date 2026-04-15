@@ -9,11 +9,11 @@
     "homepage": "",
     "researchProfile": "",
     "status": {
-      "mailed": true,
+      "mailed": false,
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": "Apr 16, 2026",
+    "mailedAt": null,
     "replySummary": ""
   },
   {
