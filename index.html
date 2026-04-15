@@ -468,23 +468,26 @@
             }
 
             try {
-                const res = await fetch(`https://api.github.com/repos/${GITHUB.owner}/${GITHUB.repo}/contents/${GITHUB.path}`, {
-                    headers: { 'Authorization': `token ${TOKEN}` }
+                // Add cache-buster to avoid GitHub Pages/API caching
+                const res = await fetch(`https://api.github.com/repos/${GITHUB.owner}/${GITHUB.repo}/contents/${GITHUB.path}?cb=${Date.now()}`, {
+                    headers: { 'Authorization': `Bearer ${TOKEN}` }
                 });
                 if(res.ok) {
                     const json = await res.json();
                     sha = json.sha;
                     const cloudData = JSON.parse(atob(json.content));
-                    // Merge or replace? For simplicity, cloud is source of truth on load
                     professors = cloudData;
                     saveLocal(); // sync local with cloud
                 } else if (res.status === 404) {
                     console.log("Database file not found on GitHub. Will create on first save.");
+                } else {
+                    const err = await res.json();
+                    console.error("Fetch Error:", err);
+                    document.getElementById('sync-ui').innerHTML = `<span style="color:#f87171"><i data-lucide="cloud-off" style="width:14px;"></i> Sync Error ${res.status}</span>`;
                 }
             } catch(e) { 
-                console.error('Cloud Sync Failed:', e); 
-                document.getElementById('sync-ui').innerHTML = '<span style="color:red"><i data-lucide="cloud-off" style="width:14px;"></i> Offline Mode</span>';
-                lucide.createIcons();
+                console.error('Cloud Connection Failed:', e); 
+                document.getElementById('sync-ui').innerHTML = '<span style="color:#f87171"><i data-lucide="cloud-off" style="width:14px;"></i> Connection Failed</span>';
             }
             populateFilters();
             render();
@@ -722,7 +725,11 @@
                 const content = btoa(unescape(encodeURIComponent(JSON.stringify(professors, null, 2))));
                 const res = await fetch(`https://api.github.com/repos/${GITHUB.owner}/${GITHUB.repo}/contents/${GITHUB.path}`, {
                     method: 'PUT',
-                    headers: { 'Authorization': `token ${TOKEN}`, 'Content-Type': 'application/json' },
+                    headers: { 
+                        'Authorization': `Bearer ${TOKEN}`, 
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/vnd.github.v3+json'
+                    },
                     body: JSON.stringify({ message: 'Dynamic Outreach Update', content, sha })
                 });
                 
@@ -732,8 +739,8 @@
                     ui.innerHTML = '<i data-lucide="cloud-check" style="width: 14px;"></i> GitHub Synced';
                 } else if (res.status === 409) {
                     console.log("SHA mismatch, fetching latest SHA and retrying...");
-                    const refreshRes = await fetch(`https://api.github.com/repos/${GITHUB.owner}/${GITHUB.repo}/contents/${GITHUB.path}`, {
-                        headers: { 'Authorization': `token ${TOKEN}` }
+                    const refreshRes = await fetch(`https://api.github.com/repos/${GITHUB.owner}/${GITHUB.repo}/contents/${GITHUB.path}?cb=${Date.now()}`, {
+                        headers: { 'Authorization': `Bearer ${TOKEN}` }
                     });
                     if (refreshRes.ok) {
                         const refreshJson = await refreshRes.json();
@@ -743,11 +750,11 @@
                 } else {
                     const error = await res.json();
                     console.error("Sync Logic Error:", error);
-                    ui.innerHTML = '<span style="color:#ef4444"><i data-lucide="alert-circle" style="width: 14px;"></i> Sync Delayed</span>';
+                    ui.innerHTML = `<span style="color:#ef4444"><i data-lucide="alert-circle" style="width: 14px;"></i> Sync Error ${res.status}</span>`;
                 }
             } catch(e) { 
                 console.error("Sync Network Error:", e);
-                ui.innerHTML = '<span style="color:#ef4444"><i data-lucide="alert-circle" style="width: 14px;"></i> Sync Delayed</span>';
+                ui.innerHTML = '<span style="color:#ef4444"><i data-lucide="alert-circle" style="width: 14px;"></i> Network Error</span>';
             }
             lucide.createIcons();
         }
