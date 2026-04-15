@@ -117,12 +117,12 @@
             background: white;
             border: 1px solid rgba(0,0,0,0.12);
             border-radius: 12px;
-            padding: 12px 18px;
+            padding: 18px 24px;
             display: grid;
-            grid-template-columns: 1.5fr 1.2fr 1.2fr 1.5fr 0.6fr 1.2fr 1.2fr 80px;
-            align-items: center;
-            gap: 16px;
-            margin-bottom: 12px;
+            grid-template-columns: 1.5fr 1.2fr 1.2fr 1.5fr 0.8fr 1.2fr 1.2fr 80px;
+            align-items: flex-start;
+            gap: 24px;
+            margin-bottom: 16px;
             transition: all 0.2s ease;
         }
         .prof-row:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(37, 99, 235, 0.05); }
@@ -141,6 +141,16 @@
         .cell-links { display: flex; gap: 12px; }
         .link-icon { color: var(--text-muted); }
         .link-icon:hover { color: var(--primary); }
+
+        .card-label { 
+            display: block; 
+            font-size: 10px; 
+            font-weight: 800; 
+            color: var(--text-muted); 
+            text-transform: uppercase; 
+            letter-spacing: 0.05em; 
+            margin-bottom: 2px;
+        }
 
         /* --- Outreach Button/Status --- */
         .mailed-btn { 
@@ -216,50 +226,52 @@
             /* Ultra-Compact Profiler Rows */
             .prof-row {
                 grid-template-columns: 1fr auto;
-                grid-template-rows: auto auto auto auto;
-                gap: 0 8px;
-                padding: 6px 12px;
-                border-radius: 12px;
-                margin-bottom: 6px;
+                grid-template-rows: repeat(5, auto);
+                gap: 8px 12px;
+                padding: 16px;
+                border-radius: 16px;
+                margin-bottom: 12px;
                 min-height: unset;
             }
             .prof-row > div { border: none !important; padding: 0 !important; margin: 0 !important; }
 
             /* Mobile Grid Placement */
-            .prof-row > div:nth-child(1) { grid-column: 1 / 3; grid-row: 1; margin-bottom: 2px; } /* Identity */
+            .prof-row > div:nth-child(1) { grid-column: 1 / 3; grid-row: 1; margin-bottom: 4px; } /* Identity */
             .prof-row > div:nth-child(2) { grid-column: 1; grid-row: 2; } /* Uni */
-            .prof-row > div:nth-child(3) { grid-column: 1; grid-row: 3; } /* Area */
-            .prof-row > div:nth-child(4) { grid-column: 1; grid-row: 4; } /* Email */
+            .prof-row > div:nth-child(3) { grid-column: 1 / 3; grid-row: 3; } /* Area */
+            .prof-row > div:nth-child(4) { grid-column: 1 / 3; grid-row: 4; } /* Email */
             
-            .prof-row > div:nth-child(5) { grid-column: 2; grid-row: 2; justify-content: flex-end; } /* Links */
-            .prof-row > div:nth-child(6) { grid-column: 2; grid-row: 3; justify-content: flex-end; display: flex; } /* Mailed */
-            .prof-row > div:nth-child(7) { grid-column: 2; grid-row: 4; justify-content: flex-end; display: flex; } /* Reply */
+            .prof-row > div:nth-child(5) { grid-column: 2; grid-row: 2; justify-content: flex-end; display: flex; flex-direction: column; align-items: flex-end; } /* Links */
+            .prof-row > div:nth-child(6) { grid-column: 1; grid-row: 5; justify-content: flex-start; display: flex; flex-direction: column; } /* Mailed */
+            .prof-row > div:nth-child(7) { grid-column: 2; grid-row: 5; justify-content: flex-start; display: flex; flex-direction: column; align-items: flex-end; } /* Reply */
             
-            .prof-row > div:nth-child(8) { position: absolute; top: 10px; right: 10px; gap: 4px; } /* Actions */
+            .prof-row > div:nth-child(8) { grid-column: 2; grid-row: 1; gap: 4px; display: flex; flex-direction: column; align-items: flex-end; } /* Actions */
             
             /* Mobile Micro Typography */
-            .prof-name { font-size: 13px !important; }
-            .prof-sub { font-size: 10px !important; display: inline-block; margin-left: 6px;}
-            .cell-text { font-size: 11px !important; }
-            .cell-tag { font-size: 10px !important; color: var(--text-muted) !important; background: none; padding: 0 !important; }
-            .copy-btn { font-size: 10px !important; padding: 0 !important; }
+            .prof-name { font-size: 16px !important; }
+            .prof-sub { font-size: 11px !important; display: block; margin: 0; }
+            .cell-text { font-size: 12px !important; }
+            .cell-tag { font-size: 11px !important; color: var(--text-main) !important; background: #f8fafc; padding: 4px 8px !important; border-radius: 6px; border: 1px solid var(--border); display: inline-block; }
+            .copy-btn { font-size: 10px !important; padding: 2px !important; }
             
+            .card-label { font-size: 9px !important; margin-bottom: 1px; }
+
             .mailed-stamp { 
                 align-items: center; 
                 flex-direction: row; 
                 flex-wrap: wrap; 
-                justify-content: flex-end; 
+                justify-content: flex-start; 
                 gap: 4px; 
                 line-height: 1;
             }
             .mailed-stamp i { margin: 0 !important; width: 12px !important; }
             .mailed-date { font-size: 9px !important; }
-            .mailed-btn, .reply-btn { padding: 2px 8px !important; border-radius: 4px; font-size: 8px !important; }
+            .mailed-btn, .reply-btn { padding: 4px 10px !important; border-radius: 6px; font-size: 9px !important; }
             .reply-badge { font-size: 9px !important; padding: 2px 6px !important; }
             
-            .link-icon i { width: 14px !important; }
-            .toggle-btn { padding: 4px !important; border-radius: 6px; }
-            .toggle-btn i { width: 12px !important; height: 12px !important;}
+            .link-icon i { width: 16px !important; }
+            .toggle-btn { padding: 6px !important; border-radius: 8px; }
+            .toggle-btn i { width: 14px !important; height: 14px !important;}
             
             /* Remove appended pseudo labels */
             .cell-text::before, .cell-tag::before, .copy-btn::before, .cell-links::before { content: none !important; }
@@ -358,17 +370,6 @@
                 <div id="sync-ui" style="display: flex; align-items: center; gap: 8px; font-size: 11px; font-weight: 700; color: var(--success);">
                     <i data-lucide="cloud-check" style="width: 14px;"></i> Live
                 </div>
-            </div>
-
-            <div class="directory-header" style="display: grid; grid-template-columns: 1.5fr 1.2fr 1.2fr 1.5fr 0.6fr 1.2fr 1.2fr 80px; gap: 16px; padding: 0 24px; margin-bottom: 12px; font-size: 12px; font-weight: 900; color: #000; text-transform: uppercase;">
-                <span>Name</span>
-                <span>University</span>
-                <span>Research Area</span>
-                <span>Email</span>
-                <span>Links</span>
-                <span>Outreach Sent</span>
-                <span>Response Status</span>
-                <span style="text-align: right;">Action</span>
             </div>
 
             <div id="list">
@@ -546,27 +547,42 @@
                 <div class="prof-row" style="background-color: ${cardColors[i % cardColors.length]}">
                     <div class="prof-identity">
                         <div>
+                            <span class="card-label">Scholar</span>
                             <span class="prof-name">${p.name}</span>
                             <span class="prof-sub">${p.country}</span>
                         </div>
                     </div>
-                    <div class="cell-text">${p.university}</div>
-                    <div><span class="cell-tag">${p.researchArea || 'Undisclosed'}</span></div>
-                    <div style="display: flex; align-items: center; gap: 4px;">
-                        <span class="cell-text" style="font-size: 12px; word-break: break-all;">${p.email}</span>
-                        <button class="copy-btn" id="copy-${p.id}" onclick="copyEmail('${p.email}', '${p.id}')" title="Copy Email"><i data-lucide="copy" style="width: 10px;"></i></button>
-                    </div>
-                    <div class="cell-links">
-                        ${p.homepage ? `<a href="${p.homepage}" target="_blank" class="link-icon"><i data-lucide="globe" style="width: 16px;"></i></a>` : ''}
-                        ${p.researchProfile ? `<a href="${p.researchProfile}" target="_blank" class="link-icon"><i data-lucide="book-open" style="width: 16px;"></i></a>` : ''}
+                    <div>
+                        <span class="card-label">University</span>
+                        <div class="cell-text">${p.university}</div>
                     </div>
                     <div>
+                        <span class="card-label">Research Area</span>
+                        <span class="cell-tag">${p.researchArea || 'Undisclosed'}</span>
+                    </div>
+                    <div>
+                        <span class="card-label">Contact Email</span>
+                        <div style="display: flex; align-items: center; gap: 4px;">
+                            <span class="cell-text" style="font-size: 12px; word-break: break-all;">${p.email}</span>
+                            <button class="copy-btn" id="copy-${p.id}" onclick="copyEmail('${p.email}', '${p.id}')" title="Copy Email"><i data-lucide="copy" style="width: 10px;"></i></button>
+                        </div>
+                    </div>
+                    <div>
+                        <span class="card-label">Links</span>
+                        <div class="cell-links">
+                            ${p.homepage ? `<a href="${p.homepage}" target="_blank" class="link-icon"><i data-lucide="globe" style="width: 16px;"></i></a>` : ''}
+                            ${p.researchProfile ? `<a href="${p.researchProfile}" target="_blank" class="link-icon"><i data-lucide="book-open" style="width: 16px;"></i></a>` : ''}
+                        </div>
+                    </div>
+                    <div>
+                        <span class="card-label">Outreach Sent</span>
                         ${p.status.mailed 
                             ? `<div class="mailed-stamp ${mode === 'edit' ? 'editable-status' : ''}" ${mode === 'edit' ? `onclick="unmarkAsMailed('${p.id}')" title="Click to reset status"` : ''}><i data-lucide="check-circle" style="width: 14px; margin-bottom: 2px;"></i> MAILED <span class="mailed-date">${p.mailedAt || 'Archive Entry'}</span></div>`
                             : `<button class="mailed-btn" onclick="markAsMailed('${p.id}')">NOT MAILED</button>`
                         }
                     </div>
                     <div id="reply-cell-${p.id}">
+                        <span class="card-label">Response Status</span>
                         ${p.status.mailed 
                             ? (p.status.replyReceived 
                                 ? `<div class="mailed-stamp ${mode === 'edit' ? 'editable-status' : ''}" ${mode === 'edit' ? `onclick="resetReply('${p.id}')"` : ''}><span class="reply-badge">REPLIED</span><span class="reply-summary">${p.replySummary || 'Summary Unknown'}</span></div>`
@@ -576,6 +592,7 @@
                         }
                     </div>
                     <div style="text-align: right; display: flex; justify-content: flex-end; gap: 8px;">
+                        <span class="card-label" style="${mode === 'view' ? 'visibility: hidden' : ''}">Action</span>
                         <button class="toggle-btn ${mode === 'view' ? 'hidden' : ''}" style="padding: 6px; border-color: #fee2e2; color: #ef4444;" onclick="deleteEntry('${p.id}')"><i data-lucide="trash-2" style="width: 14px;"></i></button>
                         <button class="toggle-btn ${mode === 'view' ? 'hidden' : ''}" style="padding: 6px;" onclick="openModal('${p.id}')"><i data-lucide="edit-3" style="width: 14px;"></i></button>
                     </div>
