@@ -117,19 +117,16 @@
             background: white;
             border: 1px solid rgba(0,0,0,0.12);
             border-radius: 12px;
-            padding: 18px 24px;
+            padding: 10px 18px;
             display: grid;
             grid-template-columns: 1.5fr 1.2fr 1.2fr 1.5fr 0.8fr 1.2fr 1.2fr 80px;
             align-items: flex-start;
-            gap: 24px;
-            margin-bottom: 16px;
+            gap: 12px;
+            margin-bottom: 10px;
             transition: all 0.2s ease;
         }
-        .prof-row:hover { border-color: var(--primary); box-shadow: 0 8px 24px rgba(37, 99, 235, 0.05); }
-
-        .prof-identity { display: flex; align-items: center; gap: 12px; }
-        .prof-name { font-weight: 800; font-size: 15px; display: block; color: #000; }
-        .prof-sub { font-size: 12px; color: #333; font-weight: 500; }
+        .prof-name { font-weight: 800; font-size: 14px; display: block; color: #000; }
+        .prof-sub { font-size: 11px; color: #333; font-weight: 500; }
 
         .cell-text { font-size: 13px; font-weight: 600; color: #000; }
         .cell-tag { font-size: 12px; font-weight: 600; color: #000; }
@@ -144,12 +141,12 @@
 
         .card-label { 
             display: block; 
-            font-size: 10px; 
+            font-size: 9px; 
             font-weight: 800; 
             color: var(--text-muted); 
             text-transform: uppercase; 
             letter-spacing: 0.05em; 
-            margin-bottom: 2px;
+            margin-bottom: 1px;
         }
 
         /* --- Outreach Button/Status --- */
@@ -227,10 +224,10 @@
             .prof-row {
                 grid-template-columns: 1fr auto;
                 grid-template-rows: repeat(5, auto);
-                gap: 8px 12px;
-                padding: 16px;
-                border-radius: 16px;
-                margin-bottom: 12px;
+                gap: 4px 10px;
+                padding: 10px;
+                border-radius: 12px;
+                margin-bottom: 8px;
                 min-height: unset;
             }
             .prof-row > div { border: none !important; padding: 0 !important; margin: 0 !important; }
@@ -248,10 +245,10 @@
             .prof-row > div:nth-child(8) { grid-column: 2; grid-row: 1; gap: 4px; display: flex; flex-direction: column; align-items: flex-end; } /* Actions */
             
             /* Mobile Micro Typography */
-            .prof-name { font-size: 16px !important; }
-            .prof-sub { font-size: 11px !important; display: block; margin: 0; }
-            .cell-text { font-size: 12px !important; }
-            .cell-tag { font-size: 11px !important; color: var(--text-main) !important; background: #f8fafc; padding: 4px 8px !important; border-radius: 6px; border: 1px solid var(--border); display: inline-block; }
+            .prof-name { font-size: 14px !important; }
+            .prof-sub { font-size: 10px !important; display: block; margin: 0; }
+            .cell-text { font-size: 11px !important; }
+            .cell-tag { font-size: 10px !important; color: var(--text-main) !important; background: #f8fafc; padding: 2px 6px !important; border-radius: 4px; border: 1px solid var(--border); display: inline-block; }
             .copy-btn { font-size: 10px !important; padding: 2px !important; }
             
             .card-label { font-size: 9px !important; margin-bottom: 1px; }
