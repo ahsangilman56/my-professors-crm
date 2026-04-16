@@ -10,10 +10,10 @@
     "researchProfile": "https://scholar.google.com/citations?user=R94H7LYAAAAJ&hl=en",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "Apr 16, 2026",
-    "replySummary": ""
+    "replySummary": "No Slots"
   }
 ]
