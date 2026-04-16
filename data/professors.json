@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "1776361604340",
+    "name": " Linzy Elton",
+    "university": "University of West London",
+    "country": "UK",
+    "email": "linzy.elton@uwl.ac.uk",
+    "researchArea": "Genomics",
+    "homepage": "https://profiles.ucl.ac.uk/70185-linzy-elton",
+    "researchProfile": "https://scholar.google.com/citations?user=R94H7LYAAAAJ&hl=en",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  }
+]
