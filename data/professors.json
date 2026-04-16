@@ -1,22 +1,5 @@
 [
   {
-    "id": "1776276900867",
-    "name": "Verification Prof",
-    "university": "Sync Uni",
-    "country": "Sync Land",
-    "email": "sync@verification.com",
-    "researchArea": "Verification Area",
-    "homepage": "",
-    "researchProfile": "",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
-  },
-  {
     "id": "1776279551829",
     "name": "hhh",
     "university": "hhh",
