@@ -1,22 +1,5 @@
 [
   {
-    "id": "1776276561136",
-    "name": "a",
-    "university": "aa",
-    "country": "a",
-    "email": "sd@j",
-    "researchArea": "a",
-    "homepage": "",
-    "researchProfile": "",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
-  },
-  {
     "id": "1776276900867",
     "name": "Verification Prof",
     "university": "Sync Uni",
