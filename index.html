@@ -252,7 +252,7 @@
             .cell-tag { font-size: 10px !important; color: var(--text-muted) !important; background: none; padding: 0 !important; border: none !important; }
             .copy-btn { font-size: 8px !important; padding: 0 !important; }
             
-            .card-label { display: none !important; }
+            .card-label { display: block !important; margin-bottom: 0; font-size: 8px; }
 
             .mailed-stamp { 
                 align-items: center; 
@@ -545,42 +545,42 @@
                 <div class="prof-row" style="background-color: ${cardColors[i % cardColors.length]}">
                     <div class="prof-identity">
                         <div>
-                            <span class="card-label">Scholar</span>
+                            <span class="card-label">Scholar:</span>
                             <span class="prof-name">${p.name}</span>
                             <span class="prof-sub">${p.country}</span>
                         </div>
                     </div>
                     <div>
-                        <span class="card-label">University</span>
+                        <span class="card-label">University:</span>
                         <div class="cell-text">${p.university}</div>
                     </div>
                     <div>
-                        <span class="card-label">Research Area</span>
+                        <span class="card-label">Research Area:</span>
                         <span class="cell-tag">${p.researchArea || 'Undisclosed'}</span>
                     </div>
                     <div>
-                        <span class="card-label">Contact Email</span>
+                        <span class="card-label">Contact Email:</span>
                         <div style="display: flex; align-items: center; gap: 4px;">
                             <span class="cell-text" style="font-size: 12px; word-break: break-all;">${p.email}</span>
                             <button class="copy-btn" id="copy-${p.id}" onclick="copyEmail('${p.email}', '${p.id}')" title="Copy Email"><i data-lucide="copy" style="width: 10px;"></i></button>
                         </div>
                     </div>
                     <div>
-                        <span class="card-label">Links</span>
+                        <span class="card-label">Links:</span>
                         <div class="cell-links">
                             ${p.homepage ? `<a href="${p.homepage}" target="_blank" class="link-icon"><i data-lucide="globe" style="width: 16px;"></i></a>` : ''}
                             ${p.researchProfile ? `<a href="${p.researchProfile}" target="_blank" class="link-icon"><i data-lucide="book-open" style="width: 16px;"></i></a>` : ''}
                         </div>
                     </div>
                     <div>
-                        <span class="card-label">Outreach Sent</span>
+                        <span class="card-label">Outreach Sent:</span>
                         ${p.status.mailed 
                             ? `<div class="mailed-stamp ${mode === 'edit' ? 'editable-status' : ''}" ${mode === 'edit' ? `onclick="unmarkAsMailed('${p.id}')" title="Click to reset status"` : ''}><i data-lucide="check-circle" style="width: 14px; margin-bottom: 2px;"></i> MAILED <span class="mailed-date">${p.mailedAt || 'Archive Entry'}</span></div>`
                             : `<button class="mailed-btn" onclick="markAsMailed('${p.id}')">NOT MAILED</button>`
                         }
                     </div>
                     <div id="reply-cell-${p.id}">
-                        <span class="card-label">Response Status</span>
+                        <span class="card-label">Response Status:</span>
                         ${p.status.mailed 
                             ? (p.status.replyReceived 
                                 ? `<div class="mailed-stamp ${mode === 'edit' ? 'editable-status' : ''}" ${mode === 'edit' ? `onclick="resetReply('${p.id}')"` : ''}><span class="reply-badge">REPLIED</span><span class="reply-summary">${p.replySummary || 'Summary Unknown'}</span></div>`
@@ -590,7 +590,7 @@
                         }
                     </div>
                     <div style="text-align: right; display: flex; justify-content: flex-end; gap: 8px;">
-                        <span class="card-label" style="${mode === 'view' ? 'visibility: hidden' : ''}">Action</span>
+                        <span class="card-label" style="${mode === 'view' ? 'visibility: hidden' : ''}">Action:</span>
                         <button class="toggle-btn ${mode === 'view' ? 'hidden' : ''}" style="padding: 6px; border-color: #fee2e2; color: #ef4444;" onclick="deleteEntry('${p.id}')"><i data-lucide="trash-2" style="width: 14px;"></i></button>
                         <button class="toggle-btn ${mode === 'view' ? 'hidden' : ''}" style="padding: 6px;" onclick="openModal('${p.id}')"><i data-lucide="edit-3" style="width: 14px;"></i></button>
                     </div>
