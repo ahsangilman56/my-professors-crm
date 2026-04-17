@@ -535,9 +535,19 @@
             }
             const unis = [...new Set(validProfs.map(p => p.university))].filter(Boolean).sort();
             
-            countrySelect.innerHTML = '<option value="">All Countries</option>' + countries.map(c => `<option value="${c}" ${c === selectedCountry ? 'selected' : ''}>${c}</option>`).join('');
-            uniSelect.innerHTML = '<option value="">All Universities</option>' + unis.map(u => `<option value="${u}" ${u === selectedUni ? 'selected' : ''}>${u}</option>`).join('');
+            // Country display with Uni count
+            countrySelect.innerHTML = '<option value="">All Countries</option>' + countries.map(c => {
+                const uCount = [...new Set(professors.filter(p => p.country === c).map(p => p.university))].filter(Boolean).length;
+                return `<option value="${c}" ${c === selectedCountry ? 'selected' : ''}>${c} (${uCount})</option>`;
+            }).join('');
+            
+            // Uni display with Prof count
+            uniSelect.innerHTML = '<option value="">All Universities</option>' + unis.map(u => {
+                const pCount = professors.filter(p => p.university === u).length;
+                return `<option value="${u}" ${u === selectedUni ? 'selected' : ''}>${u} (${pCount})</option>`;
+            }).join('');
         }
+
 
         function render() {
             const query = document.getElementById('q').value.toLowerCase();
