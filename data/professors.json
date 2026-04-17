@@ -1,53 +1,19 @@
 [
   {
-    "id": "1776276561136",
-    "name": "a",
-    "university": "aa",
-    "country": "a",
-    "email": "sd@j",
-    "researchArea": "a",
-    "homepage": "",
-    "researchProfile": "",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
-  },
-  {
-    "id": "1776276900867",
-    "name": "Verification Prof",
-    "university": "Sync Uni",
-    "country": "Sync Land",
-    "email": "sync@verification.com",
-    "researchArea": "Verification Area",
-    "homepage": "",
-    "researchProfile": "",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
-  },
-  {
-    "id": "1776279551829",
-    "name": "hhh",
-    "university": "hhh",
-    "country": "hhh",
-    "email": "ahsan.gilman@gmail.com",
-    "researchArea": "hhh",
-    "homepage": "",
-    "researchProfile": "",
+    "id": "1776361604340",
+    "name": " Linzy Elton",
+    "university": "University of West London",
+    "country": "UK",
+    "email": "linzy.elton@uwl.ac.uk",
+    "researchArea": "Genomics",
+    "homepage": "https://profiles.ucl.ac.uk/70185-linzy-elton",
+    "researchProfile": "https://scholar.google.com/citations?user=R94H7LYAAAAJ&hl=en",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "Apr 16, 2026",
-    "replySummary": ""
+    "replySummary": "No Fund"
   }
 ]
