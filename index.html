@@ -287,10 +287,9 @@
             
             .grid-2 { grid-template-columns: 1fr; gap: 12px; margin-bottom: 12px; }
             
-            /* Filter Panel Mobile Optimization */
+            /* Filter Panel Global Optimization */
             #panel-filter { gap: 8px; padding: 12px; flex-wrap: wrap; }
-            #panel-filter .panel-label { display: none; }
-            #panel-filter .search-input { min-width: 0 !important; flex: 1; font-size: 13px; }
+            #panel-filter .search-input { min-width: 0; font-size: 13px; flex: 1; }
             #panel-filter .nav-icon { flex-shrink: 0; }
         }
     </style>
@@ -349,12 +348,10 @@
 
         <!-- FILTER PANEL -->
         <div class="search-panel" id="panel-filter">
-            <span class="panel-label">Country</span>
-            <select id="nav-country" class="search-input" style="min-width: 180px;">
+            <select id="nav-country" class="search-input" style="flex: 1;">
                 <option value="">All Countries</option>
             </select>
-            <span class="panel-label">University</span>
-            <select id="nav-uni" class="search-input" style="min-width: 200px;">
+            <select id="nav-uni" class="search-input" style="flex: 1.5;">
                 <option value="">All Universities</option>
             </select>
             <button class="nav-icon" onclick="clearFilters()" title="Clear Filters"><i data-lucide="x" style="width: 14px;"></i></button>
