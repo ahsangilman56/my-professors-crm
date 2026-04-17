@@ -15,5 +15,22 @@
     },
     "mailedAt": "Apr 16, 2026",
     "replySummary": "No fund"
+  },
+  {
+    "id": "1776407089142",
+    "name": "Mark Silby",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "USA",
+    "email": "mark.silby@umassd.edu",
+    "researchArea": "Bacterial genomics",
+    "homepage": "https://www.umassd.edu/directory/msilby/",
+    "researchProfile": "https://scholar.google.com/citations?hl=en&user=f8xFrRQAAAAJ&view_op=list_works&sortby=pubdate",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
