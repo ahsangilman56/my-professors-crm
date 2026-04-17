@@ -593,7 +593,7 @@
                     <div>
                         <span class="card-label">Status:</span>
                         ${p.status.mailed 
-                            ? `<div class="mailed-stamp ${mode === 'edit' ? 'editable-status' : ''}" ${mode === 'edit' ? `onclick="unmarkAsMailed('${p.id}')" title="Click to reset status"` : ''}><i data-lucide="check-circle" style="width: 14px; margin-bottom: 2px;"></i> MAILED <span class="mailed-date">${p.mailedAt || 'Archive Entry'}</span></div>`
+                            ? `<div class="mailed-stamp ${mode === 'edit' ? 'editable-status' : ''}" ${mode === 'edit' ? `onclick="unmarkAsMailed('${p.id}')" title="Click to reset status"` : ''}>MAILED <span class="mailed-date">${p.mailedAt || 'Archive Entry'}</span></div>`
                             : `<button class="mailed-btn" onclick="markAsMailed('${p.id}')">NOT MAILED</button>`
                         }
                     </div>
