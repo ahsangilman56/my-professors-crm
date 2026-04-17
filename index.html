@@ -57,7 +57,18 @@
 
         /* --- Stats Box --- */
         .stats-wrap { padding: 16px 4%; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
-        .stat-card { background: white; border: 1px solid var(--border); padding: 14px 18px; border-radius: 14px; display: flex; flex-direction: column; }
+        .stat-card { 
+            background: white; 
+            border: 1px solid var(--border); 
+            padding: 14px 18px; 
+            border-radius: 14px; 
+            display: flex; 
+            flex-direction: column; 
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .stat-card:hover { transform: translateY(-2px); border-color: var(--primary-light); box-shadow: 0 4px 12px rgba(222, 56, 80, 0.05); }
+        .stat-card.active { border-color: var(--primary); background: #fff1f2; }
         .stat-label { font-size: 10px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 2px; }
         .stat-val { font-family: var(--font-heading); font-size: 22px; font-weight: 800; color: var(--primary); }
 
@@ -345,19 +356,19 @@
         </div>
 
         <div class="stats-wrap">
-            <div class="stat-card">
+            <div class="stat-card active" id="sc-all" onclick="setStatFilter('all')">
                 <span class="stat-label">Total</span>
                 <span class="stat-val" id="s-total">0</span>
             </div>
-            <div class="stat-card">
+            <div class="stat-card" id="sc-mailed" onclick="setStatFilter('mailed')">
                 <span class="stat-label">Mailed</span>
                 <span class="stat-val" id="s-mailed">0</span>
             </div>
-            <div class="stat-card">
+            <div class="stat-card" id="sc-replied" onclick="setStatFilter('replied')">
                 <span class="stat-label">Replied</span>
                 <span class="stat-val" id="s-replied">0</span>
             </div>
-            <div class="stat-card">
+            <div class="stat-card" id="sc-pending" onclick="setStatFilter('pending')">
                 <span class="stat-label">Not Replied</span>
                 <span class="stat-val" id="s-pending">0</span>
             </div>
@@ -440,6 +451,7 @@
         let professors = [];
         let sha = null;
         let mode = 'view';
+        let statFilter = 'all';
         const cardColors = ['#f0f9ff', '#f5f3ff', '#fdf2f8', '#fff7ed', '#f0fdf4', '#eff6ff', '#fff1f2', '#ecfdf5', '#fefce8', '#fafaf9'];
 
         // --- AUTH ---
@@ -537,7 +549,13 @@
                     (p.researchArea && p.researchArea.toLowerCase().includes(query));
                 const matchesCountry = !countryQ || p.country === countryQ;
                 const matchesUni = !uniQ || p.university === uniQ;
-                return matchesQ && matchesCountry && matchesUni;
+                
+                let matchesStat = true;
+                if (statFilter === 'mailed') matchesStat = p.status.mailed;
+                else if (statFilter === 'replied') matchesStat = p.status.replyReceived;
+                else if (statFilter === 'pending') matchesStat = p.status.mailed && !p.status.replyReceived;
+
+                return matchesQ && matchesCountry && matchesUni && matchesStat;
             });
 
             const list = document.getElementById('list');
@@ -601,7 +619,18 @@
             document.getElementById('s-mailed').innerText = professors.filter(p => p.status.mailed).length;
             document.getElementById('s-replied').innerText = professors.filter(p => p.status.replyReceived).length;
             document.getElementById('s-pending').innerText = professors.filter(p => p.status.mailed && !p.status.replyReceived).length;
+
+            // Update Active State
+            document.querySelectorAll('.stat-card').forEach(c => c.classList.remove('active'));
+            const activeCard = document.getElementById(`sc-${statFilter}`);
+            if (activeCard) activeCard.classList.add('active');
+
             lucide.createIcons();
+        }
+
+        function setStatFilter(type) {
+            statFilter = type;
+            render();
         }
 
         async function markAsMailed(id) {
