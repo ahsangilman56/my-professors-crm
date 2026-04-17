@@ -26,11 +26,11 @@
     "homepage": "https://www.umassd.edu/directory/msilby/",
     "researchProfile": "https://scholar.google.com/citations?hl=en&user=f8xFrRQAAAAJ&view_op=list_works&sortby=pubdate",
     "status": {
-      "mailed": true,
+      "mailed": false,
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": "Apr 17, 2026",
+    "mailedAt": null,
     "replySummary": ""
   }
 ]
