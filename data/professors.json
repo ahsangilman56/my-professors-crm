@@ -202,5 +202,22 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1776499696216",
+    "name": "lahiru N. Jayakody",
+    "university": "Southern Illinois University",
+    "country": "USA",
+    "email": "lahiru.jayakody@siu.edu",
+    "researchArea": "WGS",
+    "homepage": "https://faculty.siu.edu/profiles/j-l/jayakody-lahiru.php",
+    "researchProfile": "https://scholar.google.com/citations?hl=en&user=sxzCHi8AAAAJ&view_op=list_works&sortby=pubdate",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
