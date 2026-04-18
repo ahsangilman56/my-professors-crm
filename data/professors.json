@@ -185,22 +185,5 @@
     },
     "mailedAt": null,
     "replySummary": ""
-  },
-  {
-    "id": "1776492104939",
-    "name": "Xyrus Maurer-Alcalá",
-    "university": "College of William and Mary",
-    "country": "USA",
-    "email": "xxmaureralcala@wm.edu",
-    "researchArea": "Bioinformatics",
-    "homepage": "https://www.wm.edu/as/biology/people/faculty/maurer-alcala_x.php",
-    "researchProfile": "https://scholar.google.com/citations?hl=en&user=SxrTG9gAAAAJ&view_op=list_works&sortby=pubdate",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
   }
 ]
