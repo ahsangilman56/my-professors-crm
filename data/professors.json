@@ -151,5 +151,22 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1776491627924",
+    "name": "Sarah Anderson",
+    "university": "College of William and Mary",
+    "country": "USA",
+    "email": "seanderson03@wm.edu",
+    "researchArea": "WGS",
+    "homepage": "https://www.wm.edu/as/biology/people/faculty/anderson_s.php",
+    "researchProfile": "https://scholar.google.com/citations?user=4_EkPbAAAAAJ&hl=en",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
