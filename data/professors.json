@@ -145,11 +145,11 @@
     "homepage": "https://www.luc.edu/biology/aboutus/facultyresearch/turner.shtml#d.en.620833",
     "researchProfile": "https://scholar.google.com/citations?user=SFtr-98AAAAJ&hl=en",
     "status": {
-      "mailed": true,
+      "mailed": false,
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": "Apr 18, 2026",
+    "mailedAt": null,
     "replySummary": ""
   },
   {
