@@ -185,5 +185,22 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1776499585689",
+    "name": "Iris Holmes",
+    "university": "Southern Illinois University",
+    "country": "USA",
+    "email": "iris.holmes@siu.edu",
+    "researchArea": "Wildlife host-microbe interactions",
+    "homepage": "https://faculty.siu.edu/profiles/g-i/holmes-iris.php",
+    "researchProfile": "https://scholar.google.com/citations?user=ULYGVM8AAAAJ&hl=en",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
