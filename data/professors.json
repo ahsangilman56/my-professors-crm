@@ -270,5 +270,22 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1776502323943",
+    "name": "Dr. Benjamin Sadd",
+    "university": "Illinois State University",
+    "country": "USA",
+    "email": "bmsadd@ilstu.edu",
+    "researchArea": "Host–microbe interactions in immunology",
+    "homepage": "https://biology.illinoisstate.edu/faculty-staff/profile/?ulid=bmsadd#fs-tabs-accord3",
+    "researchProfile": "https://scholar.google.com/citations?hl=en&user=oAmLO-oAAAAJ&view_op=list_works&sortby=pubdate",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
