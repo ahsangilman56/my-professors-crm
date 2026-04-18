@@ -49,5 +49,22 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1776485958416",
+    "name": "Daniel Paredes-Sabja",
+    "university": "Texas A&M University",
+    "country": "USA",
+    "email": "dparedes-sabja@bio.tamu.edu",
+    "researchArea": "AMR, WGS",
+    "homepage": "https://artsci.tamu.edu/biology/contact/profiles/daniel-paredes-sabja.html",
+    "researchProfile": "https://scholar.google.com/citations?user=x5_TAuAAAAAJ&hl=en",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
