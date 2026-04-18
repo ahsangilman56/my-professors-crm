@@ -236,5 +236,22 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1776501405300",
+    "name": "Dr. Jan Dahl",
+    "university": "Illinois State University",
+    "country": "USA",
+    "email": "jdahl1@ilstu.edu",
+    "researchArea": "AMR",
+    "homepage": "https://biology.illinoisstate.edu/faculty-staff/profile/?ulid=jdahl1#fs-tabs-accord4",
+    "researchProfile": "https://scholar.google.com/citations?hl=de&user=ZEwNrZYAAAAJ&view_op=list_works&sortby=pubdate",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
