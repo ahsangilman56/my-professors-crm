@@ -83,5 +83,22 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1776487242839",
+    "name": "Joseph Sorg",
+    "university": "Texas A&M University",
+    "country": "USA",
+    "email": "jsorg@bio.tamu.edu",
+    "researchArea": "AMR, WGS",
+    "homepage": "https://artsci.tamu.edu/biology/contact/profiles/joseph-sorg.html",
+    "researchProfile": "https://scholar.google.com/citations?user=-zabhWQAAAAJ&hl=en",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
