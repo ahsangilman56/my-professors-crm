@@ -287,5 +287,22 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1777646065827",
+    "name": "Ariangela J. Kozik",
+    "university": "University of Michigan",
+    "country": "USA",
+    "email": "dariange@umich.edu",
+    "researchArea": "WGS, Metagenomics",
+    "homepage": "https://lsa.umich.edu/mcdb/people/faculty/kozik.html",
+    "researchProfile": "https://scholar.google.com/citations?user=y4FR87MAAAAJ&hl=en",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
