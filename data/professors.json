@@ -304,5 +304,22 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1777649589554",
+    "name": "Howard Ochman",
+    "university": "University of Texas at Austin",
+    "country": "USA",
+    "email": "howard.ochman@austin.utexas.edu",
+    "researchArea": "Bacterial genomics",
+    "homepage": "https://molecularbiosci.utexas.edu/directory/howard-ochman",
+    "researchProfile": "https://scholar.google.com/citations?user=DaGZRjAAAAAJ&hl=en",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
