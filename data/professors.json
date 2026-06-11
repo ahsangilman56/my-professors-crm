@@ -474,5 +474,73 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1777720000001",
+    "name": "Brittany Faye Peterson",
+    "university": "Southern Illinois University Edwardsville",
+    "country": "USA",
+    "email": "bripete@siue.edu",
+    "researchArea": "Microbiome, Metagenomics, Symbiosis",
+    "homepage": "https://www.siue.edu/arts-and-sciences/biological-sciences/faculty-staff/peterson-brittany.shtml",
+    "researchProfile": "https://scholar.google.com/citations?user=dp-owS0AAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777720000002",
+    "name": "Scott D. Hamilton-Brehm",
+    "university": "Southern Illinois University Carbondale",
+    "country": "USA",
+    "email": "scott.hamilton-brehm@siu.edu",
+    "researchArea": "Anaerobic microbiology, microbial communities",
+    "homepage": "https://biology.siu.edu/",
+    "researchProfile": "https://scholar.google.com/citations?user=xN_Jk8kAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777720000003",
+    "name": "Andrea Braundmeier-Fleming",
+    "university": "Southern Illinois University School of Medicine",
+    "country": "USA",
+    "email": "abraundmeier88@siumed.edu",
+    "researchArea": "Reproductive microbiome, immunology",
+    "homepage": "https://www.siumed.edu/",
+    "researchProfile": "https://scholar.google.com/citations?user=f1zL53gAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777720000004",
+    "name": "Kelly Bender",
+    "university": "Southern Illinois University Carbondale",
+    "country": "USA",
+    "email": "benderk@siu.edu",
+    "researchArea": "Environmental microbiology, sRNA",
+    "homepage": "https://biology.siu.edu/",
+    "researchProfile": "https://www.researchgate.net/profile/Kelly-Bender-2",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
