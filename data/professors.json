@@ -440,5 +440,39 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1777700000001",
+    "name": "Kara Andres",
+    "university": "Illinois State University",
+    "country": "USA",
+    "email": "kjandr2@ilstu.edu",
+    "researchArea": "Aquatic eDNA, microbiome",
+    "homepage": "https://biology.illinoisstate.edu/faculty-staff/profile/?ulid=kjandr2",
+    "researchProfile": "https://scholar.google.com/citations?user=nZgJ2m4AAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777700000002",
+    "name": "Wade Nichols",
+    "university": "Illinois State University",
+    "country": "USA",
+    "email": "wanicho@ilstu.edu",
+    "researchArea": "Bacterial genetics, biofilms, plasmids",
+    "homepage": "https://bio.illinoisstate.edu/wanicho/",
+    "researchProfile": "https://www.researchgate.net/profile/Wade-Nichols",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
