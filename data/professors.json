@@ -321,5 +321,124 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1777681600001",
+    "name": "Sapna Chitlapilly Dass",
+    "university": "Texas A&M University",
+    "country": "USA",
+    "email": "sapna.dass@ag.tamu.edu",
+    "researchArea": "Microbiome, Metagenomics",
+    "homepage": "https://www.dasslab.org",
+    "researchProfile": "https://orcid.org/0000-0003-2799-7296",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777681600002",
+    "name": "Joseph Edwards",
+    "university": "Texas A&M University",
+    "country": "USA",
+    "email": "joseph.edwards@ag.tamu.edu",
+    "researchArea": "Plant microbiome, Metagenomics, 16S",
+    "homepage": "https://plantpathology.tamu.edu/people/edwards-joseph/",
+    "researchProfile": "https://scholar.google.com/citations?user=vH3tN7cAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777681600003",
+    "name": "Erick Motta",
+    "university": "Texas A&M University",
+    "country": "USA",
+    "email": "erick.motta@ag.tamu.edu",
+    "researchArea": "Microbiome, Metagenomics, AMR",
+    "homepage": "https://mottalab.tamu.edu/",
+    "researchProfile": "https://orcid.org/0000-0001-9360-4353",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777681600004",
+    "name": "Ying Wang",
+    "university": "Texas A&M University",
+    "country": "USA",
+    "email": "ying.wang@ag.tamu.edu",
+    "researchArea": "Soil and plant microbiomes, metagenomics",
+    "homepage": "https://soilcrop.tamu.edu/people/wang-ying/",
+    "researchProfile": "https://orcid.org/0000-0002-5223-4074",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777681600005",
+    "name": "Matthias Koch",
+    "university": "Texas A&M University",
+    "country": "USA",
+    "email": "mdkoch@tamu.edu",
+    "researchArea": "Bacterial biophysics, AMR",
+    "homepage": "https://www.bio.tamu.edu/faculty-page-matthias-koch/",
+    "researchProfile": "https://orcid.org/0000-0002-8616-8092",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777681600006",
+    "name": "Lee J. Pinnell",
+    "university": "Texas A&M University",
+    "country": "USA",
+    "email": "ljpinnell@cvm.tamu.edu",
+    "researchArea": "Microbial ecology, Genomics, AMR",
+    "homepage": "https://vetmed.tamu.edu/vero/",
+    "researchProfile": "https://scholar.google.com/citations?user=yM4P038AAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777681600007",
+    "name": "Paul Morley",
+    "university": "Texas A&M University",
+    "country": "USA",
+    "email": "pmorley@tamu.edu",
+    "researchArea": "AMR, Metagenomics",
+    "homepage": "https://vetmed.tamu.edu/vero/research/paul-morley/",
+    "researchProfile": "https://orcid.org/0000-0001-8138-2714",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
