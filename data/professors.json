@@ -542,39 +542,5 @@
     },
     "mailedAt": null,
     "replySummary": ""
-  },
-  {
-    "id": "1777740000001",
-    "name": "Riqing Yu",
-    "university": "University of Texas at Tyler",
-    "country": "USA",
-    "email": "ryu@uttyler.edu",
-    "researchArea": "Environmental microbiology, ecotoxicology, microbial metagenomics",
-    "homepage": "https://www.uttyler.edu/biology/faculty/ryu.php",
-    "researchProfile": "https://scholar.google.com/citations?user=CtjQU3oAAAAJ&hl=en",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
-  },
-  {
-    "id": "1777740000002",
-    "name": "Lianghao Ding",
-    "university": "University of Texas at Tyler",
-    "country": "USA",
-    "email": "lianghao.ding@uttyler.edu",
-    "researchArea": "Cancer genomics, computational biology, NTM genomics",
-    "homepage": "https://www.uttyler.edu/cellular-molecular-biology/",
-    "researchProfile": "https://scholar.google.com/citations?user=G664V68AAAAJ&hl=en",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
   }
 ]
