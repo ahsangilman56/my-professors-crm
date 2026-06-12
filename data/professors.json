@@ -542,5 +542,56 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1777750000001",
+    "name": "Wei-Chin Ho",
+    "university": "University of Texas at Tyler",
+    "country": "USA",
+    "email": "who@uttyler.edu",
+    "researchArea": "Microbial genomics, AMR, bioinformatics",
+    "homepage": "https://wchoevo.github.io/",
+    "researchProfile": "https://scholar.google.com/citations?user=xZ-r01AAAAAJ&hl=en",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777750000002",
+    "name": "Jennifer R. Honda",
+    "university": "University of Texas at Tyler",
+    "country": "USA",
+    "email": "jennifer.honda@uttyler.edu",
+    "researchArea": "Bacterial WGS, NTM genomics, bioinformatics",
+    "homepage": "https://www.uttyler.edu/cellular-molecular-biology/",
+    "researchProfile": "https://www.researchgate.net/profile/Jennifer-Honda",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777750000003",
+    "name": "Amanda Morris",
+    "university": "University of Texas at Tyler",
+    "country": "USA",
+    "email": "amanda.morris@uttyler.edu",
+    "researchArea": "Bacterial biofilms, AMR, polymicrobial interactions",
+    "homepage": "https://www.uttyler.edu/cellular-molecular-biology/",
+    "researchProfile": "https://www.researchgate.net/profile/Amanda-Morris-29",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
