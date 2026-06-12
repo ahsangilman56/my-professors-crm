@@ -593,5 +593,141 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1777800000001",
+    "name": "Joy Scaria",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "joy.scaria@okstate.edu",
+    "researchArea": "Bacterial genomics, Metagenomics, Enteric pathogens",
+    "homepage": "https://scarialab.com",
+    "researchProfile": "https://scholar.google.com/citations?user=G65b4c4AAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000002",
+    "name": "Dave Ussery",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "dave.ussery@okstate.edu",
+    "researchArea": "Bacterial genomics, Comparative genomics, Bioinformatics",
+    "homepage": "https://ussery.org",
+    "researchProfile": "https://scholar.google.com/citations?user=Y6L3yf4AAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000003",
+    "name": "Raghavendra Amachawadi",
+    "university": "Kansas State University",
+    "country": "USA",
+    "email": "agraghav@vet.k-state.edu",
+    "researchArea": "Antimicrobial resistance (AMR), Metagenomics, Gut microbiomes",
+    "homepage": "https://www.vet.k-state.edu/education/clinical-sciences/faculty-staff/amachawadi/",
+    "researchProfile": "https://scholar.google.com/citations?user=dZ6p_yUAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000004",
+    "name": "Xu Wang",
+    "university": "Auburn University",
+    "country": "USA",
+    "email": "xzw0070@auburn.edu",
+    "researchArea": "Comparative genomics, Metagenomics, Animal health",
+    "homepage": "https://www.vetmed.auburn.edu/faculty/xu_wang/",
+    "researchProfile": "https://scholar.google.com/citations?user=Yx9G0WAAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000005",
+    "name": "Laura Huber",
+    "university": "Auburn University",
+    "country": "USA",
+    "email": "lzh0067@auburn.edu",
+    "researchArea": "Molecular epidemiology, Antimicrobial resistance (AMR), Genomics",
+    "homepage": "https://www.vetmed.auburn.edu/faculty/laura-huber/",
+    "researchProfile": "https://www.researchgate.net/profile/Laura-Huber-12",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000006",
+    "name": "Qijing Zhang",
+    "university": "Iowa State University",
+    "country": "USA",
+    "email": "zhang123@iastate.edu",
+    "researchArea": "AMR mechanisms, Zoonotic pathogens, Veterinary microbiology",
+    "homepage": "https://research.cvm.iastate.edu/zhanglab/",
+    "researchProfile": "https://scholar.google.com/citations?user=G9cZ_SgAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000007",
+    "name": "Iddo Friedberg",
+    "university": "Iowa State University",
+    "country": "USA",
+    "email": "idoerg@iastate.edu",
+    "researchArea": "Computational functional genomics, Metagenomes, AMR gene detection",
+    "homepage": "https://www.cs.iastate.edu/people/iddo-friedberg",
+    "researchProfile": "https://scholar.google.com/citations?user=0_T21HAAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000008",
+    "name": "Orhan Sahin",
+    "university": "Iowa State University",
+    "country": "USA",
+    "email": "osahin@iastate.edu",
+    "researchArea": "Genomics and AMR mechanisms of pathogens, Gut metagenomics",
+    "homepage": "https://vetmed.iastate.edu/vdpam/people/orhan-sahin",
+    "researchProfile": "https://scholar.google.com/citations?user=P-PZ1-AAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
