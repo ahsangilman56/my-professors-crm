@@ -729,5 +729,872 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1777800000009",
+    "name": "John Gustafson",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "john.gustafson@okstate.edu",
+    "researchArea": "Antimicrobial resistance, Emerging pathogens, Molecular biology",
+    "homepage": "https://biochemistry.okstate.edu/people/faculty/john-gustafson.html",
+    "researchProfile": "https://scholar.google.com/citations?user=IjJEToYAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000010",
+    "name": "Guolong Zhang",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "zguolon@okstate.edu",
+    "researchArea": "Antimicrobial resistance, Innate immunity, Gut microbiomes",
+    "homepage": "https://agriculture.okstate.edu/departments-programs/animal-food-sciences/people/guolong-zhang.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000011",
+    "name": "Udaya DeSilva",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "udaya.desilva@okstate.edu",
+    "researchArea": "Metagenomics of animal microbiome, Genetics",
+    "homepage": "https://agriculture.okstate.edu/departments-programs/animal-food-sciences/people/udaya-desilva.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000012",
+    "name": "T.G. Nagaraja",
+    "university": "Kansas State University",
+    "country": "USA",
+    "email": "tnagaraj@vet.k-state.edu",
+    "researchArea": "Gut microbiology of cattle, Metagenomics, AMR",
+    "homepage": "https://www.vet.k-state.edu/about/people/faculty/nagaraja-t-g/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000013",
+    "name": "Philip Hardwidge",
+    "university": "Kansas State University",
+    "country": "USA",
+    "email": "hardwidg@vet.k-state.edu",
+    "researchArea": "Bacterial pathogenesis, Enteric pathogens, Host-pathogen interactions",
+    "homepage": "https://www.vet.k-state.edu/academics/dmp/faculty/hardwidge/",
+    "researchProfile": "https://scholar.google.com/citations?user=G615k_cAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000014",
+    "name": "Brian Lubbers",
+    "university": "Kansas State University",
+    "country": "USA",
+    "email": "blubbers@vet.k-state.edu",
+    "researchArea": "Antimicrobial stewardship, Susceptibility testing, Veterinary microbiology",
+    "homepage": "https://www.vet.k-state.edu/about/people/faculty/lubbers/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000015",
+    "name": "Jianfa Bai",
+    "university": "Kansas State University",
+    "country": "USA",
+    "email": "jbai@ksu.edu",
+    "researchArea": "Molecular diagnostics, Pathobiology, Bacterial genomics",
+    "homepage": "https://www.vet.k-state.edu/academics/dmp/faculty/bai/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000016",
+    "name": "Chengming Wang",
+    "university": "Auburn University",
+    "country": "USA",
+    "email": "wangche@auburn.edu",
+    "researchArea": "Zoonotic pathogens, Molecular diagnostics, Antimicrobial resistance (AMR)",
+    "homepage": "https://www.vetmed.auburn.edu/faculty/chengming-wang/",
+    "researchProfile": "https://scholar.google.com/citations?user=nZgJ2r8AAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000017",
+    "name": "Ruediger Hauck",
+    "university": "Auburn University",
+    "country": "USA",
+    "email": "ruediger.hauck@auburn.edu",
+    "researchArea": "Poultry gut microbiome, Metagenomics, 16S rRNA",
+    "homepage": "https://agriculture.auburn.edu/about/directory/people/ruediger-hauck/",
+    "researchProfile": "https://scholar.google.com/citations?user=xT-uO8AAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000018",
+    "name": "Deepti Pillai",
+    "university": "Auburn University",
+    "country": "USA",
+    "email": "dep0035@auburn.edu",
+    "researchArea": "AMR in veterinary pathogens, rapid diagnostics",
+    "homepage": "https://vetmed.auburn.edu/",
+    "researchProfile": "https://scholar.google.com/citations?user=Y1T2g6gAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000019",
+    "name": "Mark Liles",
+    "university": "Auburn University",
+    "country": "USA",
+    "email": "lilesma@auburn.edu",
+    "researchArea": "Metagenomics, Host/Environmental microbiome",
+    "homepage": "http://www.auburn.edu/cosam/faculty/biology/liles/",
+    "researchProfile": "https://scholar.google.com/citations?user=n6-1l_UAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000020",
+    "name": "Gregory Phillips",
+    "university": "Iowa State University",
+    "country": "USA",
+    "email": "gregory@iastate.edu",
+    "researchArea": "Gut microbiomes, Microbial genomics, Antibiotic alternatives",
+    "homepage": "https://vetmed.iastate.edu/vdpam/people/gregory-phillips",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000021",
+    "name": "Melha Mellata",
+    "university": "Iowa State University",
+    "country": "USA",
+    "email": "mmellata@iastate.edu",
+    "researchArea": "Bacterial genomics, Gut microbiome, Zoonotic pathogens",
+    "homepage": "https://www.fshn.hs.iastate.edu/directory/melha-mellata/",
+    "researchProfile": "https://scholar.google.com/citations?user=ZPEtrpcAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000022",
+    "name": "Reed Stubbendieck",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "stubbendieck@okstate.edu",
+    "researchArea": "Bacterial interactions, Microbiome, Secondary metabolism",
+    "homepage": "https://stubbendiecklab.com",
+    "researchProfile": "https://scholar.google.com/citations?user=P_x6h5sAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000023",
+    "name": "Noha Youssef",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "noha@okstate.edu",
+    "researchArea": "Anaerobic gut fungi, Environmental genomics, Metagenomics",
+    "homepage": "https://cas.okstate.edu/department_microbiology_molecular_genetics/",
+    "researchProfile": "https://scholar.google.com/citations?user=d6fP35MAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000024",
+    "name": "Mostafa Elshahed",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "mostafa@okstate.edu",
+    "researchArea": "Anaerobic gut fungi, Metagenomics, Microbial ecology",
+    "homepage": "https://cas.okstate.edu/department_microbiology_molecular_genetics/",
+    "researchProfile": "https://scholar.google.com/citations?user=Y9y3U0QAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000025",
+    "name": "Marianna Patrauchan",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "m.patrauchan@okstate.edu",
+    "researchArea": "Bacterial physiology, Calcium signaling, Biofilms, AMR",
+    "homepage": "https://cas.okstate.edu/department_microbiology_molecular_genetics/faculty_and_staff/patrauchan_marianna.html",
+    "researchProfile": "https://scholar.google.com/citations?user=k1h2c7YAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000026",
+    "name": "Erika Lutter",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "erika.lutter@okstate.edu",
+    "researchArea": "Host-pathogen interactions, Chlamydia pathogenesis, AMR",
+    "homepage": "https://cas.okstate.edu/department_microbiology_molecular_genetics/faculty_and_staff/lutter_erika.html",
+    "researchProfile": "https://scholar.google.com/citations?user=ArKYzmsAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000027",
+    "name": "Akhilesh Ramachandran",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "rakhile@okstate.edu",
+    "researchArea": "Diagnostic microbiology, Metagenomics, Antimicrobial resistance",
+    "homepage": "https://oaddl.okstate.edu/",
+    "researchProfile": "https://scholar.google.com/citations?user=r15rTq0AAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000028",
+    "name": "Matthew Cabeen",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "matthew.cabeen@okstate.edu",
+    "researchArea": "Bacterial stress responses, Biofilm communication, AMR",
+    "homepage": "https://cas.okstate.edu/department_microbiology_molecular_genetics/",
+    "researchProfile": "https://scholar.google.com/citations?user=G4F4wQYAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000029",
+    "name": "Sonny T.M. Lee",
+    "university": "Kansas State University",
+    "country": "USA",
+    "email": "leet1@ksu.edu",
+    "researchArea": "Microbial ecology, Metagenomics, Host-microbe interactions",
+    "homepage": "https://www.k-state.edu/biology/about/people/faculty/lee/",
+    "researchProfile": "https://scholar.google.com/citations?user=xT3fF80AAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000030",
+    "name": "Natalia Cernicchiaro",
+    "university": "Kansas State University",
+    "country": "USA",
+    "email": "ncernic@vet.k-state.edu",
+    "researchArea": "AMR epidemiology, Emerging pathogens, Food safety",
+    "homepage": "https://www.vet.k-state.edu/about/people/faculty/cernicchiaro/",
+    "researchProfile": "https://scholar.google.com/citations?user=Y94y3XIAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000031",
+    "name": "Shaan Mooyottu",
+    "university": "Auburn University",
+    "country": "USA",
+    "email": "shaan@auburn.edu",
+    "researchArea": "Gut dysbiosis, Clostridioides difficile, Gut pathogens",
+    "homepage": "https://www.vetmed.auburn.edu/faculty/mooyottu-shaan/",
+    "researchProfile": "https://scholar.google.com/citations?user=dE-26_EAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000032",
+    "name": "Sanjeev Narayanan",
+    "university": "Auburn University",
+    "country": "USA",
+    "email": "skn0016@auburn.edu",
+    "researchArea": "Antimicrobial resistance, Bacterial virulence, Pathogenic bacteria",
+    "homepage": "https://www.vetmed.auburn.edu/faculty/narayanan-sanjeev/",
+    "researchProfile": "https://scholar.google.com/citations?user=wT3T4EAAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000033",
+    "name": "Andrea Perkins",
+    "university": "Auburn University",
+    "country": "USA",
+    "email": "avp0010@auburn.edu",
+    "researchArea": "Epidemiology of pathogens, MRSA, Infection control",
+    "homepage": "https://www.vetmed.auburn.edu/faculty/perkins-andrea/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000034",
+    "name": "Amanda Kreuder",
+    "university": "Iowa State University",
+    "country": "USA",
+    "email": "akreuder@iastate.edu",
+    "researchArea": "Antimicrobial resistance, Veterinary medicine, Infectious Disease",
+    "homepage": "https://vetmed.iastate.edu/users/akreuder",
+    "researchProfile": "https://scholar.google.com/citations?user=kUoZ07wAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000035",
+    "name": "Britta Rued",
+    "university": "Iowa State University",
+    "country": "USA",
+    "email": "brued@iastate.edu",
+    "researchArea": "Host microbiomes, Streptococci, Metagenomics",
+    "homepage": "https://vetmed.iastate.edu/users/brued",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000036",
+    "name": "Pamela Ruegg",
+    "university": "Michigan State University",
+    "country": "USA",
+    "email": "plruegg@msu.edu",
+    "researchArea": "Antimicrobial stewardship, Dairy cattle health, Intestinal microbiome, AMR",
+    "homepage": "https://cvm.msu.edu/directory/ruegg-pamela",
+    "researchProfile": "https://scholar.google.com/citations?user=Yx_7G-kAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000037",
+    "name": "Linda S. Mansfield",
+    "university": "Michigan State University",
+    "country": "USA",
+    "email": "mansfie4@cvm.msu.edu",
+    "researchArea": "Host-microbiota-pathogen interactions, Gut microbiome, Pathogen evolution, AMR",
+    "homepage": "https://cvm.msu.edu/directory/mansfield-linda",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000038",
+    "name": "Bryan A. White",
+    "university": "University of Illinois Urbana-Champaign",
+    "country": "USA",
+    "email": "bwhite44@illinois.edu",
+    "researchArea": "Gut microbiome, Metagenomics, Comparative genomics",
+    "homepage": "https://nutrsci.illinois.edu/directory/bwhite44",
+    "researchProfile": "https://scholar.google.com/citations?user=dZJ6u0MAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000039",
+    "name": "Adel Talaat",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "adel.talaat@wisc.edu",
+    "researchArea": "Veterinary genomic pathobiology, Vaccinology",
+    "homepage": "https://vetmed.wisc.edu/lab/talaat/",
+    "researchProfile": "https://scholar.google.com/citations?user=Gk74C_QAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000040",
+    "name": "James M. Tiedje",
+    "university": "Michigan State University",
+    "country": "USA",
+    "email": "tiedjej@msu.edu",
+    "researchArea": "Microbial ecology, Metagenomics, Environmental AMR",
+    "homepage": "https://www.canr.msu.edu/people/james_m_tiedje",
+    "researchProfile": "https://scholar.google.com/citations?user=v-fQe1AAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000041",
+    "name": "Shannon Manning",
+    "university": "Michigan State University",
+    "country": "USA",
+    "email": "mannin71@msu.edu",
+    "researchArea": "Molecular epidemiology, Bacterial genomics, Pathogen evolution, AMR",
+    "homepage": "https://mgi.natsci.msu.edu/labs/manning-lab/",
+    "researchProfile": "https://scholar.google.com/citations?user=n6xQ26wAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000042",
+    "name": "Artem Rogovsky",
+    "university": "Michigan State University",
+    "country": "USA",
+    "email": "rogovsky@msu.edu",
+    "researchArea": "Clinical veterinary microbiology, Tick microbiota, Susceptibility testing, AMR",
+    "homepage": "https://cvm.msu.edu/directory/rogovsky",
+    "researchProfile": "https://scholar.google.com/citations?user=T8x8w3kAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000043",
+    "name": "John B. Kaneene",
+    "university": "Michigan State University",
+    "country": "USA",
+    "email": "kaneenej@cvm.msu.edu",
+    "researchArea": "Epidemiology of AMR, Bovine tuberculosis, Zoonotic disease surveillance",
+    "homepage": "https://cvm.msu.edu/directory/kaneene",
+    "researchProfile": "https://scholar.google.com/citations?user=c_U3OlcAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000044",
+    "name": "Brenda A. Wilson",
+    "university": "University of Illinois Urbana-Champaign",
+    "country": "USA",
+    "email": "wilson7@illinois.edu",
+    "researchArea": "Host-microbe systems, Vaginal microbiota, AMR",
+    "homepage": "https://mcb.illinois.edu/directory/profile/b-wilson",
+    "researchProfile": "https://scholar.google.com/citations?user=d901Y6wAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000045",
+    "name": "Joe Sanfilippo",
+    "university": "University of Illinois Urbana-Champaign",
+    "country": "USA",
+    "email": "josephes@illinois.edu",
+    "researchArea": "Microbial physiology, Host-pathogen interactions, Antibiotic resistance",
+    "homepage": "https://mcb.illinois.edu/directory/profile/josephes",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000046",
+    "name": "Christopher Gaulke",
+    "university": "University of Illinois Urbana-Champaign",
+    "country": "USA",
+    "email": "cgaulke@illinois.edu",
+    "researchArea": "Gut microbiome, Host-microbiota interactions, Pathogen genomics",
+    "homepage": "https://vetmed.illinois.edu/profile/christopher-gaulke/",
+    "researchProfile": "https://scholar.google.com/citations?user=P3q96HAAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000047",
+    "name": "Csaba Varga",
+    "university": "University of Illinois Urbana-Champaign",
+    "country": "USA",
+    "email": "cvarga@illinois.edu",
+    "researchArea": "Infectious disease epidemiology, AMR epidemiology",
+    "homepage": "https://sib.illinois.edu/profile/cvarga",
+    "researchProfile": "https://scholar.google.com/citations?user=k3p3aWAAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000048",
+    "name": "Weiping Zhang",
+    "university": "University of Illinois Urbana-Champaign",
+    "country": "USA",
+    "email": "wpzhang@illinois.edu",
+    "researchArea": "Enteric bacteria pathogenesis, Enterotoxigenic E. coli, Vaccinology",
+    "homepage": "https://vetmed.illinois.edu/profile/weiping-zhang/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000049",
+    "name": "Jason Peters",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "jason.peters@wisc.edu",
+    "researchArea": "Bacterial genomics, CRISPR tools, Antibiotic resistance",
+    "homepage": "https://pharmacy.wisc.edu/directory/jason-peters/",
+    "researchProfile": "https://scholar.google.com/citations?user=K7Z5J28AAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000050",
+    "name": "Hilario Mantovani",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "hcmantovani@wisc.edu",
+    "researchArea": "Ruminant gut microbiome, Metagenomics, Bacteriocins",
+    "homepage": "https://cals.wisc.edu/directory/person/hilario-mantovani/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000051",
+    "name": "Karthik Anantharaman",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "karthik@bact.wisc.edu",
+    "researchArea": "Microbial and viral ecology, Metagenomics, Bioinformatics",
+    "homepage": "https://anantharaman.bact.wisc.edu/",
+    "researchProfile": "https://scholar.google.com/citations?user=V-Y910YAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000052",
+    "name": "Federico Rey",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "ferey@wisc.edu",
+    "researchArea": "Gut microbiome, Diet-microbe interactions, Cardiometabolic health",
+    "homepage": "https://rey.bact.wisc.edu/",
+    "researchProfile": "https://scholar.google.com/citations?user=k312m2wAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000053",
+    "name": "Andrew Hryckowian",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "hryckowian@medicine.wisc.edu",
+    "researchArea": "Gut microbiome dynamics, Bacteriophages, Bacterial pathogenesis",
+    "homepage": "https://hrycklab.medicine.wisc.edu/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000054",
+    "name": "Johanna Elfenbein",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "jelfenbein@wisc.edu",
+    "researchArea": "Salmonella gut colonization, Pathogenesis, Host-pathogen interactions",
+    "homepage": "https://elfenbeinlabs.wiscweb.wisc.edu/",
+    "researchProfile": "https://scholar.google.com/citations?user=nZgJv30AAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000055",
+    "name": "Dörte Döpfer",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "dopfer@wisc.edu",
+    "researchArea": "AMR epidemiology, Infectious disease modeling, Food safety",
+    "homepage": "https://vetmed.wisc.edu/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000056",
+    "name": "Garret Suen",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "gsuen@wisc.edu",
+    "researchArea": "Rumen microbiology, Metagenomics, Cellulose-degrading microbes",
+    "homepage": "https://labs.wisc.edu/suen/",
+    "researchProfile": "https://scholar.google.com/citations?user=dE7qH-oAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000057",
+    "name": "Caitlin Pepperell",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "cspepper@medicine.wisc.edu",
+    "researchArea": "Population genetics of pathogens, Mycobacterium tuberculosis, Host-pathogen evolution",
+    "homepage": "https://pepperell.labs.wisc.edu/",
+    "researchProfile": "https://scholar.google.com/citations?user=G6p53GgAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000058",
+    "name": "Nicole Perna",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "ntperna@wisc.edu",
+    "researchArea": "Evolutionary genomics of bacteria, Virulence mechanisms, Comparative genomics",
+    "homepage": "https://pernalab.wiscweb.wisc.edu/",
+    "researchProfile": "https://scholar.google.com/citations?user=G66jG3IAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1777800000059",
+    "name": "Vanessa Leone",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "valeone@wisc.edu",
+    "researchArea": "Gut microbiome, Circadian rhythms, Diet-microbe interactions",
+    "homepage": "https://wisc.edu/",
+    "researchProfile": "https://scholar.google.com/citations?user=G66479kAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
