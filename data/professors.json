@@ -26,11 +26,11 @@
     "homepage": "https://www.umassd.edu/directory/msilby/",
     "researchProfile": "https://scholar.google.com/citations?hl=en&user=f8xFrRQAAAAJ&view_op=list_works&sortby=pubdate",
     "status": {
-      "mailed": false,
+      "mailed": true,
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": null,
+    "mailedAt": "Jun 17, 2026",
     "replySummary": ""
   },
   {
@@ -1514,7 +1514,7 @@
   },
   {
     "id": "1777800000055",
-    "name": "Dörte Döpfer",
+    "name": "DÃ¶rte DÃ¶pfer",
     "university": "University of Wisconsin-Madison",
     "country": "USA",
     "email": "dopfer@wisc.edu",
