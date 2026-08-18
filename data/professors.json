@@ -247,11 +247,11 @@
     "homepage": "https://biology.illinoisstate.edu/faculty-staff/profile/?ulid=jdahl1#fs-tabs-accord4",
     "researchProfile": "https://scholar.google.com/citations?hl=de&user=ZEwNrZYAAAAJ&view_op=list_works&sortby=pubdate",
     "status": {
-      "mailed": false,
+      "mailed": true,
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": null,
+    "mailedAt": "Aug 19, 2026",
     "replySummary": ""
   },
   {
