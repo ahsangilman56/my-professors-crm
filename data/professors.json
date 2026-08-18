@@ -655,11 +655,11 @@
     "homepage": "https://www.vetmed.auburn.edu/faculty/xu_wang/",
     "researchProfile": "https://scholar.google.com/citations?user=Yx9G0WAAAAAJ",
     "status": {
-      "mailed": false,
+      "mailed": true,
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": null,
+    "mailedAt": "Aug 18, 2026",
     "replySummary": ""
   },
   {
@@ -1514,7 +1514,7 @@
   },
   {
     "id": "1777800000055",
-    "name": "DÃ¶rte DÃ¶pfer",
+    "name": "DÃÂ¶rte DÃÂ¶pfer",
     "university": "University of Wisconsin-Madison",
     "country": "USA",
     "email": "dopfer@wisc.edu",
