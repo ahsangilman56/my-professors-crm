@@ -1596,5 +1596,395 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "name": "Annamari Heikinheimo",
+    "university": "University of Helsinki",
+    "country": "Finland",
+    "email": "annamari.heikinheimo@helsinki.fi",
+    "homepage": "https://www.helsinki.fi/en/faculty-veterinary-medicine/research/professors-and-researchers",
+    "researchProfile": "",
+    "researchArea": "Zoonotic Antimicrobial Resistance, One Health, Veterinary Microbiology",
+    "position": "Assistant Professor (Tenure Track)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Marko Virta",
+    "university": "University of Helsinki",
+    "country": "Finland",
+    "email": "marko.virta@helsinki.fi",
+    "homepage": "https://researchportal.helsinki.fi/en/persons/marko-virta/",
+    "researchProfile": "",
+    "researchArea": "Antimicrobial Resistance in Environment, Microbiology, Metagenomics",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Katariina Parnanen",
+    "university": "University of Helsinki",
+    "country": "Finland",
+    "email": "katariina.parnanen@helsinki.fi",
+    "homepage": "https://researchportal.helsinki.fi/en/persons/katariina-parnanen",
+    "researchProfile": "https://scholar.google.com/citations?user=FEQfYHsAAAAJ",
+    "researchArea": "Metagenomics, Antibiotic Resistance, Wastewater Microbiology",
+    "position": "Academy Research Fellow & Group Leader",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Antti Karkman",
+    "university": "University of Helsinki",
+    "country": "Finland",
+    "email": "antti.karkman@helsinki.fi",
+    "homepage": "https://karkman.github.io/",
+    "researchProfile": "",
+    "researchArea": "Environmental Microbiology, Antimicrobial Resistance, Metagenomics, Wastewater",
+    "position": "Researcher / Group Leader",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Reetta Satokari",
+    "university": "University of Helsinki",
+    "country": "Finland",
+    "email": "reetta.satokari@helsinki.fi",
+    "homepage": "https://www.helsinki.fi/en/faculty-medicine/research/research-programs-unit/human-microbiome-research-humi",
+    "researchProfile": "",
+    "researchArea": "Human Microbiome, Intestinal Microbiota, Host-Microbe Interactions, Metagenomics",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Ville-Petri Friman",
+    "university": "University of Helsinki",
+    "country": "Finland",
+    "email": "ville-petri.friman@helsinki.fi",
+    "homepage": "https://www.helsinki.fi/en/faculty-agriculture-and-forestry/research/microbiology/professors-and-researchers",
+    "researchProfile": "",
+    "researchArea": "Microbial Ecology, Evolution, Phage Therapy, Antimicrobial Resistance",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Johanna Bjorkroth",
+    "university": "University of Helsinki",
+    "country": "Finland",
+    "email": "johanna.bjorkroth@helsinki.fi",
+    "homepage": "https://www.helsinki.fi/en/faculty-veterinary-medicine/research/professors-and-researchers",
+    "researchProfile": "",
+    "researchArea": "Microbial Ecology, Food Microbiology, Bacterial Genomics, AMR",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Anu Kantele",
+    "university": "University of Helsinki",
+    "country": "Finland",
+    "email": "anu.kantele@helsinki.fi",
+    "homepage": "https://www.helsinki.fi/en/researchgroups/covid-19/people",
+    "researchProfile": "",
+    "researchArea": "Infectious Diseases, Antimicrobial Resistance, Microbiome, Travel Medicine",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Matti Ruuskanen",
+    "university": "University of Turku",
+    "country": "Finland",
+    "email": "matti.ruuskanen@utu.fi",
+    "homepage": "https://www.utu.fi/en/people/matti-ruuskanen",
+    "researchProfile": "https://scholar.google.com/citations?user=anXmb6IAAAAJ",
+    "researchArea": "Microbiome Data Science, Metagenomics, Microbial Ecology, Antimicrobial Resistance",
+    "position": "University Lecturer / Docent",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Qiushui He",
+    "university": "University of Turku",
+    "country": "Finland",
+    "email": "qiushui.he@utu.fi",
+    "homepage": "https://www.researchgate.net/profile/Qiushui-He",
+    "researchProfile": "",
+    "researchArea": "Respiratory Bacterial Pathogens, Bordetella, Microbiome, Host-Pathogen Interactions",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Seppo Salminen",
+    "university": "University of Turku",
+    "country": "Finland",
+    "email": "seppo.salminen@utu.fi",
+    "homepage": "https://www.researchgate.net/profile/Seppo-Salminen",
+    "researchProfile": "",
+    "researchArea": "Gut Microbiome, Probiotics, Food Microbiology, Clinical Microbiology",
+    "position": "Professor / Director",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Mysore Tejesvi",
+    "university": "University of Oulu",
+    "country": "Finland",
+    "email": "mysore.tejesvi@oulu.fi",
+    "homepage": "https://www.researchgate.net/profile/Mysore-Tejesvi",
+    "researchProfile": "",
+    "researchArea": "Microbiome, Antimicrobial Resistance, Extracellular Vesicles, Metagenomics",
+    "position": "Docent / Associate Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Anna Maria Pirttila",
+    "university": "University of Oulu",
+    "country": "Finland",
+    "email": "anna.pirttila@oulu.fi",
+    "homepage": "https://www.oulu.fi/en/researchers/anna-maria-pirttila",
+    "researchProfile": "",
+    "researchArea": "Symbiotic Host-Microbe Interactions, Microbiome, Environmental Microbiology",
+    "position": "Professor (Docent)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Petri Kulmala",
+    "university": "University of Oulu",
+    "country": "Finland",
+    "email": "petri.kulmala@oulu.fi",
+    "homepage": "https://www.researchgate.net/profile/Petri-Kulmala",
+    "researchProfile": "",
+    "researchArea": "Medical Microbiology, Immunology, Infectious Diseases",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Heikki Hyoty",
+    "university": "Tampere University",
+    "country": "Finland",
+    "email": "heikki.hyoty@tuni.fi",
+    "homepage": "https://www.researchgate.net/profile/Heikki-Hyoety",
+    "researchProfile": "",
+    "researchArea": "Virology, Microbiome, Infectious Diseases, Enterovirus",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Xin Lai",
+    "university": "Tampere University",
+    "country": "Finland",
+    "email": "xin.lai@tuni.fi",
+    "homepage": "https://www.tuni.fi/en/people/xin-lai",
+    "researchProfile": "",
+    "researchArea": "Systems Biology, Microbiome, Metagenomics, Computational Biology",
+    "position": "Tenure Track Assistant Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Sami Oikarinen",
+    "university": "Tampere University",
+    "country": "Finland",
+    "email": "sami.oikarinen@tuni.fi",
+    "homepage": "https://www.researchgate.net/profile/Sami-Oikarinen",
+    "researchProfile": "",
+    "researchArea": "Antimicrobial Resistance, Microbiology, Public Health, Enterovirus",
+    "position": "Lab Head / Researcher",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Sirpa Kaerenlampi",
+    "university": "University of Eastern Finland",
+    "country": "Finland",
+    "email": "sirpa.kaerenlampi@uef.fi",
+    "homepage": "https://www.researchgate.net/profile/Sirpa-Kaerenlampi-2",
+    "researchProfile": "",
+    "researchArea": "Molecular Biology, Microbiology, Genomics, Toxicology",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Vittorio Fortino",
+    "university": "University of Eastern Finland",
+    "country": "Finland",
+    "email": "vittorio.fortino@uef.fi",
+    "homepage": "https://biomap-imi.eu/network/academic-partners/uef",
+    "researchProfile": "",
+    "researchArea": "Computational Biology, Multi-omics, Microbiome Data Science",
+    "position": "Researcher / Group Leader",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Varpu Marjomaki",
+    "university": "University of Jyvaskyla",
+    "country": "Finland",
+    "email": "varpu.marjomaki@jyu.fi",
+    "homepage": "https://www.jyu.fi/en/science/bioenv/research/evoluutiotutkimus",
+    "researchProfile": "",
+    "researchArea": "Cell and Molecular Biology, Antimicrobial Resistance, Microbiology",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Lotta-Riina Sundberg",
+    "university": "University of Jyvaskyla",
+    "country": "Finland",
+    "email": "lotta-riina.sundberg@jyu.fi",
+    "homepage": "https://www.jyu.fi/en",
+    "researchProfile": "",
+    "researchArea": "Antimicrobial Resistance, Bacterial Pathogenesis, Microbiology",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Lea Sistonen",
+    "university": "Abo Akademi University",
+    "country": "Finland",
+    "email": "lea.sistonen@abo.fi",
+    "homepage": "https://research.abo.fi/en/persons/lea-sistonen/",
+    "researchProfile": "",
+    "researchArea": "Cell and Molecular Biology, Microbiology, Stress Response",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Amit Bhatnagar",
+    "university": "LUT University",
+    "country": "Finland",
+    "email": "amit.bhatnagar@lut.fi",
+    "homepage": "https://www.lut.fi/en/profiles/amit-bhatnagar",
+    "researchProfile": "",
+    "researchArea": "Water Treatment, Environmental Microbiology, Wastewater, Antimicrobial Resistance",
+    "position": "Full Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Antti Oksanen",
+    "university": "Finnish Food Authority",
+    "country": "Finland",
+    "email": "antti.oksanen@ruokavirasto.fi",
+    "homepage": "https://www.ruokavirasto.fi/en/themes/scientific-research/",
+    "researchProfile": "",
+    "researchArea": "Antimicrobial Resistance, One Health, Veterinary Microbiology, Zoonoses",
+    "position": "Research Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Yvonne Nygard",
+    "university": "VTT Technical Research Centre",
+    "country": "Finland",
+    "email": "yvonne.nygard@vtt.fi",
+    "homepage": "https://cris.vtt.fi/en/persons/yvonne-nygard",
+    "researchProfile": "",
+    "researchArea": "Microbiology, Biotechnology, Genomics, Industrial Biotechnology",
+    "position": "Research Professor / Associate Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Marja Roslund",
+    "university": "Natural Resources Institute Finland (Luke)",
+    "country": "Finland",
+    "email": "marja.roslund@luke.fi",
+    "homepage": "https://www.luke.fi/en",
+    "researchProfile": "",
+    "researchArea": "Environmental Microbiology, Microbiome, Environmental Health",
+    "position": "Senior Researcher",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Tarja Pitkanen",
+    "university": "Finnish Environment Institute (SYKE)",
+    "country": "Finland",
+    "email": "tarja.pitkanen@syke.fi",
+    "homepage": "https://www.syke.fi/en",
+    "researchProfile": "",
+    "researchArea": "Environmental Microbiology, Wastewater Surveillance, Antimicrobial Resistance, Public Health",
+    "position": "Researcher / Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Martin Taubel",
+    "university": "Finnish Institute of Occupational Health",
+    "country": "Finland",
+    "email": "martin.taubel@ttl.fi",
+    "homepage": "https://www.researchgate.net/profile/Martin-Taeubel",
+    "researchProfile": "",
+    "researchArea": "Indoor Microbiome, Microbial Exposure, Environmental Health",
+    "position": "Group Leader",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Lasse Hakalehto",
+    "university": "Savonia University of Applied Sciences",
+    "country": "Finland",
+    "email": "lasse.hakalehto@savonia.fi",
+    "homepage": "https://www.savonia.fi/en/rdi-business/research-areas/",
+    "researchProfile": "",
+    "researchArea": "Microbiology, Biotechnology, Food Microbiology, Circular Economy",
+    "position": "Adjunct Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Jonna Nyqvist",
+    "university": "Novia University of Applied Sciences",
+    "country": "Finland",
+    "email": "jonna.nyqvist@novia.fi",
+    "homepage": "https://www.novia.fi/en/",
+    "researchProfile": "",
+    "researchArea": "Marine Biology, Microbiology, Environmental Sciences",
+    "position": "Researcher / PhD",
+    "status": {
+      "mailed": false
+    }
   }
 ]
