@@ -1,0 +1,15 @@
+[
+  {
+    "id": "init",
+    "name": "System initialized",
+    "university": "",
+    "country": "",
+    "email": "",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 0,
+    "status": "pending",
+    "replyReceived": false,
+    "replySummary": ""
+  }
+]
