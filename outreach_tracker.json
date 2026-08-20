@@ -76,5 +76,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787222206",
+    "name": "Raed Al-Juboori",
+    "university": "Aalto University",
+    "country": "Finland",
+    "email": "raed.al-juboori@aalto.fi",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Wastewater Treatment",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787222206,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
