@@ -141,5 +141,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787222221",
+    "name": "Heli Viljakainen",
+    "university": "University of Helsinki (Folkhalsan)",
+    "country": "Finland",
+    "email": "heli.viljakainen@helsinki.fi",
+    "subject": "Prospective Graduate Student in Microbiome and Metabolic Health",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787222221,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
