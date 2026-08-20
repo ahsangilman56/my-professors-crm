@@ -219,5 +219,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787233188",
+    "name": "Sarah Anderson",
+    "university": "College of William and Mary",
+    "country": "USA",
+    "email": "seanderson03@wm.edu",
+    "subject": "Prospective Graduate Student in Bacterial Genomics and Antibiotic Resistance",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787233188,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
