@@ -50,5 +50,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787222200",
+    "name": "Marja Roslund",
+    "university": "Luke Natural Resources Institute Finland",
+    "country": "Finland",
+    "email": "marja.roslund@luke.fi",
+    "subject": "Prospective Graduate Student in Environmental Microbiome and Host Microbe Interactions",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787222200,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
