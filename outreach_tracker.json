@@ -349,5 +349,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787237879",
+    "name": "Catherine Putonti",
+    "university": "Loyola University Chicago",
+    "country": "USA",
+    "email": "cputonti@luc.edu",
+    "subject": "Prospective Graduate Student in Microbiome and Bacterial Genomics",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787237879,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
