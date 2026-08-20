@@ -3133,5 +3133,277 @@
     "email": "j.santini@ucl.ac.uk",
     "researchArea": "Microbiome, metagenomics, environmental microbiology",
     "id": "uk-225"
+  },
+  {
+    "name": "Stephen Baker",
+    "university": "University of Cambridge",
+    "country": "UK",
+    "email": "mb2464@cam.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, enteric pathogens",
+    "id": "uk-226"
+  },
+  {
+    "name": "Debby Bogaert",
+    "university": "University of Edinburgh",
+    "country": "UK",
+    "email": "d.bogaert@ed.ac.uk",
+    "researchArea": "Microbiome, airway microbiota, infant microbiome",
+    "id": "uk-228"
+  },
+  {
+    "name": "Maria Doitsidou",
+    "university": "University of Edinburgh",
+    "country": "UK",
+    "email": "maria.doitsidou@ed.ac.uk",
+    "researchArea": "Bacterial genomics, C. elegans pathogenesis",
+    "id": "uk-230"
+  },
+  {
+    "name": "Jay Hinton",
+    "university": "University of Liverpool",
+    "country": "UK",
+    "email": "Jay.Hinton@liverpool.ac.uk",
+    "researchArea": "Bacterial genomics, Salmonella pathogenesis, AMR",
+    "id": "uk-232"
+  },
+  {
+    "name": "Nicola Williams",
+    "university": "University of Liverpool",
+    "country": "UK",
+    "email": "Njwillms@liverpool.ac.uk",
+    "researchArea": "Bacterial genomics, zoonotic pathogens, AMR",
+    "id": "uk-234"
+  },
+  {
+    "name": "Graham Stafford",
+    "university": "University of Sheffield",
+    "country": "UK",
+    "email": "g.stafford@sheffield.ac.uk",
+    "researchArea": "Microbiome, oral microbiology",
+    "id": "uk-236"
+  },
+  {
+    "name": "Robert Poole",
+    "university": "University of Sheffield",
+    "country": "UK",
+    "email": "r.poole@sheffield.ac.uk",
+    "researchArea": "Bacterial genomics, bacterial respiration",
+    "id": "uk-238"
+  },
+  {
+    "name": "Tim Daniell",
+    "university": "University of Sheffield",
+    "country": "UK",
+    "email": "t.j.daniell@sheffield.ac.uk",
+    "researchArea": "Microbiome, gut microbiota, immune interactions",
+    "id": "uk-240"
+  },
+  {
+    "name": "Simon Cheung",
+    "university": "University of Bristol",
+    "country": "UK",
+    "email": "simon.cheung@bristol.ac.uk",
+    "researchArea": "Microbiome, metagenomics",
+    "id": "uk-242"
+  },
+  {
+    "name": "Paul Wigley",
+    "university": "University of Bristol",
+    "country": "UK",
+    "email": "paul.wigley@bristol.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, poultry microbiology, food microbiology",
+    "id": "uk-244"
+  },
+  {
+    "name": "Mick Bailey",
+    "university": "University of Bristol",
+    "country": "UK",
+    "email": "Mick.Bailey@bristol.ac.uk",
+    "researchArea": "Microbiome, gut microbiota, mucosal immunology",
+    "id": "uk-246"
+  },
+  {
+    "name": "Wenjuan Cong",
+    "university": "University of Bristol",
+    "country": "UK",
+    "email": "wenjuan.cong@bristol.ac.uk",
+    "researchArea": "Bacterial genomics, AMR",
+    "id": "uk-248"
+  },
+  {
+    "name": "Freya Harrison",
+    "university": "University of Warwick",
+    "country": "UK",
+    "email": "f.harrison@warwick.ac.uk",
+    "researchArea": "Bacterial genomics, AMR, Pseudomonas",
+    "id": "uk-250"
+  },
+  {
+    "name": "David Roper",
+    "university": "University of Warwick",
+    "country": "UK",
+    "email": "David.Roper@warwick.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, bacterial cell wall",
+    "id": "uk-252"
+  },
+  {
+    "name": "Nikola Ojkic",
+    "university": "Queen Mary University London",
+    "country": "UK",
+    "email": "n.ojkic@qmul.ac.uk",
+    "researchArea": "Bacterial genomics, systems biology",
+    "id": "uk-254"
+  },
+  {
+    "name": "Robert Allaker",
+    "university": "Queen Mary University London",
+    "country": "UK",
+    "email": "r.p.allaker@qmul.ac.uk",
+    "researchArea": "Microbiome, oral microbiology, AMR",
+    "id": "uk-256"
+  },
+  {
+    "name": "Abish Stephen",
+    "university": "Queen Mary University London",
+    "country": "UK",
+    "email": "a.s.stephen@qmul.ac.uk",
+    "researchArea": "Microbiome, gut microbiota",
+    "id": "uk-258"
+  },
+  {
+    "name": "Carol Munro",
+    "university": "University of Aberdeen",
+    "country": "UK",
+    "email": "c.a.munro@abdn.ac.uk",
+    "researchArea": "Bacterial genomics, Candida, fungal microbiome",
+    "id": "uk-260"
+  },
+  {
+    "name": "Karen Scott",
+    "university": "University of Aberdeen",
+    "country": "UK",
+    "email": "k.scott@abdn.ac.uk",
+    "researchArea": "Probiotics, food microbiology, gut microbiome, SCFA",
+    "id": "uk-262"
+  },
+  {
+    "name": "Allison Edwards",
+    "university": "Imperial College London",
+    "country": "UK",
+    "email": "a.edwards@imperial.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance",
+    "id": "uk-264"
+  },
+  {
+    "name": "Mark Gilchrist",
+    "university": "Imperial College London",
+    "country": "UK",
+    "email": "m.gilchrist@imperial.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, clinical microbiology",
+    "id": "uk-266"
+  },
+  {
+    "name": "Martin Bidartondo",
+    "university": "Imperial College London",
+    "country": "UK",
+    "email": "m.bidartondo@imperial.ac.uk",
+    "researchArea": "Microbiome, environmental microbiome, mycorrhizal ecology",
+    "id": "uk-268"
+  },
+  {
+    "name": "Katharine Coyte",
+    "university": "University of Manchester",
+    "country": "UK",
+    "email": "katharine.coyte@manchester.ac.uk",
+    "researchArea": "Microbiome, metagenomics, microbial ecology",
+    "id": "uk-270"
+  },
+  {
+    "name": "Laura Piddock",
+    "university": "University of Birmingham",
+    "country": "UK",
+    "email": "l.j.v.piddock@bham.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, antibiotic discovery",
+    "id": "uk-272"
+  },
+  {
+    "name": "James McDonald",
+    "university": "University of Birmingham",
+    "country": "UK",
+    "email": "j.e.mcdonald@bham.ac.uk",
+    "researchArea": "Microbiome, metagenomics, environmental microbiome",
+    "id": "uk-274"
+  },
+  {
+    "name": "Lindsay Hall",
+    "university": "University of Birmingham",
+    "country": "UK",
+    "email": "l.hall.3@bham.ac.uk",
+    "researchArea": "Microbiome, gut microbiota, probiotics, neonatal microbiome",
+    "id": "uk-276"
+  },
+  {
+    "name": "William Gaze",
+    "university": "University of Exeter",
+    "country": "UK",
+    "email": "w.h.gaze@exeter.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, environmental AMR, One Health",
+    "id": "uk-278"
+  },
+  {
+    "name": "Andrew Preston",
+    "university": "University of Bath",
+    "country": "UK",
+    "email": "ap753@bath.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, bacterial pathogenesis, Bordetella",
+    "id": "uk-280"
+  },
+  {
+    "name": "Graham Rook",
+    "university": "University College London",
+    "country": "UK",
+    "email": "g.rook@ucl.ac.uk",
+    "researchArea": "Microbiome, gut microbiota, hygiene hypothesis, immune health",
+    "id": "uk-282"
+  },
+  {
+    "name": "Fiona Powrie",
+    "university": "University of Oxford",
+    "country": "UK",
+    "email": "fiona.powrie@kennedy.ox.ac.uk",
+    "researchArea": "Microbiome, gut microbiota, mucosal immunology",
+    "id": "uk-284"
+  },
+  {
+    "name": "Holm Uhlig",
+    "university": "University of Oxford",
+    "country": "UK",
+    "email": "holm.uhlig@well.ox.ac.uk",
+    "researchArea": "Microbiome, gut microbiota, inflammatory bowel disease",
+    "id": "uk-286"
+  },
+  {
+    "name": "Sabine Totemeyer",
+    "university": "University of Nottingham",
+    "country": "UK",
+    "email": "sabine.totemeyer@nottingham.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, food safety",
+    "id": "uk-288"
+  },
+  {
+    "name": "Alasdair Hubbard",
+    "university": "University of Nottingham",
+    "country": "UK",
+    "email": "Alasdair.Hubbard@nottingham.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, E. coli genomics",
+    "id": "uk-290"
+  },
+  {
+    "name": "Liz Sockett",
+    "university": "University of Nottingham",
+    "country": "UK",
+    "email": "liz.sockett@nottingham.ac.uk",
+    "researchArea": "Bacterial genomics, predatory bacteria, pathogenesis",
+    "id": "uk-292"
   }
 ]
