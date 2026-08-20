@@ -336,5 +336,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787237875",
+    "name": "Scott Hamilton-Brehm",
+    "university": "Southern Illinois University Carbondale",
+    "country": "USA",
+    "email": "scott.hamilton-brehm@siu.edu",
+    "subject": "Prospective Graduate Student in Environmental Microbiology and Anaerobic Microbiome",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787237875,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
