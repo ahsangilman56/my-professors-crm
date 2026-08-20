@@ -89,5 +89,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787222209",
+    "name": "Hongbo Zhang",
+    "university": "Abo Akademi University",
+    "country": "Finland",
+    "email": "hongbo.zhang@abo.fi",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Molecular Diagnostics",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787222209,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
