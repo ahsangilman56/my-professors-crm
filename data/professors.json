@@ -2010,5 +2010,447 @@
     "status": {
       "mailed": false
     }
+  },
+  {
+    "name": "Sara Soto",
+    "university": "University of Barcelona",
+    "country": "Spain",
+    "email": "sara.soto@isglobal.org",
+    "homepage": "https://www.isglobal.org/our-team/-/profiles/2900",
+    "researchProfile": "https://scholar.google.com/citations?user=NCH5qCUAAAAJ&hl=es",
+    "researchArea": "Antimicrobial Resistance, E. coli Genomics, Wastewater AMR Surveillance, Bacterial Genomics",
+    "position": "Associate Research Professor (ISGlobal)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Sergio Lopez-Soria",
+    "university": "Autonomous University of Barcelona",
+    "country": "Spain",
+    "email": "sergio.lopez@irta.cat",
+    "homepage": "https://www.irta.cat/en/personal/sergio-lopez-soria/",
+    "researchProfile": "https://www.3tres3.com/en/authors/sergio-lopez-soria_338/",
+    "researchArea": "Pig Gut Microbiome, Resistome, Antimicrobial Resistance, One Health",
+    "position": "Researcher (IRTA-UAB Animal Health)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Judith Guitart-Matas",
+    "university": "Autonomous University of Barcelona",
+    "country": "Spain",
+    "email": "judith.guitart@irta.cat",
+    "homepage": "https://www.researchgate.net/profile/Judith-Guitart-Matas",
+    "researchProfile": "https://scholar.google.com/citations?user=dvjBWskAAAAJ&hl=ca",
+    "researchArea": "Antimicrobial Resistance Surveillance, Pig Gut Microbiome, Multi-omics",
+    "position": "Postdoctoral Researcher (IRTA-UAB Animal Health)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Sonia Sevilla-Navarro",
+    "university": "University of Valencia",
+    "country": "Spain",
+    "email": "",
+    "homepage": "https://www.researchgate.net/scientific-contributions/Jan-Torres-Boncompte-2227762573",
+    "researchProfile": "",
+    "researchArea": "Bacteriophages, Salmonella, Food Safety, Phage Therapy",
+    "position": "Researcher (CEAV-University of Valencia)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Lucas Dominguez",
+    "university": "Complutense University of Madrid",
+    "country": "Spain",
+    "email": "",
+    "homepage": "https://www.visavet.es/en/visavet/staff/lucas_dominguez_rodriguez.php",
+    "researchProfile": "https://scholar.google.com/citations?user=6aIoeBAAAAAJ",
+    "researchArea": "Salmonella Molecular Epidemiology, Antimicrobial Resistance, One Health",
+    "position": "Full Professor (VISAVET Health Surveillance Centre)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Jose Gutierrez-Fernandez",
+    "university": "University of Granada",
+    "country": "Spain",
+    "email": "josegf@ugr.es",
+    "homepage": "http://www.ugr.es/en/staff/jose-gutierrez-fernandez",
+    "researchProfile": "https://scholar.google.com/citations?user=ojjk9kgAAAAJ",
+    "researchArea": "Multidrug-Resistant Bacteria, Antibacterial Compounds, Microbiology",
+    "position": "Full Professor (Microbiology, Faculty of Medicine)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Luis Daniel Gonzalez-Vazquez",
+    "university": "University of Vigo",
+    "country": "Spain",
+    "email": "",
+    "homepage": "https://portalcientifico.uvigo.gal/investigadores/1092990?lang=en",
+    "researchProfile": "https://scholar.google.com/citations?user=5vRFHloAAAAJ&hl=en",
+    "researchArea": "Food Microbiology, Bacterial Virulence and Resistance Factors, Molecular Evolution",
+    "position": "Researcher (University of Vigo)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Maria Mittelbrunn",
+    "university": "Autonomous University of Madrid",
+    "country": "Spain",
+    "email": "",
+    "homepage": "https://mmittelbrunnlab.cbm.uam.es/",
+    "researchProfile": "",
+    "researchArea": "Gut Microbiota, Immunometabolism, Metagenomics, Microbiome and Aging",
+    "position": "Researcher (CBM CSIC-UAM)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Nieves Burgos-Alonso",
+    "university": "University of the Basque Country",
+    "country": "Spain",
+    "email": "",
+    "homepage": "https://www.ehu.eus/en/web/campus/identidad",
+    "researchProfile": "",
+    "researchArea": "Antimicrobial Resistance, ESKAPE Pathogens, Public Health Microbiology",
+    "position": "Professor (Department of Public Health, Faculty of Pharmacy)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Maria-Soledad Fernandez-Pachon",
+    "university": "Pablo de Olavide University",
+    "country": "Spain",
+    "email": "",
+    "homepage": "https://investiga.upo.es/investigadores/160350/detalle?lang=en",
+    "researchProfile": "https://scholar.google.com/citations?user=jpOMda4AAAAJ",
+    "researchArea": "Probiotics, Gut Health, IBS, Functional Foods",
+    "position": "Professor (University of Pablo de Olavide)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Jose Miguel Cisneros",
+    "university": "University of Seville",
+    "country": "Spain",
+    "email": "josem.cisneros.sspa@juntadeandalucia.es",
+    "homepage": "https://www.us.es/trabaja-en-la-us/directorio/jose-miguel-cisneros-herreros",
+    "researchProfile": "https://scholar.google.com/citations?user=LUkTNJwAAAAJ&hl=es",
+    "researchArea": "Antimicrobial Resistance, KPC Klebsiella Outbreaks, Bacterial Genomics, Infectious Diseases",
+    "position": "Professor (Infectious Diseases)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Aurea Simon-Soro",
+    "university": "University of Seville",
+    "country": "Spain",
+    "email": "asimon@us.es",
+    "homepage": "https://www.hormobiome.com/about-us",
+    "researchProfile": "https://orcid.org/0000-0003-3656-6834",
+    "researchArea": "Oral Microbiome, Hormones and Microbiome, Metagenomics",
+    "position": "Associate Professor (Department of Stomatology)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Miguel Arana",
+    "university": "Public University of Navarre",
+    "country": "Spain",
+    "email": "marana@unavarra.es",
+    "homepage": "https://observatorio-investigacion.unavarra.es/investigadores/88358/detalle?lang=en",
+    "researchProfile": "https://scholar.google.com/citations?user=L8jff7UAAAAJ",
+    "researchArea": "Probiotics, Pediococcus acidilactici, Metformin and Gut Health, Postbiotics",
+    "position": "Full Professor (Pharmacology)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Inigo Lasa",
+    "university": "Public University of Navarre",
+    "country": "Spain",
+    "email": "ilasa@unavarra.es",
+    "homepage": "https://observatorio-investigacion.unavarra.es/investigadores/88453/detalle?lang=en",
+    "researchProfile": "",
+    "researchArea": "Bacteriophages, Synthetic Phage Therapy, Staphylococcus aureus Mastitis",
+    "position": "Professor (University of Navarra)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Jesus Romalde",
+    "university": "University of Santiago de Compostela",
+    "country": "Spain",
+    "email": "jesus.romalde@usc.es",
+    "homepage": "https://www.usc.gal/en/department/microbiology-and-parasitology/directory/jesus-angel-lopez-romalde",
+    "researchProfile": "",
+    "researchArea": "Phage Cocktails, Bivalve Aquaculture, Antimicrobial Resistance",
+    "position": "Full Professor (Microbiology and Parasitology)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Manuel Alvarez-Fernandez",
+    "university": "University of Santiago de Compostela",
+    "country": "Spain",
+    "email": "maximiliano.alvarez.fernandez@sergas.es",
+    "homepage": "https://www.usc.gal/en/department/clinical-microbiology",
+    "researchProfile": "https://scholar.google.com/citations?user=yY3t1cEAAAAJ",
+    "researchArea": "Probiotics, Streptococcus downii, Clinical Microbiology, Food Microbiology",
+    "position": "Clinical Microbiologist (University of Santiago de Compostela)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Jesus Andres Arenas-Busto",
+    "university": "University of Zaragoza",
+    "country": "Spain",
+    "email": "jaarenas@unizar.es",
+    "homepage": "https://janovas.unizar.es/sideral/CV/jesus-andres-arenas-busto?lang=en",
+    "researchProfile": "https://orcid.org/0000-0002-8134-0693",
+    "researchArea": "Antimicrobial Resistance, Veterinary Bacteria, Pseudomonas, Streptococcus suis",
+    "position": "Professor (Faculty of Veterinary Medicine)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Alejandro Cabezas-Cruz",
+    "university": "University of Zaragoza",
+    "country": "Spain",
+    "email": "cabezasalejandrocruz@gmail.com",
+    "homepage": "https://www.izazo.unizar.es/en/alejandro-cabezas-cruz",
+    "researchProfile": "https://scholar.google.com/citations?user=S1rBBboAAAAJ",
+    "researchArea": "Gut Microbiota, Tick Microbiome, Borrelia, One Health",
+    "position": "Group Leader (Izarzo, University of Zaragoza)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Margarita Poza",
+    "university": "University of A Coruna",
+    "country": "Spain",
+    "email": "margarita.poza.dominguez@sergas.es",
+    "homepage": "https://www.inibic.es/portfolio-items/investigacion-en-microbiologia/",
+    "researchProfile": "",
+    "researchArea": "Metagenomics, Bacterial Pathogenomics, Antimicrobial Resistance, Infectious Diseases",
+    "position": "Senior Researcher (INIBIC, Microbiology Group)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Felipe Molina",
+    "university": "University of Extremadura",
+    "country": "Spain",
+    "email": "fmolina@unex.es",
+    "homepage": "https://www.researchgate.net/profile/Felipe-Molina",
+    "researchProfile": "",
+    "researchArea": "Phage Cocktail Design, Computational Microbiology, Antimicrobial Therapy",
+    "position": "Associate Professor (Department of Biotechnology)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Jose Emilio Rebollo",
+    "university": "University of Extremadura",
+    "country": "Spain",
+    "email": "",
+    "homepage": "https://www.researchgate.net/profile/Jose-Rebollo-Feria",
+    "researchProfile": "",
+    "researchArea": "Phage Therapy, Phage-Bacteria Interactions, Computational Phage Design",
+    "position": "Researcher (University of Extremadura)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Mauro Cozzolino",
+    "university": "Rey Juan Carlos University",
+    "country": "Spain",
+    "email": "mauro.cozzolino@ivirma.com",
+    "homepage": "https://www.researchgate.net/profile/Mauro-Cozzolino",
+    "researchProfile": "",
+    "researchArea": "Probiotics, Synbiotics, Gut Microbiota, PCOS",
+    "position": "Head of Department (IVIRMA, IVI Foundation)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Maria Jose Jordan",
+    "university": "University of Murcia",
+    "country": "Spain",
+    "email": "mariaj.jordan@carm.es",
+    "homepage": "https://www.imida.es/cultivos-secano-desa-rural/componentes",
+    "researchProfile": "https://scholar.google.com/citations?user=cRxPrq0AAAAJ",
+    "researchArea": "Gut Microbiota, Antimicrobial Resistance in Animals, Food and Microbiota",
+    "position": "Researcher (IMIDA)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "M Angeles Esteban",
+    "university": "University of Murcia",
+    "country": "Spain",
+    "email": "aesteban@um.es",
+    "homepage": "https://webs.um.es/aesteban/miwiki/doku.php?id=investigacion",
+    "researchProfile": "https://orcid.org/0000-0002-6264-1458",
+    "researchArea": "Gut Microbiota, Limosilactobacillus reuteri, Probiotics, Salmonella",
+    "position": "Professor (Biology and Biochemistry)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Maria Jose Cubero Pablo",
+    "university": "University of Murcia",
+    "country": "Spain",
+    "email": "",
+    "homepage": "https://portalinvestigacion.um.es/investigadores/332273",
+    "researchProfile": "https://sciprofiles.com/profile/1504052",
+    "researchArea": "Campylobacter Antimicrobial Resistance, Veterinary Microbiology",
+    "position": "Professor (Health Sciences)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Paula Iruzubieta",
+    "university": "University of Cantabria",
+    "country": "Spain",
+    "email": "paula.iruzubieta@unican.es",
+    "homepage": "https://web.unican.es/estudios/detalle-profesorado?pi=885BB42D13C10814",
+    "researchProfile": "",
+    "researchArea": "Gut Microbiota, MASLD, Metagenomics, Clinical Microbiology",
+    "position": "Professor (School of Medicine)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Manuel Martinez-Garcia",
+    "university": "University of Alicante",
+    "country": "Spain",
+    "email": "m.martinez@ua.es",
+    "homepage": "https://cvnet.cpd.ua.es/curriculum-breve/es/martinez-garcia-manuel/17315",
+    "researchProfile": "https://scholar.google.com/citations?user=Pu8Dj-wAAAAJ",
+    "researchArea": "Airborne Resistome, Metagenomics, One Health, Antimicrobial Resistance",
+    "position": "Full Professor (Microbiology)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Fernando Santos",
+    "university": "University of Alicante",
+    "country": "Spain",
+    "email": "santos.rojo@ua.es",
+    "homepage": "https://cvnet.cpd.ua.es/directorio/en/FichaPersona/65666",
+    "researchProfile": "https://scholar.google.com/citations?user=Eyx0zD0AAAAJ",
+    "researchArea": "Environmental Microbiology, Drinking Water Biofilms, Mycobacteria, Metagenomics",
+    "position": "Full Professor (Microbiology)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Juan F Gago",
+    "university": "University of Alicante",
+    "country": "Spain",
+    "email": "",
+    "homepage": "https://scholar.google.com/citations?user=rp1sQAQAAAAJ",
+    "researchProfile": "https://scholar.google.com/citations?user=rp1sQAQAAAAJ",
+    "researchArea": "Metagenomics, Environmental Microbiome, DNA-SIP, Halophilic Microbiology",
+    "position": "Researcher (University of Alicante / CSIC-UIB)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Maria Jose Figueras",
+    "university": "Rovira i Virgili University",
+    "country": "Spain",
+    "email": "mariajose.figueras@urv.cat",
+    "homepage": "https://www.researchgate.net/profile/Maria-Figueras",
+    "researchProfile": "https://scholar.google.com/citations?user=YWuIl-kAAAAJ",
+    "researchArea": "Aeromonas Pathogenesis, Food Microbiology, Bacterial Virulence",
+    "position": "Professor (Microbiology, URV)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Lluis Arola",
+    "university": "Rovira i Virgili University",
+    "country": "Spain",
+    "email": "lluis.arola@urv.cat",
+    "homepage": "https://www.nutrigenomica.recerca.urv.cat/en/group/staff/lluis/",
+    "researchProfile": "https://scholar.google.com/citations?user=FTBIFUMAAAAJ",
+    "researchArea": "Gut Microbiota, Metaproteomics, Nutrigenomics, Microbiome and Disease",
+    "position": "Professor (Biochemistry and Biotechnology, URV)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Monica Bullo",
+    "university": "Rovira i Virgili University",
+    "country": "Spain",
+    "email": "monica.bullo@urv.cat",
+    "homepage": "https://www.bioquimica.urv.cat/en/about/directory/full-time-faculty/bullo-bonet-monica/",
+    "researchProfile": "https://orcid.org/0000-0002-0218-7046",
+    "researchArea": "Gut Microbiome, Neurodegenerative Disease, ADHD, Microbiome and Brain",
+    "position": "Associate Professor (Biochemistry, URV)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Margarita Torrente",
+    "university": "Rovira i Virgili University",
+    "country": "Spain",
+    "email": "margarita.torrente@urv.cat",
+    "homepage": "https://www.urv.cat/html/docencia-per-centre/general-I8305.php",
+    "researchProfile": "https://scholar.google.com/citations?user=-Q8kgw8AAAAJ",
+    "researchArea": "Gut Microbiota, Parkinson Disease, Microbiome and Neurodegeneration",
+    "position": "Senior Lecturer (Psychobiology, URV)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Jordi Gene",
+    "university": "Rovira i Virgili University",
+    "country": "Spain",
+    "email": "gene@urv.cat",
+    "homepage": "https://www.researchgate.net/profile/Jordi-Gene",
+    "researchProfile": "",
+    "researchArea": "Environmental Mycology, Microbiology, Fungal Biodiversity",
+    "position": "Professor (Microbiology, URV)",
+    "status": {
+      "mailed": false
+    }
   }
 ]
