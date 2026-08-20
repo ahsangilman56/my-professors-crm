@@ -258,5 +258,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787237850",
+    "name": "Adel Talaat",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "adel.talaat@wisc.edu",
+    "subject": "Prospective Graduate Student in Veterinary Genomics and Vaccine Development",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787237850,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
