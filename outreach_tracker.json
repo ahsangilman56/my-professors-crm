@@ -102,5 +102,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787222212",
+    "name": "Heikki Hyoty",
+    "university": "Tampere University",
+    "country": "Finland",
+    "email": "heikki.hyoty@tuni.fi",
+    "subject": "Prospective Graduate Student in Microbiome and Host Microbe Interactions",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787222212,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
