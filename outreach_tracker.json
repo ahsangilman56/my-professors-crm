@@ -37,5 +37,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787222196",
+    "name": "Qiushui He",
+    "university": "University of Turku",
+    "country": "Finland",
+    "email": "qiushui.he@utu.fi",
+    "subject": "Prospective Graduate Student in Bacterial Genomics and Virulence Factor Evolution",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787222196,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
