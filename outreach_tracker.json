@@ -1,14 +1,14 @@
 [
   {
-    "id": "init",
-    "name": "System initialized",
-    "university": "",
-    "country": "",
-    "email": "",
-    "subject": "",
-    "dateSent": "",
-    "timestamp": 0,
-    "status": "pending",
+    "id": "mail-1787222189",
+    "name": "Annamari Heikinheimo",
+    "university": "University of Helsinki",
+    "country": "Finland",
+    "email": "annamari.heikinheimo@helsinki.fi",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Genomic Surveillance",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787222189,
+    "status": "sent",
     "replyReceived": false,
     "replySummary": ""
   }
