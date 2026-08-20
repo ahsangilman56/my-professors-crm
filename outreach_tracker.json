@@ -128,5 +128,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787222218",
+    "name": "Jukka Corander",
+    "university": "University of Helsinki (FIMM)",
+    "country": "Finland",
+    "email": "jukka.corander@medisin.uio.no",
+    "subject": "Prospective Graduate Student in Bacterial Genomics and Antimicrobial Resistance",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787222218,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
