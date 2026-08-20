@@ -18,6 +18,7 @@
   --red: #ef4444;
   --yellow: #eab308;
   --purple: #a855f7;
+  --cyan: #06b6d4;
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
@@ -30,6 +31,15 @@ body {
 }
 h1 { font-size: 24px; font-weight: 700; margin-bottom: 4px; }
 h2 { font-size: 16px; font-weight: 500; color: var(--text-dim); margin-bottom: 24px; }
+
+/* World Clock */
+.clock-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin-bottom: 32px; }
+.clock-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px; text-align: center; }
+.clock-flag { font-size: 20px; margin-bottom: 4px; }
+.clock-country { font-size: 12px; font-weight: 600; color: var(--text-dim); }
+.clock-time { font-size: 20px; font-weight: 700; color: var(--cyan); margin-top: 4px; }
+.clock-date { font-size: 11px; color: var(--text-dim); margin-top: 2px; }
+
 .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; margin-bottom: 32px; }
 .stat-card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; text-align: center; }
 .stat-value { font-size: 32px; font-weight: 700; }
@@ -59,19 +69,50 @@ h2 { font-size: 16px; font-weight: 500; color: var(--text-dim); margin-bottom: 2
 .loading { text-align: center; padding: 40px; color: var(--text-dim); }
 .refresh-btn { background: var(--accent); color: white; border: none; padding: 8px 16px; border-radius: 8px; font-size: 13px; cursor: pointer; margin-left: 12px; font-family: inherit; }
 .refresh-btn:hover { opacity: 0.85; }
-@media (max-width: 600px) { .uni-card { flex-direction: column; align-items: flex-start; } .uni-status { margin-left: 0; margin-top: 8px; } }
+@media (max-width: 600px) { .uni-card { flex-direction: column; align-items: flex-start; } .uni-status { margin-left: 0; margin-top: 8px; } .clock-grid { grid-template-columns: repeat(3, 1fr); } }
 </style>
 </head>
 <body>
 <h1>PhD Outreach Tracker <button class="refresh-btn" onclick="load()">Refresh</button></h1>
 <h2>Md Abu Ahsan Gilman | 7-Day Cooldown Rule Active</h2>
 
+<div class="clock-grid" id="clocks"></div>
 <div class="stats-grid" id="stats"></div>
 <div id="content"><div class="loading">Loading data...</div></div>
 
 <script>
 const COOLDOWN_DAYS = 7;
 const DATA_URL = 'https://raw.githubusercontent.com/ahsangilman56/my-professors-crm/main/outreach_tracker.json';
+
+const CLOCK_ZONES = [
+  { country: 'USA', tz: 'America/New_York', flag: '🇺🇸' },
+  { country: 'UK', tz: 'Europe/London', flag: '🇬🇧' },
+  { country: 'Canada', tz: 'America/Toronto', flag: '🇨🇦' },
+  { country: 'Australia', tz: 'Australia/Sydney', flag: '🇦🇺' },
+  { country: 'Netherlands', tz: 'Europe/Amsterdam', flag: '🇳🇱' },
+  { country: 'Germany', tz: 'Europe/Berlin', flag: '🇩🇪' },
+  { country: 'Sweden', tz: 'Europe/Stockholm', flag: '🇸🇪' },
+  { country: 'Denmark', tz: 'Europe/Copenhagen', flag: '🇩🇰' },
+  { country: 'Switzerland', tz: 'Europe/Zurich', flag: '🇨🇭' },
+  { country: 'Finland', tz: 'Europe/Helsinki', flag: '🇫🇮' },
+];
+
+function updateClocks() {
+  const container = document.getElementById('clocks');
+  let html = '';
+  for (const c of CLOCK_ZONES) {
+    const now = new Date();
+    const time = now.toLocaleTimeString('en-US', { timeZone: c.tz, hour: '2-digit', minute: '2-digit', hour12: true });
+    const date = now.toLocaleDateString('en-US', { timeZone: c.tz, month: 'short', day: 'numeric' });
+    html += `<div class="clock-card">
+      <div class="clock-flag">${c.flag}</div>
+      <div class="clock-country">${c.country}</div>
+      <div class="clock-time">${time}</div>
+      <div class="clock-date">${date}</div>
+    </div>`;
+  }
+  container.innerHTML = html;
+}
 
 function daysSince(dateStr) {
   if (!dateStr) return 999;
@@ -95,7 +136,6 @@ async function load() {
   try {
     const res = await fetch(DATA_URL + '?t=' + Date.now());
     const data = await res.json();
-    // Filter out placeholder entries
     const real = data.filter(e => e.university && e.dateSent);
     render(real);
   } catch(e) {
@@ -105,7 +145,6 @@ async function load() {
 }
 
 function render(entries) {
-  // Stats
   const totalSent = entries.filter(e => e.status === 'sent').length;
   const countries = {};
   const unis = {};
@@ -129,7 +168,6 @@ function render(entries) {
     <div class="stat-card"><div class="stat-value" style="color:var(--red)">${inCooldown}</div><div class="stat-label">In 7-Day Cooldown</div></div>
   `;
 
-  // Group by country
   const byCountry = {};
   entries.filter(e => e.status === 'sent').forEach(e => {
     if (!byCountry[e.country]) byCountry[e.country] = {};
@@ -146,7 +184,6 @@ function render(entries) {
   for (const [country, unis] of Object.entries(byCountry)) {
     html += `<div class="country-section"><div class="country-header"><span class="country-flag">${getCountryFlag(country)}</span><span class="country-title">${country}</span><span class="country-count">${Object.keys(unis).length} universities</span></div>`;
     
-    // Sort universities: cooldown first (red), then by most recent
     const sortedUnis = Object.entries(unis).sort((a, b) => {
       const aLatest = a[1].sort((x,y) => y.dateSent.localeCompare(x.dateSent))[0];
       const bLatest = b[1].sort((x,y) => y.dateSent.localeCompare(x.dateSent))[0];
@@ -169,7 +206,6 @@ function render(entries) {
 
       let profHtml = '';
       for (const p of profs.sort((a,b) => b.dateSent.localeCompare(a.dateSent))) {
-        const pDays = daysSince(p.dateSent);
         const replyTag = p.replyReceived ? '<span class="reply-badge">💬 Reply</span>' : '';
         profHtml += `<div class="uni-professor"><span class="prof-name">${p.name}</span><span class="prof-date">${formatDate(p.dateSent)}</span>${replyTag}</div>`;
       }
@@ -188,8 +224,9 @@ function render(entries) {
   document.getElementById('content').innerHTML = html;
 }
 
+updateClocks();
 load();
-// Auto-refresh every 5 minutes
+setInterval(updateClocks, 1000);
 setInterval(load, 300000);
 </script>
 </body>
