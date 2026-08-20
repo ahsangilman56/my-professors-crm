@@ -2481,5 +2481,329 @@
       "mailed": false
     },
     "orcid": "https://orcid.org/0000-0002-1829-6386"
+  },
+  {
+    "name": "Senaka Ranadheera",
+    "university": "University of Melbourne",
+    "country": "Australia",
+    "email": "senaka.ranadheera@unimelb.edu.au",
+    "homepage": "https://findanexpert.unimelb.edu.au/profile/800524-senaka-ranadheera",
+    "researchArea": "Food Microbiology, Probiotics, Gut Microbiota, Dairy Microbiology",
+    "position": "Senior Lecturer",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Ben Howden",
+    "university": "University of Melbourne",
+    "country": "Australia",
+    "email": "bhowden@unimelb.edu.au",
+    "homepage": "https://www.doherty.edu.au/group/ben-howden-group/",
+    "researchArea": "Genomic Surveillance, AMR, Bacterial Genomics, One Health",
+    "position": "Professor (Doherty Institute)",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Meng Shi",
+    "university": "University of Sydney",
+    "country": "Australia",
+    "email": "meng.shi@sydney.edu.au",
+    "researchProfile": "https://scholar.google.com/citations?user=wLemVJ0AAAAJ",
+    "researchArea": "RNA Virosphere, Metagenomics, Microbiome",
+    "position": "Senior Lecturer",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Mark Schembri",
+    "university": "University of Queensland",
+    "country": "Australia",
+    "email": "m.schembri@uq.edu.au",
+    "researchArea": "Antimicrobial Resistance, Bacterial Genomics, Uropathogenic E. coli",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Mark Walker",
+    "university": "University of Queensland",
+    "country": "Australia",
+    "email": "mark.walker@uq.edu.au",
+    "researchProfile": "https://scholar.google.com/citations?user=W4XyzZ4AAAAJ",
+    "researchArea": "Streptococcus Pathogenesis, Bacterial Genomics, Vaccine Development",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "David Hume",
+    "university": "University of Queensland",
+    "country": "Australia",
+    "email": "david.hume@uq.edu.au",
+    "researchArea": "Macrophage Biology, Microbiome, Infection and Immunity",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Anton Peleg",
+    "university": "Monash University",
+    "country": "Australia",
+    "email": "anton.peleg@monash.edu",
+    "researchArea": "Multidrug-Resistant Gram-Negative Bacteria, AMR, Infectious Diseases",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Ana Traven",
+    "university": "Monash University",
+    "country": "Australia",
+    "email": "ana.traven@monash.edu",
+    "researchProfile": "https://scholar.google.com/citations?user=JaY-9hIAAAAJ",
+    "researchArea": "Fungal Pathogenesis, Candida, Clinical Microbiology",
+    "position": "Associate Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Emad El-Omar",
+    "university": "UNSW",
+    "country": "Australia",
+    "email": "e.el-omar@unsw.edu.au",
+    "researchProfile": "https://scholar.google.com/citations?user=PRm8VmMAAAAJ",
+    "researchArea": "Gut Microbiome, Healthy Microbiome Definition, Gastroenterology",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Tim Inglis",
+    "university": "University of Western Australia",
+    "country": "Australia",
+    "email": "tim.inglis@uwa.edu.au",
+    "researchArea": "Medical Microbiology, AMR, Clinical Microbiology",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Andrew Vincent",
+    "university": "University of Adelaide",
+    "country": "Australia",
+    "email": "andrew.vincent@adelaide.edu.au",
+    "homepage": "https://researchers.adelaide.edu.au/profile/andrew.vincent",
+    "researchArea": "Food Microbiology, Cranberry UTI Prevention, Clinical Microbiology",
+    "position": "Researcher",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Martyn Kirk",
+    "university": "Australian National University",
+    "country": "Australia",
+    "email": "martyn.kirk@anu.edu.au",
+    "researchArea": "Campylobacter Genomics, Food Safety, Gastroenteritis",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Aude Fahrer",
+    "university": "Australian National University",
+    "country": "Australia",
+    "email": "aude.fahrer@anu.edu.au",
+    "homepage": "https://researchportalplus.anu.edu.au/en/persons/aude-fahrer/",
+    "researchArea": "Tumor-Seeking Bacteria, Microbiome, Immunology",
+    "position": "Associate Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Philip Hansbro",
+    "university": "University of Technology Sydney",
+    "country": "Australia",
+    "email": "philip.hansbro@uts.edu.au",
+    "researchArea": "Gut Microbiome, COPD, Respiratory Microbiome, Faecal Microbial Transfer",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Simon Chen",
+    "university": "Queensland University of Technology",
+    "country": "Australia",
+    "email": "simon.chen@qut.edu.au",
+    "researchArea": "Fungal Infections, Clinical Microbiology, AMR",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Laurence Marques",
+    "university": "La Trobe University",
+    "country": "Australia",
+    "email": "l.marques@latrobe.edu.au",
+    "researchArea": "Gut Microbiota, Hypertension, GPR41/43, Metagenomics",
+    "position": "Senior Lecturer",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Hannah Wardill",
+    "university": "University of Wollongong",
+    "country": "Australia",
+    "email": "hannah.wardill@adelaide.edu.au",
+    "researchArea": "Gut Microbiome, Chemotherapy, Cognitive Decline, Cancer Microbiome",
+    "position": "Senior Research Fellow",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "David Williamson",
+    "university": "Griffith University",
+    "country": "Australia",
+    "email": "d.williamson@griffith.edu.au",
+    "researchArea": "Neisseria gonorrhoeae, AMR Genomics, Vaccine Development",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Oluyemi Odeyemi",
+    "university": "University of Tasmania",
+    "country": "Australia",
+    "email": "olumide.odeyemi@utas.edu.au",
+    "homepage": "https://discover.utas.edu.au/Olumide.Odeyemi/publications",
+    "researchProfile": "https://scholar.google.com/citations?user=iienj3kAAAAJ",
+    "researchArea": "Food Safety, Microbes, Probiotics, Food Microbiology",
+    "position": "Senior Lecturer",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "WAD Fernando",
+    "university": "Murdoch University",
+    "country": "Australia",
+    "email": "w.fernando@murdoch.edu.au",
+    "researchArea": "Gut Microbiota, Alzheimer Disease, Diet and Microbiome",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "David Lynn",
+    "university": "Flinders University",
+    "country": "Australia",
+    "email": "david.lynn@flinders.edu.au",
+    "researchProfile": "https://scholar.google.com/citations?user=UqgVuxgAAAAJ",
+    "researchArea": "Bifidobacteria, Infant Vaccine, Microbiome, Cancer Therapy",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Amanda Martin",
+    "university": "Flinders University",
+    "country": "Australia",
+    "email": "amanda.martin@flinders.edu.au",
+    "researchProfile": "https://scholar.google.com/citations?user=rDzqz_UAAAAJ",
+    "researchArea": "Gut Microbiome, Gut Hormone Secretion, Enteroendocrine",
+    "position": "Senior Research Fellow",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Wolfgang Marx",
+    "university": "Deakin University",
+    "country": "Australia",
+    "email": "wolf.marx@deakin.edu.au",
+    "researchProfile": "https://scholar.google.com/citations?user=5_jObNIAAAAJ",
+    "researchArea": "Gut Microbiota, Diet, Depression, Probiotics, Nutrition",
+    "position": "Senior Research Fellow",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Nicholas Coleman",
+    "university": "Macquarie University",
+    "country": "Australia",
+    "email": "nicholas.coleman@mq.edu.au",
+    "researchArea": "Antibiotic and Heavy Metal Resistance, Environmental Bacteria, Bioremediation",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Anna Walduck",
+    "university": "RMIT University",
+    "country": "Australia",
+    "email": "anna.walduck@rmit.edu.au",
+    "researchProfile": "https://scholar.google.com/citations?user=9ZK8hZ4AAAAJ",
+    "researchArea": "Helicobacter pylori, Gastric Inflammation, Microbiome, Vaccine",
+    "position": "Associate Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Enzo Palombo",
+    "university": "RMIT University",
+    "country": "Australia",
+    "email": "enzo.palombo@rmit.edu.au",
+    "researchProfile": "https://scholar.google.com/citations?user=cTECw3IAAAAJ",
+    "researchArea": "Food Microbiology, Antimicrobial Resistance, Environmental Microbiology",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Vipul Truong",
+    "university": "RMIT University",
+    "country": "Australia",
+    "email": "vi.khanh.truong@rmit.edu.au",
+    "researchArea": "Antibacterial Nanomaterials, Bioceramics, AMR",
+    "position": "Associate Professor",
+    "status": {
+      "mailed": false
+    }
+  },
+  {
+    "name": "Simon Keely",
+    "university": "University of Newcastle Australia",
+    "country": "Australia",
+    "email": "simon.keely@newcastle.edu.au",
+    "researchProfile": "https://scholar.google.com/citations?user=CMFE36UAAAAJ",
+    "researchArea": "IBD, Gut Microbiome, Epithelial Biology",
+    "position": "Professor",
+    "status": {
+      "mailed": false
+    }
   }
 ]
