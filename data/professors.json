@@ -2022,7 +2022,9 @@
     "position": "Associate Research Professor (ISGlobal)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-9507-105X",
+    "researchgate": "https://www.researchgate.net/profile/Sara-Soto-6"
   },
   {
     "name": "Sergio Lopez-Soria",
@@ -2030,12 +2032,14 @@
     "country": "Spain",
     "email": "sergio.lopez@irta.cat",
     "homepage": "https://www.irta.cat/en/personal/sergio-lopez-soria/",
-    "researchProfile": "https://www.3tres3.com/en/authors/sergio-lopez-soria_338/",
+    "researchProfile": "https://www.researchgate.net/profile/Sergio-Lopez-Soria",
     "researchArea": "Pig Gut Microbiome, Resistome, Antimicrobial Resistance, One Health",
     "position": "Researcher (IRTA-UAB Animal Health)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0001-7134-2014",
+    "researchgate": "https://www.researchgate.net/profile/Sergio-Lopez-Soria"
   },
   {
     "name": "Judith Guitart-Matas",
@@ -2048,7 +2052,9 @@
     "position": "Postdoctoral Researcher (IRTA-UAB Animal Health)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0009-0009-9329-9139",
+    "researchgate": "https://www.researchgate.net/profile/Judith-Guitart-Matas"
   },
   {
     "name": "Sonia Sevilla-Navarro",
@@ -2056,12 +2062,14 @@
     "country": "Spain",
     "email": "s.sevilla@cecav.org",
     "homepage": "https://www.researchgate.net/scientific-contributions/Jan-Torres-Boncompte-2227762573",
-    "researchProfile": "",
+    "researchProfile": "https://scholar.google.com/citations?user=-4jvZJsAAAAJ",
     "researchArea": "Bacteriophages, Salmonella, Food Safety, Phage Therapy",
     "position": "Researcher (CEAV-University of Valencia)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-4232-1836",
+    "researchgate": "https://www.researchgate.net/profile/Sandra-Sevilla-Navarro"
   },
   {
     "name": "Lucas Dominguez",
@@ -2074,7 +2082,9 @@
     "position": "Full Professor (VISAVET Health Surveillance Centre)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0009-0007-9170-4765",
+    "researchgate": "https://www.researchgate.net/profile/Lucas-Dominguez-Rodriguez"
   },
   {
     "name": "Jose Gutierrez-Fernandez",
@@ -2087,7 +2097,9 @@
     "position": "Full Professor (Microbiology, Faculty of Medicine)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-4732-3929",
+    "researchgate": "https://www.researchgate.net/profile/Jose-Gutierrez-Fernandez"
   },
   {
     "name": "Luis Daniel Gonzalez-Vazquez",
@@ -2100,7 +2112,8 @@
     "position": "Researcher (University of Vigo)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0003-4977-5205"
   },
   {
     "name": "Maria Mittelbrunn",
@@ -2108,12 +2121,13 @@
     "country": "Spain",
     "email": "mmittelbrunn@cbm.csic.es",
     "homepage": "https://mmittelbrunnlab.cbm.uam.es/",
-    "researchProfile": "",
+    "researchProfile": "https://scholar.google.com/citations?user=U_mDXCUAAAAJ&hl=en",
     "researchArea": "Gut Microbiota, Immunometabolism, Metagenomics, Microbiome and Aging",
     "position": "Researcher (CBM CSIC-UAM)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0003-3487-8762"
   },
   {
     "name": "Natalia Burgos-Alonso",
@@ -2126,7 +2140,9 @@
     "position": "Professor (Department of Public Health, Faculty of Pharmacy)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-7662-4456",
+    "researchgate": "https://www.researchgate.net/profile/Natalia-Burgos-Alonso"
   },
   {
     "name": "Maria-Soledad Fernandez-Pachon",
@@ -2139,7 +2155,8 @@
     "position": "Professor (University of Pablo de Olavide)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0009-0002-3197-736X"
   },
   {
     "name": "Jose Miguel Cisneros",
@@ -2152,7 +2169,8 @@
     "position": "Professor (Infectious Diseases)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-9540-4125"
   },
   {
     "name": "Aurea Simon-Soro",
@@ -2160,12 +2178,14 @@
     "country": "Spain",
     "email": "asimon@us.es",
     "homepage": "https://www.hormobiome.com/about-us",
-    "researchProfile": "https://orcid.org/0000-0003-3656-6834",
+    "researchProfile": "https://scholar.google.com/citations?user=6XFqzmwAAAAJ",
     "researchArea": "Oral Microbiome, Hormones and Microbiome, Metagenomics",
     "position": "Associate Professor (Department of Stomatology)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0003-3656-6834",
+    "researchgate": "https://www.researchgate.net/profile/Aurea-Simon-Soro"
   },
   {
     "name": "Miguel Arana",
@@ -2178,7 +2198,9 @@
     "position": "Full Professor (Pharmacology)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-0393-2650",
+    "researchgate": "https://www.researchgate.net/profile/Miguel-Arana-2"
   },
   {
     "name": "Inigo Lasa",
@@ -2186,12 +2208,14 @@
     "country": "Spain",
     "email": "ilasa@unavarra.es",
     "homepage": "https://observatorio-investigacion.unavarra.es/investigadores/88453/detalle?lang=en",
-    "researchProfile": "",
+    "researchProfile": "https://scholar.google.com/citations?user=XVNTwjMAAAAJ&hl=es",
     "researchArea": "Bacteriophages, Synthetic Phage Therapy, Staphylococcus aureus Mastitis",
     "position": "Professor (University of Navarra)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0003-4915-9242",
+    "researchgate": "https://www.researchgate.net/profile/Inigo-Lasa"
   },
   {
     "name": "Jesus Romalde",
@@ -2199,12 +2223,14 @@
     "country": "Spain",
     "email": "jesus.romalde@usc.es",
     "homepage": "https://www.usc.gal/en/department/microbiology-and-parasitology/directory/jesus-angel-lopez-romalde",
-    "researchProfile": "",
+    "researchProfile": "https://scholar.google.com/citations?user=CKTD8kgAAAAJ&hl=es",
     "researchArea": "Phage Cocktails, Bivalve Aquaculture, Antimicrobial Resistance",
     "position": "Full Professor (Microbiology and Parasitology)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0003-4786-4773",
+    "researchgate": "https://www.researchgate.net/profile/Jesus-Romalde"
   },
   {
     "name": "Manuel Alvarez-Fernandez",
@@ -2217,7 +2243,8 @@
     "position": "Clinical Microbiologist (University of Santiago de Compostela)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0001-9179-3349"
   },
   {
     "name": "Jesus Andres Arenas-Busto",
@@ -2225,12 +2252,14 @@
     "country": "Spain",
     "email": "jaarenas@unizar.es",
     "homepage": "https://janovas.unizar.es/sideral/CV/jesus-andres-arenas-busto?lang=en",
-    "researchProfile": "https://orcid.org/0000-0002-8134-0693",
+    "researchProfile": "https://scholar.google.com/citations?user=dA0JPBcAAAAJ",
     "researchArea": "Antimicrobial Resistance, Veterinary Bacteria, Pseudomonas, Streptococcus suis",
     "position": "Professor (Faculty of Veterinary Medicine)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0003-1209-270X",
+    "researchgate": "https://www.researchgate.net/profile/Jesus-Arenas-2"
   },
   {
     "name": "Alejandro Cabezas-Cruz",
@@ -2243,7 +2272,9 @@
     "position": "Group Leader (Izarzo, University of Zaragoza)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-8660-730X",
+    "researchgate": "https://www.researchgate.net/profile/Alejandro-Cabezas-Cruz"
   },
   {
     "name": "Margarita Poza",
@@ -2251,12 +2282,14 @@
     "country": "Spain",
     "email": "margarita.poza.dominguez@sergas.es",
     "homepage": "https://www.inibic.es/portfolio-items/investigacion-en-microbiologia/",
-    "researchProfile": "",
+    "researchProfile": "https://scholar.google.com/citations?user=Lm6oJR8AAAAJ&hl=en",
     "researchArea": "Metagenomics, Bacterial Pathogenomics, Antimicrobial Resistance, Infectious Diseases",
     "position": "Senior Researcher (INIBIC, Microbiology Group)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0001-9423-7268",
+    "researchgate": "https://www.researchgate.net/profile/Margarita_Poza"
   },
   {
     "name": "Felipe Molina",
@@ -2264,12 +2297,14 @@
     "country": "Spain",
     "email": "fmolina@unex.es",
     "homepage": "https://www.researchgate.net/profile/Felipe-Molina",
-    "researchProfile": "",
+    "researchProfile": "https://scholar.google.com/citations?user=kSZU6UwAAAAJ&hl=en",
     "researchArea": "Phage Cocktail Design, Computational Microbiology, Antimicrobial Therapy",
     "position": "Associate Professor (Department of Biotechnology)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0003-1858-9901",
+    "researchgate": "https://www.researchgate.net/profile/Felipe-Molina"
   },
   {
     "name": "Mauro Cozzolino",
@@ -2282,7 +2317,9 @@
     "position": "Head of Department (IVIRMA, IVI Foundation)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0001-6639-4688",
+    "researchgate": "https://www.researchgate.net/profile/Mauro-Cozzolino"
   },
   {
     "name": "Maria Jose Jordan",
@@ -2295,7 +2332,8 @@
     "position": "Researcher (IMIDA)",
     "status": {
       "mailed": false
-    }
+    },
+    "researchgate": "https://www.researchgate.net/profile/Maria_Jordan2"
   },
   {
     "name": "M Angeles Esteban",
@@ -2303,12 +2341,14 @@
     "country": "Spain",
     "email": "aesteban@um.es",
     "homepage": "https://webs.um.es/aesteban/miwiki/doku.php?id=investigacion",
-    "researchProfile": "https://orcid.org/0000-0002-6264-1458",
+    "researchProfile": "https://scholar.google.com/citations?user=ajDJdAQAAAAJ&hl=es",
     "researchArea": "Gut Microbiota, Limosilactobacillus reuteri, Probiotics, Salmonella",
     "position": "Professor (Biology and Biochemistry)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-0681-8263",
+    "researchgate": "https://www.researchgate.net/profile/Maria-Esteban-7"
   },
   {
     "name": "Maria Jose Cubero Pablo",
@@ -2321,7 +2361,9 @@
     "position": "Professor (Health Sciences)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0001-9560-3741",
+    "researchgate": "https://www.researchgate.net/profile/Maria-Jose-Cubero-Pablo"
   },
   {
     "name": "Paula Iruzubieta",
@@ -2329,12 +2371,13 @@
     "country": "Spain",
     "email": "paula.iruzubieta@unican.es",
     "homepage": "https://web.unican.es/estudios/detalle-profesorado?pi=885BB42D13C10814",
-    "researchProfile": "",
+    "researchProfile": "https://scholar.google.com/citations?user=dGBJYIQAAAAJ&hl=es",
     "researchArea": "Gut Microbiota, MASLD, Metagenomics, Clinical Microbiology",
     "position": "Professor (School of Medicine)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0001-9476-1801"
   },
   {
     "name": "Manuel Martinez-Garcia",
@@ -2347,7 +2390,9 @@
     "position": "Full Professor (Microbiology)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-3249-408X",
+    "researchgate": "https://www.researchgate.net/profile/Manuel-Martinez-Garcia-2"
   },
   {
     "name": "Fernando Santos",
@@ -2360,7 +2405,8 @@
     "position": "Full Professor (Microbiology)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-6281-7310"
   },
   {
     "name": "Maria Jose Figueras",
@@ -2373,7 +2419,9 @@
     "position": "Professor (Microbiology, URV)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-2268-8980",
+    "researchgate": "https://www.researchgate.net/profile/Maria-Figueras"
   },
   {
     "name": "Lluis Arola",
@@ -2386,7 +2434,9 @@
     "position": "Professor (Biochemistry and Biotechnology, URV)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0003-0187-7245",
+    "researchgate": "https://www.researchgate.net/profile/Lluis-Arola"
   },
   {
     "name": "Monica Bullo",
@@ -2394,12 +2444,14 @@
     "country": "Spain",
     "email": "monica.bullo@urv.cat",
     "homepage": "https://www.bioquimica.urv.cat/en/about/directory/full-time-faculty/bullo-bonet-monica/",
-    "researchProfile": "https://orcid.org/0000-0002-0218-7046",
+    "researchProfile": "https://scholar.google.com/citations?user=bZHvTz8AAAAJ",
     "researchArea": "Gut Microbiome, Neurodegenerative Disease, ADHD, Microbiome and Brain",
     "position": "Associate Professor (Biochemistry, URV)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-1411-6253",
+    "researchgate": "https://www.researchgate.net/profile/Monica-Bullo"
   },
   {
     "name": "Margarita Torrente",
@@ -2412,7 +2464,9 @@
     "position": "Senior Lecturer (Psychobiology, URV)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-8901-6345",
+    "researchgate": "https://www.researchgate.net/profile/Margarita-Torrente"
   },
   {
     "name": "Jordi Gene",
@@ -2420,11 +2474,12 @@
     "country": "Spain",
     "email": "gene@urv.cat",
     "homepage": "https://www.researchgate.net/profile/Jordi-Gene",
-    "researchProfile": "",
+    "researchProfile": "https://scholar.google.com/citations?user=GbR4-1oAAAAJ",
     "researchArea": "Environmental Mycology, Microbiology, Fungal Biodiversity",
     "position": "Professor (Microbiology, URV)",
     "status": {
       "mailed": false
-    }
+    },
+    "orcid": "https://orcid.org/0000-0002-1829-6386"
   }
 ]
