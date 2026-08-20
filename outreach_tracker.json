@@ -284,5 +284,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787237859",
+    "name": "Iris Holmes",
+    "university": "Southern Illinois University",
+    "country": "USA",
+    "email": "iris.holmes@siu.edu",
+    "subject": "Prospective Graduate Student in Host Microbe Interactions and Microbiome Ecology",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787237859,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
