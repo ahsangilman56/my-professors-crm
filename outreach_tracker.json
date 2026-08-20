@@ -63,5 +63,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787222203",
+    "name": "Martin Taubel",
+    "university": "Finnish Institute for Health and Welfare (THL)",
+    "country": "Finland",
+    "email": "martin.taubel@thl.fi",
+    "subject": "Prospective Graduate Student in Environmental Microbiome and Microbial Exposure",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787222203,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
