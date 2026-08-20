@@ -154,5 +154,44 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787222928",
+    "name": "Xu Wang",
+    "university": "Auburn University",
+    "country": "USA",
+    "email": "xuwang@auburn.edu",
+    "subject": "Prospective Graduate Student in Comparative Genomics and Microbiome Research",
+    "dateSent": "2026-08-18",
+    "timestamp": 1787222928,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
+  },
+  {
+    "id": "mail-1787222929",
+    "name": "Jonathan Dahl",
+    "university": "Illinois State University",
+    "country": "USA",
+    "email": "jdahl1@ilstu.edu",
+    "subject": "Prospective Graduate Student in Microbiology and Microbial Stress Response",
+    "dateSent": "2026-08-19",
+    "timestamp": 1787222929,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
+  },
+  {
+    "id": "mail-1787222930",
+    "name": "Abhijeet Raghav",
+    "university": "Kansas State University",
+    "country": "USA",
+    "email": "agraghav@vet.k-state.edu",
+    "subject": "Prospective Graduate Student in AMR and Food Animal Microbiology",
+    "dateSent": "2026-08-19",
+    "timestamp": 1787222930,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
