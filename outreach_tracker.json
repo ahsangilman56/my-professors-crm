@@ -271,5 +271,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787237854",
+    "name": "Angela Mitchell",
+    "university": "Texas A&M University",
+    "country": "USA",
+    "email": "amitchell@bio.tamu.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Bacterial Cell Envelope",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787237854,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
