@@ -115,5 +115,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787222215",
+    "name": "Matej Oresic",
+    "university": "Orebro University",
+    "country": "Finland",
+    "email": "matej.oresic@oru.se",
+    "subject": "Prospective Graduate Student in Microbiome and Metabolomics in Immune Mediated Disease",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787222215,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
