@@ -2805,5 +2805,333 @@
     "status": {
       "mailed": false
     }
+  },
+  {
+    "name": "Timothy Walsh",
+    "university": "University of Oxford",
+    "country": "UK",
+    "email": "timothy.walsh@biology.ox.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, bacterial genomics",
+    "id": "uk-185"
+  },
+  {
+    "name": "Samuel Sheppard",
+    "university": "University of Oxford",
+    "country": "UK",
+    "email": "samuel.sheppard@biology.ox.ac.uk",
+    "researchArea": "Bacterial genomics, microbial evolution",
+    "id": "uk-186"
+  },
+  {
+    "name": "Craig MacLean",
+    "university": "University of Oxford",
+    "country": "UK",
+    "email": "craig.maclean@biology.ox.ac.uk",
+    "researchArea": "Bacterial genomics, antimicrobial resistance",
+    "id": "uk-187"
+  },
+  {
+    "name": "Martin Maiden",
+    "university": "University of Oxford",
+    "country": "UK",
+    "email": "martin.maiden@biology.ox.ac.uk",
+    "researchArea": "Bacterial genomics, Neisseria",
+    "id": "uk-188"
+  },
+  {
+    "name": "Alexandre Almeida",
+    "university": "University of Cambridge",
+    "country": "UK",
+    "email": "aa2369@cam.ac.uk",
+    "researchArea": "Microbiome, metagenomics",
+    "id": "uk-189"
+  },
+  {
+    "name": "Julian Parkhill",
+    "university": "University of Cambridge",
+    "country": "UK",
+    "email": "jp369@cam.ac.uk",
+    "researchArea": "Bacterial genomics, pathogen evolution",
+    "id": "uk-190"
+  },
+  {
+    "name": "David Gally",
+    "university": "University of Edinburgh",
+    "country": "UK",
+    "email": "dgally@ed.ac.uk",
+    "researchArea": "Bacterial genomics, E. coli pathogenesis",
+    "id": "uk-191"
+  },
+  {
+    "name": "Ross Fitzgerald",
+    "university": "University of Edinburgh",
+    "country": "UK",
+    "email": "Ross.Fitzgerald@ed.ac.uk",
+    "researchArea": "Bacterial genomics, Staphylococcus adaptation",
+    "id": "uk-192"
+  },
+  {
+    "name": "Gordon Ramage",
+    "university": "University of Glasgow",
+    "country": "UK",
+    "email": "Gordon.Ramage@glasgow.ac.uk",
+    "researchArea": "Food microbiology, fungal microbiome, Candida",
+    "id": "uk-193"
+  },
+  {
+    "name": "Dorina Timofte",
+    "university": "University of Liverpool",
+    "country": "UK",
+    "email": "D.Timofte@liverpool.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, veterinary microbiology",
+    "id": "uk-194"
+  },
+  {
+    "name": "Jo Fothergill",
+    "university": "University of Liverpool",
+    "country": "UK",
+    "email": "J.Fothergill@liverpool.ac.uk",
+    "researchArea": "Bacterial genomics, microbiome, Pseudomonas",
+    "id": "uk-195"
+  },
+  {
+    "name": "Alistair Darby",
+    "university": "University of Liverpool",
+    "country": "UK",
+    "email": "Alistair.Darby@liverpool.ac.uk",
+    "researchArea": "Bacterial genomics, symbiosis",
+    "id": "uk-196"
+  },
+  {
+    "name": "Thomas Darton",
+    "university": "University of Sheffield",
+    "country": "UK",
+    "email": "t.darton@sheffield.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, vaccine development",
+    "id": "uk-197"
+  },
+  {
+    "name": "Simon Foster",
+    "university": "University of Sheffield",
+    "country": "UK",
+    "email": "s.foster@sheffield.ac.uk",
+    "researchArea": "Bacterial genomics, Staphylococcus, cell wall",
+    "id": "uk-198"
+  },
+  {
+    "name": "Jon Sayers",
+    "university": "University of Sheffield",
+    "country": "UK",
+    "email": "j.r.sayers@sheffield.ac.uk",
+    "researchArea": "Bacterial genomics, DNA repair",
+    "id": "uk-199"
+  },
+  {
+    "name": "Matthew Avison",
+    "university": "University of Bristol",
+    "country": "UK",
+    "email": "Matthewb.Avison@bristol.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, beta-lactamase",
+    "id": "uk-200"
+  },
+  {
+    "name": "Ruth Massey",
+    "university": "University of Bristol",
+    "country": "UK",
+    "email": "ruth.massey@bristol.ac.uk",
+    "researchArea": "Bacterial genomics, Staphylococcus virulence",
+    "id": "uk-201"
+  },
+  {
+    "name": "Alex O'Neill",
+    "university": "University of Leeds",
+    "country": "UK",
+    "email": "A.J.ONeill@leeds.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, antibiotic discovery",
+    "id": "uk-202"
+  },
+  {
+    "name": "Kieran Tuohy",
+    "university": "University of Leeds",
+    "country": "UK",
+    "email": "K.M.Tuohy@leeds.ac.uk",
+    "researchArea": "Probiotics, food microbiology, gut microbiome",
+    "id": "uk-203"
+  },
+  {
+    "name": "Rebecca King",
+    "university": "University of Leeds",
+    "country": "UK",
+    "email": "R.King@leeds.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, public health",
+    "id": "uk-204"
+  },
+  {
+    "name": "Suparna Mitra",
+    "university": "University of Leeds",
+    "country": "UK",
+    "email": "S.Mitra@leeds.ac.uk",
+    "researchArea": "Microbiome, metagenomics",
+    "id": "uk-205"
+  },
+  {
+    "name": "Christine Dodd",
+    "university": "University of Nottingham",
+    "country": "UK",
+    "email": "christine.dodd@nottingham.ac.uk",
+    "researchArea": "Food microbiology, food safety, bacterial pathogens",
+    "id": "uk-206"
+  },
+  {
+    "name": "Michael Moore",
+    "university": "University of Southampton",
+    "country": "UK",
+    "email": "mvm198@soton.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, primary care",
+    "id": "uk-207"
+  },
+  {
+    "name": "Christopher Stewart",
+    "university": "Newcastle University",
+    "country": "UK",
+    "email": "christopher.stewart@ncl.ac.uk",
+    "researchArea": "Probiotics, food microbiology, infant microbiome",
+    "id": "uk-208"
+  },
+  {
+    "name": "Nicholas Jakubovics",
+    "university": "Newcastle University",
+    "country": "UK",
+    "email": "nicholas.jakubovics@ncl.ac.uk",
+    "researchArea": "Bacterial genomics, oral microbiology",
+    "id": "uk-209"
+  },
+  {
+    "name": "Christopher Dowson",
+    "university": "University of Warwick",
+    "country": "UK",
+    "email": "C.G.Dowson@warwick.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, bacterial cell wall",
+    "id": "uk-210"
+  },
+  {
+    "name": "Elizabeth Wellington",
+    "university": "University of Warwick",
+    "country": "UK",
+    "email": "E.M.H.Wellington@warwick.ac.uk",
+    "researchArea": "Bacterial genomics, environmental microbiology, AMR",
+    "id": "uk-211"
+  },
+  {
+    "name": "Gary Bending",
+    "university": "University of Warwick",
+    "country": "UK",
+    "email": "Gary.Bending@warwick.ac.uk",
+    "researchArea": "Microbiome, metagenomics, soil microbial communities",
+    "id": "uk-212"
+  },
+  {
+    "name": "David Wareham",
+    "university": "Queen Mary University London",
+    "country": "UK",
+    "email": "d.w.wareham@qmul.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, clinical microbiology",
+    "id": "uk-213"
+  },
+  {
+    "name": "Ruairi Robertson",
+    "university": "Queen Mary University London",
+    "country": "UK",
+    "email": "r.robertson@qmul.ac.uk",
+    "researchArea": "Microbiome, metagenomics, nutrition",
+    "id": "uk-214"
+  },
+  {
+    "name": "Lee Henry",
+    "university": "Queen Mary University London",
+    "country": "UK",
+    "email": "l.henry@qmul.ac.uk",
+    "researchArea": "Bacterial genomics, evolutionary genomics",
+    "id": "uk-215"
+  },
+  {
+    "name": "Ian Gould",
+    "university": "University of Aberdeen",
+    "country": "UK",
+    "email": "i.m.gould@abdn.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, clinical microbiology",
+    "id": "uk-216"
+  },
+  {
+    "name": "Alan Walker",
+    "university": "University of Aberdeen",
+    "country": "UK",
+    "email": "alan.walker@abdn.ac.uk",
+    "researchArea": "Probiotics, food microbiology, gut microbiome",
+    "id": "uk-217"
+  },
+  {
+    "name": "Robert Wallace",
+    "university": "University of Aberdeen",
+    "country": "UK",
+    "email": "r.wallace@abdn.ac.uk",
+    "researchArea": "Probiotics, food microbiology, gut microbiome, nutrition",
+    "id": "uk-218"
+  },
+  {
+    "name": "James Prosser",
+    "university": "University of Aberdeen",
+    "country": "UK",
+    "email": "j.prosser@abdn.ac.uk",
+    "researchArea": "Microbiome, metagenomics, soil microbiology",
+    "id": "uk-219"
+  },
+  {
+    "name": "Timothy Rawson",
+    "university": "Imperial College London",
+    "country": "UK",
+    "email": "timothy.rawson07@imperial.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, clinical microbiology",
+    "id": "uk-220"
+  },
+  {
+    "name": "Curtis Dobson",
+    "university": "University of Manchester",
+    "country": "UK",
+    "email": "curtis.b.dobson@manchester.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, microbiology",
+    "id": "uk-221"
+  },
+  {
+    "name": "Willem van Schaik",
+    "university": "University of Birmingham",
+    "country": "UK",
+    "email": "w.vanschaik@bham.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, gut microbiome, bacterial genomics",
+    "id": "uk-222"
+  },
+  {
+    "name": "Marius Vos",
+    "university": "University of Exeter",
+    "country": "UK",
+    "email": "M.Vos@exeter.ac.uk",
+    "researchArea": "AMR, antimicrobial resistance, microbial ecology, planetary health",
+    "id": "uk-223"
+  },
+  {
+    "name": "Guillaume Meric",
+    "university": "University of Bath",
+    "country": "UK",
+    "email": "gm657@bath.ac.uk",
+    "researchArea": "Microbiome, metagenomics, bacterial genomics",
+    "id": "uk-224"
+  },
+  {
+    "name": "Johannes Santini",
+    "university": "University College London",
+    "country": "UK",
+    "email": "j.santini@ucl.ac.uk",
+    "researchArea": "Microbiome, metagenomics, environmental microbiology",
+    "id": "uk-225"
   }
 ]
