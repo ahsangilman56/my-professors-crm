@@ -248,11 +248,11 @@
     "researchProfile": "https://scholar.google.com/citations?hl=de&user=ZEwNrZYAAAAJ&view_op=list_works&sortby=pubdate",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "Aug 19, 2026",
-    "replySummary": ""
+    "replySummary": "No interested (Had open circul"
   },
   {
     "id": "1776501698343",
@@ -1514,7 +1514,7 @@
   },
   {
     "id": "1777800000055",
-    "name": "DÃÂ¶rte DÃÂ¶pfer",
+    "name": "DÃÂÃÂ¶rte DÃÂÃÂ¶pfer",
     "university": "University of Wisconsin-Madison",
     "country": "USA",
     "email": "dopfer@wisc.edu",
@@ -1930,7 +1930,7 @@
   {
     "id": "1787196816",
     "name": " Heli Viljakainen",
-    "university": "Folkhälsan Research Center, Helsinki",
+    "university": "FolkhÃ¤lsan Research Center, Helsinki",
     "country": "Finland",
     "email": "heli.viljakainen@helsinki.fi",
     "researchArea": "Gut Microbiome, Nutritional Epidemiology, Public Health",
@@ -1943,8 +1943,8 @@
   },
   {
     "id": "1787196817",
-    "name": " Matej Orešič",
-    "university": "University of Eastern Finland / Örebro University",
+    "name": " Matej OreÅ¡iÄ",
+    "university": "University of Eastern Finland / Ãrebro University",
     "country": "Finland",
     "email": "matej.oresic@uef.fi",
     "researchArea": "Microbiome, Metabolomics, Lipidomics, Type 1 Diabetes",
@@ -1957,8 +1957,8 @@
   },
   {
     "id": "1787196818",
-    "name": " Jaakko Lamminmäki",
-    "university": "Folkhälsan Research Center, Helsinki",
+    "name": " Jaakko LamminmÃ¤ki",
+    "university": "FolkhÃ¤lsan Research Center, Helsinki",
     "country": "Finland",
     "email": "jaakko.lamminmaki@folkhalsan.fi",
     "researchArea": "Gut Microbiome, Allergy, Immunology",
@@ -1999,7 +1999,7 @@
   },
   {
     "id": "1787196821",
-    "name": " Ana Maria Pirttilä",
+    "name": " Ana Maria PirttilÃ¤",
     "university": "University of Oulu",
     "country": "Finland",
     "email": "anna.pirttila@oulu.fi",
