@@ -232,5 +232,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787233193",
+    "name": "Mark Silby",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "USA",
+    "email": "mark.silby@umassd.edu",
+    "subject": "Prospective Graduate Student in Bacterial Genomics and Adaptation",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787233193,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
