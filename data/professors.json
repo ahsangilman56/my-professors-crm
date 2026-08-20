@@ -2054,7 +2054,7 @@
     "name": "Sonia Sevilla-Navarro",
     "university": "University of Valencia",
     "country": "Spain",
-    "email": "",
+    "email": "s.sevilla@cecav.org",
     "homepage": "https://www.researchgate.net/scientific-contributions/Jan-Torres-Boncompte-2227762573",
     "researchProfile": "",
     "researchArea": "Bacteriophages, Salmonella, Food Safety, Phage Therapy",
@@ -2067,7 +2067,7 @@
     "name": "Lucas Dominguez",
     "university": "Complutense University of Madrid",
     "country": "Spain",
-    "email": "",
+    "email": "lucasdo@visavet.ucm.es",
     "homepage": "https://www.visavet.es/en/visavet/staff/lucas_dominguez_rodriguez.php",
     "researchProfile": "https://scholar.google.com/citations?user=6aIoeBAAAAAJ",
     "researchArea": "Salmonella Molecular Epidemiology, Antimicrobial Resistance, One Health",
@@ -2093,7 +2093,7 @@
     "name": "Luis Daniel Gonzalez-Vazquez",
     "university": "University of Vigo",
     "country": "Spain",
-    "email": "",
+    "email": "luisdaniel.gonzalez@uvigo.es",
     "homepage": "https://portalcientifico.uvigo.gal/investigadores/1092990?lang=en",
     "researchProfile": "https://scholar.google.com/citations?user=5vRFHloAAAAJ&hl=en",
     "researchArea": "Food Microbiology, Bacterial Virulence and Resistance Factors, Molecular Evolution",
@@ -2106,7 +2106,7 @@
     "name": "Maria Mittelbrunn",
     "university": "Autonomous University of Madrid",
     "country": "Spain",
-    "email": "",
+    "email": "mmittelbrunn@cbm.csic.es",
     "homepage": "https://mmittelbrunnlab.cbm.uam.es/",
     "researchProfile": "",
     "researchArea": "Gut Microbiota, Immunometabolism, Metagenomics, Microbiome and Aging",
@@ -2132,7 +2132,7 @@
     "name": "Maria-Soledad Fernandez-Pachon",
     "university": "Pablo de Olavide University",
     "country": "Spain",
-    "email": "",
+    "email": "msferpac@upo.es",
     "homepage": "https://investiga.upo.es/investigadores/160350/detalle?lang=en",
     "researchProfile": "https://scholar.google.com/citations?user=jpOMda4AAAAJ",
     "researchArea": "Probiotics, Gut Health, IBS, Functional Foods",
@@ -2272,19 +2272,6 @@
     }
   },
   {
-    "name": "Jose Emilio Rebollo",
-    "university": "University of Extremadura",
-    "country": "Spain",
-    "email": "",
-    "homepage": "https://www.researchgate.net/profile/Jose-Rebollo-Feria",
-    "researchProfile": "",
-    "researchArea": "Phage Therapy, Phage-Bacteria Interactions, Computational Phage Design",
-    "position": "Researcher (University of Extremadura)",
-    "status": {
-      "mailed": false
-    }
-  },
-  {
     "name": "Mauro Cozzolino",
     "university": "Rey Juan Carlos University",
     "country": "Spain",
@@ -2371,19 +2358,6 @@
     "researchProfile": "https://scholar.google.com/citations?user=Eyx0zD0AAAAJ",
     "researchArea": "Environmental Microbiology, Drinking Water Biofilms, Mycobacteria, Metagenomics",
     "position": "Full Professor (Microbiology)",
-    "status": {
-      "mailed": false
-    }
-  },
-  {
-    "name": "Juan F Gago",
-    "university": "University of Alicante",
-    "country": "Spain",
-    "email": "",
-    "homepage": "https://scholar.google.com/citations?user=rp1sQAQAAAAJ",
-    "researchProfile": "https://scholar.google.com/citations?user=rp1sQAQAAAAJ",
-    "researchArea": "Metagenomics, Environmental Microbiome, DNA-SIP, Halophilic Microbiology",
-    "position": "Researcher (University of Alicante / CSIC-UIB)",
     "status": {
       "mailed": false
     }
