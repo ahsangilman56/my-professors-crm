@@ -323,5 +323,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787237871",
+    "name": "Brittany Peterson",
+    "university": "Southern Illinois University Edwardsville",
+    "country": "USA",
+    "email": "bripete@siue.edu",
+    "subject": "Prospective Graduate Student in Microbiome and Bacterial Adaptation Research",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787237871,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
