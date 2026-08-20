@@ -297,5 +297,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787237863",
+    "name": "Wei-Chin Ho",
+    "university": "University of Texas at Tyler",
+    "country": "USA",
+    "email": "who@uttyler.edu",
+    "subject": "Prospective Graduate Student in Microbial Genomics and Evolution",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787237863,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
