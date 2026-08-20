@@ -310,5 +310,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787237867",
+    "name": "Qijing Zhang",
+    "university": "Iowa State University",
+    "country": "USA",
+    "email": "zhang123@iastate.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Foodborne Pathogens",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787237867,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
