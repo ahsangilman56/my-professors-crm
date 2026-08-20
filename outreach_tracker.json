@@ -24,5 +24,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787222194",
+    "name": "Lotta-Riina Sundberg",
+    "university": "University of Jyvaskyla",
+    "country": "Finland",
+    "email": "lotta-riina.sundberg@jyu.fi",
+    "subject": "Prospective Graduate Student in Phage Host Interactions and Antimicrobial Resistance",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787222194,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
