@@ -1514,7 +1514,7 @@
   },
   {
     "id": "1777800000055",
-    "name": "DÃÂÃÂ¶rte DÃÂÃÂ¶pfer",
+    "name": "D\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00b6rte D\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00b6pfer",
     "university": "University of Wisconsin-Madison",
     "country": "USA",
     "email": "dopfer@wisc.edu",
@@ -1930,7 +1930,7 @@
   {
     "id": "1787196816",
     "name": " Heli Viljakainen",
-    "university": "FolkhÃ¤lsan Research Center, Helsinki",
+    "university": "Folkh\u00c3\u00a4lsan Research Center, Helsinki",
     "country": "Finland",
     "email": "heli.viljakainen@helsinki.fi",
     "researchArea": "Gut Microbiome, Nutritional Epidemiology, Public Health",
@@ -1943,8 +1943,8 @@
   },
   {
     "id": "1787196817",
-    "name": " Matej OreÅ¡iÄ",
-    "university": "University of Eastern Finland / Ãrebro University",
+    "name": " Matej Ore\u00c5\u00a1i\u00c4\u008d",
+    "university": "University of Eastern Finland / \u00c3\u0096rebro University",
     "country": "Finland",
     "email": "matej.oresic@uef.fi",
     "researchArea": "Microbiome, Metabolomics, Lipidomics, Type 1 Diabetes",
@@ -1957,8 +1957,8 @@
   },
   {
     "id": "1787196818",
-    "name": " Jaakko LamminmÃ¤ki",
-    "university": "FolkhÃ¤lsan Research Center, Helsinki",
+    "name": " Jaakko Lamminm\u00c3\u00a4ki",
+    "university": "Folkh\u00c3\u00a4lsan Research Center, Helsinki",
     "country": "Finland",
     "email": "jaakko.lamminmaki@folkhalsan.fi",
     "researchArea": "Gut Microbiome, Allergy, Immunology",
@@ -1999,7 +1999,7 @@
   },
   {
     "id": "1787196821",
-    "name": " Ana Maria PirttilÃ¤",
+    "name": " Ana Maria Pirttil\u00c3\u00a4",
     "university": "University of Oulu",
     "country": "Finland",
     "email": "anna.pirttila@oulu.fi",
@@ -3405,5 +3405,327 @@
     "email": "liz.sockett@nottingham.ac.uk",
     "researchArea": "Bacterial genomics, predatory bacteria, pathogenesis",
     "id": "uk-292"
+  },
+  {
+    "name": "Brett Finlay",
+    "email": "bfinlay@msl.ubc.ca",
+    "university": "University of British Columbia",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Bob Hancock",
+    "email": "bob@cmdr.ubc.ca",
+    "university": "University of British Columbia",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Nina Bhatt",
+    "email": "ninan@mail.ubc.ca",
+    "university": "University of British Columbia",
+    "country": "Canada",
+    "researchArea": "Bacterial genomics"
+  },
+  {
+    "name": "Rachel Fernandez",
+    "email": "rachel.fernandez@ubc.ca",
+    "university": "University of British Columbia",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Sean Crowe",
+    "email": "sean.crowe@ubc.ca",
+    "university": "University of British Columbia",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Laura Hug",
+    "email": "laura.hug@uwaterloo.ca",
+    "university": "University of Waterloo",
+    "country": "Canada",
+    "researchArea": "Bacterial genomics"
+  },
+  {
+    "name": "Trevor Charles",
+    "email": "trevor.charles@uwaterloo.ca",
+    "university": "University of Waterloo",
+    "country": "Canada",
+    "researchArea": "Bacterial genomics"
+  },
+  {
+    "name": "Marc Aucoin",
+    "email": "marc.aucoin@uwaterloo.ca",
+    "university": "University of Waterloo",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Brendan McConkey",
+    "email": "brendan.mcconkey@uwaterloo.ca",
+    "university": "University of Waterloo",
+    "country": "Canada",
+    "researchArea": "Bacterial genomics"
+  },
+  {
+    "name": "Shannon Majowicz",
+    "email": "smajowicz@uwaterloo.ca",
+    "university": "University of Waterloo",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Josee Saravanamuthu",
+    "email": "djgreen@sfu.ca",
+    "university": "Simon Fraser University",
+    "country": "Canada",
+    "researchArea": "AMR, antimicrobial resistance"
+  },
+  {
+    "name": "Jonathan Guttman",
+    "email": "jguttman@sfu.ca",
+    "university": "Simon Fraser University",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Emma Allen-Vercoe",
+    "email": "eav@uoguelph.ca",
+    "university": "University of Guelph",
+    "country": "Canada",
+    "researchArea": "Microbiome, metagenomics"
+  },
+  {
+    "name": "Georgina Cox",
+    "email": "gcox@uoguelph.ca",
+    "university": "University of Guelph",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Jennifer Geddes",
+    "email": "jgeddesm@uoguelph.ca",
+    "university": "University of Guelph",
+    "country": "Canada",
+    "researchArea": "Bacterial pathogenesis"
+  },
+  {
+    "name": "Kathy McCoy",
+    "email": "kathy.mccoy@ucalgary.ca",
+    "university": "University of Calgary",
+    "country": "Canada",
+    "researchArea": "Microbiome, metagenomics"
+  },
+  {
+    "name": "William Lewenza",
+    "email": "slewenza@ucalgary.ca",
+    "university": "University of Calgary",
+    "country": "Canada",
+    "researchArea": "Bacterial pathogenesis"
+  },
+  {
+    "name": "Jeroen De Buck",
+    "email": "jdebuck@ucalgary.ca",
+    "university": "University of Calgary",
+    "country": "Canada",
+    "researchArea": "Bacterial pathogenesis"
+  },
+  {
+    "name": "Michael Gaenzle",
+    "email": "mgaenzle@ucalgary.ca",
+    "university": "University of Calgary",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Bobbi Helgason",
+    "email": "bobbi.helgason@usask.ca",
+    "university": "University of Saskatchewan",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Emily Jenkins",
+    "email": "emily.jenkins@usask.ca",
+    "university": "University of Saskatchewan",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Janet Hill",
+    "email": "janet.hill@usask.ca",
+    "university": "University of Saskatchewan",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Elena Comelli",
+    "email": "elena.comelli@utoronto.ca",
+    "university": "University of Toronto",
+    "country": "Canada",
+    "researchArea": "Microbiome, metagenomics"
+  },
+  {
+    "name": "Andrew Lang",
+    "email": "aslang@mun.ca",
+    "university": "Memorial University",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Kapil Tahlan",
+    "email": "ktahlan@mun.ca",
+    "university": "Memorial University",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Andrew Wong",
+    "email": "alex.wong@carleton.ca",
+    "university": "Carleton University",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Joerg Overhage",
+    "email": "JoergOverhage@cunet.carleton.ca",
+    "university": "Carleton University",
+    "country": "Canada",
+    "researchArea": "AMR, antimicrobial resistance"
+  },
+  {
+    "name": "Leigh Anne Swayne",
+    "email": "lswayne@uvic.ca",
+    "university": "University of Victoria",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Lisa Reynolds",
+    "email": "lisareynolds@uvic.ca",
+    "university": "University of Victoria",
+    "country": "Canada",
+    "researchArea": "Microbiome, metagenomics"
+  },
+  {
+    "name": "Sameer Elsayed",
+    "email": "sameer.elsayed@lhsc.on.ca",
+    "university": "Western University",
+    "country": "Canada",
+    "researchArea": "AMR, antimicrobial resistance"
+  },
+  {
+    "name": "Jeremy Burton",
+    "email": "jeremy.burton@uwo.ca",
+    "university": "Western University",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Michael Surette",
+    "email": "surette@mcmaster.ca",
+    "university": "McMaster University",
+    "country": "Canada",
+    "researchArea": "Microbiome, metagenomics"
+  },
+  {
+    "name": "Karen Madsen",
+    "email": "kmadsen@ualberta.ca",
+    "university": "University of Alberta",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Ben Willing",
+    "email": "bwilling@ualberta.ca",
+    "university": "University of Alberta",
+    "country": "Canada",
+    "researchArea": "Microbiome, metagenomics"
+  },
+  {
+    "name": "Elena Verdu",
+    "email": "elena.verdu@mcgill.ca",
+    "university": "McGill University",
+    "country": "Canada",
+    "researchArea": "Microbiome, metagenomics"
+  },
+  {
+    "name": "Dao Nguyen",
+    "email": "dao.nguyen@mcgill.ca",
+    "university": "McGill University",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Giorgia Sulis",
+    "email": "gsulis@uOttawa.ca",
+    "university": "University of Ottawa",
+    "country": "Canada",
+    "researchArea": "AMR, antimicrobial resistance"
+  },
+  {
+    "name": "Frank Oechslin",
+    "email": "Frank.Oechslin@uOttawa.ca",
+    "university": "University of Ottawa",
+    "country": "Canada",
+    "researchArea": "AMR, antimicrobial resistance"
+  },
+  {
+    "name": "Finlay Maguire",
+    "email": "finlay.maguire@dal.ca",
+    "university": "Dalhousie University",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Meghan Azad",
+    "email": "meghan.azad@umanitoba.ca",
+    "university": "University of Manitoba",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Silvia Cardona",
+    "email": "Silvia.Cardona@umanitoba.ca",
+    "university": "University of Manitoba",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Deborah Court",
+    "email": "Deborah.Court@umanitoba.ca",
+    "university": "University of Manitoba",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Scott Weese",
+    "email": "sweese@uoguelph.ca",
+    "university": "University of Guelph",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Patrick Boerlin",
+    "email": "pboerlin@uoguelph.ca",
+    "university": "University of Guelph",
+    "country": "Canada",
+    "researchArea": "AMR, antimicrobial resistance"
+  },
+  {
+    "name": "Andrew Papadopoulos",
+    "email": "apapadop@uoguelph.ca",
+    "university": "University of Guelph",
+    "country": "Canada",
+    "researchArea": "Microbiology"
+  },
+  {
+    "name": "Matthias Gsteppler",
+    "email": "gsteppler@ualberta.ca",
+    "university": "University of Alberta",
+    "country": "Canada",
+    "researchArea": "Microbiology"
   }
 ]
