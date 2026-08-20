@@ -11,5 +11,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787222191",
+    "name": "Mysore Tejesvi",
+    "university": "University of Oulu",
+    "country": "Finland",
+    "email": "mysore.tejesvi@oulu.fi",
+    "subject": "Prospective Graduate Student in Microbiome and Metagenomics Research",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787222191,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
