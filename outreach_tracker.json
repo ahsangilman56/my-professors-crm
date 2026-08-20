@@ -245,5 +245,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787237846",
+    "name": "Joy Scaria",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "joy.scaria@okstate.edu",
+    "subject": "Prospective Graduate Student in Gut Microbiome and Metagenomics",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787237846,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
