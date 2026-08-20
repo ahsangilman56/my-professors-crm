@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PhD Outreach Tracker | Gilman</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0f172a;
+  --card: #1e293b;
+  --border: #334155;
+  --text: #f1f5f9;
+  --text-dim: #94a3b8;
+  --accent: #3b82f6;
+  --green: #22c55e;
+  --red: #ef4444;
+  --yellow: #eab308;
+  --purple: #a855f7;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Inter', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+h1 { font-size: 24px; font-weight: 700; margin-bottom: 4px; }
+h2 { font-size: 16px; font-weight: 500; color: var(--text-dim); margin-bottom: 24px; }
+.stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; margin-bottom: 32px; }
+.stat-card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; text-align: center; }
+.stat-value { font-size: 32px; font-weight: 700; }
+.stat-label { font-size: 13px; color: var(--text-dim); margin-top: 4px; }
+.country-section { margin-bottom: 32px; }
+.country-header { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
+.country-flag { font-size: 28px; }
+.country-title { font-size: 20px; font-weight: 600; }
+.country-count { background: var(--accent); padding: 2px 10px; border-radius: 10px; font-size: 13px; font-weight: 500; }
+.uni-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 16px; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; transition: border-color 0.2s; }
+.uni-card:hover { border-color: var(--accent); }
+.uni-info { flex: 1; }
+.uni-name { font-weight: 600; font-size: 15px; margin-bottom: 4px; }
+.uni-professors { font-size: 13px; color: var(--text-dim); }
+.uni-professor { display: flex; align-items: center; gap: 6px; margin-top: 6px; }
+.prof-name { font-size: 13px; font-weight: 500; }
+.prof-date { font-size: 12px; color: var(--text-dim); margin-left: 8px; }
+.uni-status { text-align: right; margin-left: 16px; }
+.badge { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; white-space: nowrap; }
+.badge-safe { background: rgba(34,197,94,0.15); color: var(--green); border: 1px solid rgba(34,197,94,0.3); }
+.badge-cooldown { background: rgba(239,68,68,0.15); color: var(--red); border: 1px solid rgba(239,68,68,0.3); }
+.badge-sent { background: rgba(168,85,247,0.15); color: var(--purple); border: 1px solid rgba(168,85,247,0.3); }
+.badge-reply { background: rgba(234,179,8,0.15); color: var(--yellow); border: 1px solid rgba(234,179,8,0.3); }
+.days-ago { font-size: 11px; color: var(--text-dim); margin-top: 4px; }
+.reply-badge { display: inline-block; margin-top: 4px; padding: 2px 8px; border-radius: 6px; font-size: 11px; background: rgba(234,179,8,0.1); color: var(--yellow); }
+.empty { text-align: center; padding: 40px; color: var(--text-dim); }
+.loading { text-align: center; padding: 40px; color: var(--text-dim); }
+.refresh-btn { background: var(--accent); color: white; border: none; padding: 8px 16px; border-radius: 8px; font-size: 13px; cursor: pointer; margin-left: 12px; font-family: inherit; }
+.refresh-btn:hover { opacity: 0.85; }
+@media (max-width: 600px) { .uni-card { flex-direction: column; align-items: flex-start; } .uni-status { margin-left: 0; margin-top: 8px; } }
+</style>
+</head>
+<body>
+<h1>PhD Outreach Tracker <button class="refresh-btn" onclick="load()">Refresh</button></h1>
+<h2>Md Abu Ahsan Gilman | 7-Day Cooldown Rule Active</h2>
+
+<div class="stats-grid" id="stats"></div>
+<div id="content"><div class="loading">Loading data...</div></div>
+
+<script>
+const COOLDOWN_DAYS = 7;
+const DATA_URL = 'https://raw.githubusercontent.com/ahsangilman56/my-professors-crm/main/outreach_tracker.json';
+
+function daysSince(dateStr) {
+  if (!dateStr) return 999;
+  const sent = new Date(dateStr + 'T00:00:00Z');
+  const now = new Date();
+  return Math.floor((now - sent) / 86400000);
+}
+
+function formatDate(d) {
+  if (!d) return '';
+  const parts = d.split('-');
+  return `${parts[1]}/${parts[2]}/${parts[0]}`;
+}
+
+function getCountryFlag(country) {
+  const flags = { 'USA': '🇺🇸', 'Finland': '🇫🇮', 'Australia': '🇦🇺', 'Spain': '🇪🇸' };
+  return flags[country] || '🌍';
+}
+
+async function load() {
+  try {
+    const res = await fetch(DATA_URL + '?t=' + Date.now());
+    const data = await res.json();
+    // Filter out placeholder entries
+    const real = data.filter(e => e.university && e.dateSent);
+    render(real);
+  } catch(e) {
+    document.getElementById('content').innerHTML = '<div class="empty">Unable to load data. Make sure outreach_tracker.json exists in the CRM repo.</div>';
+    document.getElementById('stats').innerHTML = '';
+  }
+}
+
+function render(entries) {
+  // Stats
+  const totalSent = entries.filter(e => e.status === 'sent').length;
+  const countries = {};
+  const unis = {};
+  entries.forEach(e => {
+    if (!countries[e.country]) countries[e.country] = 0;
+    if (e.status === 'sent') countries[e.country]++;
+    if (!unis[e.university]) unis[e.university] = [];
+    if (e.status === 'sent') unis[e.university].push(e);
+  });
+  const uniCount = Object.keys(unis).filter(u => unis[u].length > 0).length;
+  const replyCount = entries.filter(e => e.replyReceived).length;
+  const inCooldown = Object.keys(unis).filter(u => {
+    const latest = unis[u].sort((a,b) => b.dateSent.localeCompare(a.dateSent))[0];
+    return latest && daysSince(latest.dateSent) < COOLDOWN_DAYS;
+  }).length;
+
+  document.getElementById('stats').innerHTML = `
+    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${totalSent}</div><div class="stat-label">Emails Sent</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:var(--green)">${uniCount}</div><div class="stat-label">Universities Mailed</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:var(--yellow)">${replyCount}</div><div class="stat-label">Replies Received</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:var(--red)">${inCooldown}</div><div class="stat-label">In 7-Day Cooldown</div></div>
+  `;
+
+  // Group by country
+  const byCountry = {};
+  entries.filter(e => e.status === 'sent').forEach(e => {
+    if (!byCountry[e.country]) byCountry[e.country] = {};
+    if (!byCountry[e.country][e.university]) byCountry[e.country][e.university] = [];
+    byCountry[e.country][e.university].push(e);
+  });
+
+  if (Object.keys(byCountry).length === 0) {
+    document.getElementById('content').innerHTML = '<div class="empty">No emails sent yet. Data will appear here after the first email is sent.</div>';
+    return;
+  }
+
+  let html = '';
+  for (const [country, unis] of Object.entries(byCountry)) {
+    html += `<div class="country-section"><div class="country-header"><span class="country-flag">${getCountryFlag(country)}</span><span class="country-title">${country}</span><span class="country-count">${Object.keys(unis).length} universities</span></div>`;
+    
+    // Sort universities: cooldown first (red), then by most recent
+    const sortedUnis = Object.entries(unis).sort((a, b) => {
+      const aLatest = a[1].sort((x,y) => y.dateSent.localeCompare(x.dateSent))[0];
+      const bLatest = b[1].sort((x,y) => y.dateSent.localeCompare(x.dateSent))[0];
+      const aDays = daysSince(aLatest.dateSent);
+      const bDays = daysSince(bLatest.dateSent);
+      if (aDays < COOLDOWN_DAYS && bDays >= COOLDOWN_DAYS) return -1;
+      if (aDays >= COOLDOWN_DAYS && bDays < COOLDOWN_DAYS) return 1;
+      return aDays - bDays;
+    });
+
+    for (const [uni, profs] of sortedUnis) {
+      const latest = profs.sort((a,b) => b.dateSent.localeCompare(a.dateSent))[0];
+      const days = daysSince(latest.dateSent);
+      const inCool = days < COOLDOWN_DAYS;
+      const remaining = COOLDOWN_DAYS - days;
+      const badge = inCool 
+        ? `<span class="badge badge-cooldown">⏳ ${remaining}d left</span>` 
+        : `<span class="badge badge-safe">✅ Safe to mail</span>`;
+      const daysText = `<div class="days-ago">${days === 0 ? 'Today' : days + ' day' + (days > 1 ? 's' : '') + ' ago'}</div>`;
+
+      let profHtml = '';
+      for (const p of profs.sort((a,b) => b.dateSent.localeCompare(a.dateSent))) {
+        const pDays = daysSince(p.dateSent);
+        const replyTag = p.replyReceived ? '<span class="reply-badge">💬 Reply</span>' : '';
+        profHtml += `<div class="uni-professor"><span class="prof-name">${p.name}</span><span class="prof-date">${formatDate(p.dateSent)}</span>${replyTag}</div>`;
+      }
+
+      html += `<div class="uni-card">
+        <div class="uni-info">
+          <div class="uni-name">${uni}</div>
+          ${profHtml}
+        </div>
+        <div class="uni-status">${badge}${daysText}</div>
+      </div>`;
+    }
+    html += '</div>';
+  }
+
+  document.getElementById('content').innerHTML = html;
+}
+
+load();
+// Auto-refresh every 5 minutes
+setInterval(load, 300000);
+</script>
+</body>
+</html>
