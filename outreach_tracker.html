@@ -137,7 +137,7 @@ function updateClocks() {
   for (const c of CLOCK_ZONES) {
     const now = new Date();
     const time = now.toLocaleTimeString('en-US', { timeZone: c.tz, hour: '2-digit', minute: '2-digit', hour12: true });
-    const date = now.toLocaleDateString('en-US', { timeZone: c.tz, month: 'short', day: 'numeric' });
+    const date = now.toLocaleDateString('en-US', { timeZone: c.tz, weekday: 'short', month: 'short', day: 'numeric' });
     html += `<div class="clock-card">
       <div class="clock-flag">${c.flag}</div>
       <div class="clock-country">${c.country}</div>
