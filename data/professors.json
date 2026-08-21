@@ -3727,5 +3727,362 @@
     "university": "University of Alberta",
     "country": "Canada",
     "researchArea": "Microbiology"
+  },
+  {
+    "id": "1787338319418",
+    "name": "Dr Alex Grinberg",
+    "university": "Massey University",
+    "country": "New Zealand",
+    "email": "A.Grinberg@massey.ac.nz",
+    "researchArea": "Veterinary microbiology, AMR epidemiology, Cryptosporidium, ESBL E. coli, infectious disease",
+    "homepage": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=745830",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319419",
+    "name": "Dr Chris Compton",
+    "university": "Massey University",
+    "country": "New Zealand",
+    "email": "C.Compton@massey.ac.nz",
+    "researchArea": "Antimicrobial usage and resistance, dairy farm AMU, prescribing patterns",
+    "homepage": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=306450",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319420",
+    "name": "Dr Dragana Gagi\u0107",
+    "university": "Massey University",
+    "country": "New Zealand",
+    "email": "D.Gagic@massey.ac.nz",
+    "researchArea": "Metagenomics, microbial ecology, probiotics, host-microbe interactions, bacteriophage technologies",
+    "homepage": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=478050",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319421",
+    "name": "Dr Sebastian Schmeier",
+    "university": "Massey University",
+    "country": "New Zealand",
+    "email": "S.Schmeier@massey.ac.nz",
+    "researchArea": "Metagenomics, transcriptomics, colorectal cancer microbiome, bioinformatics",
+    "homepage": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=247250",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319422",
+    "name": "Dr Olin Silander",
+    "university": "Massey University",
+    "country": "New Zealand",
+    "email": "O.Silander@massey.ac.nz",
+    "researchArea": "Short/long-read metagenomics, microbial genomics, cancer-associated microbiomes",
+    "homepage": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=293350",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319423",
+    "name": "Dr Joanna McKenzie",
+    "university": "Massey University",
+    "country": "New Zealand",
+    "email": "J.McKenzie@massey.ac.nz",
+    "researchArea": "AMROH programme (Fleming Fund \u00a32.3M), One Health AMR surveillance South Asia, COMBAT-AMR",
+    "homepage": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=947790",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319424",
+    "name": "Associate Professor Daniel Pletzer",
+    "university": "University of Otago",
+    "country": "New Zealand",
+    "email": "daniel.pletzer@otago.ac.nz",
+    "researchArea": "AMR, polymicrobial biofilms, antibiotic tolerance, difficult-to-treat infections, skin infection models",
+    "homepage": "https://pletzerlab.com/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319425",
+    "name": "Associate Professor Htin Lin Aung",
+    "university": "University of Otago",
+    "country": "New Zealand",
+    "email": "htinlin.aung@otago.ac.nz",
+    "researchArea": "TB genomics, AMR, WGS (Illumina/Nanopore), genomic epidemiology, respiratory microbiome",
+    "homepage": "https://www.otago.ac.nz/microbiology-and-immunology/our-people/htin-lin-aung",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319426",
+    "name": "Associate Professor Nick Heng",
+    "university": "University of Otago",
+    "country": "New Zealand",
+    "email": "nick.heng@otago.ac.nz",
+    "researchArea": "Bacterial genomics, oral metagenomics, WGS, Streptococcus, bacteriocins, bioinformatics",
+    "homepage": "https://www.otago.ac.nz/dentistry/research/expertise/profile?id=444",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319427",
+    "name": "Associate Professor Ghader Bashiri",
+    "university": "University of Auckland",
+    "country": "New Zealand",
+    "email": "g.bashiri@auckland.ac.nz",
+    "researchArea": "AMR, antimicrobial discovery, Centre for Antimicrobial Research leadership",
+    "homepage": "https://www.antimicrobialresearch.auckland.ac.nz/people/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319428",
+    "name": "Associate Professor Siouxsie Wiles",
+    "university": "University of Auckland",
+    "country": "New Zealand",
+    "email": "s.wiles@auckland.ac.nz",
+    "researchArea": "Infectious disease, AMR, bioluminescence tracking, antimicrobial compounds",
+    "homepage": "https://profiles.auckland.ac.nz/s-wiles",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319429",
+    "name": "Professor Jack Heinemann",
+    "university": "University of Canterbury",
+    "country": "New Zealand",
+    "email": "jack.heinemann@canterbury.ac.nz",
+    "researchArea": "AMR + HGT (exact match), pollutants/climate effects on AMR, microbial genetics",
+    "homepage": "https://www.canterbury.ac.nz/science/contact-us/people/jack-heinemann.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319430",
+    "name": "Dr Jeremy Owen",
+    "university": "Victoria University of Wellington",
+    "country": "New Zealand",
+    "email": "jeremy.owen@vuw.ac.nz",
+    "researchArea": "Metagenomics, drug discovery, marine symbiotic microbiomes, specialized metabolites",
+    "homepage": "https://www.wgtn.ac.nz/sbs/research/cell-molecular-biology-research/research-index",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319431",
+    "name": "Associate Professor Monica Gerth",
+    "university": "Victoria University of Wellington",
+    "country": "New Zealand",
+    "email": "monica.gerth@vuw.ac.nz",
+    "researchArea": "Molecular microbiology, antibiotic resistance, enzyme/metabolic pathway evolution",
+    "homepage": "https://www.wgtn.ac.nz/sbs/about/staff",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319432",
+    "name": "Dr Donnabella Lacap-Bugler",
+    "university": "Auckland University of Technology",
+    "country": "New Zealand",
+    "email": "d.lacap-bugler@aut.ac.nz",
+    "researchArea": "Microbial ecology, microbiome, environmental microbiology",
+    "homepage": "https://www.aut.ac.nz/study/study-options/science/academic-staff",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319433",
+    "name": "Dr Kevin Lee",
+    "university": "Auckland University of Technology",
+    "country": "New Zealand",
+    "email": "k.lee@aut.ac.nz",
+    "researchArea": "Microbiology",
+    "homepage": "https://www.aut.ac.nz/study/study-options/science/academic-staff",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319434",
+    "name": "Dr Colleen Higgins",
+    "university": "Auckland University of Technology",
+    "country": "New Zealand",
+    "email": "c.higgins@aut.ac.nz",
+    "researchArea": "Illumina MiSeq sequencing, fermentation microbiomes, kefir microbiota, microbial diversity",
+    "homepage": "https://academics.aut.ac.nz/colleen.higgins/publications",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319435",
+    "name": "Dr Charles Lee",
+    "university": "University of Waikato",
+    "country": "New Zealand",
+    "email": "charles.lee@waikato.ac.nz",
+    "researchArea": "Antarctic Dry Valleys microbial ecology, metagenomics, shotgun metagenomics",
+    "homepage": "https://ictar.aq/personnel/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319436",
+    "name": "Dr Kiri Joy Wallace",
+    "university": "University of Waikato",
+    "country": "New Zealand",
+    "email": "kiri.wallace@waikato.ac.nz",
+    "researchArea": "Shotgun metagenomics, soil microbiome functional potential, compound processing potential",
+    "homepage": "https://profiles.waikato.ac.nz/kiri.wallace/publications",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319437",
+    "name": "Dr Charlotte Alster",
+    "university": "Lincoln University",
+    "country": "New Zealand",
+    "email": "charlotte.alster@lincoln.ac.nz",
+    "researchArea": "Soil microbial ecology, temperature sensitivity, climate change, thermal adaptation, metagenomics",
+    "homepage": "https://researchers.lincoln.ac.nz/charlotte.alster",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787338319438",
+    "name": "Dr Artemio Mendoza-Mendoza",
+    "university": "Lincoln University",
+    "country": "New Zealand",
+    "email": "artemio.mendoza@lincoln.ac.nz",
+    "researchArea": "Rhizosphere, endosphere, seed microbial ecology, plant-soil microbiology",
+    "homepage": "https://www.findaphd.com/phds/project/phd-in-soil-microbial-ecology/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
