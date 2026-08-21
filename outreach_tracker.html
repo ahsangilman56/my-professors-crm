@@ -70,6 +70,40 @@ h2 { font-size: 16px; font-weight: 500; color: var(--text-dim); margin-bottom: 2
 .refresh-btn { background: var(--accent); color: white; border: none; padding: 8px 16px; border-radius: 8px; font-size: 13px; cursor: pointer; margin-left: 12px; font-family: inherit; }
 .refresh-btn:hover { opacity: 0.85; }
 @media (max-width: 600px) { .uni-card { flex-direction: column; align-items: flex-start; } .uni-status { margin-left: 0; margin-top: 8px; } .clock-grid { grid-template-columns: repeat(3, 1fr); } }
+
+/* Refresh button */
+.refresh-btn {
+  background: var(--accent);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 20px;
+  transition: all 0.2s;
+}
+.refresh-btn:hover { background: #2563eb; transform: scale(1.02); }
+.refresh-btn:active { transform: scale(0.98); }
+.refresh-btn.loading { opacity: 0.6; pointer-events: none; }
+.last-refresh { font-size: 11px; color: var(--text-dim); margin-left: 12px; }
+
+/* Reply status badges */
+.reply-positive { background: rgba(34, 197, 94, 0.15); color: var(--green); border: 1px solid rgba(34, 197, 94, 0.3); }
+.reply-rejected { background: rgba(239, 68, 68, 0.15); color: var(--red); border: 1px solid rgba(239, 68, 68, 0.3); }
+.reply-retired { background: rgba(148, 163, 184, 0.15); color: var(--text-dim); border: 1px solid rgba(148, 163, 184, 0.3); }
+.reply-pending { background: rgba(234, 179, 8, 0.15); color: var(--yellow); border: 1px solid rgba(234, 179, 8, 0.3); }
+.reply-note {
+  font-size: 12px;
+  color: var(--text-dim);
+  margin-top: 4px;
+  padding: 6px 10px;
+  background: rgba(59, 130, 246, 0.08);
+  border-radius: 6px;
+  border-left: 3px solid var(--accent);
+}
+
 </style>
 </head>
 <body>
@@ -206,8 +240,19 @@ function render(entries) {
 
       let profHtml = '';
       for (const p of profs.sort((a,b) => b.dateSent.localeCompare(a.dateSent))) {
-        const replyTag = p.replyReceived ? '<span class="reply-badge">💬 Reply</span>' : '';
-        profHtml += `<div class="uni-professor"><span class="prof-name">${p.name}</span><span class="prof-date">${formatDate(p.dateSent)}</span>${replyTag}</div>`;
+        let replyTag = '';
+        let replyNoteHtml = '';
+        if (p.status && p.status.startsWith('replied')) {
+          let badgeClass = 'reply-pending';
+          let badgeText = '💬 Reply';
+          if (p.status.includes('positive')) { badgeClass = 'reply-positive'; badgeText = '✅ Positive Reply'; }
+          else if (p.status.includes('rejected')) { badgeClass = 'reply-rejected'; badgeText = '❌ Rejected'; }
+          else if (p.status.includes('retired')) { badgeClass = 'reply-retired'; badgeText = '🚫 Retired'; }
+          else if (p.status.includes('auto')) { badgeClass = 'reply-pending'; badgeText = '⏳ Auto-reply'; }
+          replyTag = `<span class="badge ${badgeClass}">${badgeText}</span>`;
+          if (p.replyNote) replyNoteHtml = `<div class="reply-note">${p.replyNote}</div>`;
+        }
+        profHtml += `<div class="uni-professor"><span class="prof-name">${p.name}</span><span class="prof-date">${formatDate(p.dateSent)}</span>${replyTag}</div>${replyNoteHtml}`;
       }
 
       html += `<div class="uni-card">
@@ -224,11 +269,32 @@ function render(entries) {
   document.getElementById('content').innerHTML = html;
 }
 
+function updateLastRefresh() {
+  const now = new Date();
+  const time = now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: true });
+  document.getElementById('lastRefresh').textContent = 'Last updated: ' + time;
+}
+
+async function hardRefresh() {
+  const btn = document.querySelector('.refresh-btn');
+  btn.classList.add('loading');
+  btn.textContent = '🔄 Loading...';
+  await load();
+  btn.classList.remove('loading');
+  btn.textContent = '🔄 Refresh Data';
+  updateLastRefresh();
+}
+
 updateClocks();
 load();
+updateLastRefresh();
 setInterval(updateClocks, 1000);
 setInterval(load, 300000);
+
 </script>
 </body>
-<!-- v2026 clocks -->
-</html>
+<!-- v2026.08.21 refresh+replies -->
+</html<button class="refresh-btn" onclick="hardRefresh()">🔄 Refresh Data</button>
+<span class="last-refresh" id="lastRefresh"></span>
+<div style="clear:both;"></div>
+>
