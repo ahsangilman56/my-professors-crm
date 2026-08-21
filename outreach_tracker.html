@@ -179,17 +179,17 @@ async function load() {
 }
 
 function render(entries) {
-  const totalSent = entries.filter(e => e.status === 'sent').length;
+  const totalSent = entries.filter(e => e.dateSent).length;
   const countries = {};
   const unis = {};
   entries.forEach(e => {
     if (!countries[e.country]) countries[e.country] = 0;
-    if (e.status === 'sent') countries[e.country]++;
+    countries[e.country] = (countries[e.country] || 0) + 1;
     if (!unis[e.university]) unis[e.university] = [];
-    if (e.status === 'sent') unis[e.university].push(e);
+    unis[e.university].push(e);
   });
   const uniCount = Object.keys(unis).filter(u => unis[u].length > 0).length;
-  const replyCount = entries.filter(e => e.replyReceived).length;
+  const replyCount = entries.filter(e => e.status && e.status.startsWith('replied')).length;
   const inCooldown = Object.keys(unis).filter(u => {
     const latest = unis[u].sort((a,b) => b.dateSent.localeCompare(a.dateSent))[0];
     return latest && daysSince(latest.dateSent) < COOLDOWN_DAYS;
@@ -203,7 +203,7 @@ function render(entries) {
   `;
 
   const byCountry = {};
-  entries.filter(e => e.status === 'sent').forEach(e => {
+  entries.filter(e => e.dateSent).forEach(e => {
     if (!byCountry[e.country]) byCountry[e.country] = {};
     if (!byCountry[e.country][e.university]) byCountry[e.country][e.university] = [];
     byCountry[e.country][e.university].push(e);
