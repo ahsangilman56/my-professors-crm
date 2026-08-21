@@ -177,9 +177,11 @@
     "subject": "Prospective Graduate Student in Microbiology and Microbial Stress Response",
     "dateSent": "2026-08-19",
     "timestamp": 1787222929,
-    "status": "sent",
+    "status": "replied - rejected",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "replyDate": "2026-08-18",
+    "replyNote": "Moved ahead with other applicants"
   },
   {
     "id": "mail-1787222930",
@@ -203,9 +205,11 @@
     "subject": "Prospective Graduate Student in Microbial Ecology and Environmental AMR",
     "dateSent": "2026-08-20",
     "timestamp": 1787233180,
-    "status": "sent",
+    "status": "replied - retired",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "replyDate": "2026-08-21",
+    "replyNote": "Retired, not accepting students"
   },
   {
     "id": "mail-1787233184",
@@ -216,9 +220,11 @@
     "subject": "Prospective Graduate Student in Metagenomics and Respiratory Microbiome Research",
     "dateSent": "2026-08-20",
     "timestamp": 1787233184,
-    "status": "sent",
+    "status": "replied - auto-reply",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "replyDate": "2026-08-20",
+    "replyNote": "Away until Aug 25, expect delayed reply"
   },
   {
     "id": "mail-1787233188",
@@ -385,9 +391,11 @@
     "subject": "Prospective Graduate Student in Bacterial Pathogenesis and Antimicrobial Resistance",
     "dateSent": "2026-08-20",
     "timestamp": 1787237887,
-    "status": "sent",
+    "status": "replied - positive",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "replyDate": "2026-08-20",
+    "replyNote": "Taking students. Apply to MCB PhD program at https://mcb.illinois.edu/academics/phd-programs. Contact: Shawna Smith and Brandon Stevens."
   },
   {
     "id": "mail-1787238055",
