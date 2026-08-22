@@ -4388,5 +4388,133 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1787422934284",
+    "name": "Ruth Massey",
+    "university": "University College Cork",
+    "country": "Ireland",
+    "email": "r.massey@ucc.ie",
+    "researchArea": "AMR, Staphylococcus aureus pathogen genomics, infection biology",
+    "homepage": "https://www.ucc.ie/en/apc/research/our-labs/masseylab/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787422934285",
+    "name": "Jens Walter",
+    "university": "University College Cork",
+    "country": "Ireland",
+    "email": "jens.walter@ucc.ie",
+    "researchArea": "Gut microbiome ecology, metabolism, diet-microbiome interactions",
+    "homepage": "https://research.ucc.ie/en/persons/jens-walter/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787422934285",
+    "name": "Colin Hill",
+    "university": "University College Cork",
+    "country": "Ireland",
+    "email": "c.hill@ucc.ie",
+    "researchArea": "Probiotics, bacteriocins, phage therapy, food microbiology",
+    "homepage": "https://www.ucc.ie/en/apc/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787422934285",
+    "name": "Paul Cotter",
+    "university": "Teagasc Food Research Centre / APC",
+    "country": "Ireland",
+    "email": "paul.cotter@teagasc.ie",
+    "researchArea": "Food microbiome, metagenomics, probiotics, antimicrobial resistance",
+    "homepage": "https://www.teagasc.ie/research/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787422934285",
+    "name": "Catherine Stanton",
+    "university": "Teagasc Food Research Centre / APC",
+    "country": "Ireland",
+    "email": "catherine.stanton@teagasc.ie",
+    "researchArea": "Gut microbiome, dairy functional foods, probiotics",
+    "homepage": "https://www.teagasc.ie/research/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787422934285",
+    "name": "Séamus Fanning",
+    "university": "University College Dublin",
+    "country": "Ireland",
+    "email": "sfanning@ucd.ie",
+    "researchArea": "Foodborne pathogens, whole genome sequencing, AMR, One Health",
+    "homepage": "https://people.ucd.ie/sfanning",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787422934285",
+    "name": "Marta Martins",
+    "university": "Trinity College Dublin",
+    "country": "Ireland",
+    "email": "mmartins@tcd.ie",
+    "researchArea": "Antimicrobial resistance mechanisms, host-pathogen modulation, mycobacteria",
+    "homepage": "https://www.tcd.ie/research/profiles/?profile=mmartins",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787422934285",
+    "name": "James O'Gara",
+    "university": "University of Galway",
+    "country": "Ireland",
+    "email": "j.ogara@universityofgalway.ie",
+    "researchArea": "Staphylococcus biofilms, antimicrobial tolerance, MRSA epidemiology",
+    "homepage": "https://research.universityofgalway.ie/en/persons/james-p-ogara/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
