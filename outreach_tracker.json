@@ -301,8 +301,9 @@
     "dateSent": "2026-08-20",
     "timestamp": 1787237859,
     "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
+    "replyReceived": true,
+    "replySummary": "Reply received",
+    "replyDate": "2026-08-21"
   },
   {
     "id": "mail-1787237863",
@@ -314,8 +315,9 @@
     "dateSent": "2026-08-20",
     "timestamp": 1787237863,
     "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
+    "replyReceived": true,
+    "replySummary": "Reply received",
+    "replyDate": "2026-08-22"
   },
   {
     "id": "mail-1787237867",
@@ -340,8 +342,9 @@
     "dateSent": "2026-08-20",
     "timestamp": 1787237871,
     "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
+    "replyReceived": true,
+    "replySummary": "Reply received",
+    "replyDate": "2026-08-21"
   },
   {
     "id": "mail-1787237875",
@@ -422,5 +425,47 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1787393548-tiedjej",
+    "name": "James Tiedje",
+    "university": "Michigan State University",
+    "country": "USA",
+    "email": "tiedjej@msu.edu",
+    "subject": "Prospective Graduate Student...",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787393548,
+    "status": "sent",
+    "replyReceived": true,
+    "replyDate": "2026-08-21",
+    "replySummary": "Reply received"
+  },
+  {
+    "id": "mail-1787393548-dariange",
+    "name": "Ariangela Kozik",
+    "university": "University of Michigan",
+    "country": "USA",
+    "email": "dariange@umich.edu",
+    "subject": "Prospective Graduate Student...",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787393548,
+    "status": "sent",
+    "replyReceived": true,
+    "replyDate": "2026-08-20",
+    "replySummary": "Reply received"
+  },
+  {
+    "id": "mail-1787393548-jdahl1",
+    "name": "Jan Dahl",
+    "university": "Illinois State University",
+    "country": "USA",
+    "email": "jdahl1@ilstu.edu",
+    "subject": "Prospective Graduate Student...",
+    "dateSent": "2026-08-20",
+    "timestamp": 1787393548,
+    "status": "sent",
+    "replyReceived": true,
+    "replyDate": "2026-08-18",
+    "replySummary": "Reply received"
   }
 ]
