@@ -4516,5 +4516,197 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1787423150365",
+    "name": "Frank Aarestrup",
+    "university": "Technical University of Denmark (DTU)",
+    "country": "Denmark",
+    "email": "far@food.dtu.dk",
+    "researchArea": "Genomic AMR surveillance, One Health, foodborne pathogens, global microbiology",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423150365",
+    "name": "Pimlapas Leekitcharoenphon",
+    "university": "Technical University of Denmark (DTU)",
+    "country": "Denmark",
+    "email": "pile@food.dtu.dk",
+    "researchArea": "Whole genome sequencing, Salmonella, AMR epidemiology",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423150365",
+    "name": "Rene Hendriksen",
+    "university": "Technical University of Denmark (DTU)",
+    "country": "Denmark",
+    "email": "reneh@food.dtu.dk",
+    "researchArea": "Plasmid biology, AMR gene transfer, livestock reservoirs",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423150365",
+    "name": "Morten Rasmussen",
+    "university": "University of Copenhagen",
+    "country": "Denmark",
+    "email": "morten.rasmussen@sund.ku.dk",
+    "researchArea": "Microbial genomics, bacterial evolution, host-pathogen interactions",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423150365",
+    "name": "Soren Brunak",
+    "university": "University of Copenhagen / DTU",
+    "country": "Denmark",
+    "email": "soeren.brunak@sund.ku.dk",
+    "researchArea": "Computational biology, microbiome disease associations, machine learning",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423150365",
+    "name": "Manimozhiyan Arumugam",
+    "university": "University of Copenhagen",
+    "country": "Denmark",
+    "email": "arumugam@sund.ku.dk",
+    "researchArea": "Gut microbiome, metagenomics, metabolic diseases",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423150366",
+    "name": "Mads Albertsen",
+    "university": "Aalborg University",
+    "country": "Denmark",
+    "email": "ma@bio.aau.dk",
+    "researchArea": "Microbial ecology, amplicon and shotgun metagenomics, wastewater microbiomes",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423150366",
+    "name": "Per Halkjaer Nielsen",
+    "university": "Aalborg University",
+    "country": "Denmark",
+    "email": "phn@bio.aau.dk",
+    "researchArea": "Activated sludge microbiomes, microbial ecology, MiDAS database",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423150366",
+    "name": "Frank Pessler",
+    "university": "Hannover Medical School / TWINCORE",
+    "country": "Germany",
+    "email": "frank.pessler@twincore.de",
+    "researchArea": "Pediatric infectious diseases, respiratory pathogens, AMR",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423150366",
+    "name": "Torsten Hain",
+    "university": "Justus Liebig University Giessen",
+    "country": "Germany",
+    "email": "torsten.hain@mikrobio.med.uni-giessen.de",
+    "researchArea": "Listeria genomics, bacterial pathogenesis, transcriptomics",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423150366",
+    "name": "Trinad Chakraborty",
+    "university": "Justus Liebig University Giessen",
+    "country": "Germany",
+    "email": "trinad.chakraborty@mikrobio.med.uni-giessen.de",
+    "researchArea": "Bacterial pathogenesis, Listeria, zoonotic infections",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423150366",
+    "name": "Marcus Fulde",
+    "university": "Freie Universitaet Berlin",
+    "country": "Germany",
+    "email": "marcus.fulde@fu-berlin.de",
+    "researchArea": "Host-pathogen-microbiome interactions, Streptococcus, veterinary infection biology",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
