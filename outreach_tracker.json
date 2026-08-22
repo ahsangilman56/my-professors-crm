@@ -178,8 +178,8 @@
     "dateSent": "2026-08-19",
     "timestamp": 1787222929,
     "status": "replied - rejected",
-    "replyReceived": false,
-    "replySummary": "",
+    "replyReceived": true,
+    "replySummary": "Decided to move ahead with other applicants; rejected application",
     "replyDate": "2026-08-18",
     "replyNote": "Moved ahead with other applicants"
   },
@@ -206,8 +206,8 @@
     "dateSent": "2026-08-20",
     "timestamp": 1787233180,
     "status": "replied - retired",
-    "replyReceived": false,
-    "replySummary": "",
+    "replyReceived": true,
+    "replySummary": "Retired; not accepting students",
     "replyDate": "2026-08-21",
     "replyNote": "Retired, not accepting students"
   },
@@ -221,8 +221,8 @@
     "dateSent": "2026-08-20",
     "timestamp": 1787233184,
     "status": "replied - auto-reply",
-    "replyReceived": false,
-    "replySummary": "",
+    "replyReceived": true,
+    "replySummary": "Away until Aug 25; auto-reply with delayed response notice",
     "replyDate": "2026-08-20",
     "replyNote": "Away until Aug 25, expect delayed reply"
   },
@@ -302,7 +302,7 @@
     "timestamp": 1787237859,
     "status": "sent",
     "replyReceived": true,
-    "replySummary": "Reply received",
+    "replySummary": "No funding currently; may change in fall; asked to reconnect in November",
     "replyDate": "2026-08-21"
   },
   {
@@ -316,7 +316,7 @@
     "timestamp": 1787237863,
     "status": "sent",
     "replyReceived": true,
-    "replySummary": "Reply received",
+    "replySummary": "Interested but too early for Fall 2027; asked to contact again in early October",
     "replyDate": "2026-08-22"
   },
   {
@@ -343,7 +343,7 @@
     "timestamp": 1787237871,
     "status": "sent",
     "replyReceived": true,
-    "replySummary": "Reply received",
+    "replySummary": "Not accepting new students due to funding and bandwidth limitations",
     "replyDate": "2026-08-21"
   },
   {
@@ -410,8 +410,8 @@
     "dateSent": "2026-08-20",
     "timestamp": 1787238055,
     "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
+    "replyReceived": true,
+    "replySummary": "Not accepting new students due to funding and bandwidth limitations"
   },
   {
     "id": "mail-1787238060",
@@ -438,7 +438,7 @@
     "status": "sent",
     "replyReceived": true,
     "replyDate": "2026-08-21",
-    "replySummary": "Reply received"
+    "replySummary": "Retired; not accepting students"
   },
   {
     "id": "mail-1787393548-dariange",
@@ -452,7 +452,7 @@
     "status": "sent",
     "replyReceived": true,
     "replyDate": "2026-08-20",
-    "replySummary": "Reply received"
+    "replySummary": "Away until Aug 25; auto-reply with delayed response notice"
   },
   {
     "id": "mail-1787393548-jdahl1",
@@ -466,6 +466,6 @@
     "status": "sent",
     "replyReceived": true,
     "replyDate": "2026-08-18",
-    "replySummary": "Reply received"
+    "replySummary": "Decided to move ahead with other applicants; rejected application"
   }
 ]
