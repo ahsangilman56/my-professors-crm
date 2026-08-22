@@ -4084,5 +4084,309 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "name": "Thijs Ettema",
+    "university": "Wageningen University & Research",
+    "country": "Netherlands",
+    "email": "thijs.ettema@wur.nl",
+    "researchArea": "Microbial Genomics, Microbial Diversity, Evolutionary Microbiology",
+    "homepage": "https://www.wur.nl/en/persons/thijs-ettema.htm",
+    "researchProfile": "https://scholar.google.com/citations?user=V-kY-8kAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Marnix Medema",
+    "university": "Wageningen University & Research",
+    "country": "Netherlands",
+    "email": "marnix.medema@wur.nl",
+    "researchArea": "Bioinformatics, Antibiotic Discovery, Metagenomics, Natural Products Genomics",
+    "homepage": "https://www.wur.nl/en/persons/marnix-medema.htm",
+    "researchProfile": "https://scholar.google.com/citations?user=yB4P07UAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Detmer Sipkema",
+    "university": "Wageningen University & Research",
+    "country": "Netherlands",
+    "email": "detmer.sipkema@wur.nl",
+    "researchArea": "Marine Microbiology, Microbial Ecology, Bioactive Compounds",
+    "homepage": "https://www.wur.nl/en/persons/detmer-sipkema.htm",
+    "researchProfile": "https://scholar.google.com/citations?user=q0h-pGgAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Bas E. Dutilh",
+    "university": "Utrecht University",
+    "country": "Netherlands",
+    "email": "b.e.dutilh@uu.nl",
+    "researchArea": "Metagenomics, Viral Ecology, Bioinformatics, Microbial Communities",
+    "homepage": "https://www.uu.nl/staff/BEDutilh",
+    "researchProfile": "https://scholar.google.com/citations?user=aG486-AAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Alex Bossers",
+    "university": "Utrecht University",
+    "country": "Netherlands",
+    "email": "a.bossers@uu.nl",
+    "researchArea": "One Health Microbial Genomics, Metagenomics, AMR, Pathogen Transmission",
+    "homepage": "https://www.uu.nl/staff/ABossers",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Stanley Brul",
+    "university": "University of Amsterdam",
+    "country": "Netherlands",
+    "email": "s.brul@uva.nl",
+    "researchArea": "Molecular Biology, Microbial Food Safety, Antibiotic Resistance, Microbiome",
+    "homepage": "https://sils.uva.nl/content/research-groups/molecular-biology-and-microbial-food-safety/molecular-biology-and-microbial-food-safety.html",
+    "researchProfile": "https://scholar.google.com/citations?user=K7Z5C_wAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Sahar El Aidy",
+    "university": "University of Amsterdam",
+    "country": "Netherlands",
+    "email": "s.elaidy@uva.nl",
+    "researchArea": "Microbiome Engineering, Gut Microbiome, Host-Microbe Interactions",
+    "homepage": "https://sils.uva.nl/content/research-groups/microbiome-engineering/microbiome-engineering.html",
+    "researchProfile": "https://scholar.google.com/citations?user=ElAidySAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Heiman Wertheim",
+    "university": "Radboud University Medical Center",
+    "country": "Netherlands",
+    "email": "heiman.wertheim@radboudumc.nl",
+    "researchArea": "Antimicrobial Resistance, Clinical Microbiology, Genomic Surveillance, One Health",
+    "homepage": "https://www.radboudumc.nl/en/people/heiman-wertheim",
+    "researchProfile": "https://scholar.google.com/citations?user=G6h125sAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Jakko van Ingen",
+    "university": "Radboud University Medical Center",
+    "country": "Netherlands",
+    "email": "jakko.vaningen@radboudumc.nl",
+    "researchArea": "Mycobacterial Genomics, WGS, Antimicrobial Resistance, Diagnostics",
+    "homepage": "https://www.radboudumc.nl/en/people/jakko-van-ingen",
+    "researchProfile": "https://scholar.google.com/citations?user=Y7yU4-MAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Hermie Harmsen",
+    "university": "University of Groningen",
+    "country": "Netherlands",
+    "email": "h.j.m.harmsen@umcg.nl",
+    "researchArea": "Human Microbiome, Gut Microbiota, Probiotics, Metagenomics",
+    "homepage": "https://www.rug.nl/staff/h.j.m.harmsen/",
+    "researchProfile": "https://scholar.google.com/citations?user=HarmsenHJMAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Alexandra Zhernakova",
+    "university": "University of Groningen",
+    "country": "Netherlands",
+    "email": "a.zhernakova@umcg.nl",
+    "researchArea": "Microbiome, Human Genome, Exposome, Disease Development",
+    "homepage": "https://www.rug.nl/staff/a.zhernakova/",
+    "researchProfile": "https://scholar.google.com/citations?user=ZhernakovaAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Ed Kuijper",
+    "university": "Leiden University Medical Center",
+    "country": "Netherlands",
+    "email": "e.j.kuijper@lumc.nl",
+    "researchArea": "Clostridioides difficile, Microbiota, Antimicrobial Resistance, Fecal Transplantation",
+    "homepage": "https://www.universiteitleiden.nl/en/staffmembers/ed-kuijper",
+    "researchProfile": "https://scholar.google.com/citations?user=Y7yU4-MAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Gilles van Wezel",
+    "university": "Leiden University",
+    "country": "Netherlands",
+    "email": "g.wezel@biology.leidenuniv.nl",
+    "researchArea": "Antibiotic Discovery, Streptomyces, Molecular Biotechnology, Bacterial Genomics",
+    "homepage": "https://www.universiteitleiden.nl/en/staffmembers/gilles-van-wezel",
+    "researchProfile": "https://scholar.google.com/citations?user=VanWezelGAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "John P. Hays",
+    "university": "Erasmus MC, University Medical Center Rotterdam",
+    "country": "Netherlands",
+    "email": "j.hays@erasmusmc.nl",
+    "researchArea": "Antimicrobial Resistance, Microbiota, Molecular Diagnostics, Nanopore Sequencing",
+    "homepage": "https://www.erasmusmc.nl/en/research/researchers/hays-john",
+    "researchProfile": "https://scholar.google.com/citations?user=HaysJPAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Margreet C. Vos",
+    "university": "Erasmus MC, University Medical Center Rotterdam",
+    "country": "Netherlands",
+    "email": "m.vos@erasmusmc.nl",
+    "researchArea": "Infection Prevention, MRSA, Hospital Microbiome, AMR",
+    "homepage": "https://www.erasmusmc.nl/en/research/researchers/vos-margreet",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Wilbert Bitter",
+    "university": "Vrije Universiteit Amsterdam",
+    "country": "Netherlands",
+    "email": "w.bitter@vu.nl",
+    "researchArea": "Molecular Microbiology, Mycobacterium tuberculosis, AMR Mechanisms, Antimicrobial Discovery",
+    "homepage": "https://research.vu.nl/en/persons/wilbert-bitter",
+    "researchProfile": "https://scholar.google.com/citations?user=BitterWAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Bas Teusink",
+    "university": "Vrije Universiteit Amsterdam",
+    "country": "Netherlands",
+    "email": "b.teusink@vu.nl",
+    "researchArea": "Systems Biology, Microbiome, Microbial Metabolism, Computational Biology",
+    "homepage": "https://research.vu.nl/en/persons/bas-teusink",
+    "researchProfile": "https://scholar.google.com/citations?user=TeusinkBAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Samarpita Roy",
+    "university": "TU Delft",
+    "country": "Netherlands",
+    "email": "s.roy@tudelft.nl",
+    "researchArea": "Metagenomics, Environmental Microbiology, Microbial Ecology, Wastewater Biotechnology",
+    "homepage": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-sections/environmental-biotechnology",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "name": "Mark van Loosdrecht",
+    "university": "TU Delft",
+    "country": "Netherlands",
+    "email": "m.c.m.vanloosdrecht@tudelft.nl",
+    "researchArea": "Environmental Biotechnology, Microbial Ecology, Biofilm Processes, Metagenomics",
+    "homepage": "https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/biotechnology/research-sections/environmental-biotechnology",
+    "researchProfile": "https://scholar.google.com/citations?user=VanLoosdrechtAAAAJ",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
