@@ -4676,5 +4676,133 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1787423749104",
+    "name": "Finola Leonard",
+    "university": "University College Dublin",
+    "country": "Ireland",
+    "email": "nola.leonard@ucd.ie",
+    "researchArea": "Veterinary microbiology, bovine mastitis, AMR, One Health",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423749104",
+    "name": "Guerrino Macori",
+    "university": "University College Dublin",
+    "country": "Ireland",
+    "email": "guerrino.macori@ucd.ie",
+    "researchArea": "Food microbiology, microbiome, probiotics, food safety",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423749104",
+    "name": "Miryam Bonvegna",
+    "university": "University College Dublin",
+    "country": "Ireland",
+    "email": "miryam.bonvegna@ucd.ie",
+    "researchArea": "Veterinary microbiology, antimicrobial resistance, bacterial pathogens",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423749104",
+    "name": "Stephen Smith",
+    "university": "Trinity College Dublin",
+    "country": "Ireland",
+    "email": "sgsmith@tcd.ie",
+    "researchArea": "Mycobacterial AMR mechanisms, host modulation, bacterial pathogenesis",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423749104",
+    "name": "Rabaab Zahra",
+    "university": "Trinity College Dublin",
+    "country": "Ireland",
+    "email": "zahrar@tcd.ie",
+    "researchArea": "Clinical microbiology, antimicrobial resistance diagnostics",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423749105",
+    "name": "Merve Zeden",
+    "university": "University of Galway",
+    "country": "Ireland",
+    "email": "merve.zeden@universityofgalway.ie",
+    "researchArea": "Staphylococcus aureus biofilms, antimicrobial tolerance, metabolism",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423749105",
+    "name": "Chris Creevey",
+    "university": "Queen's University Belfast",
+    "country": "Ireland",
+    "email": "c.creevey@qub.ac.uk",
+    "researchArea": "Computational genomics, rumen microbiome, evolutionary biology",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423749105",
+    "name": "Stephen Kelly",
+    "university": "Queen's University Belfast",
+    "country": "Ireland",
+    "email": "Stephen.Kelly@qub.ac.uk",
+    "researchArea": "Microbiome bioinformatics, AMR dynamics, metagenomics",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
