@@ -422,18 +422,5 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
-  },
-  {
-    "id": "mail-1787389377",
-    "name": "Dr Alex Grinberg",
-    "university": "Massey University",
-    "country": "New Zealand",
-    "email": "A.Grinberg@massey.ac.nz",
-    "subject": "Prospective Graduate Student in AMR and Veterinary Microbiology",
-    "dateSent": "2026-08-22",
-    "timestamp": 1787389377,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
   }
 ]
