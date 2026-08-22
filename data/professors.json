@@ -4516,5 +4516,165 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1787423550650",
+    "name": "Tina Joshi",
+    "university": "University of Limerick",
+    "country": "Ireland",
+    "email": "Tina.Joshi@ul.ie",
+    "researchArea": "Clostridioides difficile, AMR, spore biology, infection control",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423550650",
+    "name": "Christine Loscher",
+    "university": "Dublin City University",
+    "country": "Ireland",
+    "email": "christine.loscher@dcu.ie",
+    "researchArea": "Immunobiology, vaccine development, antimicrobial resistance",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423550650",
+    "name": "Fidelma Fitzpatrick",
+    "university": "Royal College of Surgeons in Ireland (RCSI)",
+    "country": "Ireland",
+    "email": "fidelmafitzpatrick@rcsi.ie",
+    "researchArea": "Clinical microbiology, antimicrobial stewardship, healthcare associated infections, AMR surveillance",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423550650",
+    "name": "Eoghan O'Neill",
+    "university": "Royal College of Surgeons in Ireland (RCSI)",
+    "country": "Ireland",
+    "email": "eoneill@rcsi.ie",
+    "researchArea": "Staphylococcus biofilms, device related infections, antimicrobial tolerance",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423550650",
+    "name": "Aidan Coffey",
+    "university": "Munster Technological University",
+    "country": "Ireland",
+    "email": "aidan.coffey@mtu.ie",
+    "researchArea": "Bacteriophages, phage therapy, foodborne pathogens, biocontrol",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423550650",
+    "name": "Brigid Lucey",
+    "university": "Munster Technological University",
+    "country": "Ireland",
+    "email": "brigid.lucey@mtu.ie",
+    "researchArea": "Clinical microbiology, antimicrobial resistance diagnostics",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423550650",
+    "name": "Anthonia O'Donovan",
+    "university": "Atlantic Technological University",
+    "country": "Ireland",
+    "email": "anthonia.odonovan@atu.ie",
+    "researchArea": "Microbial biotechnology, enzyme discovery, antimicrobial compounds",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423550650",
+    "name": "Gillian Gardiner",
+    "university": "South East Technological University",
+    "country": "Ireland",
+    "email": "gillian.gardiner@setu.ie",
+    "researchArea": "Food microbiology, probiotics, functional foods, gut microbiota",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423550651",
+    "name": "Linda Oyama",
+    "university": "Queen's University Belfast",
+    "country": "Ireland",
+    "email": "l.oyama@qub.ac.uk",
+    "researchArea": "AMR, bacterial pathogens, molecular microbiology",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787423550651",
+    "name": "Miguel Valvano",
+    "university": "Queen's University Belfast",
+    "country": "Ireland",
+    "email": "m.valvano@qub.ac.uk",
+    "researchArea": "Gram negative pathogens, antibiotic resistance mechanisms, cell envelope biology",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
