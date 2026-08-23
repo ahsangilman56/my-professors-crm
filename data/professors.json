@@ -5108,5 +5108,133 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1787453272299",
+    "name": "Paul Becher",
+    "university": "University of Veterinary Medicine Hannover (TiHo)",
+    "country": "Germany",
+    "email": "paul.becher@tiho-hannover.de",
+    "researchArea": "Veterinary virology, bovine viral infections, host-virus interactions",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453272299",
+    "name": "Uwe Roesler",
+    "university": "Freie Universitaet Berlin (Veterinary Medicine)",
+    "country": "Germany",
+    "email": "uwe.roesler@fu-berlin.de",
+    "researchArea": "Veterinary hygiene, zoonoses, AMR in livestock environments",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453272300",
+    "name": "Stefan Schwarz",
+    "university": "Freie Universitaet Berlin (Veterinary Medicine)",
+    "country": "Germany",
+    "email": "Stefan.Schwarz@fu-berlin.de",
+    "researchArea": "Antimicrobial resistance mechanisms, resistance plasmids, livestock associated MRSA",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453272300",
+    "name": "Christian Seyboldt",
+    "university": "Friedrich-Loeffler-Institut (Jena)",
+    "country": "Germany",
+    "email": "Christian.Seyboldt@fli.de",
+    "researchArea": "Clostridia, veterinary anaerobic pathogens, toxinotyping",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453272300",
+    "name": "Wolfgang Liebl",
+    "university": "Technical University of Munich",
+    "country": "Germany",
+    "email": "wliebl@wzw.tum.de",
+    "researchArea": "Microbial biochemistry, carbohydrate active enzymes, microbiome metabolism",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453272300",
+    "name": "Dennis Nurjadi",
+    "university": "University of Luebeck",
+    "country": "Germany",
+    "email": "dennis.nurjadi@uni-luebeck.de",
+    "researchArea": "Clinical microbiology, skin microbiome, antimicrobial resistance",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453272300",
+    "name": "Annemarie Kaesbohrer",
+    "university": "German Federal Institute for Risk Assessment (BfR)",
+    "country": "Germany",
+    "email": "annemarie.kaesbohrer@bfr.bund.de",
+    "researchArea": "AMR surveillance in food chain, One Health, veterinary epidemiology",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453272300",
+    "name": "Bernd Appel",
+    "university": "German Federal Institute for Risk Assessment (BfR)",
+    "country": "Germany",
+    "email": "Bernd.Appel@bfr.bund.de",
+    "researchArea": "Food safety, biological hazards, risk assessment of AMR",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
