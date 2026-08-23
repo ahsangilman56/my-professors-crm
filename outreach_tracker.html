@@ -363,13 +363,26 @@ function switchTab(tab) {
   document.getElementById('section-drafts').classList.toggle('visible', tab==='drafts');
 }
 
+function getStatusBadge(status) {
+  if (!status || status === 'draft') return '<span class="badge-drafted">📝 Drafted</span>';
+  if (status === 'sent') return '<span class="badge-sent">✅ Sent</span>';
+  if (status.startsWith('replied')) {
+    if (status.includes('positive')) return '<span class="badge-reply-positive">✅ Positive Reply</span>';
+    if (status.includes('rejected')) return '<span class="badge-reply-rejected">❌ Rejected</span>';
+    if (status.includes('retired')) return '<span class="badge-reply-retired">🚫 Retired</span>';
+    if (status.includes('auto')) return '<span class="badge-reply-auto">⏳ Auto-reply</span>';
+    return '<span class="badge-reply-pending">💬 Reply</span>';
+  }
+  return '<span class="badge-unknown">' + status + '</span>';
+}
+
 let draftInitPending = false;
 function initDraftExplorer(data) {
   if (draftInitPending) return;
   draftInitPending = true;
   setTimeout(() => {
     draftInitPending = false;
-    ALL_DATA = data.filter(e => e.status === 'draft');
+    ALL_DATA = data;  // ALL entries, not just draft
     const selC = document.getElementById('sel-country');
     if (!selC) return;  // Draft tab not rendered yet
     const countries = [...new Set(ALL_DATA.map(e => e.country).filter(Boolean))].sort();
@@ -404,12 +417,13 @@ function onUniChange() {
   const profs = ALL_DATA.filter(e=>e.country===c && e.university===u).sort((a,b)=>(a.name||'').localeCompare(b.name||''));
   let h = '';
   for (const p of profs) {
+    const statusBadge = getStatusBadge(p.status);
     const holdBadge = p.sendAfter
       ? `<span class="badge-hold">⏸ Hold until ${p.sendAfter}</span>`
-      : `<span class="badge-drafted">📝 Drafted</span>`;
-    h += `<div class="prof-card"><div><strong>${p.name}</strong>${p.subject?`<div style="font-size:12px;color:var(--text-dim);margin-top:3px">${p.subject}</div>`:''}</div><div>${holdBadge}</div></div>`;
+      : '';
+    h += `<div class="prof-card"><div><strong>${p.name}</strong>${p.subject?`<div style="font-size:12px;color:var(--text-dim);margin-top:3px">${p.subject}</div>`:''}</div><div>${statusBadge}${holdBadge}</div></div>`;
   }
-  if (!h) h = '<div class="empty">No drafted professors at this university.</div>';
+  if (!h) h = '<div class="empty">No professors at this university.</div>';
   listDiv.innerHTML = h;
 }
 </script>
