@@ -5348,5 +5348,181 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1787475661594",
+    "name": "Yung-Fu Chang",
+    "university": "Cornell University",
+    "country": "USA",
+    "email": "yc42@cornell.edu",
+    "researchArea": "Veterinary bacteriology, Salmonella and Johne's disease, dairy cattle pathogens",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475661594",
+    "name": "Craig Altier",
+    "university": "Cornell University",
+    "country": "USA",
+    "email": "altier@cornell.edu",
+    "researchArea": "Salmonella pathogenesis, virulence gene regulation, foodborne disease",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475661594",
+    "name": "Wondwossen Gebreyes",
+    "university": "Ohio State University",
+    "country": "USA",
+    "email": "gebreyes.1@osu.edu",
+    "researchArea": "Veterinary AMR epidemiology, One Health, zoonotic pathogens",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475661594",
+    "name": "Gireesh Rajashekara",
+    "university": "Ohio State University",
+    "country": "USA",
+    "email": "rajashekara.2@osu.edu",
+    "researchArea": "Foodborne pathogens, vaccine development, zoonotic diseases",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475661594",
+    "name": "Bhushan Jayarao",
+    "university": "Penn State University",
+    "country": "USA",
+    "email": "bmj3@psu.edu",
+    "researchArea": "Mastitis pathogens, milk quality, waterborne diseases, food safety",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475661594",
+    "name": "Edward Dudley",
+    "university": "Penn State University",
+    "country": "USA",
+    "email": "edudley@psu.edu",
+    "researchArea": "Listeria monocytogenes genomics, foodborne pathogen evolution",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475661594",
+    "name": "Kristy Pabilonia",
+    "university": "Colorado State University",
+    "country": "USA",
+    "email": "Kristy.Pabilonia@colostate.edu",
+    "researchArea": "Avian diagnostics, poultry health, veterinary microbiology",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475661594",
+    "name": "Sagar Goyal",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "email": "goyal001@umn.edu",
+    "researchArea": "Viral food safety, environmental virology, water quality",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475661595",
+    "name": "Albert Rovira",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "email": "rove0010@umn.edu",
+    "researchArea": "Veterinary diagnostic bacteriology, mastitis, dairy cattle health",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475661595",
+    "name": "Nikki Shariat",
+    "university": "University of Georgia",
+    "country": "USA",
+    "email": "nikki.shariat@uga.edu",
+    "researchArea": "Salmonella genomics, CRISPR-SeroSeq, poultry AMR",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475661595",
+    "name": "Luke Borst",
+    "university": "NC State University",
+    "country": "USA",
+    "email": "lbborst@ncsu.edu",
+    "researchArea": "Comparative medicine, companion animal microbiome, bacterial genetics",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
