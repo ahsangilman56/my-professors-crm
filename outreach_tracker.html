@@ -446,13 +446,13 @@ function onCountryChange() {
   listDiv.innerHTML = '';
   if (!c) return;
   
-  // Build set of already-mailed professors
+  // Build set of already-mailed professors (sent or replied only)
   const mailedNames = new Set();
   ALL_DATA.forEach(e => {
-    if (e.status && e.status !== 'draft') mailedNames.add(e.name.toLowerCase().trim());
+    if (e.status && (e.status === 'sent' || e.status.startsWith('replied'))) mailedNames.add(e.name.toLowerCase().trim());
   });
   
-  // Get universities from CRM (available professors only)
+  // Get universities from CRM (available professors only - exclude sent/replied)
   const available = CRM_PROFS.filter(p => p.country === c && !mailedNames.has(p.name.toLowerCase().trim()));
   const unis = [...new Set(available.map(p => p.university))].sort();
   for (const u of unis) {
