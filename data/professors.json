@@ -5300,5 +5300,53 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1787474756597",
+    "name": "Jesse Shapiro",
+    "university": "McGill University",
+    "country": "Canada",
+    "email": "jesse.shapiro@mcgill.ca",
+    "researchArea": "Microbial evolution, antimicrobial resistance ecology, cholera genomics",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787474756597",
+    "name": "Corinne Maurice",
+    "university": "McGill University",
+    "country": "Canada",
+    "email": "corinne.maurice@mcgill.ca",
+    "researchArea": "Gut microbial physiology, bacteriophages, early life microbiome development (Tier 1 Canada Research Chair)",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787474756597",
+    "name": "Michael Reed",
+    "university": "McGill University",
+    "country": "Canada",
+    "email": "michael.reed@mcgill.ca",
+    "researchArea": "Mycobacterium tuberculosis molecular biology, pathogenesis",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
