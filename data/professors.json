@@ -782,23 +782,6 @@
     "replySummary": ""
   },
   {
-    "id": "1777800000012",
-    "name": "T.G. Nagaraja",
-    "university": "Kansas State University",
-    "country": "USA",
-    "email": "tnagaraj@vet.k-state.edu",
-    "researchArea": "Gut microbiology of cattle, Metagenomics, AMR",
-    "homepage": "https://www.vet.k-state.edu/about/people/faculty/nagaraja-t-g/",
-    "researchProfile": "",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
-  },
-  {
     "id": "1777800000013",
     "name": "Philip Hardwidge",
     "university": "Kansas State University",
