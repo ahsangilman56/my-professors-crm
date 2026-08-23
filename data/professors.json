@@ -5686,22 +5686,6 @@
   },
   {
     "id": "1787476198433",
-    "name": "Devendra Shah",
-    "university": "Texas Tech University",
-    "country": "USA",
-    "email": "devendra.shah@ttu.edu",
-    "researchArea": "Bacterial pathogenesis, virulence gene regulation",
-    "homepage": "",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
-  },
-  {
-    "id": "1787476198433",
     "name": "Tara Gaire",
     "university": "Texas Tech University",
     "country": "USA",
