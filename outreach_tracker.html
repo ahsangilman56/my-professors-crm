@@ -355,12 +355,19 @@ setInterval(load, 300000);
 
 
 let ALL_DATA = [];
+let CRM_PROFS = [];  // CRM portal professors (to-be-mailed pool)
+
+const CRM_URL = 'https://raw.githubusercontent.com/ahsangilman56/my-professors-crm/main/data/professors.json';
+const CRM_FALLBACK = 'https://cdn.jsdelivr.net/gh/ahsangilman56/my-professors-crm@main/data/professors.json';
 
 function switchTab(tab) {
   document.getElementById('tab-sent').classList.toggle('active', tab==='sent');
   document.getElementById('tab-drafts').classList.toggle('active', tab==='drafts');
   document.getElementById('section-sent').classList.toggle('visible', tab==='sent');
   document.getElementById('section-drafts').classList.toggle('visible', tab==='drafts');
+  if (tab === 'drafts' && CRM_PROFS.length === 0) {
+    loadCRM();
+  }
 }
 
 function getStatusBadge(status) {
@@ -376,20 +383,56 @@ function getStatusBadge(status) {
   return '<span class="badge-unknown">' + status + '</span>';
 }
 
+async function loadCRM() {
+  const urls = [CRM_URL + '?t=' + Date.now(), CRM_FALLBACK + '?t=' + Date.now()];
+  for (const url of urls) {
+    try {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 10000);
+      const res = await fetch(url, { signal: controller.signal });
+      clearTimeout(timeout);
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      CRM_PROFS = await res.json();
+      console.log('CRM loaded:', CRM_PROFS.length, 'professors');
+      buildDraftFromCRM();
+      return;
+    } catch(e) {
+      console.warn('CRM fetch failed:', url, e.message);
+    }
+  }
+  document.getElementById('draft-list').innerHTML = '<div class="empty">Unable to load CRM data.</div>';
+}
+
+function buildDraftFromCRM() {
+  // Build set of already-mailed professors (sent or replied) from tracker
+  const mailedNames = new Set();
+  ALL_DATA.forEach(e => {
+    if (e.status && e.status !== 'draft') mailedNames.add(e.name.toLowerCase().trim());
+  });
+  
+  // Filter CRM: only professors NOT yet mailed
+  const available = CRM_PROFS.filter(p => !mailedNames.has(p.name.toLowerCase().trim()));
+  
+  // Populate country dropdown
+  const selC = document.getElementById('sel-country');
+  if (!selC) return;
+  const countries = [...new Set(available.map(p => p.country).filter(Boolean))].sort();
+  for (const c of countries) {
+    const opt = document.createElement('option'); opt.value = c; opt.textContent = getCountryFlag(c)+' '+c;
+    selC.appendChild(opt);
+  }
+}
+
 let draftInitPending = false;
 function initDraftExplorer(data) {
   if (draftInitPending) return;
   draftInitPending = true;
   setTimeout(() => {
     draftInitPending = false;
-    ALL_DATA = data;  // ALL entries, not just draft
+    ALL_DATA = data;  // Tracker data for status lookup
     const selC = document.getElementById('sel-country');
     if (!selC) return;  // Draft tab not rendered yet
-    const countries = [...new Set(ALL_DATA.map(e => e.country).filter(Boolean))].sort();
-    for (const c of countries) {
-      const opt = document.createElement('option'); opt.value = c; opt.textContent = getCountryFlag(c)+' '+c;
-      selC.appendChild(opt);
-    }
+    loadCRM();
   }, 0);
 }
 
@@ -401,7 +444,16 @@ function onCountryChange() {
   selU.disabled = !c;
   listDiv.innerHTML = '';
   if (!c) return;
-  const unis = [...new Set(ALL_DATA.filter(e=>e.country===c).map(e=>e.university))].sort();
+  
+  // Build set of already-mailed professors
+  const mailedNames = new Set();
+  ALL_DATA.forEach(e => {
+    if (e.status && e.status !== 'draft') mailedNames.add(e.name.toLowerCase().trim());
+  });
+  
+  // Get universities from CRM (available professors only)
+  const available = CRM_PROFS.filter(p => p.country === c && !mailedNames.has(p.name.toLowerCase().trim()));
+  const unis = [...new Set(available.map(p => p.university))].sort();
   for (const u of unis) {
     const opt = document.createElement('option'); opt.value = u; opt.textContent = u;
     selU.appendChild(opt);
@@ -414,16 +466,26 @@ function onUniChange() {
   const u = document.getElementById('sel-uni').value;
   const listDiv = document.getElementById('draft-list');
   if (!u) { listDiv.innerHTML=''; return; }
-  const profs = ALL_DATA.filter(e=>e.country===c && e.university===u).sort((a,b)=>(a.name||'').localeCompare(b.name||''));
+  
+  // Build set of already-mailed professors
+  const mailedNames = new Set();
+  ALL_DATA.forEach(e => {
+    if (e.status && e.status !== 'draft') mailedNames.add(e.name.toLowerCase().trim());
+  });
+  
+  // Filter CRM: available professors at this university
+  const profs = CRM_PROFS.filter(p => p.country === c && p.university === u && !mailedNames.has(p.name.toLowerCase().trim()))
+    .sort((a,b)=>(a.name||'').localeCompare(b.name||''));
+  
   let h = '';
   for (const p of profs) {
-    const statusBadge = getStatusBadge(p.status);
     const holdBadge = p.sendAfter
       ? `<span class="badge-hold">⏸ Hold until ${p.sendAfter}</span>`
       : '';
-    h += `<div class="prof-card"><div><strong>${p.name}</strong>${p.subject?`<div style="font-size:12px;color:var(--text-dim);margin-top:3px">${p.subject}</div>`:''}</div><div>${statusBadge}${holdBadge}</div></div>`;
+    const research = p.researchArea ? `<div style="font-size:11px;color:var(--text-dim);margin-top:2px">${p.researchArea}</div>` : '';
+    h += `<div class="prof-card"><div><strong>${p.name}</strong>${research}</div><div><span class="badge-drafted">📝 Ready to draft</span>${holdBadge}</div></div>`;
   }
-  if (!h) h = '<div class="empty">No professors at this university.</div>';
+  if (!h) h = '<div class="empty">No available professors at this university (all already mailed).</div>';
   listDiv.innerHTML = h;
 }
 </script>
