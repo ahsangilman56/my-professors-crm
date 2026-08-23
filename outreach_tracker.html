@@ -104,13 +104,48 @@ h2 { font-size: 16px; font-weight: 500; color: var(--text-dim); margin-bottom: 2
   border-left: 3px solid var(--accent);
 }
 
+
+/* Tabs */
+.tab-bar { display: flex; gap: 10px; margin-bottom: 24px; }
+.tab-btn { background: var(--card); border: 1px solid var(--border); color: var(--text-dim); padding: 10px 24px; border-radius: 10px; cursor: pointer; font-family: inherit; font-size: 14px; font-weight: 600; transition: all 0.2s; }
+.tab-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+.tab-section { display: none; }
+.tab-section.visible { display: block; }
+
+/* Draft explorer */
+.draft-controls { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 20px; }
+.draft-select { background: var(--card); border: 1px solid var(--border); color: var(--text); padding: 10px 14px; border-radius: 8px; font-family: inherit; font-size: 14px; min-width: 220px; }
+.draft-hint { font-size: 13px; color: var(--text-dim); margin-bottom: 16px; }
+.prof-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: center; }
+.badge-drafted { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; background: rgba(59,130,246,0.15); color: var(--accent); border: 1px solid var(--accent); }
+.badge-hold { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; background: rgba(234,179,8,0.15); color: var(--yellow); border: 1px solid var(--yellow); }
 </style>
 </head>
 <body>
 <h1>PhD Outreach Tracker <button class="refresh-btn" onclick="load()">Refresh</button></h1>
 <h2>Md Abu Ahsan Gilman | 7-Day Cooldown Rule Active</h2>
 
+
+<div class="tab-bar">
+  <button class="tab-btn active" id="tab-sent" onclick="switchTab('sent')">📤 Sent</button>
+  <button class="tab-btn" id="tab-drafts" onclick="switchTab('drafts')">📝 Draft</button>
+</div>
+
+<div class="tab-section visible" id="section-sent">
 <div class="clock-grid" id="clocks"></div>
+<div class="stats-grid" id="stats"></div>
+<div id="content"><div class="loading">Loading data...</div></div>
+</div>
+
+<div class="tab-section" id="section-drafts">
+  <div class="draft-controls">
+    <select class="draft-select" id="sel-country" onchange="onCountryChange()"><option value="">Select Country...</option></select>
+    <select class="draft-select" id="sel-uni" onchange="onUniChange()" disabled><option value="">Select University...</option></select>
+  </div>
+  <div class="draft-hint">Pick a country, then a university, to see which professors have mail ready (drafted).</div>
+  <div id="draft-list"></div>
+</div>
+
 <div class="stats-grid" id="stats"></div>
 <div id="content"><div class="loading">Loading data...</div></div>
 
@@ -172,6 +207,7 @@ async function load() {
     const data = await res.json();
     const real = data.filter(e => e.university && e.dateSent);
     render(real);
+    initDraftExplorer(data);
   } catch(e) {
     document.getElementById('content').innerHTML = '<div class="empty">Unable to load data. Make sure outreach_tracker.json exists in the CRM repo.</div>';
     document.getElementById('stats').innerHTML = '';
@@ -291,6 +327,58 @@ updateLastRefresh();
 setInterval(updateClocks, 1000);
 setInterval(load, 300000);
 
+
+let ALL_DATA = [];
+
+function switchTab(tab) {
+  document.getElementById('tab-sent').classList.toggle('active', tab==='sent');
+  document.getElementById('tab-drafts').classList.toggle('active', tab==='drafts');
+  document.getElementById('section-sent').classList.toggle('visible', tab==='sent');
+  document.getElementById('section-drafts').classList.toggle('visible', tab==='drafts');
+}
+
+function initDraftExplorer(data) {
+  ALL_DATA = data.filter(e => e.status === 'draft');
+  const selC = document.getElementById('sel-country');
+  const countries = [...new Set(ALL_DATA.map(e => e.country).filter(Boolean))].sort();
+  for (const c of countries) {
+    const opt = document.createElement('option'); opt.value = c; opt.textContent = getCountryFlag(c)+' '+c;
+    selC.appendChild(opt);
+  }
+}
+
+function onCountryChange() {
+  const c = document.getElementById('sel-country').value;
+  const selU = document.getElementById('sel-uni');
+  const listDiv = document.getElementById('draft-list');
+  selU.innerHTML = '<option value="">Select University...</option>';
+  selU.disabled = !c;
+  listDiv.innerHTML = '';
+  if (!c) return;
+  const unis = [...new Set(ALL_DATA.filter(e=>e.country===c).map(e=>e.university))].sort();
+  for (const u of unis) {
+    const opt = document.createElement('option'); opt.value = u; opt.textContent = u;
+    selU.appendChild(opt);
+  }
+  selU.disabled = false;
+}
+
+function onUniChange() {
+  const c = document.getElementById('sel-country').value;
+  const u = document.getElementById('sel-uni').value;
+  const listDiv = document.getElementById('draft-list');
+  if (!u) { listDiv.innerHTML=''; return; }
+  const profs = ALL_DATA.filter(e=>e.country===c && e.university===u).sort((a,b)=>(a.name||'').localeCompare(b.name||''));
+  let h = '';
+  for (const p of profs) {
+    const holdBadge = p.sendAfter
+      ? `<span class="badge-hold">⏸ Hold until ${p.sendAfter}</span>`
+      : `<span class="badge-drafted">📝 Drafted</span>`;
+    h += `<div class="prof-card"><div><strong>${p.name}</strong>${p.subject?`<div style="font-size:12px;color:var(--text-dim);margin-top:3px">${p.subject}</div>`:''}</div><div>${holdBadge}</div></div>`;
+  }
+  if (!h) h = '<div class="empty">No drafted professors at this university.</div>';
+  listDiv.innerHTML = h;
+}
 </script>
 </body>
 <!-- v2026.08.21 refresh+replies -->
