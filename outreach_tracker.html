@@ -408,10 +408,10 @@ function buildDraftFromCRM() {
   // Build set of already-mailed professors (sent or replied) from tracker
   const mailedNames = new Set();
   ALL_DATA.forEach(e => {
-    if (e.status && e.status !== 'draft') mailedNames.add(e.name.toLowerCase().trim());
+    if (e.status && (e.status === 'sent' || e.status.startsWith('replied'))) mailedNames.add(e.name.toLowerCase().trim());
   });
   
-  // Filter CRM: only professors NOT yet mailed
+  // Filter CRM: only professors NOT yet mailed (exclude sent/replied, keep draft and not_drafted)
   const available = CRM_PROFS.filter(p => !mailedNames.has(p.name.toLowerCase().trim()));
   
   // Populate country dropdown
