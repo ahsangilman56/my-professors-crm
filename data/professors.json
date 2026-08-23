@@ -1497,7 +1497,7 @@
   },
   {
     "id": "1777800000055",
-    "name": "DÃÂÃÂ¶rte DÃÂÃÂ¶pfer",
+    "name": "D\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00b6rte D\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00b6pfer",
     "university": "University of Wisconsin-Madison",
     "country": "USA",
     "email": "dopfer@wisc.edu",
@@ -1913,7 +1913,7 @@
   {
     "id": "1787196816",
     "name": " Heli Viljakainen",
-    "university": "FolkhÃ¤lsan Research Center, Helsinki",
+    "university": "Folkh\u00c3\u00a4lsan Research Center, Helsinki",
     "country": "Finland",
     "email": "heli.viljakainen@helsinki.fi",
     "researchArea": "Gut Microbiome, Nutritional Epidemiology, Public Health",
@@ -1926,8 +1926,8 @@
   },
   {
     "id": "1787196817",
-    "name": " Matej OreÅ¡iÄ",
-    "university": "University of Eastern Finland / Ãrebro University",
+    "name": " Matej Ore\u00c5\u00a1i\u00c4\u008d",
+    "university": "University of Eastern Finland / \u00c3\u0096rebro University",
     "country": "Finland",
     "email": "matej.oresic@uef.fi",
     "researchArea": "Microbiome, Metabolomics, Lipidomics, Type 1 Diabetes",
@@ -1940,8 +1940,8 @@
   },
   {
     "id": "1787196818",
-    "name": " Jaakko LamminmÃ¤ki",
-    "university": "FolkhÃ¤lsan Research Center, Helsinki",
+    "name": " Jaakko Lamminm\u00c3\u00a4ki",
+    "university": "Folkh\u00c3\u00a4lsan Research Center, Helsinki",
     "country": "Finland",
     "email": "jaakko.lamminmaki@folkhalsan.fi",
     "researchArea": "Gut Microbiome, Allergy, Immunology",
@@ -1982,7 +1982,7 @@
   },
   {
     "id": "1787196821",
-    "name": " Ana Maria PirttilÃ¤",
+    "name": " Ana Maria Pirttil\u00c3\u00a4",
     "university": "University of Oulu",
     "country": "Finland",
     "email": "anna.pirttila@oulu.fi",
@@ -3747,7 +3747,7 @@
   },
   {
     "id": "1787338319420",
-    "name": "Dr Dragana Gagić",
+    "name": "Dr Dragana Gagi\u0107",
     "university": "Massey University",
     "country": "New Zealand",
     "email": "D.Gagic@massey.ac.nz",
@@ -3802,7 +3802,7 @@
     "university": "Massey University",
     "country": "New Zealand",
     "email": "J.McKenzie@massey.ac.nz",
-    "researchArea": "AMROH programme (Fleming Fund £2.3M), One Health AMR surveillance South Asia, COMBAT-AMR",
+    "researchArea": "AMROH programme (Fleming Fund \u00a32.3M), One Health AMR surveillance South Asia, COMBAT-AMR",
     "homepage": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=947790",
     "researchProfile": "",
     "status": {
@@ -4454,7 +4454,7 @@
   },
   {
     "id": "1787422934285",
-    "name": "Séamus Fanning",
+    "name": "S\u00e9amus Fanning",
     "university": "University College Dublin",
     "country": "Ireland",
     "email": "sfanning@ucd.ie",
@@ -5497,7 +5497,7 @@
     "name": "Luke Borst",
     "university": "NC State University",
     "country": "USA",
-    "email": "lbborst@ncsu.edu",
+    "email": "lborst@ncsu.edu",
     "researchArea": "Comparative medicine, companion animal microbiome, bacterial genetics",
     "homepage": "",
     "status": {
@@ -5657,7 +5657,7 @@
     "name": "Douglas Call",
     "university": "Washington State University",
     "country": "USA",
-    "email": "drcall@vetmed.wsu.edu",
+    "email": "drcall@wsu.edu",
     "researchArea": "Molecular epidemiology of antimicrobial resistance, bacterial genotyping",
     "homepage": "",
     "status": {
