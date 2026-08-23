@@ -209,7 +209,7 @@
     "replyReceived": true,
     "replySummary": "Retired; not accepting students",
     "replyDate": "2026-08-21",
-    "replyNote": "Retired, not accepting students"
+    "replyNote": "❌ Closed - retired. Do not follow up."
   },
   {
     "id": "mail-1787233184",
@@ -304,7 +304,8 @@
     "replyReceived": true,
     "replySummary": "No current funding but may change later this fall. Get back in touch in November if still looking. Called user \"(soon to be) Dr. Gilman\".",
     "replyDate": "2026-08-21",
-    "dateReplied": "2026-08-21"
+    "dateReplied": "2026-08-21",
+    "replyNote": "📅 Contact again in NOVEMBER - funding may open. She was warm and encouraging!"
   },
   {
     "id": "mail-1787237863",
@@ -319,7 +320,8 @@
     "replyReceived": true,
     "replySummary": "Interested, aligns with his program. Too early for Fall 2027 - contact again early October.",
     "replyDate": "2026-08-22",
-    "dateReplied": "2026-08-22"
+    "dateReplied": "2026-08-22",
+    "replyNote": "📅 Contact again EARLY OCTOBER - he is interested, just too early for Fall 2027"
   },
   {
     "id": "mail-1787237867",
@@ -347,7 +349,8 @@
     "replyReceived": true,
     "replySummary": "Not accepting new students due to funding and bandwidth limitations.",
     "replyDate": "2026-08-21",
-    "dateReplied": "2026-08-21"
+    "dateReplied": "2026-08-21",
+    "replyNote": "❌ Closed - no funding. Do not follow up."
   },
   {
     "id": "mail-1787237875",
