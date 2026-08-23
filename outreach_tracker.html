@@ -255,8 +255,8 @@ function render(entries) {
     html += `<div class="country-section"><div class="country-header"><span class="country-flag">${getCountryFlag(country)}</span><span class="country-title">${country}</span><span class="country-count">${Object.keys(unis).length} universities</span></div>`;
     
     const sortedUnis = Object.entries(unis).sort((a, b) => {
-      const aLatest = a[1].sort((x,y) => y.dateSent.localeCompare(x.dateSent))[0];
-      const bLatest = b[1].sort((x,y) => y.dateSent.localeCompare(x.dateSent))[0];
+      const aLatest = a[1].filter(p=>p.dateSent).sort((x,y) => y.dateSent.localeCompare(x.dateSent))[0] || {};
+      const bLatest = b[1].filter(p=>p.dateSent).sort((x,y) => y.dateSent.localeCompare(x.dateSent))[0] || {};
       const aDays = daysSince(aLatest.dateSent);
       const bDays = daysSince(bLatest.dateSent);
       if (aDays < COOLDOWN_DAYS && bDays >= COOLDOWN_DAYS) return -1;
@@ -265,7 +265,9 @@ function render(entries) {
     });
 
     for (const [uni, profs] of sortedUnis) {
-      const latest = profs.sort((a,b) => b.dateSent.localeCompare(a.dateSent))[0];
+      const sentProfs = profs.filter(p=>p.dateSent);
+      if (!sentProfs.length) continue;
+      const latest = sentProfs.sort((a,b) => b.dateSent.localeCompare(a.dateSent))[0];
       const days = daysSince(latest.dateSent);
       const inCool = days < COOLDOWN_DAYS;
       const remaining = COOLDOWN_DAYS - days;
@@ -275,7 +277,7 @@ function render(entries) {
       const daysText = `<div class="days-ago">${days === 0 ? 'Today' : days + ' day' + (days > 1 ? 's' : '') + ' ago'}</div>`;
 
       let profHtml = '';
-      for (const p of profs.sort((a,b) => b.dateSent.localeCompare(a.dateSent))) {
+      for (const p of sentProfs.sort((a,b) => b.dateSent.localeCompare(a.dateSent))) {
         let replyTag = '';
         let replyNoteHtml = '';
         if (p.status && p.status.startsWith('replied')) {
