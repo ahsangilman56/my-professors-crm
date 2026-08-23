@@ -122,7 +122,7 @@ h2 { font-size: 16px; font-weight: 500; color: var(--text-dim); margin-bottom: 2
 </style>
 </head>
 <body>
-<h1>PhD Outreach Tracker <button class="refresh-btn" onclick="load()">Refresh</button></h1>
+<h1>PhD Outreach Tracker <button class="refresh-btn" onclick="hardRefresh()">Refresh</button></h1>
 <h2>Md Abu Ahsan Gilman | 7-Day Cooldown Rule Active</h2>
 
 
@@ -198,7 +198,10 @@ function getCountryFlag(country) {
   return flags[country] || '🌍';
 }
 
+let isLoading = false;
 async function load() {
+  if (isLoading) return;
+  isLoading = true;
   const urls = [
     DATA_URL + '?t=' + Date.now(),
     'https://cdn.jsdelivr.net/gh/ahsangilman56/my-professors-crm@main/outreach_tracker.json?t=' + Date.now()
@@ -226,6 +229,9 @@ async function load() {
   // All sources failed
   document.getElementById('content').innerHTML = '<div class="empty">Unable to load data from any source. Check network or try again later.</div>';
   document.getElementById('stats').innerHTML = '';
+} finally {
+    isLoading = false;
+  }
 }
 
 function render(entries) {
@@ -355,8 +361,13 @@ function switchTab(tab) {
   document.getElementById('section-drafts').classList.toggle('visible', tab==='drafts');
 }
 
+let draftInitPending = false;
 function initDraftExplorer(data) {
-  ALL_DATA = data.filter(e => e.status === 'draft');
+  if (draftInitPending) return;
+  draftInitPending = true;
+  setTimeout(() => {
+    draftInitPending = false;
+    ALL_DATA = data.filter(e => e.status === 'draft');
   const selC = document.getElementById('sel-country');
   const countries = [...new Set(ALL_DATA.map(e => e.country).filter(Boolean))].sort();
   for (const c of countries) {
