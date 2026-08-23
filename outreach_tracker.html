@@ -199,16 +199,33 @@ function getCountryFlag(country) {
 }
 
 async function load() {
-  try {
-    const res = await fetch(DATA_URL + '?t=' + Date.now());
-    const data = await res.json();
-    const real = data.filter(e => e.university && e.dateSent);
-    render(real);
-    initDraftExplorer(data);
-  } catch(e) {
-    document.getElementById('content').innerHTML = '<div class="empty">Unable to load data. Make sure outreach_tracker.json exists in the CRM repo.</div>';
-    document.getElementById('stats').innerHTML = '';
+  const urls = [
+    DATA_URL + '?t=' + Date.now(),
+    'https://cdn.jsdelivr.net/gh/ahsangilman56/my-professors-crm@main/outreach_tracker.json?t=' + Date.now()
+  ];
+  
+  for (const url of urls) {
+    try {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 10000);
+      const res = await fetch(url, { signal: controller.signal });
+      clearTimeout(timeout);
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      const real = data.filter(e => e.university && e.dateSent);
+      render(real);
+      initDraftExplorer(data);
+      console.log('Loaded from:', url);
+      return;
+    } catch(e) {
+      console.warn('Fetch failed for', url, ':', e.message);
+      continue;
+    }
   }
+  
+  // All sources failed
+  document.getElementById('content').innerHTML = '<div class="empty">Unable to load data from any source. Check network or try again later.</div>';
+  document.getElementById('stats').innerHTML = '';
 }
 
 function render(entries) {
@@ -224,8 +241,10 @@ function render(entries) {
   const uniCount = Object.keys(unis).filter(u => unis[u].length > 0).length;
   const replyCount = entries.filter(e => e.status && e.status.startsWith('replied')).length;
   const inCooldown = Object.keys(unis).filter(u => {
-    const latest = unis[u].sort((a,b) => b.dateSent.localeCompare(a.dateSent))[0];
-    return latest && daysSince(latest.dateSent) < COOLDOWN_DAYS;
+    const sentProfs = unis[u].filter(p => p.dateSent);
+    if (!sentProfs.length) return false;
+    const latest = sentProfs.sort((a,b) => b.dateSent.localeCompare(a.dateSent))[0];
+    return daysSince(latest.dateSent) < COOLDOWN_DAYS;
   }).length;
 
   document.getElementById('stats').innerHTML = `
