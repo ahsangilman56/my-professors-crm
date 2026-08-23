@@ -203,34 +203,35 @@ let isLoading = false;
 async function load() {
   if (isLoading) return;
   isLoading = true;
-  const urls = [
-    DATA_URL + '?t=' + Date.now(),
-    'https://cdn.jsdelivr.net/gh/ahsangilman56/my-professors-crm@main/outreach_tracker.json?t=' + Date.now()
-  ];
-  
-  for (const url of urls) {
-    try {
-      const controller = new AbortController();
-      const timeout = setTimeout(() => controller.abort(), 10000);
-      const res = await fetch(url, { signal: controller.signal });
-      clearTimeout(timeout);
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-      const data = await res.json();
-      const real = data.filter(e => e.university && e.dateSent);
-      render(real);
-      initDraftExplorer(data);
-      console.log('Loaded from:', url);
-      return;
-    } catch(e) {
-      console.warn('Fetch failed for', url, ':', e.message);
-      continue;
+  try {
+    const urls = [
+      DATA_URL + '?t=' + Date.now(),
+      'https://cdn.jsdelivr.net/gh/ahsangilman56/my-professors-crm@main/outreach_tracker.json?t=' + Date.now()
+    ];
+    let success = false;
+    for (const url of urls) {
+      try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 10000);
+        const res = await fetch(url, { signal: controller.signal });
+        clearTimeout(timeout);
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+        const real = data.filter(e => e.university && e.dateSent);
+        render(real);
+        initDraftExplorer(data);
+        success = true;
+        break;
+      } catch(e) {
+        console.warn('Fetch failed for', url, ':', e.message);
+        continue;
+      }
     }
-  }
-  
-  // All sources failed
-  document.getElementById('content').innerHTML = '<div class="empty">Unable to load data from any source. Check network or try again later.</div>';
-  document.getElementById('stats').innerHTML = '';
-} finally {
+    if (!success) {
+      document.getElementById('content').innerHTML = '<div class="empty">Unable to load data from any source. Check network or try again later.</div>';
+      document.getElementById('stats').innerHTML = '';
+    }
+  } finally {
     isLoading = false;
   }
 }
