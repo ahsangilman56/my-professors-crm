@@ -5524,5 +5524,101 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1787475953837",
+    "name": "Thomas Wittum",
+    "university": "Ohio State University",
+    "country": "USA",
+    "email": "wittum.1@osu.edu",
+    "researchArea": "Antimicrobial resistance epidemiology in livestock, Presidential AMR Advisory Council member",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475953837",
+    "name": "Greg Habing",
+    "university": "Ohio State University",
+    "country": "USA",
+    "email": "habing.4@osu.edu",
+    "researchArea": "Dairy epidemiology, foodborne pathogens, One Health",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475953837",
+    "name": "Todd Callaway",
+    "university": "University of Georgia",
+    "country": "USA",
+    "email": "todd.callaway@uga.edu",
+    "researchArea": "Rumen microbiome, preharvest food safety, pathogen reduction in cattle",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475953837",
+    "name": "Woo Kim",
+    "university": "University of Georgia",
+    "country": "USA",
+    "email": "wkkim@uga.edu",
+    "researchArea": "Poultry microbiome, gut health, feed additives",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475953837",
+    "name": "Rami Dalloul",
+    "university": "University of Georgia",
+    "country": "USA",
+    "email": "Rami.Dalloul@uga.edu",
+    "researchArea": "Poultry immunology, coccidiosis immunity, gut mucosal immune responses",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787475953837",
+    "name": "Erika Ganda",
+    "university": "Penn State University",
+    "country": "USA",
+    "email": "ganda@psu.edu",
+    "researchArea": "Livestock microbiome, dairy metagenomics, antimicrobial resistance ecology",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
