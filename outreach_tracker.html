@@ -370,6 +370,7 @@ function initDraftExplorer(data) {
     draftInitPending = false;
     ALL_DATA = data.filter(e => e.status === 'draft');
     const selC = document.getElementById('sel-country');
+    if (!selC) return;  // Draft tab not rendered yet
     const countries = [...new Set(ALL_DATA.map(e => e.country).filter(Boolean))].sort();
     for (const c of countries) {
       const opt = document.createElement('option'); opt.value = c; opt.textContent = getCountryFlag(c)+' '+c;
