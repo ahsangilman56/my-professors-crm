@@ -455,7 +455,7 @@
     "country": "USA",
     "email": "lborst@ncsu.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -467,7 +467,7 @@
     "country": "USA",
     "email": "wbeauvai@purdue.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -479,7 +479,7 @@
     "country": "USA",
     "email": "drcall@wsu.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -491,7 +491,7 @@
     "country": "USA",
     "email": "altier@cornell.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -503,7 +503,7 @@
     "country": "USA",
     "email": "tgaire@ttu.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -515,7 +515,7 @@
     "country": "USA",
     "email": "nikki.shariat@uga.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -527,7 +527,7 @@
     "country": "USA",
     "email": "egd100@psu.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -539,7 +539,7 @@
     "country": "USA",
     "email": "habing.4@osu.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -551,7 +551,7 @@
     "country": "USA",
     "email": "wittum.1@osu.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -563,7 +563,7 @@
     "country": "Canada",
     "email": "john.morris.fairbrother@umontreal.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -575,7 +575,7 @@
     "country": "Canada",
     "email": "corinne.maurice@mcgill.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -587,7 +587,7 @@
     "country": "Germany",
     "email": "annemarie.kaesbohrer@bfr.bund.de",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -599,7 +599,7 @@
     "country": "Germany",
     "email": "frank.pessler@twincore.de",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -611,7 +611,7 @@
     "country": "Germany",
     "email": "r.straubinger@lmu.de",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -623,7 +623,7 @@
     "country": "Germany",
     "email": "dennis.nurjadi@uni-luebeck.de",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -635,7 +635,7 @@
     "country": "Germany",
     "email": "marc.stadler@helmholtz-hzi.de",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -647,7 +647,7 @@
     "country": "Germany",
     "email": "wliebl@wzw.tum.de",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -659,7 +659,7 @@
     "country": "Germany",
     "email": "dobrindt@uni-muenster.de",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -671,7 +671,7 @@
     "country": "New Zealand",
     "email": "charles.lee@waikato.ac.nz",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -683,7 +683,7 @@
     "country": "New Zealand",
     "email": "jeremy.owen@vuw.ac.nz",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -695,7 +695,7 @@
     "country": "New Zealand",
     "email": "d.gagic@massey.ac.nz",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -707,7 +707,7 @@
     "country": "Ireland",
     "email": "christine.loscher@dcu.ie",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -719,7 +719,7 @@
     "country": "Ireland",
     "email": "gillian.gardiner@setu.ie",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -731,7 +731,7 @@
     "country": "Ireland",
     "email": "brigid.lucey@mtu.ie",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -743,7 +743,7 @@
     "country": "Ireland",
     "email": "c.creevey@qub.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -755,7 +755,7 @@
     "country": "Ireland",
     "email": "eoneill@rcsi.ie",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -767,7 +767,7 @@
     "country": "Ireland",
     "email": "j.ogara@universityofgalway.ie",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -779,7 +779,7 @@
     "country": "Ireland",
     "email": "mmartins@tcd.ie",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -791,7 +791,7 @@
     "country": "Ireland",
     "email": "paul.cotter@teagasc.ie",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -803,7 +803,7 @@
     "country": "Germany",
     "email": "trinad.chakraborty@mikrobio.med.uni-giessen.de",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -815,7 +815,7 @@
     "country": "Germany",
     "email": "heinrich.neubauer@fli.de",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -827,7 +827,7 @@
     "country": "UK",
     "email": "l.j.v.piddock@bham.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -839,7 +839,7 @@
     "country": "UK",
     "email": "timothy.walsh@biology.ox.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -851,7 +851,7 @@
     "country": "UK",
     "email": "jp369@cam.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -863,7 +863,7 @@
     "country": "UK",
     "email": "dgally@ed.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -875,7 +875,7 @@
     "country": "UK",
     "email": "d.timofte@liverpool.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -887,7 +887,7 @@
     "country": "UK",
     "email": "matthewb.avison@bristol.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -899,7 +899,7 @@
     "country": "UK",
     "email": "a.j.oneill@leeds.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -911,7 +911,7 @@
     "country": "UK",
     "email": "christopher.stewart@ncl.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -923,7 +923,7 @@
     "country": "UK",
     "email": "curtis.b.dobson@manchester.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -935,7 +935,7 @@
     "country": "UK",
     "email": "j.santini@ucl.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -947,7 +947,7 @@
     "country": "UK",
     "email": "gordon.ramage@glasgow.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -959,7 +959,7 @@
     "country": "UK",
     "email": "t.darton@sheffield.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -971,7 +971,7 @@
     "country": "UK",
     "email": "christine.dodd@nottingham.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -983,7 +983,7 @@
     "country": "UK",
     "email": "mvm198@soton.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -995,7 +995,7 @@
     "country": "UK",
     "email": "c.g.dowson@warwick.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1007,7 +1007,7 @@
     "country": "UK",
     "email": "d.w.wareham@qmul.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1019,7 +1019,7 @@
     "country": "UK",
     "email": "i.m.gould@abdn.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1031,7 +1031,7 @@
     "country": "UK",
     "email": "timothy.rawson07@imperial.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1043,7 +1043,7 @@
     "country": "UK",
     "email": "m.vos@exeter.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1055,7 +1055,7 @@
     "country": "UK",
     "email": "gm657@bath.ac.uk",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1067,7 +1067,7 @@
     "country": "Australia",
     "email": "simon.keely@newcastle.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1079,7 +1079,7 @@
     "country": "Australia",
     "email": "anna.walduck@rmit.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1091,7 +1091,7 @@
     "country": "Australia",
     "email": "nicholas.coleman@mq.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1103,7 +1103,7 @@
     "country": "Australia",
     "email": "david.lynn@flinders.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1115,7 +1115,7 @@
     "country": "Australia",
     "email": "w.fernando@murdoch.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1127,7 +1127,7 @@
     "country": "Australia",
     "email": "olumide.odeyemi@utas.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1139,7 +1139,7 @@
     "country": "Australia",
     "email": "d.williamson@griffith.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1151,7 +1151,7 @@
     "country": "Australia",
     "email": "hannah.wardill@adelaide.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1163,7 +1163,7 @@
     "country": "Australia",
     "email": "l.marques@latrobe.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1175,7 +1175,7 @@
     "country": "Australia",
     "email": "simon.chen@qut.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1187,7 +1187,7 @@
     "country": "Australia",
     "email": "philip.hansbro@uts.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1199,7 +1199,7 @@
     "country": "Australia",
     "email": "martyn.kirk@anu.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1211,7 +1211,7 @@
     "country": "Australia",
     "email": "tim.inglis@uwa.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1223,7 +1223,7 @@
     "country": "Australia",
     "email": "e.el-omar@unsw.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1235,7 +1235,7 @@
     "country": "Australia",
     "email": "anton.peleg@monash.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1247,7 +1247,7 @@
     "country": "Australia",
     "email": "m.schembri@uq.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1259,7 +1259,7 @@
     "country": "Australia",
     "email": "meng.shi@sydney.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1271,7 +1271,7 @@
     "country": "Australia",
     "email": "bhowden@unimelb.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1283,7 +1283,7 @@
     "country": "USA",
     "email": "erick.motta@ag.tamu.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
@@ -1297,7 +1297,7 @@
     "country": "USA",
     "email": "mannin71@msu.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
@@ -1311,7 +1311,7 @@
     "country": "USA",
     "email": "wangche@auburn.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
@@ -1325,7 +1325,7 @@
     "country": "USA",
     "email": "jennifer.honda@uttyler.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
@@ -1339,7 +1339,7 @@
     "country": "USA",
     "email": "hcmantovani@wisc.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
@@ -1353,7 +1353,7 @@
     "country": "USA",
     "email": "abraundmeier88@siumed.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1365,7 +1365,7 @@
     "country": "USA",
     "email": "cturner9@luc.edu",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
@@ -1379,7 +1379,7 @@
     "country": "Australia",
     "email": "wolf.marx@deakin.edu.au",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1391,7 +1391,7 @@
     "country": "Canada",
     "email": "bob@cmdr.ubc.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1403,7 +1403,7 @@
     "country": "Canada",
     "email": "kathy.mccoy@ucalgary.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1415,7 +1415,7 @@
     "country": "Canada",
     "email": "laura.hug@uwaterloo.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1427,7 +1427,7 @@
     "country": "Canada",
     "email": "janet.hill@usask.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1439,7 +1439,7 @@
     "country": "Canada",
     "email": "elena.comelli@utoronto.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1451,7 +1451,7 @@
     "country": "Canada",
     "email": "joergoverhage@cunet.carleton.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1463,7 +1463,7 @@
     "country": "Canada",
     "email": "surette@mcmaster.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1475,7 +1475,7 @@
     "country": "Canada",
     "email": "kmadsen@ualberta.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1487,7 +1487,7 @@
     "country": "Canada",
     "email": "lisareynolds@uvic.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1499,7 +1499,7 @@
     "country": "Canada",
     "email": "gsulis@uottawa.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1511,7 +1511,7 @@
     "country": "Canada",
     "email": "finlay.maguire@dal.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1523,7 +1523,7 @@
     "country": "Canada",
     "email": "meghan.azad@umanitoba.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1535,7 +1535,7 @@
     "country": "Canada",
     "email": "pboerlin@uoguelph.ca",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1547,7 +1547,7 @@
     "country": "Netherlands",
     "email": "a.bossers@uu.nl",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1559,7 +1559,7 @@
     "country": "New Zealand",
     "email": "jack.heinemann@canterbury.ac.nz",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1571,7 +1571,7 @@
     "country": "New Zealand",
     "email": "daniel.pletzer@otago.ac.nz",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1583,7 +1583,7 @@
     "country": "New Zealand",
     "email": "c.higgins@aut.ac.nz",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1595,7 +1595,7 @@
     "country": "New Zealand",
     "email": "g.bashiri@auckland.ac.nz",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1607,7 +1607,7 @@
     "country": "Ireland",
     "email": "sfanning@ucd.ie",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1619,7 +1619,7 @@
     "country": "Ireland",
     "email": "r.massey@ucc.ie",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1631,7 +1631,7 @@
     "country": "Germany",
     "email": "stefan.schwarz@fu-berlin.de",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1643,7 +1643,7 @@
     "country": "Germany",
     "email": "christoph.baums@vetmed.uni-leipzig.de",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1655,7 +1655,7 @@
     "country": "Germany",
     "email": "kathrin.valentin-weigand@tiho-hannover.de",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1667,7 +1667,7 @@
     "country": "New Zealand",
     "email": "charlotte.alster@lincoln.ac.nz",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
@@ -1679,7 +1679,7 @@
     "country": "Netherlands",
     "email": "marnix.medema@wur.nl",
     "subject": "",
-    "status": "not_drafted",
+    "status": "draft",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
