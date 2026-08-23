@@ -5236,5 +5236,69 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1787474156293",
+    "name": "Marcel Behr",
+    "university": "McGill University",
+    "country": "Canada",
+    "email": "marcel.behr@mcgill.ca",
+    "researchArea": "Mycobacterial genomics, tuberculosis evolution, BCG vaccine genomics",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787474156294",
+    "name": "Ann Letellier",
+    "university": "Universite de Montreal (CRBM Veterinary College)",
+    "country": "Canada",
+    "email": "ann.letellier@umontreal.ca",
+    "researchArea": "Veterinary antimicrobial resistance, swine health epidemiology, zoonoses",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787474156294",
+    "name": "John Morris Fairbrother",
+    "university": "Universite de Montreal (CRBM Veterinary College)",
+    "country": "Canada",
+    "email": "john.morris.fairbrother@umontreal.ca",
+    "researchArea": "E. coli pathotypes in animals, avian colibacillosis, veterinary AMR",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787474156294",
+    "name": "Roger Levesque",
+    "university": "Universite Laval",
+    "country": "Canada",
+    "email": "rclevesq@ibis.ulaval.ca",
+    "researchArea": "Pseudomonas aeruginosa genomics, antimicrobial resistance, microbial evolution",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
