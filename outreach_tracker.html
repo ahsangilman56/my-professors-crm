@@ -468,10 +468,10 @@ function onUniChange() {
   const listDiv = document.getElementById('draft-list');
   if (!u) { listDiv.innerHTML=''; return; }
   
-  // Build set of already-mailed professors
+  // Build set of already-mailed professors (sent or replied only)
   const mailedNames = new Set();
   ALL_DATA.forEach(e => {
-    if (e.status && e.status !== 'not_drafted' && e.status !== 'draft') mailedNames.add(e.name.toLowerCase().trim());
+    if (e.status && (e.status === 'sent' || e.status.startsWith('replied'))) mailedNames.add(e.name.toLowerCase().trim());
   });
   
   // Build set of drafted professors
@@ -480,7 +480,7 @@ function onUniChange() {
     if (e.status === 'draft') draftedNames.add(e.name.toLowerCase().trim());
   });
   
-  // Filter CRM: available professors at this university
+  // Filter CRM: available professors at this university (exclude sent/replied)
   const profs = CRM_PROFS.filter(p => p.country === c && p.university === u && !mailedNames.has(p.name.toLowerCase().trim()))
     .sort((a,b)=>(a.name||'').localeCompare(b.name||''));
   
