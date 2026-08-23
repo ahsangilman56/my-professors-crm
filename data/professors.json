@@ -4804,5 +4804,309 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1787453068842",
+    "name": "Kathrin Valentin-Weigand",
+    "university": "University of Veterinary Medicine Hannover (TiHo)",
+    "country": "Germany",
+    "email": "Kathrin.Valentin-Weigand@tiho-hannover.de",
+    "researchArea": "Streptococcus pathogenesis, host-pathogen interactions, veterinary infectious diseases",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068842",
+    "name": "Thomas Blaha",
+    "university": "University of Veterinary Medicine Hannover (TiHo)",
+    "country": "Germany",
+    "email": "thomas.blaha@tiho-hannover.de",
+    "researchArea": "Swine health, food safety, One Health AMR",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068842",
+    "name": "Christoph Baums",
+    "university": "University of Leipzig (Veterinary Medicine)",
+    "country": "Germany",
+    "email": "christoph.baums@vetmed.uni-leipzig.de",
+    "researchArea": "Veterinary bacteriology, Streptococcus suis, antimicrobial resistance",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068842",
+    "name": "Marcus Fulde",
+    "university": "Freie Universitaet Berlin (Veterinary Medicine)",
+    "country": "Germany",
+    "email": "marcus.fulde@fu-berlin.de",
+    "researchArea": "Host-microbiome interactions, Streptococcus, veterinary infection biology",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068842",
+    "name": "Ralf Einspanier",
+    "university": "Freie Universitaet Berlin (Veterinary Medicine)",
+    "country": "Germany",
+    "email": "ralf.einspanier@fu-berlin.de",
+    "researchArea": "Veterinary molecular biology, reproductive biotechnology",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068843",
+    "name": "Reinhard Straubinger",
+    "university": "Ludwig Maximilian University Munich (Veterinary Medicine)",
+    "country": "Germany",
+    "email": "R.Straubinger@lmu.de",
+    "researchArea": "Veterinary bacteriology, mycology, avian diseases",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068843",
+    "name": "Konrad Sachse",
+    "university": "Friedrich-Loeffler-Institut",
+    "country": "Germany",
+    "email": "konrad.sachse@fli.bund.de",
+    "researchArea": "Chlamydia research, veterinary microbiology, diagnostics",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068843",
+    "name": "Thomas Mettenleiter",
+    "university": "Friedrich-Loeffler-Institut",
+    "country": "Germany",
+    "email": "thomas.mettenleiter@fli.de",
+    "researchArea": "Animal health, viral infections of livestock",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068843",
+    "name": "Heinrich Neubauer",
+    "university": "Friedrich-Loeffler-Institut",
+    "country": "Germany",
+    "email": "heinrich.neubauer@fli.de",
+    "researchArea": "Brucella, zoonotic bacterial pathogens",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068843",
+    "name": "Timo Homeier",
+    "university": "Friedrich-Loeffler-Institut",
+    "country": "Germany",
+    "email": "timo.homeier@fli.de",
+    "researchArea": "MRSA epidemiology, zoonotic AMR",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068843",
+    "name": "Frank Pessler",
+    "university": "Hannover Medical School / TWINCORE",
+    "country": "Germany",
+    "email": "frank.pessler@twincore.de",
+    "researchArea": "Respiratory pathogens, pediatric infectious diseases",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068843",
+    "name": "Torsten Hain",
+    "university": "Justus Liebig University Giessen",
+    "country": "Germany",
+    "email": "torsten.hain@mikrobio.med.uni-giessen.de",
+    "researchArea": "Listeria genomics, bacterial transcriptomics",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068843",
+    "name": "Trinad Chakraborty",
+    "university": "Justus Liebig University Giessen",
+    "country": "Germany",
+    "email": "trinad.chakraborty@mikrobio.med.uni-giessen.de",
+    "researchArea": "Bacterial pathogenesis, zoonotic infections",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068844",
+    "name": "Mark Broenstrup",
+    "university": "Helmholtz Centre for Infection Research (HZI)",
+    "country": "Germany",
+    "email": "m.broenstrup@hz-hannover.de",
+    "researchArea": "Antibiotic discovery, chemical biology",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068844",
+    "name": "Marc Stadler",
+    "university": "Helmholtz Centre for Infection Research (HZI)",
+    "country": "Germany",
+    "email": "marc.stadler@helmholtz-hzi.de",
+    "researchArea": "Natural products from fungi, antibiotic discovery",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068844",
+    "name": "Sebastian Guenther",
+    "university": "Technical University of Munich",
+    "country": "Germany",
+    "email": "sebastian.guenther@tum.de",
+    "researchArea": "Plasmid AMR epidemiology, E. coli genomics",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068844",
+    "name": "Ulrich Dobrindt",
+    "university": "University of Muenster",
+    "country": "Germany",
+    "email": "dobrindt@uni-muenster.de",
+    "researchArea": "E. coli pathogenomics, virulence evolution",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068844",
+    "name": "Alexander Mellmann",
+    "university": "University of Muenster",
+    "country": "Germany",
+    "email": "alexander.mellmann@ukmuenster.de",
+    "researchArea": "Outbreak genomics, hospital pathogens",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787453068844",
+    "name": "Jan Rupp",
+    "university": "University of Luebeck",
+    "country": "Germany",
+    "email": "Jan.Rupp@gcsc.uni-giessen.de",
+    "researchArea": "Infection medicine, Chlamydia persistence",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
