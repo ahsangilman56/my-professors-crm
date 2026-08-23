@@ -5620,5 +5620,133 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1787476198432",
+    "name": "David White",
+    "university": "University of Tennessee",
+    "country": "USA",
+    "email": "drwhite@utk.edu",
+    "researchArea": "Antimicrobial resistance in food systems, former FDA food safety research director",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787476198432",
+    "name": "Wendy Beauvais",
+    "university": "Purdue University",
+    "country": "USA",
+    "email": "wbeauvai@purdue.edu",
+    "researchArea": "Veterinary epidemiology, quantitative risk assessment, animal health surveillance",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787476198432",
+    "name": "Ilya Slizovskiy",
+    "university": "Purdue University",
+    "country": "USA",
+    "email": "islizovs@purdue.edu",
+    "researchArea": "Veterinary comparative pathobiology, population medicine",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787476198432",
+    "name": "Douglas Call",
+    "university": "Washington State University",
+    "country": "USA",
+    "email": "drcall@vetmed.wsu.edu",
+    "researchArea": "Molecular epidemiology of antimicrobial resistance, bacterial genotyping",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787476198432",
+    "name": "Alan Goodman",
+    "university": "Washington State University",
+    "country": "USA",
+    "email": "alan.goodman@wsu.edu",
+    "researchArea": "Infectious disease immunology, pathogen host interactions",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787476198433",
+    "name": "Smriti Shringi",
+    "university": "Texas Tech University",
+    "country": "USA",
+    "email": "Smriti.Shringi@ttu.edu",
+    "researchArea": "Salmonella and E. coli genomics, antimicrobial resistance in cattle",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787476198433",
+    "name": "Devendra Shah",
+    "university": "Texas Tech University",
+    "country": "USA",
+    "email": "devendra.shah@ttu.edu",
+    "researchArea": "Bacterial pathogenesis, virulence gene regulation",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1787476198433",
+    "name": "Tara Gaire",
+    "university": "Texas Tech University",
+    "country": "USA",
+    "email": "tgaire@ttu.edu",
+    "researchArea": "Veterinary pathobiology, antimicrobial resistance mechanisms",
+    "homepage": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
