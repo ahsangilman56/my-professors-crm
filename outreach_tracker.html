@@ -471,7 +471,13 @@ function onUniChange() {
   // Build set of already-mailed professors
   const mailedNames = new Set();
   ALL_DATA.forEach(e => {
-    if (e.status && e.status !== 'draft') mailedNames.add(e.name.toLowerCase().trim());
+    if (e.status && e.status !== 'not_drafted' && e.status !== 'draft') mailedNames.add(e.name.toLowerCase().trim());
+  });
+  
+  // Build set of drafted professors
+  const draftedNames = new Set();
+  ALL_DATA.forEach(e => {
+    if (e.status === 'draft') draftedNames.add(e.name.toLowerCase().trim());
   });
   
   // Filter CRM: available professors at this university
@@ -484,7 +490,14 @@ function onUniChange() {
       ? `<span class="badge-hold">⏸ Hold until ${p.sendAfter}</span>`
       : '';
     const research = p.researchArea ? `<div style="font-size:11px;color:var(--text-dim);margin-top:2px">${p.researchArea}</div>` : '';
-    h += `<div class="prof-card"><div><strong>${p.name}</strong>${research}</div><div><span class="badge-drafted">📝 Ready to draft</span>${holdBadge}</div></div>`;
+    
+    // Determine badge from tracker status
+    const normName = p.name.toLowerCase().trim();
+    const statusBadge = draftedNames.has(normName)
+      ? getStatusBadge('draft')
+      : getStatusBadge('not_drafted');
+    
+    h += `<div class="prof-card"><div><strong>${p.name}</strong>${research}</div><div>${statusBadge}${holdBadge}</div></div>`;
   }
   if (!h) h = '<div class="empty">No available professors at this university (all already mailed).</div>';
   listDiv.innerHTML = h;
