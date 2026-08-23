@@ -371,7 +371,8 @@ function switchTab(tab) {
 }
 
 function getStatusBadge(status) {
-  if (!status || status === 'draft') return '<span class="badge-drafted">📝 Drafted</span>';
+  if (!status || status === 'not_drafted') return '<span class="badge-not-drafted">⏳ Not Drafted</span>';
+  if (status === 'draft') return '<span class="badge-drafted">📝 Drafted</span>';
   if (status === 'sent') return '<span class="badge-sent">✅ Sent</span>';
   if (status.startsWith('replied')) {
     if (status.includes('positive')) return '<span class="badge-reply-positive">✅ Positive Reply</span>';
