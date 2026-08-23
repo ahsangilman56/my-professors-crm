@@ -294,16 +294,17 @@
   {
     "id": "mail-1787237859",
     "name": "Iris Holmes",
-    "university": "Southern Illinois University",
+    "university": "Southern Illinois University Carbondale",
     "country": "USA",
     "email": "iris.holmes@siu.edu",
     "subject": "Prospective Graduate Student in Host Microbe Interactions and Microbiome Ecology",
     "dateSent": "2026-08-20",
     "timestamp": 1787237859,
-    "status": "sent",
+    "status": "replied - positive",
     "replyReceived": true,
-    "replySummary": "No funding currently; may change in fall; asked to reconnect in November",
-    "replyDate": "2026-08-21"
+    "replySummary": "No current funding but may change later this fall. Get back in touch in November if still looking. Called user \"(soon to be) Dr. Gilman\".",
+    "replyDate": "2026-08-21",
+    "dateReplied": "2026-08-21"
   },
   {
     "id": "mail-1787237863",
@@ -314,10 +315,11 @@
     "subject": "Prospective Graduate Student in Microbial Genomics and Evolution",
     "dateSent": "2026-08-20",
     "timestamp": 1787237863,
-    "status": "sent",
+    "status": "replied - positive",
     "replyReceived": true,
-    "replySummary": "Interested but too early for Fall 2027; asked to contact again in early October",
-    "replyDate": "2026-08-22"
+    "replySummary": "Interested, aligns with his program. Too early for Fall 2027 - contact again early October.",
+    "replyDate": "2026-08-22",
+    "dateReplied": "2026-08-22"
   },
   {
     "id": "mail-1787237867",
@@ -341,10 +343,11 @@
     "subject": "Prospective Graduate Student in Microbiome and Bacterial Adaptation Research",
     "dateSent": "2026-08-20",
     "timestamp": 1787237871,
-    "status": "sent",
+    "status": "replied - rejected",
     "replyReceived": true,
-    "replySummary": "Not accepting new students due to funding and bandwidth limitations",
-    "replyDate": "2026-08-21"
+    "replySummary": "Not accepting new students due to funding and bandwidth limitations.",
+    "replyDate": "2026-08-21",
+    "dateReplied": "2026-08-21"
   },
   {
     "id": "mail-1787237875",
@@ -399,32 +402,6 @@
     "replySummary": "",
     "replyDate": "2026-08-20",
     "replyNote": "Taking students. Apply to MCB PhD program at https://mcb.illinois.edu/academics/phd-programs. Contact: Shawna Smith and Brandon Stevens."
-  },
-  {
-    "id": "mail-1787238055",
-    "name": "Brittany Peterson",
-    "university": "Southern Illinois University Edwardsville",
-    "country": "USA",
-    "email": "bripete@siue.edu",
-    "subject": "Prospective Graduate Student in Microbiome and Microbial Ecotoxicology",
-    "dateSent": "2026-08-20",
-    "timestamp": 1787238055,
-    "status": "sent",
-    "replyReceived": true,
-    "replySummary": "Not accepting new students due to funding and bandwidth limitations"
-  },
-  {
-    "id": "mail-1787238060",
-    "name": "Howard Ochman",
-    "university": "University of Texas at Austin",
-    "country": "USA",
-    "email": "howard.ochman@austin.utexas.edu",
-    "subject": "Prospective Graduate Student in Bacterial Genomics and Evolution",
-    "dateSent": "2026-08-20",
-    "timestamp": 1787238060,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
   },
   {
     "id": "mail-1787393548-tiedjej",
