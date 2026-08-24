@@ -418,10 +418,12 @@
     "country": "USA",
     "email": "drcall@wsu.edu",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-24",
     "dateCreated": "2026-08-23",
-    "timestamp": "2026-08-23T12:18:16Z"
+    "timestamp": "2026-08-23T12:18:16Z",
+    "replySummary": "Just returned to faculty; cannot support new students for foreseeable future.",
+    "notes": "Reply 2026-08-24: \"I just returned to my faculty position, and I am unable to support new students for the foreseeable future. Good luck with your efforts.\" \u2014 Douglas Call, Regents Professor, Paul G. Allen School for Global Health, WSU"
   },
   {
     "id": "draft_altier@cornell.edu",
