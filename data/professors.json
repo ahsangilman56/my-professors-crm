@@ -5638,5 +5638,12 @@
     "country": "USA",
     "email": "sbowden@umn.edu",
     "researchArea": "Salmonella genetics, phage resistance, prophage-encoded defense"
+  },
+  {
+    "name": "Yue Qu",
+    "university": "Monash University",
+    "country": "Australia",
+    "email": "yue.qu@monash.edu",
+    "researchArea": "Staphylococcal biofilm AMR, antimicrobial resistance mechanisms"
   }
 ]
