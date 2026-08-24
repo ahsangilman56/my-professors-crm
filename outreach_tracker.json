@@ -6035,5 +6035,18 @@
     "replySummary": "",
     "sendAfter": null,
     "replyNote": null
+  },
+  {
+    "id": "mail-jonathan-dahl",
+    "name": "Jonathan Dahl",
+    "university": "Illinois State University",
+    "country": "USA",
+    "email": "jdahl1@ilstu.edu",
+    "subject": "Prospective Graduate Student in Microbiology and Microbial Symbiosis",
+    "dateSent": "2026-08-19",
+    "timestamp": 1755600000,
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Rejected"
   }
 ]
