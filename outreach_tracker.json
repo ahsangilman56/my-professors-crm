@@ -470,8 +470,8 @@
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "replySummary": "Just returned to faculty; cannot support new students for foreseeable future.",
-    "notes": "Rejected",
-    "replyNote": "Rejected"
+    "notes": "Just returned to faculty; no capacity",
+    "replyNote": "Just returned to faculty; no capacity"
   },
   {
     "id": "draft_altier@cornell.edu",
@@ -485,8 +485,8 @@
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "replySummary": "We do not offer master's degrees in the biological sciences. PhD students must apply throu",
-    "notes": "Rejected",
-    "replyNote": "Rejected"
+    "notes": "No direct PhD admission; apply via program",
+    "replyNote": "No direct PhD admission; apply via program"
   },
   {
     "id": "draft_tgaire@ttu.edu",
@@ -6572,8 +6572,8 @@
     "status": "replied - rejected",
     "replyReceived": true,
     "replySummary": "Rejected",
-    "notes": "Rejected",
-    "replyNote": "Rejected"
+    "notes": "Rejected application",
+    "replyNote": "Rejected application"
   },
   {
     "name": "Anup Kollanoor-Johny",
