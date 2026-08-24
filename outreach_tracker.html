@@ -312,8 +312,8 @@ function render(entries) {
           else if (p.status.includes('retired')) { badgeClass = 'reply-retired'; badgeText = '🚫 Retired'; }
           else if (p.status.includes('auto')) { badgeClass = 'reply-pending'; badgeText = '⏳ Auto-reply'; }
           replyTag = `<span class="badge ${badgeClass}">${badgeText}</span>`;
-          if (p.replyNote) replyNoteHtml = `<div class="reply-note">${p.replyNote}</div>`;
         }
+        if (p.replyNote) replyNoteHtml = `<div class="reply-note">${p.replyNote}</div>`;
         profHtml += `<div class="uni-professor"><span class="prof-name">${p.name}</span><span class="prof-date">${formatDate(p.dateSent)}</span>${replyTag}</div>${replyNoteHtml}`;
       }
 
@@ -497,7 +497,11 @@ function onUniChange() {
       ? getStatusBadge('draft')
       : getStatusBadge('not_drafted');
     
-    h += `<div class="prof-card"><div><strong>${p.name}</strong>${research}</div><div>${statusBadge}${holdBadge}</div></div>`;
+    const normName2 = normName;
+    const trkEntry = ALL_DATA.find(e => e.name && e.name.toLowerCase().trim() === normName);
+    const trkNote = (trkEntry && (trkEntry.replyNote || trkEntry.notes))
+      ? `<div style="font-size:11px;color:var(--text-dim);margin-top:4px">💬 ${(trkEntry.replyNote || trkEntry.notes).replace(/</g,'&lt;')}</div>` : '';
+    h += `<div class="prof-card"><div><strong>${p.name}</strong>${research}${trkNote}</div><div>${statusBadge}${holdBadge}</div></div>`;
   }
   if (!h) h = '<div class="empty">No available professors at this university (all already mailed).</div>';
   listDiv.innerHTML = h;
