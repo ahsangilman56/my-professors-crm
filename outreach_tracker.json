@@ -6591,5 +6591,15 @@
     "subject": "Prospective Graduate Student in Salmonella Genomics and Phage Defense Research",
     "notes": "Sent 2026-08-24; awaiting reply",
     "replyNote": "Sent 2026-08-24; awaiting reply"
+  },
+  {
+    "name": "Yue Qu",
+    "email": "yue.qu@monash.edu",
+    "university": "Monash University",
+    "country": "Australia",
+    "status": "draft",
+    "dateSent": null,
+    "subject": "Prospective Graduate Student in Biofilm AMR and Staphylococcus Research",
+    "replyNote": "Draft ready \u2014 send after cooldown"
   }
 ]
