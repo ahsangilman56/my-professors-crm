@@ -782,23 +782,6 @@
     "replySummary": ""
   },
   {
-    "id": "1777800000013",
-    "name": "Philip Hardwidge",
-    "university": "Kansas State University",
-    "country": "USA",
-    "email": "hardwidg@vet.k-state.edu",
-    "researchArea": "Bacterial pathogenesis, Enteric pathogens, Host-pathogen interactions",
-    "homepage": "https://www.vet.k-state.edu/academics/dmp/faculty/hardwidge/",
-    "researchProfile": "https://scholar.google.com/citations?user=G615k_cAAAAJ",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
-  },
-  {
     "id": "1777800000014",
     "name": "Brian Lubbers",
     "university": "Kansas State University",
