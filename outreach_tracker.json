@@ -391,10 +391,11 @@
     "subject": "Prospective Graduate Student...",
     "dateSent": "2026-08-20",
     "timestamp": 1787393548,
-    "status": "sent",
+    "status": "replied - rejected",
     "replyReceived": true,
     "replyDate": "2026-08-21",
-    "replySummary": "Retired; not accepting students"
+    "replySummary": "I'm sorry but I'm retired.",
+    "notes": "Reply 2026-08-21: \"I'm sorry but I'm retired.\" \u2014 James Tiedje, MSU. Remove from any future outreach lists."
   },
   {
     "id": "draft_wbeauvai@purdue.edu",
@@ -429,10 +430,12 @@
     "country": "USA",
     "email": "altier@cornell.edu",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-24",
     "dateCreated": "2026-08-23",
-    "timestamp": "2026-08-23T12:18:16Z"
+    "timestamp": "2026-08-23T12:18:16Z",
+    "replySummary": "We do not offer master's degrees in the biological sciences. PhD students must apply throu",
+    "notes": "Reply 2026-08-24: \"We do not offer master's degrees in the biological sciences. PhD students must apply through competitive program admission (BBS PhD or Microbiology PhD). If admitted, happy to discuss lab opportunities.\" \u2014 Craig Altier, Professor & Interim Chair, Cornell. KEY: Cornell has no direct-faculty admission; apply via program."
   },
   {
     "id": "draft_tgaire@ttu.edu",
@@ -5891,11 +5894,12 @@
     "subject": "Prospective Graduate Student in Environmental Virology and Food Safety Research",
     "dateSent": "2026-08-24",
     "timestamp": 1787505172,
-    "status": "sent",
+    "status": "replied - rejected",
     "replyReceived": false,
-    "replySummary": "",
+    "replySummary": "Unfortunately, I do not have any space in my lab. I am sorry",
     "sendAfter": null,
-    "replyNote": null
+    "replyNote": null,
+    "notes": "Reply 2026-08-24: \"Unfortunately, I do not have any space in my lab. I am sorry\" \u2014 Sagar Goyal, DVM PhD, Professor of Virology, UMN."
   },
   {
     "id": "prof-1787475661595",
