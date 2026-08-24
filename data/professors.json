@@ -1003,23 +1003,6 @@
     "replySummary": ""
   },
   {
-    "id": "1777800000027",
-    "name": "Akhilesh Ramachandran",
-    "university": "Oklahoma State University",
-    "country": "USA",
-    "email": "rakhile@okstate.edu",
-    "researchArea": "Diagnostic microbiology, Metagenomics, Antimicrobial resistance",
-    "homepage": "https://oaddl.okstate.edu/",
-    "researchProfile": "https://scholar.google.com/citations?user=r15rTq0AAAAJ",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
-  },
-  {
     "id": "1777800000028",
     "name": "Matthew Cabeen",
     "university": "Oklahoma State University",
