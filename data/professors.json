@@ -4980,22 +4980,6 @@
   },
   {
     "id": "1787453068844",
-    "name": "Marc Stadler",
-    "university": "Helmholtz Centre for Infection Research (HZI)",
-    "country": "Germany",
-    "email": "marc.stadler@helmholtz-hzi.de",
-    "researchArea": "Natural products from fungi, antibiotic discovery",
-    "homepage": "",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
-  },
-  {
-    "id": "1787453068844",
     "name": "Sebastian Guenther",
     "university": "Technical University of Munich",
     "country": "Germany",
@@ -5654,12 +5638,5 @@
     "country": "USA",
     "email": "sbowden@umn.edu",
     "researchArea": "Salmonella genetics, phage resistance, prophage-encoded defense"
-  },
-  {
-    "name": "Kathryn E. Holt",
-    "university": "Monash University",
-    "country": "Australia",
-    "email": "kat.holt@lshtm.ac.uk",
-    "researchArea": "Bacterial genomic epidemiology, Typhi AMR surveillance, pathogen genomics tools"
   }
 ]
