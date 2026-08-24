@@ -5443,22 +5443,6 @@
     "replySummary": ""
   },
   {
-    "id": "1787475661595",
-    "name": "Luke Borst",
-    "university": "NC State University",
-    "country": "USA",
-    "email": "lborst@ncsu.edu",
-    "researchArea": "Comparative medicine, companion animal microbiome, bacterial genetics",
-    "homepage": "",
-    "status": {
-      "mailed": false,
-      "replyReceived": false,
-      "followUpNeeded": false
-    },
-    "mailedAt": null,
-    "replySummary": ""
-  },
-  {
     "id": "1787475953837",
     "name": "Thomas Wittum",
     "university": "Ohio State University",
