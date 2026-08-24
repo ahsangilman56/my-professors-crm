@@ -5654,5 +5654,12 @@
     "country": "USA",
     "email": "sbowden@umn.edu",
     "researchArea": "Salmonella genetics, phage resistance, prophage-encoded defense"
+  },
+  {
+    "name": "Kathryn E. Holt",
+    "university": "Monash University",
+    "country": "Australia",
+    "email": "kat.holt@lshtm.ac.uk",
+    "researchArea": "Bacterial genomic epidemiology, Typhi AMR surveillance, pathogen genomics tools"
   }
 ]
