@@ -5633,5 +5633,26 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "name": "Anup Kollanoor-Johny",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "email": "anupjohn@umn.edu",
+    "researchArea": "Food animal AMR, Salmonella interventions, poultry gut health, essential oils"
+  },
+  {
+    "name": "Noelle Noyes",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "email": "nnoyes@umn.edu",
+    "researchArea": "Livestock AMR epidemiology, meat processing microbiome, WGS surveillance"
+  },
+  {
+    "name": "Steven D. Bowden",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "email": "sbowden@umn.edu",
+    "researchArea": "Salmonella genetics, phage resistance, prophage-encoded defense"
   }
 ]
