@@ -195,7 +195,8 @@
     "replyReceived": true,
     "replySummary": "Away until Aug 25; auto-reply with delayed response notice",
     "replyDate": "2026-08-20",
-    "replyNote": "Away until Aug 25, expect delayed reply"
+    "replyNote": "Away until Aug 25, expect delayed reply",
+    "notes": "Auto-reply only (no personal response yet). Status may change - watch inbox."
   },
   {
     "id": "mail-1787233188",
@@ -276,7 +277,8 @@
     "replySummary": "No current funding but may change later this fall. Get back in touch in November if still looking. Called user \"(soon to be) Dr. Gilman\".",
     "replyDate": "2026-08-21",
     "dateReplied": "2026-08-21",
-    "replyNote": "\ud83d\udcc5 Contact again in NOVEMBER - funding may open. She was warm and encouraging!"
+    "replyNote": "\ud83d\udcc5 Contact again in NOVEMBER - funding may open. She was warm and encouraging!",
+    "notes": "Reply 2026-08-21: \"I don't currently have funding to support a graduate student, but circumstances may change later this fall. If you are still looking for a position in November, please get back in touch.\" \u2014 Positive tone, funding-blocked; FOLLOW UP IN NOVEMBER."
   },
   {
     "id": "mail-1787237863",
@@ -377,7 +379,8 @@
     "replyReceived": false,
     "replySummary": "",
     "replyDate": "2026-08-20",
-    "replyNote": "Taking students. Apply to MCB PhD program at https://mcb.illinois.edu/academics/phd-programs. Contact: Shawna Smith and Brandon Stevens."
+    "replyNote": "Taking students. Apply to MCB PhD program at https://mcb.illinois.edu/academics/phd-programs. Contact: Shawna Smith and Brandon Stevens.",
+    "notes": "Positive reply - interested in lab, university LOCKED (no more sends to UIUC). Original positive reply predates tracker notes field."
   },
   {
     "id": "mail-1787393548-tiedjej",
@@ -404,7 +407,8 @@
     "dateSent": "2026-08-24",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "replySummary": "Auto-reply: currently on medical leave"
+    "replySummary": "Auto-reply: currently on medical leave",
+    "notes": "Auto-reply 2026-08-24: \"I am currently on medical leave\" \u2014 no return date. Do not follow up until she returns."
   },
   {
     "id": "draft_drcall@wsu.edu",
@@ -6025,6 +6029,7 @@
     "timestamp": 1755600000,
     "status": "replied - rejected",
     "replyReceived": true,
-    "replySummary": "Rejected"
+    "replySummary": "Rejected",
+    "notes": "Rejected (reply date unknown, pre-tracker era). Do not re-contact."
   }
 ]
