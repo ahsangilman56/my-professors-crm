@@ -169,21 +169,6 @@
     "replySummary": ""
   },
   {
-    "id": "mail-1787222929",
-    "name": "Jonathan Dahl",
-    "university": "Illinois State University",
-    "country": "USA",
-    "email": "jdahl1@ilstu.edu",
-    "subject": "Prospective Graduate Student in Antimicrobial Resistance Research",
-    "dateSent": "2026-08-19",
-    "timestamp": 1787222929,
-    "status": "draft",
-    "replyReceived": true,
-    "replySummary": "Decided to move ahead with other applicants; rejected application",
-    "replyDate": "2026-08-18",
-    "replyNote": "Moved ahead with other applicants"
-  },
-  {
     "id": "mail-1787222930",
     "name": "Abhijeet Raghav",
     "university": "Kansas State University",
@@ -433,20 +418,6 @@
     "replyReceived": true,
     "replyDate": "2026-08-20",
     "replySummary": "Away until Aug 25; auto-reply with delayed response notice"
-  },
-  {
-    "id": "mail-1787393548-jdahl1",
-    "name": "Jan Dahl",
-    "university": "Illinois State University",
-    "country": "USA",
-    "email": "jdahl1@ilstu.edu",
-    "subject": "Prospective Graduate Student...",
-    "dateSent": "2026-08-20",
-    "timestamp": 1787393548,
-    "status": "sent",
-    "replyReceived": true,
-    "replyDate": "2026-08-18",
-    "replySummary": "Decided to move ahead with other applicants; rejected application"
   },
   {
     "id": "draft_lborst@ncsu.edu",
@@ -1795,21 +1766,6 @@
     "university": "Southern Illinois University",
     "country": "USA",
     "email": "bethany.rader@siu.edu",
-    "subject": "",
-    "dateSent": null,
-    "timestamp": 1787505172,
-    "status": "not_drafted",
-    "replyReceived": false,
-    "replySummary": "",
-    "sendAfter": null,
-    "replyNote": null
-  },
-  {
-    "id": "prof-1776501405300",
-    "name": "Dr. Jan Dahl",
-    "university": "Illinois State University",
-    "country": "USA",
-    "email": "jdahl1@ilstu.edu",
     "subject": "",
     "dateSent": null,
     "timestamp": 1787505172,
