@@ -6057,7 +6057,8 @@
     "email": "sbowden@umn.edu",
     "university": "University of Minnesota",
     "country": "USA",
-    "status": "not_drafted",
-    "dateSent": null
+    "status": "draft",
+    "dateSent": null,
+    "subject": "Prospective Graduate Student in Salmonella Genomics and Phage Defense Research"
   }
 ]
