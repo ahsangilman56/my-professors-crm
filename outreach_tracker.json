@@ -1325,7 +1325,7 @@
     "country": "USA",
     "email": "jennifer.honda@uttyler.edu",
     "subject": "",
-    "status": "draft",
+    "status": "not_drafted",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
@@ -1353,7 +1353,7 @@
     "country": "USA",
     "email": "abraundmeier88@siumed.edu",
     "subject": "",
-    "status": "draft",
+    "status": "not_drafted",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z"
