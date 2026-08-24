@@ -318,10 +318,11 @@
     "timestamp": 1787237871,
     "status": "replied - rejected",
     "replyReceived": true,
-    "replySummary": "Not accepting new students due to funding and bandwidth limitations.",
+    "replySummary": "I am not currently accepting new students due to funding and bandwidth limitations. Best of luck.",
     "replyDate": "2026-08-21",
     "dateReplied": "2026-08-21",
-    "replyNote": "\u274c Closed - no funding. Do not follow up."
+    "replyNote": "\u274c Closed - no funding. Do not follow up.",
+    "notes": "Reply 2026-08-21: \"I am not currently accepting new students due to funding and bandwidth limitations. Best of luck.\" \u2014 Brittany Peterson, Assoc Professor, SIU Edwardsville"
   },
   {
     "id": "mail-1787237875",
@@ -5960,11 +5961,12 @@
     "subject": "Prospective Graduate Student in Livestock Microbiome and Antimicrobial Resistance Ecology",
     "dateSent": "2026-08-24",
     "timestamp": 1787505172,
-    "status": "replied - auto-reply",
+    "status": "replied - rejected",
     "replyReceived": false,
-    "replySummary": "Auto-reply: on sabbatical until Dec 31 2026, not checking email regularly",
+    "replySummary": "Thank you for the interest in joining the lab. Unfortunately, I am not accepting new students. Best ",
     "sendAfter": null,
-    "replyNote": null
+    "replyNote": null,
+    "notes": "REAL REPLY 2026-08-24 (after sabbatical auto-reply): \"Thank you for the interest in joining the lab. Unfortunately, I am not accepting new students. Best wishes in your career, Erika\" \u2014 Erika Ganda, DVM PhD, Associate Professor Food Animal Microbiomes, Penn State"
   },
   {
     "id": "prof-1787476198432",
