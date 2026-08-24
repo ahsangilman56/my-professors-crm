@@ -391,19 +391,6 @@
     "replySummary": "Retired; not accepting students"
   },
   {
-    "id": "draft_lborst@ncsu.edu",
-    "name": "Luke Borst",
-    "university": "North Carolina State University",
-    "country": "USA",
-    "email": "lborst@ncsu.edu",
-    "subject": "",
-    "status": "bounced",
-    "dateSent": "2026-08-24",
-    "dateCreated": "2026-08-23",
-    "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "550 5.1.1 address not found - left NCSU, now at CS Diagnostics (per OpenAlex)"
-  },
-  {
     "id": "draft_wbeauvai@purdue.edu",
     "name": "Wendy Beauvais",
     "university": "Purdue University",
