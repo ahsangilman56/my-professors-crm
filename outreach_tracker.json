@@ -397,10 +397,11 @@
     "country": "USA",
     "email": "wbeauvai@purdue.edu",
     "subject": "",
-    "status": "sent",
+    "status": "replied - auto-reply",
     "dateSent": "2026-08-24",
     "dateCreated": "2026-08-23",
-    "timestamp": "2026-08-23T12:18:16Z"
+    "timestamp": "2026-08-23T12:18:16Z",
+    "replySummary": "Auto-reply: currently on medical leave"
   },
   {
     "id": "draft_drcall@wsu.edu",
@@ -5958,9 +5959,9 @@
     "subject": "Prospective Graduate Student in Livestock Microbiome and Antimicrobial Resistance Ecology",
     "dateSent": "2026-08-24",
     "timestamp": 1787505172,
-    "status": "sent",
+    "status": "replied - auto-reply",
     "replyReceived": false,
-    "replySummary": "",
+    "replySummary": "Auto-reply: on sabbatical until Dec 31 2026, not checking email regularly",
     "sendAfter": null,
     "replyNote": null
   },
