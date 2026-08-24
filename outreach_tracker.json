@@ -6035,5 +6035,29 @@
     "replyReceived": true,
     "replySummary": "Rejected",
     "notes": "Rejected (reply date unknown, pre-tracker era). Do not re-contact."
+  },
+  {
+    "name": "Anup Kollanoor-Johny",
+    "email": "anupjohn@umn.edu",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "status": "not_drafted",
+    "dateSent": null
+  },
+  {
+    "name": "Noelle Noyes",
+    "email": "nnoyes@umn.edu",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "status": "not_drafted",
+    "dateSent": null
+  },
+  {
+    "name": "Steven D. Bowden",
+    "email": "sbowden@umn.edu",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "status": "not_drafted",
+    "dateSent": null
   }
 ]
