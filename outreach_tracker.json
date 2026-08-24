@@ -643,20 +643,6 @@
     "replyNote": "Draft ready \u2014 send after cooldown"
   },
   {
-    "id": "draft_marc.stadler@helmholtz-hzi.de",
-    "name": "Marc Stadler",
-    "university": "Helmholtz Centre for Infection Research (HZI)",
-    "country": "Germany",
-    "email": "marc.stadler@helmholtz-hzi.de",
-    "subject": "",
-    "status": "draft",
-    "dateSent": null,
-    "dateCreated": "2026-08-23",
-    "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
-  },
-  {
     "id": "draft_wliebl@wzw.tum.de",
     "name": "Wolfgang Liebl",
     "university": "Technical University of Munich",
@@ -6605,15 +6591,5 @@
     "subject": "Prospective Graduate Student in Salmonella Genomics and Phage Defense Research",
     "notes": "Sent 2026-08-24; awaiting reply",
     "replyNote": "Sent 2026-08-24; awaiting reply"
-  },
-  {
-    "name": "Kathryn E. Holt",
-    "email": "kat.holt@lshtm.ac.uk",
-    "university": "Monash University",
-    "country": "Australia",
-    "status": "draft",
-    "dateSent": null,
-    "subject": "Prospective Graduate Student in Bacterial Genomics and AMR Surveillance Research",
-    "replyNote": "Draft ready \u2014 send after cooldown"
   }
 ]
