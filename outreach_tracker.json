@@ -1593,13 +1593,15 @@
     "country": "Canada",
     "email": "elena.comelli@utoronto.ca",
     "subject": "",
-    "status": "sent",
+    "status": "replied - auto-reply",
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "replied - auto-reply 2026-08-25: Intermittent email access until Aug 30, 2026",
     "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyReceived": true,
+    "replyDate": "2026-08-25",
+    "replySummary": "Intermittent email access until Aug 30, 2026"
   },
   {
     "id": "draft_joergoverhage@cunet.carleton.ca",
@@ -1608,13 +1610,15 @@
     "country": "Canada",
     "email": "joergoverhage@cunet.carleton.ca",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "replied - rejected 2026-08-25: All 2027 spots filled; not taking students",
     "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyReceived": true,
+    "replyDate": "2026-08-25",
+    "replySummary": "All 2027 spots filled; not taking students"
   },
   {
     "id": "draft_surette@mcmaster.ca",
@@ -1623,13 +1627,15 @@
     "country": "Canada",
     "email": "surette@mcmaster.ca",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "replied - rejected 2026-08-25: No additional positions available for coming year",
     "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyReceived": true,
+    "replyDate": "2026-08-25",
+    "replySummary": "No additional positions available for coming year"
   },
   {
     "id": "draft_kmadsen@ualberta.ca",
@@ -1683,13 +1689,15 @@
     "country": "Canada",
     "email": "finlay.maguire@dal.ca",
     "subject": "",
-    "status": "sent",
+    "status": "replied - auto-reply",
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "replied - auto-reply 2026-08-25: On vacation (newborn), limited email access until return",
     "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyReceived": true,
+    "replyDate": "2026-08-25",
+    "replySummary": "On vacation (newborn), limited email access until return"
   },
   {
     "id": "draft_meghan.azad@umanitoba.ca",
@@ -1698,13 +1706,15 @@
     "country": "Canada",
     "email": "meghan.azad@umanitoba.ca",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "replied - rejected 2026-08-25: Not accepting new students at this time",
     "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyReceived": true,
+    "replyDate": "2026-08-25",
+    "replySummary": "Not accepting new students at this time"
   },
   {
     "id": "draft_pboerlin@uoguelph.ca",
