@@ -2056,12 +2056,13 @@
     "subject": "Prospective Graduate Student in Host Microbiome and Immunology Research",
     "dateSent": "2026-08-25",
     "timestamp": 1787505172,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Not looking for further candidates for next intakes",
     "sendAfter": null,
     "replyNote": "Draft ready — send after cooldown",
-    "notes": "Draft ready — send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyDate": "2026-08-25"
   },
   {
     "id": "prof-1777681600001",
@@ -2712,12 +2713,13 @@
     "subject": "Prospective Graduate Student in Veterinary Clinical Microbiology and Infectious Disease",
     "dateSent": "2026-08-25",
     "timestamp": 1787505172,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "No openings in lab",
     "sendAfter": null,
     "replyNote": "Draft ready — send after cooldown",
-    "notes": "Draft ready — send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyDate": "2026-08-25"
   },
   {
     "id": "prof-1777800000043",
@@ -4952,12 +4954,13 @@
     "subject": "",
     "dateSent": "2026-08-25",
     "timestamp": 1787505172,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "No positions available",
     "sendAfter": null,
     "replyNote": "Pending draft",
-    "notes": "Pending draft"
+    "notes": "Pending draft",
+    "replyDate": "2026-08-25"
   },
   {
     "id": "prof-1787505172758",
@@ -5112,12 +5115,13 @@
     "subject": "",
     "dateSent": "2026-08-25",
     "timestamp": 1787505172,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - positive",
+    "replyReceived": true,
+    "replySummary": "Interested! Asked for more background info + transcripts; questioned 5+ year DVM duration. NEEDS FOLLOW-UP REPLY with transcripts",
     "sendAfter": null,
     "replyNote": "Pending draft",
-    "notes": "Pending draft"
+    "notes": "Pending draft",
+    "replyDate": "2026-08-25"
   },
   {
     "id": "prof-1787505172768",
