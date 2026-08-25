@@ -6675,7 +6675,9 @@
     "subject": "Prospective Graduate Student in Animal Behaviour and Cognition Research",
     "dateCreated": "2026-08-25",
     "timestamp": "2026-08-25T19:52:05Z",
-    "status": "draft",
-    "notes": "Draft ready — animal cognition/nest-building zebra finches. Weak profile match but user requested via screenshot."
+    "status": "sent",
+    "notes": "Sent despite U Alberta cooldown (Madsen sent earlier today) - user override. Weak profile match noted.",
+    "dateSent": "2026-08-25",
+    "replyReceived": false
   }
 ]
