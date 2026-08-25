@@ -1534,13 +1534,14 @@
     "country": "Canada",
     "email": "bob@cmdr.ubc.ca",
     "subject": "",
-    "status": "sent",
+    "status": "bounced",
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
     "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyReceived": false,
+    "replySummary": "BOUNCE 2026-08-25: Bounced: Access denied (Outlook/UBC). Email undeliverable"
   },
   {
     "id": "draft_kathy.mccoy@ucalgary.ca",
@@ -5173,9 +5174,9 @@
     "subject": "",
     "dateSent": "2026-08-25",
     "timestamp": 1787505172,
-    "status": "sent",
+    "status": "bounced",
     "replyReceived": false,
-    "replySummary": "",
+    "replySummary": "BOUNCE 2026-08-25: Bounced: Access denied (Outlook/Western). Email undeliverable",
     "sendAfter": null,
     "replyNote": "Pending draft",
     "notes": "Pending draft"
@@ -6549,9 +6550,9 @@
     "subject": "Prospective Graduate Student in Biofilm Research and Antimicrobial Resistance",
     "dateSent": "2026-08-25",
     "timestamp": 1787505172,
-    "status": "sent",
+    "status": "bounced",
     "replyReceived": false,
-    "replySummary": "",
+    "replySummary": "BOUNCE 2026-08-25: Bounced: Access denied (Outlook). Email undeliverable",
     "sendAfter": null,
     "replyNote": "Pending draft",
     "notes": "Pending draft"
