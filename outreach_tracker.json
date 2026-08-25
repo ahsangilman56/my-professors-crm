@@ -1424,7 +1424,7 @@
     "country": "USA",
     "email": "mannin71@msu.edu",
     "subject": "",
-    "status": "sent",
+    "status": "replied - positive",
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
@@ -1432,7 +1432,9 @@
     "note": "Hold until 2026-08-27 - same-university send cooldown",
     "notes": "Draft ready — send after cooldown",
     "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyReceived": true,
+    "replyDate": "2026-08-25",
+    "replySummary": "Cannot admit directly; interviews students after BMS PhD program acceptance. Sent thank-you reply in thread."
   },
   {
     "id": "draft_wangche@auburn.edu",
