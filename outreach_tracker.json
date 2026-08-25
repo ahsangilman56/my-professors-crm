@@ -6665,5 +6665,17 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "draft-guillett@ualberta.ca",
+    "name": "Lauren Guillette",
+    "university": "University of Alberta",
+    "country": "Canada",
+    "email": "guillett@ualberta.ca",
+    "subject": "Prospective Graduate Student in Animal Behaviour and Cognition Research",
+    "dateCreated": "2026-08-25",
+    "timestamp": "2026-08-25T19:52:05Z",
+    "status": "draft",
+    "notes": "Draft ready — animal cognition/nest-building zebra finches. Weak profile match but user requested via screenshot."
   }
 ]
