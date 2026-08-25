@@ -222,8 +222,8 @@
     "replyReceived": true,
     "replySummary": "Away until Aug 25; auto-reply with delayed response notice",
     "replyDate": "2026-08-20",
-    "replyNote": "Auto-reply only \u2014 watch inbox",
-    "notes": "Auto-reply only \u2014 watch inbox"
+    "replyNote": "Auto-reply only — watch inbox",
+    "notes": "Auto-reply only — watch inbox"
   },
   {
     "id": "mail-1787233188",
@@ -424,8 +424,8 @@
     "replyReceived": false,
     "replySummary": "",
     "replyDate": "2026-08-20",
-    "replyNote": "Positive reply \u2014 interested in lab",
-    "notes": "Positive reply \u2014 interested in lab"
+    "replyNote": "Positive reply — interested in lab",
+    "notes": "Positive reply — interested in lab"
   },
   {
     "id": "mail-1787393548-tiedjej",
@@ -440,8 +440,8 @@
     "replyReceived": true,
     "replyDate": "2026-08-21",
     "replySummary": "I'm sorry but I'm retired.",
-    "notes": "Retired \u2014 do not contact",
-    "replyNote": "Retired \u2014 do not contact"
+    "notes": "Retired — do not contact",
+    "replyNote": "Retired — do not contact"
   },
   {
     "id": "draft_wbeauvai@purdue.edu",
@@ -541,8 +541,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_wittum.1@osu.edu",
@@ -569,8 +569,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_corinne.maurice@mcgill.ca",
@@ -583,8 +583,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_annemarie.kaesbohrer@bfr.bund.de",
@@ -597,8 +597,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_frank.pessler@twincore.de",
@@ -611,8 +611,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_r.straubinger@lmu.de",
@@ -625,8 +625,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_dennis.nurjadi@uni-luebeck.de",
@@ -639,8 +639,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_wliebl@wzw.tum.de",
@@ -653,8 +653,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_dobrindt@uni-muenster.de",
@@ -667,8 +667,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_charles.lee@waikato.ac.nz",
@@ -681,8 +681,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_jeremy.owen@vuw.ac.nz",
@@ -695,12 +695,12 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_d.gagic@massey.ac.nz",
-    "name": "Dr Dragana Gagi\u0107",
+    "name": "Dr Dragana Gagić",
     "university": "Massey University",
     "country": "New Zealand",
     "email": "d.gagic@massey.ac.nz",
@@ -709,8 +709,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_christine.loscher@dcu.ie",
@@ -723,8 +723,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_gillian.gardiner@setu.ie",
@@ -737,8 +737,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_brigid.lucey@mtu.ie",
@@ -751,8 +751,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_c.creevey@qub.ac.uk",
@@ -765,8 +765,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_eoneill@rcsi.ie",
@@ -779,8 +779,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_j.ogara@universityofgalway.ie",
@@ -793,8 +793,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_mmartins@tcd.ie",
@@ -807,8 +807,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_paul.cotter@teagasc.ie",
@@ -821,8 +821,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_trinad.chakraborty@mikrobio.med.uni-giessen.de",
@@ -835,8 +835,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_heinrich.neubauer@fli.de",
@@ -849,8 +849,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_l.j.v.piddock@bham.ac.uk",
@@ -863,8 +863,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_timothy.walsh@biology.ox.ac.uk",
@@ -877,8 +877,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_jp369@cam.ac.uk",
@@ -891,8 +891,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_dgally@ed.ac.uk",
@@ -905,8 +905,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_d.timofte@liverpool.ac.uk",
@@ -919,8 +919,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_matthewb.avison@bristol.ac.uk",
@@ -933,8 +933,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_a.j.oneill@leeds.ac.uk",
@@ -947,8 +947,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_christopher.stewart@ncl.ac.uk",
@@ -961,8 +961,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_curtis.b.dobson@manchester.ac.uk",
@@ -975,8 +975,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_j.santini@ucl.ac.uk",
@@ -989,8 +989,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_gordon.ramage@glasgow.ac.uk",
@@ -1003,8 +1003,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_t.darton@sheffield.ac.uk",
@@ -1017,8 +1017,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_christine.dodd@nottingham.ac.uk",
@@ -1031,8 +1031,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_mvm198@soton.ac.uk",
@@ -1045,8 +1045,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_c.g.dowson@warwick.ac.uk",
@@ -1059,8 +1059,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_d.w.wareham@qmul.ac.uk",
@@ -1073,8 +1073,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_i.m.gould@abdn.ac.uk",
@@ -1087,8 +1087,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_timothy.rawson07@imperial.ac.uk",
@@ -1101,8 +1101,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_m.vos@exeter.ac.uk",
@@ -1115,8 +1115,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_gm657@bath.ac.uk",
@@ -1129,8 +1129,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_simon.keely@newcastle.edu.au",
@@ -1143,8 +1143,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_anna.walduck@rmit.edu.au",
@@ -1153,12 +1153,15 @@
     "country": "Australia",
     "email": "anna.walduck@rmit.edu.au",
     "subject": "",
-    "status": "draft",
+    "status": "replied - rejected",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Replied 2026-08-25: no funding for new students; advised advertised project + scholarship route",
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": true,
+    "replyDate": "2026-08-25",
+    "replySummary": "no funding for new students; advised advertised project + scholarship route"
   },
   {
     "id": "draft_nicholas.coleman@mq.edu.au",
@@ -1171,8 +1174,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_david.lynn@flinders.edu.au",
@@ -1181,12 +1184,15 @@
     "country": "Australia",
     "email": "david.lynn@flinders.edu.au",
     "subject": "",
-    "status": "draft",
+    "status": "replied - rejected",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Replied 2026-08-25: not taking new PhD students",
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": true,
+    "replyDate": "2026-08-25",
+    "replySummary": "not taking new PhD students"
   },
   {
     "id": "draft_w.fernando@murdoch.edu.au",
@@ -1199,8 +1205,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_olumide.odeyemi@utas.edu.au",
@@ -1213,8 +1219,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_d.williamson@griffith.edu.au",
@@ -1227,8 +1233,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_hannah.wardill@adelaide.edu.au",
@@ -1241,8 +1247,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_l.marques@latrobe.edu.au",
@@ -1255,8 +1261,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_simon.chen@qut.edu.au",
@@ -1269,8 +1275,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_philip.hansbro@uts.edu.au",
@@ -1283,8 +1289,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_martyn.kirk@anu.edu.au",
@@ -1293,12 +1299,15 @@
     "country": "Australia",
     "email": "martyn.kirk@anu.edu.au",
     "subject": "",
-    "status": "draft",
+    "status": "replied - rejected",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Replied 2026-08-25: not taking students",
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": true,
+    "replyDate": "2026-08-25",
+    "replySummary": "not taking students"
   },
   {
     "id": "draft_tim.inglis@uwa.edu.au",
@@ -1307,12 +1316,15 @@
     "country": "Australia",
     "email": "tim.inglis@uwa.edu.au",
     "subject": "",
-    "status": "draft",
+    "status": "replied - rejected",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Replied 2026-08-25: just retired",
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": true,
+    "replyDate": "2026-08-25",
+    "replySummary": "just retired"
   },
   {
     "id": "draft_e.el-omar@unsw.edu.au",
@@ -1325,8 +1337,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_anton.peleg@monash.edu",
@@ -1339,8 +1351,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_m.schembri@uq.edu.au",
@@ -1349,12 +1361,15 @@
     "country": "Australia",
     "email": "m.schembri@uq.edu.au",
     "subject": "",
-    "status": "draft",
+    "status": "replied - rejected",
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Replied 2026-08-25: no suitable position available in lab",
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": true,
+    "replyDate": "2026-08-25",
+    "replySummary": "no suitable position available in lab"
   },
   {
     "id": "draft_meng.shi@sydney.edu.au",
@@ -1367,8 +1382,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_bhowden@unimelb.edu.au",
@@ -1381,8 +1396,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_erick.motta@ag.tamu.edu",
@@ -1397,8 +1412,8 @@
     "timestamp": "2026-08-23T12:18:16Z",
     "sendAfter": "2026-08-27",
     "note": "Hold until 2026-08-27 - same-university send cooldown",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_mannin71@msu.edu",
@@ -1413,8 +1428,8 @@
     "timestamp": "2026-08-23T12:18:16Z",
     "sendAfter": "2026-08-27",
     "note": "Hold until 2026-08-27 - same-university send cooldown",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_wangche@auburn.edu",
@@ -1429,8 +1444,8 @@
     "timestamp": "2026-08-23T12:18:16Z",
     "sendAfter": "2026-08-25",
     "note": "Hold until 2026-08-25 - same-university send cooldown",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_jennifer.honda@uttyler.edu",
@@ -1461,8 +1476,8 @@
     "timestamp": "2026-08-23T12:18:16Z",
     "sendAfter": "2026-08-27",
     "note": "Hold until 2026-08-27 - same-university send cooldown",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_abraundmeier88@siumed.edu",
@@ -1491,8 +1506,8 @@
     "timestamp": "2026-08-23T12:18:16Z",
     "sendAfter": "2026-08-27",
     "note": "Hold until 2026-08-27 - same-university send cooldown",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_wolf.marx@deakin.edu.au",
@@ -1505,8 +1520,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_bob@cmdr.ubc.ca",
@@ -1519,8 +1534,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_kathy.mccoy@ucalgary.ca",
@@ -1533,8 +1548,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_laura.hug@uwaterloo.ca",
@@ -1547,8 +1562,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_janet.hill@usask.ca",
@@ -1561,8 +1576,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_elena.comelli@utoronto.ca",
@@ -1575,8 +1590,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_joergoverhage@cunet.carleton.ca",
@@ -1589,8 +1604,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_surette@mcmaster.ca",
@@ -1603,8 +1618,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_kmadsen@ualberta.ca",
@@ -1617,8 +1632,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_lisareynolds@uvic.ca",
@@ -1631,8 +1646,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_gsulis@uottawa.ca",
@@ -1645,8 +1660,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_finlay.maguire@dal.ca",
@@ -1659,8 +1674,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_meghan.azad@umanitoba.ca",
@@ -1673,8 +1688,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_pboerlin@uoguelph.ca",
@@ -1687,8 +1702,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_a.bossers@uu.nl",
@@ -1701,8 +1716,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_jack.heinemann@canterbury.ac.nz",
@@ -1715,8 +1730,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_daniel.pletzer@otago.ac.nz",
@@ -1729,8 +1744,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_c.higgins@aut.ac.nz",
@@ -1743,8 +1758,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_g.bashiri@auckland.ac.nz",
@@ -1757,12 +1772,12 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_sfanning@ucd.ie",
-    "name": "S\u00e9amus Fanning",
+    "name": "Séamus Fanning",
     "university": "University College Dublin",
     "country": "Ireland",
     "email": "sfanning@ucd.ie",
@@ -1771,8 +1786,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_r.massey@ucc.ie",
@@ -1785,8 +1800,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_stefan.schwarz@fu-berlin.de",
@@ -1799,8 +1814,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_christoph.baums@vetmed.uni-leipzig.de",
@@ -1813,8 +1828,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_kathrin.valentin-weigand@tiho-hannover.de",
@@ -1827,8 +1842,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_charlotte.alster@lincoln.ac.nz",
@@ -1841,8 +1856,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "draft_marnix.medema@wur.nl",
@@ -1855,8 +1870,8 @@
     "dateSent": null,
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready \u2014 send after cooldown",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "notes": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1776361604340",
@@ -1887,8 +1902,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1776486138712",
@@ -1903,8 +1918,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1776487242839",
@@ -1919,8 +1934,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1776489843361",
@@ -2015,8 +2030,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777681600001",
@@ -2031,8 +2046,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777681600002",
@@ -2127,8 +2142,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777700000002",
@@ -2191,8 +2206,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000005",
@@ -2255,8 +2270,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000010",
@@ -2271,8 +2286,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000011",
@@ -2287,8 +2302,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000014",
@@ -2335,8 +2350,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000018",
@@ -2351,8 +2366,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000019",
@@ -2399,8 +2414,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000022",
@@ -2415,8 +2430,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000023",
@@ -2431,8 +2446,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000024",
@@ -2447,8 +2462,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000025",
@@ -2463,8 +2478,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000026",
@@ -2479,8 +2494,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000028",
@@ -2511,8 +2526,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000030",
@@ -2527,8 +2542,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000031",
@@ -2591,8 +2606,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000035",
@@ -2623,8 +2638,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000037",
@@ -2639,8 +2654,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000038",
@@ -2671,8 +2686,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000043",
@@ -2767,8 +2782,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000051",
@@ -2783,8 +2798,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000052",
@@ -2799,8 +2814,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000053",
@@ -2815,8 +2830,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000054",
@@ -2831,12 +2846,12 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000055",
-    "name": "D\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00b6rte D\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00b6pfer",
+    "name": "DÃÂÃÂ¶rte DÃÂÃÂ¶pfer",
     "university": "University of Wisconsin-Madison",
     "country": "USA",
     "email": "dopfer@wisc.edu",
@@ -2863,8 +2878,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1777800000057",
@@ -3188,8 +3203,8 @@
   },
   {
     "id": "prof-1787196817",
-    "name": "Matej Ore\u00c5\u00a1i\u00c4\u008d",
-    "university": "University of Eastern Finland / \u00c3\u0096rebro University",
+    "name": "Matej OreÅ¡iÄ",
+    "university": "University of Eastern Finland / Ãrebro University",
     "country": "Finland",
     "email": "matej.oresic@uef.fi",
     "subject": "",
@@ -3204,8 +3219,8 @@
   },
   {
     "id": "prof-1787196818",
-    "name": "Jaakko Lamminm\u00c3\u00a4ki",
-    "university": "Folkh\u00c3\u00a4lsan Research Center, Helsinki",
+    "name": "Jaakko LamminmÃ¤ki",
+    "university": "FolkhÃ¤lsan Research Center, Helsinki",
     "country": "Finland",
     "email": "jaakko.lamminmaki@folkhalsan.fi",
     "subject": "",
@@ -6447,8 +6462,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1787475953837",
@@ -6463,8 +6478,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1787475953837",
@@ -6479,8 +6494,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready \u2014 send after cooldown",
-    "notes": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready — send after cooldown"
   },
   {
     "id": "prof-1787475953837",
@@ -6600,6 +6615,6 @@
     "status": "draft",
     "dateSent": null,
     "subject": "Prospective Graduate Student in Biofilm AMR and Staphylococcus Research",
-    "replyNote": "Draft ready \u2014 send after cooldown"
+    "replyNote": "Draft ready — send after cooldown"
   }
 ]
