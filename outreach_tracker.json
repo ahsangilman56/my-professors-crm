@@ -6644,5 +6644,18 @@
     "dateSent": null,
     "subject": "Prospective Graduate Student in Biofilm AMR and Staphylococcus Research",
     "replyNote": "Draft ready — send after cooldown"
+  },
+  {
+    "id": "mail-1787668179",
+    "name": "Ryan Patrick",
+    "university": "Illinois State University",
+    "country": "United States",
+    "email": "rmpatr2@ilstu.edu",
+    "subject": "Prospective Graduate Student in Genomics and Bioinformatics Research",
+    "dateSent": "2026-08-25",
+    "timestamp": 1787668179,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
