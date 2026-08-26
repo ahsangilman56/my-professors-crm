@@ -6730,10 +6730,12 @@
     "country": "United States",
     "email": "brannick@udel.edu",
     "timestamp": "2026-08-26T05:34:02Z",
-    "status": "draft",
+    "status": "sent",
     "notes": "Draft FINAL v5: AREA-SPECIFIC skills - wet bacteriology front (isolation/culture, AST, PCR, gel electrophoresis) matching poultry pathogenesis lab. Finding 22w + interpretation.",
     "subject": "Prospective Graduate Student in Poultry Health and Disease Pathogenesis Research",
-    "dateCreated": "2026-08-26"
+    "dateCreated": "2026-08-26",
+    "dateSent": "2026-08-26",
+    "replyReceived": false
   },
   {
     "id": "not_drafted-jkan@udel.edu",
@@ -6754,10 +6756,12 @@
     "country": "United States",
     "email": "dren@syr.edu",
     "timestamp": "2026-08-26T05:41:03Z",
-    "status": "draft",
+    "status": "sent",
     "notes": "Draft FINAL v5 format 2026-08-26: homepage verified (ecs.syracuse.edu biofilm/dormancy/persister), LAST-author AAC 2025 PMC12406675, full Results read via EPMC XML. Area-specific wet bacteriology skills. Finding 15w + This shows interpretation.",
     "subject": "Prospective Graduate Student in Biofilm and Persister Cell Control Research",
-    "dateCreated": "2026-08-26"
+    "dateCreated": "2026-08-26",
+    "dateSent": "2026-08-26",
+    "replyReceived": false
   },
   {
     "id": "draft-abrown@lehigh.edu",
@@ -6766,10 +6770,12 @@
     "country": "United States",
     "email": "acb313@lehigh.edu",
     "timestamp": "2026-08-26T05:49:10Z",
-    "status": "draft",
+    "status": "sent",
     "notes": "Draft FINAL v5 2026-08-26: homepage verified (engineering.lehigh.edu + brownlab), LAST-author bioRxiv 2025 OMV-imipenem paper (10.1101/2025.01.08.631972), full Results read. Email corrected to acb313@lehigh.edu per lab site. Finding 24w + interpretation.",
     "subject": "Prospective Graduate Student in Antibiotic Delivery and Bacterial Pathogenesis Research",
-    "dateCreated": "2026-08-26"
+    "dateCreated": "2026-08-26",
+    "dateSent": "2026-08-26",
+    "replyReceived": false
   },
   {
     "id": "draft-anselh@ucr.edu",
@@ -6790,10 +6796,12 @@
     "country": "United States",
     "email": "rernst@umaryland.edu",
     "timestamp": "2026-08-26T06:05:39Z",
-    "status": "draft",
+    "status": "sent",
     "notes": "Draft FINAL v5 2026-08-26: homepage verified (ernstlab.com - lipid A/LPS/BECC/colistin resistance), LAST-author Microbiol Spectrum 2026 shark SF21 paper (10.1128/spectrum.00662-26, PMC13436394), full Results read from PMC page. Finding 29w + interpretation: pEtN arises from environmental stress not just antibiotic pressure.",
     "subject": "Prospective Graduate Student in Lipid A Modification and Antimicrobial Resistance Research",
-    "dateCreated": "2026-08-26"
+    "dateCreated": "2026-08-26",
+    "dateSent": "2026-08-26",
+    "replyReceived": false
   },
   {
     "id": "draft-nelsayed@umd.edu",
@@ -6822,10 +6830,12 @@
     "country": "United States",
     "email": "aohsbi@rit.edu",
     "timestamp": "2026-08-26T06:17:29Z",
-    "status": "draft",
+    "status": "sent",
     "notes": "Draft FINAL v5 2026-08-26: homepage verified via jina (genome sequencing/AMR/peptidoglycan enzymes; now Dean College of Science), LAST-author MRA 2025 campus AMR surveillance paper PMC12243573. Terpene ACS paper EXCLUDED as review. Finding 22w + interpretation. Email corrected to aohsbi@rit.edu.",
     "subject": "Prospective Graduate Student in Antimicrobial Resistance Genomic Surveillance Research",
-    "dateCreated": "2026-08-26"
+    "dateCreated": "2026-08-26",
+    "dateSent": "2026-08-26",
+    "replyReceived": false
   },
   {
     "id": "draft-lxmsbi@rit.edu",
@@ -6864,10 +6874,12 @@
     "country": "United States",
     "email": "patrick.secor@montana.edu",
     "timestamp": "2026-08-26T06:21:23Z",
-    "status": "draft",
+    "status": "sent",
     "notes": "Draft FINAL v5 2026-08-26: UNIVERSITY CORRECTED to Montana State University (secorlab.org confirms). Email corrected to patrick.secor@montana.edu. Homepage verified (filamentous phages/chronic infection/Lyme/Biofilm Eng Center). LAST-author PLoS Pathog 2026 prophage sRNA paper PMC12803456, full Results read. Finding 14w + interpretation.",
     "subject": "Prospective Graduate Student in Bacteriophage and Chronic Infection Research",
-    "dateCreated": "2026-08-26"
+    "dateCreated": "2026-08-26",
+    "dateSent": "2026-08-26",
+    "replyReceived": false
   },
   {
     "id": "draft-sechou@umontana.edu",
@@ -6946,10 +6958,12 @@
     "country": "United States",
     "email": "ECastillo@salud.unm.edu",
     "timestamp": "2026-08-26T06:31:21Z",
-    "status": "draft",
+    "status": "sent",
     "notes": "Draft FINAL v5 2026-08-26: Homepage verified (hsc.unm.edu + mgm.unm.edu - gut-liver axis, enteroendocrine, mucosal immunology; email ECastillo@salud.unm.edu confirmed). LAST-author Metabolism 2026 MASLD-to-MASH paper (10.1016/j.metabol.2026.156652, PMC13387142), full Results read. Finding 28w + interpretation: MASH loses enteroendocrine feedback. Bradfute EXCLUDED as virologist (wrong fit).",
     "subject": "Prospective Graduate Student in Gut Liver Axis and Metabolic Disease Research",
-    "dateCreated": "2026-08-26"
+    "dateCreated": "2026-08-26",
+    "dateSent": "2026-08-26",
+    "replyReceived": false
   },
   {
     "id": "draft-jonalcock@unm.edu",
@@ -6968,10 +6982,12 @@
     "country": "United States",
     "email": "ksondgeroth@uwyo.edu",
     "timestamp": "2026-08-26T06:51:46Z",
-    "status": "draft",
+    "status": "sent",
     "notes": "Draft FINAL v5 2026-08-26: Homepage verified (uwyo.edu news - DVM Colorado State 2006, PhD WSU 2013, veterinary bacteriologist at Wyoming State Vet Lab, Riverbend Endowed Professor of Wildlife-Livestock Health). LAST-author BMC Vet Res 2026 AMR phenotypes paper PMC13085668, full Results read (Table 5 logistic regression). Finding 24w + interpretation: livestock drives environmental AMR. DVM-to-DVM match.",
     "subject": "Prospective Graduate Student in Livestock and Wildlife Antimicrobial Resistance Research",
-    "dateCreated": "2026-08-26"
+    "dateCreated": "2026-08-26",
+    "dateSent": "2026-08-26",
+    "replyReceived": false
   },
   {
     "id": "draft-jblock@uwyo.edu",
@@ -7552,9 +7568,11 @@
     "country": "United States",
     "email": "nicole.denisco@utdallas.edu",
     "timestamp": "2026-08-26T10:38:05Z",
-    "status": "draft",
+    "status": "sent",
     "notes": "Draft FINAL v5: AREA-SPECIFIC skills - 16S rRNA/shotgun metagenomics + microbiome bioinformatics first (dry) matching urobiome lab. Finding 14w + interpretation.",
     "subject": "Prospective Graduate Student in Urobiome and Urinary Tract Infection Research",
-    "dateCreated": "2026-08-26"
+    "dateCreated": "2026-08-26",
+    "dateSent": "2026-08-26",
+    "replyReceived": false
   }
 ]
