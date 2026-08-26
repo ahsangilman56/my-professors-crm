@@ -6782,12 +6782,14 @@
     "name": "Ansel Hsiao",
     "university": "University of California Riverside",
     "country": "United States",
-    "email": "anselh@ucr.edu",
+    "email": "ansel.hsiao@ucr.edu",
     "subject": "Prospective Graduate Student in Gut Microbiome and Cholera Pathogenesis Research",
     "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T05:59:13Z",
-    "status": "draft",
-    "notes": "Draft FINAL v5 2026-08-26: homepage verified via jina (gut microbiota/quorum sensing/V. cholerae), LAST-author Cell Host Microbe 2025 diet paper PMC12834465, full Results read from PMC. Finding 24w + interpretation. 16S/shotgun metagenomics skills matched."
+    "status": "sent",
+    "notes": "Draft FINAL v5 2026-08-26: homepage verified via jina (gut microbiota/quorum sensing/V. cholerae), LAST-author Cell Host Microbe 2025 diet paper PMC12834465, full Results read from PMC. Finding 24w + interpretation. 16S/shotgun metagenomics skills matched. | SENT 2026-08-26 to ansel.hsiao@ucr.edu (verified from Cell Host Microbe paper).",
+    "dateSent": "2026-08-26",
+    "replyReceived": false
   },
   {
     "id": "draft-rernst@umaryland.edu",
