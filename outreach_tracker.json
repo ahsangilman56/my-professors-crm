@@ -6811,5 +6811,53 @@
     "timestamp": "2026-08-26T06:13:26Z",
     "status": "draft",
     "notes": "Draft ready — Tn-Seq fitness genes across bacterial species, carbapenem-resistant K. pneumoniae. 2025 FIRST-author paper: tatC disruption resensitized K. pneumoniae to ampicillin. STRONG FIT: genomics + AMR + functional genomics."
+  },
+  {
+    "id": "draft-aohbsc@rit.edu",
+    "name": "André Hudson",
+    "university": "Rochester Institute of Technology",
+    "country": "United States",
+    "email": "aohbsc@rit.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Genomic Surveillance",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:17:29Z",
+    "status": "draft",
+    "notes": "Draft ready — Environmental AMR surveillance WGS, plant terpenes vs AMR. 2025 LAST-author paper: 7 RIT campus isolates showed diverse resistance patterns. STRONG FIT: AMR + genomics + environment."
+  },
+  {
+    "id": "draft-lxmsbi@rit.edu",
+    "name": "Lisa Michel",
+    "university": "Rochester Institute of Technology",
+    "country": "United States",
+    "email": "lxmsbi@rit.edu",
+    "subject": "Prospective Graduate Student in Bacterial Pathogenesis and Extracellular Vesicle Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:17:29Z",
+    "status": "draft",
+    "notes": "Draft ready — Bacterial EV release modulated by antibiotics, otitis media vaccine targets. 2025 LAST-author paper: antibiotics enhance EV release during sepsis treatment. GOOD FIT: bacterial pathogenesis."
+  },
+  {
+    "id": "draft-trgbme@rit.edu",
+    "name": "Thomas Gaborski",
+    "university": "Rochester Institute of Technology",
+    "country": "United States",
+    "email": "trgbme@rit.edu",
+    "subject": "Prospective Graduate Student in Bacterial Extracellular Vesicles and Biomedical Engineering",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:17:29Z",
+    "status": "draft",
+    "notes": "Draft ready — Bacterial EV bioprocess optimization, EV effects on host cells. MODERATE FIT — biomedical engineering leaning but microbiology adjacent."
+  },
+  {
+    "id": "draft-masbio@rit.edu",
+    "name": "Mark Savka",
+    "university": "Rochester Institute of Technology",
+    "country": "United States",
+    "email": "masbio@rit.edu",
+    "subject": "Prospective Graduate Student in Bacterial Genomics and Antimicrobial Resistance Surveillance",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:17:29Z",
+    "status": "draft",
+    "notes": "Draft ready — Wildlife bacterial WGS, plant-associated bacteria. MODERATE FIT — wildlife genomics + environmental AMR reservoir angle."
   }
 ]
