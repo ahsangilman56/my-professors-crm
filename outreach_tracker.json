@@ -6860,12 +6860,14 @@
   {
     "id": "draft-patrick.secor@umontana.edu",
     "name": "Patrick Secor",
-    "university": "University of Montana",
+    "university": "Montana State University",
     "country": "United States",
-    "email": "patrick.secor@umontana.edu",
+    "email": "patrick.secor@montana.edu",
     "timestamp": "2026-08-26T06:21:23Z",
-    "status": "not_drafted",
-    "notes": "Draft ready — Pseudomonas biofilm/phage interactions in CF lungs. 9 LAST-author papers. 2024 paper: targeted Pf prophage deletion technique across clinical isolates. STRONG FIT: AMR + biofilms + phage."
+    "status": "draft",
+    "notes": "Draft FINAL v5 2026-08-26: UNIVERSITY CORRECTED to Montana State University (secorlab.org confirms). Email corrected to patrick.secor@montana.edu. Homepage verified (filamentous phages/chronic infection/Lyme/Biofilm Eng Center). LAST-author PLoS Pathog 2026 prophage sRNA paper PMC12803456, full Results read. Finding 14w + interpretation.",
+    "subject": "Prospective Graduate Student in Bacteriophage and Chronic Infection Research",
+    "dateCreated": "2026-08-26"
   },
   {
     "id": "draft-sechou@umontana.edu",
