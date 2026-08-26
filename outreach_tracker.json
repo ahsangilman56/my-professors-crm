@@ -7099,5 +7099,41 @@
     "timestamp": "2026-08-26T06:58:49Z",
     "status": "draft",
     "notes": "Draft ready — Novel beta-lactam susceptibility testing, carbapenem-resistant organism environmental reservoirs, aztreonam+avibactam diagnostics. STRONG FIT: clinical AMR diagnostics + AST."
+  },
+  {
+    "id": "draft-peter_belenky@brown.edu",
+    "name": "Peter Belenky",
+    "university": "Brown University",
+    "country": "United States",
+    "email": "peter_belenky@brown.edu",
+    "subject": "Prospective Graduate Student in Antibiotic Microbiome Interactions Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:02:53Z",
+    "status": "draft",
+    "notes": "Draft ready — Antibiotic effects on microbiome metabolism, nutrient availability shapes susceptibility. 2025 LAST-author papers on hemin/iron and amoxicillin. STRONG FIT: antibiotic mechanisms + microbiome."
+  },
+  {
+    "id": "draft-anita_shukla@brown.edu",
+    "name": "Anita Shukla",
+    "university": "Brown University",
+    "country": "United States",
+    "email": "anita_shukla@brown.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Drug Delivery Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:02:53Z",
+    "status": "draft",
+    "notes": "Draft ready — Beta-lactamase responsive hydrogels, enzyme-triggered antimicrobial release. GOOD FIT: smart drug delivery for AMR infections."
+  },
+  {
+    "id": "draft-anubhav_tripathi@brown.edu",
+    "name": "Anubhav Tripathi",
+    "university": "Brown University",
+    "country": "United States",
+    "email": "anubhav_tripathi@brown.edu",
+    "subject": "Prospective Graduate Student in Rapid Pathogen Diagnostics Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:02:53Z",
+    "status": "draft",
+    "notes": "Draft ready — Rapid automated pathogen genomic surveillance workflow. GOOD FIT: diagnostics + bioinformatics."
   }
 ]
