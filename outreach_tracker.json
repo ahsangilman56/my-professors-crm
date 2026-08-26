@@ -7231,5 +7231,41 @@
     "timestamp": "2026-08-26T07:12:29Z",
     "status": "draft",
     "notes": "Draft ready — In situ gut microbiota editing for therapeutic efficacy. MODERATE-GOOD FIT: microbiome engineering."
+  },
+  {
+    "id": "draft-savidge@bcm.edu",
+    "name": "Tor Savidge",
+    "university": "Baylor College of Medicine",
+    "country": "United States",
+    "email": "savidge@bcm.edu",
+    "subject": "Prospective Graduate Student in Gut Microbiome Metagenomics Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:15:18Z",
+    "status": "draft",
+    "notes": "Draft ready — Gut microbiome metagenomics in clinical practice. 2025 LAST-author. STRONG FIT: clinical metagenomics."
+  },
+  {
+    "id": "draft-preidis@bcm.edu",
+    "name": "Geoffrey Preidis",
+    "university": "Baylor College of Medicine",
+    "country": "United States",
+    "email": "preidis@bcm.edu",
+    "subject": "Prospective Graduate Student in Neonatal Microbiome Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:15:18Z",
+    "status": "draft",
+    "notes": "Draft ready — Microbiota-derived isovalerate + gut barrier, neonatal microbiome, probiotics. 2026 LAST-author. GOOD FIT."
+  },
+  {
+    "id": "draft-costamam@bcm.edu",
+    "name": "Mauro Costa-Mattioli",
+    "university": "Baylor College of Medicine",
+    "country": "United States",
+    "email": "costamam@bcm.edu",
+    "subject": "Prospective Graduate Student in Gut Microbiome and Host Physiology Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:15:18Z",
+    "status": "draft",
+    "notes": "Draft ready — Gut microbial ecology activation impacts host physiology, microbiome-gut-brain axis. MODERATE-GOOD FIT."
   }
 ]
