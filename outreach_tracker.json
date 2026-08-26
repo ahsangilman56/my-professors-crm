@@ -7027,5 +7027,41 @@
     "timestamp": "2026-08-26T06:51:46Z",
     "status": "draft",
     "notes": "Draft ready — Bacterial predator-prey interactions as alternative antimicrobial approach. MODERATE FIT: novel antimicrobial strategies."
+  },
+  {
+    "id": "draft-abhushan@iit.edu",
+    "name": "Abhishek Bhushan",
+    "university": "Illinois Institute of Technology",
+    "country": "United States",
+    "email": "abhushan@iit.edu",
+    "subject": "Prospective Graduate Student in Microbiome and Bacterial Metabolism Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:54:28Z",
+    "status": "draft",
+    "notes": "Draft ready — Bile salt hydrolase activity, microbiome-pathogen interactions, organ-on-chip. GOOD FIT: microbiome + metabolism."
+  },
+  {
+    "id": "draft-shong5@iit.edu",
+    "name": "Sung Hong",
+    "university": "Illinois Institute of Technology",
+    "country": "United States",
+    "email": "shong5@iit.edu",
+    "subject": "Prospective Graduate Student in Synthetic Biology and Antimicrobial Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:54:28Z",
+    "status": "draft",
+    "notes": "Draft ready — Colicin engineering in E. coli, cell-free antimicrobial protein synthesis, biofilm control via synthetic biology. STRONG FIT: AMR + synthetic biology."
+  },
+  {
+    "id": "draft-cceapa@iit.edu",
+    "name": "Catalin Ceapă",
+    "university": "Illinois Institute of Technology",
+    "country": "United States",
+    "email": "cceapa@iit.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Peptide Discovery Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:54:28Z",
+    "status": "draft",
+    "notes": "Draft ready — AMP discovery from Clostridium (clostrisin + cellulosin), novel AMR targets. STRONG FIT: antimicrobial discovery."
   }
 ]
