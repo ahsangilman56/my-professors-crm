@@ -7538,7 +7538,9 @@
     "country": "United States",
     "email": "nicole.denisco@utdallas.edu",
     "timestamp": "2026-08-26T10:38:05Z",
-    "status": "not_drafted",
-    "notes": "Draft ready — Urobiome dynamics, rUTI pathogenesis, metabolic reprogramming in infected bladder. STRONG FIT: microbiome + host-pathogen metabolism."
+    "status": "draft",
+    "notes": "Draft REWRITTEN per template 2026-08-26: homepage-verified (profiles.utdallas.edu), LAST-author bioRxiv 2026 fatty acid auxotrophy paper, full Results read via jina fetch, finding 27 words with concrete numbers.",
+    "subject": "Prospective Graduate Student in Urobiome and Urinary Tract Infection Research",
+    "dateCreated": "2026-08-26"
   }
 ]
