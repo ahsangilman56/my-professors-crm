@@ -7358,5 +7358,53 @@
     "timestamp": "2026-08-26T10:01:38Z",
     "status": "draft",
     "notes": "Draft ready — GI infections including C. difficile, microbiome therapeutics. STRONG FIT: C. diff + clinical GI infections."
+  },
+  {
+    "id": "draft-kerry.hamilton@asu.edu",
+    "name": "Kerry Hamilton",
+    "university": "Arizona State University",
+    "country": "United States",
+    "email": "kerry.hamilton@asu.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance Environmental Surveillance",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:03:56Z",
+    "status": "draft",
+    "notes": "Draft ready — AMR environmental mapping, waste streams, One Health. STRONG FIT: environmental AMR + risk assessment."
+  },
+  {
+    "id": "draft-yue.cui@asu.edu",
+    "name": "Julia Yue Cui",
+    "university": "Arizona State University",
+    "country": "United States",
+    "email": "yue.cui@asu.edu",
+    "subject": "Prospective Graduate Student in Gut Microbiome and Toxicology Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:03:56Z",
+    "status": "draft",
+    "notes": "Draft ready — Akkermansia muciniphila prevents cadmium cognitive impairment, gut-liver toxicology. GOOD FIT: microbiome + toxicology."
+  },
+  {
+    "id": "draft-taichi.suzuki@asu.edu",
+    "name": "Taichi Suzuki",
+    "university": "Arizona State University",
+    "country": "United States",
+    "email": "taichi.suzuki@asu.edu",
+    "subject": "Prospective Graduate Student in Gut Microbial Evolution Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:03:56Z",
+    "status": "draft",
+    "notes": "Draft ready — Gut microbial genome size evolution across health/disease. MODERATE FIT: evolution + genomics."
+  },
+  {
+    "id": "draft-kevin.kwok@asu.edu",
+    "name": "Kevin W.H. Kwok",
+    "university": "Arizona State University",
+    "country": "United States",
+    "email": "kevin.kwok@asu.edu",
+    "subject": "Prospective Graduate Student in Salmonella Genomics and AMR Prediction Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:03:56Z",
+    "status": "draft",
+    "notes": "Draft ready — Nontyphoidal Salmonella genomic AMR prediction. STRONG FIT: Salmonella + AMR + genomics."
   }
 ]
