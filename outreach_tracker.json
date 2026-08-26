@@ -7061,7 +7061,7 @@
     "email": "vpetter1@jhmi.edu",
     "timestamp": "2026-08-26T06:58:49Z",
     "status": "not_drafted",
-    "notes": "Draft ready — Gut resistome/mobilome dynamics in early life, ARG enrichment. 2025 LAST-author EBioMedicine meta-analysis + 2023 longitudinal study. STRONG FIT: AMR genes + microbiome."
+    "notes": "Draft ready — Gut resistome/mobilome dynamics in early life, ARG enrichment. 2025 LAST-author EBioMedicine meta-analysis + 2023 longitudinal study. STRONG FIT: AMR genes + microbiome. | FLAG 2026-08-26: Primary affiliation is UiT Norway (Arctic University), NOT JHU. JHU is only affiliation #7 on her papers. Email is uit.no domain. Demoted from primary JHU target."
   },
   {
     "id": "draft-jsuez1@jhmi.edu",
@@ -7080,8 +7080,10 @@
     "country": "United States",
     "email": "psimner1@jhmi.edu",
     "timestamp": "2026-08-26T06:58:49Z",
-    "status": "not_drafted",
-    "notes": "Draft ready — Novel beta-lactam susceptibility testing, carbapenem-resistant organism environmental reservoirs, aztreonam+avibactam diagnostics. STRONG FIT: clinical AMR diagnostics + AST."
+    "status": "draft",
+    "notes": "Draft FINAL v5 2026-08-26: Homepage verified (Scholar verified email jhmi.edu; ASM bio; SimnerLab - Director Medical Bacteriology & Infectious Disease Sequencing Labs JHU). LAST-author JAC Antimicrob Resist 2025 CRE resistome paper PMC12392892, full Results read. Finding 27w + interpretation. PETTERSEN REPLACED as primary target: her primary affiliation is UiT Norway (email veronika.k.pettersen@uit.no), JHU only secondary affiliation #7.",
+    "subject": "Prospective Graduate Student in Resistome and Carbapenem Resistance Research",
+    "dateCreated": "2026-08-26"
   },
   {
     "id": "draft-peter_belenky@brown.edu",
