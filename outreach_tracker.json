@@ -6763,5 +6763,17 @@
     "timestamp": "2026-08-26T05:49:10Z",
     "status": "draft",
     "notes": "Draft ready — Bacterial OMVs as antibiotic delivery vehicles, bypassing porin resistance. 2026 LAST-author paper: OMV-encapsulated imipenem effective against MDR isolates. STRONG FIT: AMR + drug delivery + Gram-negative pathogens."
+  },
+  {
+    "id": "draft-anselh@ucr.edu",
+    "name": "Ansel Hsiao",
+    "university": "University of California Riverside",
+    "country": "United States",
+    "email": "anselh@ucr.edu",
+    "subject": "Prospective Graduate Student in Microbiome Host Pathogen Interactions and Bacterial Colonization",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T05:59:13Z",
+    "status": "draft",
+    "notes": "Draft ready — Gut microbiome colonization resistance, V. cholerae pathogenesis. 2022 LAST-author paper: commensal community composition reprograms V. cholerae biofilm gene expression during infection. STRONG FIT: microbiome-pathogen interactions + gut colonization."
   }
 ]
