@@ -6931,5 +6931,53 @@
     "timestamp": "2026-08-26T06:26:49Z",
     "status": "draft",
     "notes": "Draft ready — Bacterial physiology, resource response. WEAK-MODERATE FIT — general microbiology, no specific AMR focus identified."
+  },
+  {
+    "id": "draft-sbradfute@salud.unm.edu",
+    "name": "Stephen Bradfute",
+    "university": "University of New Mexico",
+    "country": "United States",
+    "email": "sbradfute@salud.unm.edu",
+    "subject": "Prospective Graduate Student in Infectious Disease and Microbiome Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:31:21Z",
+    "status": "draft",
+    "notes": "Draft ready — Virology (SARS-CoV-2, VEEV, LCMV) + wild Peromyscus gut microbiome. GOOD FIT: infectious disease + wildlife microbiome."
+  },
+  {
+    "id": "draft-dnorthup@unm.edu",
+    "name": "Diana Northup",
+    "university": "University of New Mexico",
+    "country": "United States",
+    "email": "dnorthup@unm.edu",
+    "subject": "Prospective Graduate Student in Microbial Ecology and Cave Microbiome Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:31:21Z",
+    "status": "draft",
+    "notes": "Draft ready — Bat skin microbiome by ecoregion, cave microbial ecology. 2026 LAST-author. MODERATE FIT: environmental microbiology."
+  },
+  {
+    "id": "draft-efcastillo@salud.unm.edu",
+    "name": "EF Castillo",
+    "university": "University of New Mexico",
+    "country": "United States",
+    "email": "efcastillo@salud.unm.edu",
+    "subject": "Prospective Graduate Student in Gut Liver Microbiome and Metabolic Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:31:21Z",
+    "status": "draft",
+    "notes": "Draft ready — Gut-liver metabolic remodeling, enterohormonal changes. GOOD FIT: microbiome-metabolism + clinical."
+  },
+  {
+    "id": "draft-jonalcock@unm.edu",
+    "name": "Jon Alcock",
+    "university": "University of New Mexico",
+    "country": "United States",
+    "email": "jonalcock@unm.edu",
+    "subject": "Prospective Graduate Student in Gut Microbiota and Disease Mechanisms",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:31:21Z",
+    "status": "draft",
+    "notes": "Draft ready — Obstructive sleep apnea + gut microbiota. MODERATE FIT: clinical microbiome."
   }
 ]
