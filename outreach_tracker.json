@@ -6730,8 +6730,10 @@
     "country": "United States",
     "email": "brannick@udel.edu",
     "timestamp": "2026-08-26T05:34:02Z",
-    "status": "not_drafted",
-    "notes": "Poultry health, heat stress, pathology. 2026 LAST-author paper. DVM-adjacent field."
+    "status": "draft",
+    "notes": "Poultry health, heat stress, pathology. 2026 LAST-author paper. DVM-adjacent field. | REWRITTEN per template 2026-08-26: homepage-verified area, LAST-author 2025 heat stress paper, full Results read from user-supplied PDF, finding 23 words with concrete numbers.",
+    "subject": "Prospective Graduate Student in Poultry Health and Disease Pathogenesis Research",
+    "dateCreated": "2026-08-26"
   },
   {
     "id": "not_drafted-jkan@udel.edu",
