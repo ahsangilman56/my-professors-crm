@@ -6859,5 +6859,53 @@
     "timestamp": "2026-08-26T06:17:29Z",
     "status": "draft",
     "notes": "Draft ready — Wildlife bacterial WGS, plant-associated bacteria. MODERATE FIT — wildlife genomics + environmental AMR reservoir angle."
+  },
+  {
+    "id": "draft-patrick.secor@umontana.edu",
+    "name": "Patrick Secor",
+    "university": "University of Montana",
+    "country": "United States",
+    "email": "patrick.secor@umontana.edu",
+    "subject": "Prospective Graduate Student in Biofilm Research and Bacterial Phage Interactions",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:21:23Z",
+    "status": "draft",
+    "notes": "Draft ready — Pseudomonas biofilm/phage interactions in CF lungs. 9 LAST-author papers. 2024 paper: targeted Pf prophage deletion technique across clinical isolates. STRONG FIT: AMR + biofilms + phage."
+  },
+  {
+    "id": "draft-sechou@umontana.edu",
+    "name": "Scott Chou",
+    "university": "University of Montana",
+    "country": "United States",
+    "email": "sechou@umontana.edu",
+    "subject": "Prospective Graduate Student in Spirochete Biology and Transcriptomic Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:21:23Z",
+    "status": "draft",
+    "notes": "Draft ready — Borrelia burgdorferi longitudinal transcriptomics, Lyme disease spirochete biology. 2023 LAST-author longitudinal transcriptome map. GOOD FIT: tick-borne pathogen genomics."
+  },
+  {
+    "id": "draft-tara.hensleymcbain@umontana.edu",
+    "name": "Tara Hensley-McBain",
+    "university": "University of Montana",
+    "country": "United States",
+    "email": "tara.hensleymcbain@umontana.edu",
+    "subject": "Prospective Graduate Student in Microbiome and Inflammation Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:21:23Z",
+    "status": "draft",
+    "notes": "Draft ready — APOE genotype/sex drive microbiome divergence after infection; chronic LPS inflammation. 2025 LAST-author. MODERATE FIT: microbiome + immunology."
+  },
+  {
+    "id": "draft-william.holben@umontana.edu",
+    "name": "William Holben",
+    "university": "University of Montana",
+    "country": "United States",
+    "email": "william.holben@umontana.edu",
+    "subject": "Prospective Graduate Student in Environmental Microbiology and Wildlife Health",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:21:23Z",
+    "status": "draft",
+    "notes": "Draft ready — Non-invasive wildlife health monitoring via fecal DNA. Environmental microbiology. MODERATE FIT: wildlife health + DVM overlap."
   }
 ]
