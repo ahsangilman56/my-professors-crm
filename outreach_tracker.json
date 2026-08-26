@@ -7406,5 +7406,29 @@
     "timestamp": "2026-08-26T10:03:56Z",
     "status": "draft",
     "notes": "Draft ready — Nontyphoidal Salmonella genomic AMR prediction. STRONG FIT: Salmonella + AMR + genomics."
+  },
+  {
+    "id": "draft-scjacks@mtu.edu",
+    "name": "Scott Jackson",
+    "university": "Michigan Technological University",
+    "country": "United States",
+    "email": "scjacks@mtu.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance Wastewater Surveillance Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:08:09Z",
+    "status": "draft",
+    "notes": "Draft ready — AMR gene wastewater surveillance, quantifying workflow bias. GOOD FIT: environmental AMR + methodology."
+  },
+  {
+    "id": "draft-aogunlaj@mtu.edu",
+    "name": "Adeniyi Ogunlaja",
+    "university": "Michigan Technological University",
+    "country": "United States",
+    "email": "aogunlaj@mtu.edu",
+    "subject": "Prospective Graduate Student in Nanomaterial Based Antimicrobial Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:08:09Z",
+    "status": "draft",
+    "notes": "Draft ready — Nanomaterials to combat AMR. MODERATE FIT: materials chemistry leaning but AMR relevant."
   }
 ]
