@@ -7574,5 +7574,29 @@
     "timestamp": "2026-08-26T10:20:24Z",
     "status": "draft",
     "notes": "Draft ready — AMR varies with warming in active layer soils, climate-AMR link. GOOD FIT: environmental AMR + climate change."
+  },
+  {
+    "id": "draft-jkusi@clarkson.edu",
+    "name": "Joseph Kusi",
+    "university": "Clarkson University",
+    "country": "United States",
+    "email": "jkusi@clarkson.edu",
+    "subject": "Prospective Graduate Student in Multidrug Resistant Salmonella Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:23:15Z",
+    "status": "draft",
+    "notes": "Draft ready — MDR Salmonella occurrence + resistance patterns. GOOD FIT: Salmonella AMR + food safety."
+  },
+  {
+    "id": "draft-eandreescu@clarkson.edu",
+    "name": "Silvana Andreescu",
+    "university": "Clarkson University",
+    "country": "United States",
+    "email": "eandreescu@clarkson.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Materials Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:23:15Z",
+    "status": "draft",
+    "notes": "Draft ready — 3D-printed biodegradable antimicrobial films for food packaging. MODERATE FIT: materials chemistry leaning."
   }
 ]
