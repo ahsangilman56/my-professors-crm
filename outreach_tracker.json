@@ -6739,5 +6739,17 @@
     "timestamp": "2026-08-26T05:37:18Z",
     "status": "draft",
     "notes": "Draft ready — Urobiome ecology, Enterococcus faecalis UTI pathogenesis. 2025 LAST-author paper on urinary metabolomics of rUTI (149 differential metabolites). STRONG FIT: microbiome + AMR + pathogens."
+  },
+  {
+    "id": "draft-dren@syr.edu",
+    "name": "Dacheng Ren",
+    "university": "Syracuse University",
+    "country": "United States",
+    "email": "dren@syr.edu",
+    "subject": "Prospective Graduate Student in Biofilm Research and Antimicrobial Resistance",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T05:41:03Z",
+    "status": "draft",
+    "notes": "Draft ready — Biofilm/persister cell control, antimicrobial biomaterials. 2025 LAST-author AAC paper: compounds 173/175 killed 99.7%/99.2% UPEC biofilm persisters. STRONG FIT: AMR + persisters + biofilms."
   }
 ]
