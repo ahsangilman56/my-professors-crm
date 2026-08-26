@@ -861,12 +861,13 @@
     "country": "UK",
     "email": "l.j.v.piddock@bham.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_timothy.walsh@biology.ox.ac.uk",
@@ -875,12 +876,13 @@
     "country": "UK",
     "email": "timothy.walsh@biology.ox.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_jp369@cam.ac.uk",
@@ -889,12 +891,13 @@
     "country": "UK",
     "email": "jp369@cam.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_dgally@ed.ac.uk",
@@ -903,12 +906,13 @@
     "country": "UK",
     "email": "dgally@ed.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_d.timofte@liverpool.ac.uk",
@@ -917,12 +921,13 @@
     "country": "UK",
     "email": "d.timofte@liverpool.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_matthewb.avison@bristol.ac.uk",
@@ -931,12 +936,13 @@
     "country": "UK",
     "email": "matthewb.avison@bristol.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_a.j.oneill@leeds.ac.uk",
@@ -945,12 +951,13 @@
     "country": "UK",
     "email": "a.j.oneill@leeds.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_christopher.stewart@ncl.ac.uk",
@@ -959,12 +966,13 @@
     "country": "UK",
     "email": "christopher.stewart@ncl.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_curtis.b.dobson@manchester.ac.uk",
@@ -973,12 +981,13 @@
     "country": "UK",
     "email": "curtis.b.dobson@manchester.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_j.santini@ucl.ac.uk",
@@ -987,12 +996,13 @@
     "country": "UK",
     "email": "j.santini@ucl.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_gordon.ramage@glasgow.ac.uk",
@@ -1001,12 +1011,13 @@
     "country": "UK",
     "email": "gordon.ramage@glasgow.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_t.darton@sheffield.ac.uk",
@@ -1015,12 +1026,13 @@
     "country": "UK",
     "email": "t.darton@sheffield.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_christine.dodd@nottingham.ac.uk",
@@ -1029,12 +1041,13 @@
     "country": "UK",
     "email": "christine.dodd@nottingham.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_mvm198@soton.ac.uk",
@@ -1043,12 +1056,13 @@
     "country": "UK",
     "email": "mvm198@soton.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_c.g.dowson@warwick.ac.uk",
@@ -1057,12 +1071,13 @@
     "country": "UK",
     "email": "c.g.dowson@warwick.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_d.w.wareham@qmul.ac.uk",
@@ -1071,12 +1086,13 @@
     "country": "UK",
     "email": "d.w.wareham@qmul.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_i.m.gould@abdn.ac.uk",
@@ -1085,12 +1101,13 @@
     "country": "UK",
     "email": "i.m.gould@abdn.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_timothy.rawson07@imperial.ac.uk",
@@ -1099,12 +1116,13 @@
     "country": "UK",
     "email": "timothy.rawson07@imperial.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_m.vos@exeter.ac.uk",
@@ -1113,12 +1131,13 @@
     "country": "UK",
     "email": "m.vos@exeter.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_gm657@bath.ac.uk",
@@ -1127,12 +1146,13 @@
     "country": "UK",
     "email": "gm657@bath.ac.uk",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_simon.keely@newcastle.edu.au",
