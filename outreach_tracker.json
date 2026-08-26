@@ -6907,5 +6907,29 @@
     "timestamp": "2026-08-26T06:21:23Z",
     "status": "draft",
     "notes": "Draft ready — Non-invasive wildlife health monitoring via fecal DNA. Environmental microbiology. MODERATE FIT: wildlife health + DVM overlap."
+  },
+  {
+    "id": "draft-john.mccutcheon@umontana.edu",
+    "name": "John McCutcheon",
+    "university": "University of Montana",
+    "country": "United States",
+    "email": "john.mccutcheon@umontana.edu",
+    "subject": "Prospective Graduate Student in Comparative Genomics and Symbiosis Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:26:49Z",
+    "status": "draft",
+    "notes": "Draft ready — Endosymbiont genome evolution, mealybug 4-way symbiosis, genome reduction. 2021 LAST-author paper. MODERATE FIT: genomics + evolution but not AMR-focused."
+  },
+  {
+    "id": "draft-michael.church@umontana.edu",
+    "name": "Michael Church",
+    "university": "University of Montana",
+    "country": "United States",
+    "email": "michael.church@umontana.edu",
+    "subject": "Prospective Graduate Student in Microbial Physiology and Ecology",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:26:49Z",
+    "status": "draft",
+    "notes": "Draft ready — Bacterial physiology, resource response. WEAK-MODERATE FIT — general microbiology, no specific AMR focus identified."
   }
 ]
