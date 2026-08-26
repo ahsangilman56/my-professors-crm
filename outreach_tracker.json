@@ -7298,5 +7298,17 @@
     "timestamp": "2026-08-26T07:15:18Z",
     "status": "draft",
     "notes": "Draft ready — Gut microbial ecology activation impacts host physiology, microbiome-gut-brain axis. MODERATE-GOOD FIT."
+  },
+  {
+    "id": "draft-david.hendrixson@utsouthwestern.edu",
+    "name": "David Hendrixson",
+    "university": "UT Southwestern Medical Center",
+    "country": "United States",
+    "email": "david.hendrixson@utsouthwestern.edu",
+    "subject": "Prospective Graduate Student in Campylobacter Pathogenesis Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T09:56:42Z",
+    "status": "draft",
+    "notes": "Draft ready — Campylobacter jejuni flagellar filament length and colonization. STRONG FIT: foodborne pathogen + veterinary relevance (Campylobacter is major poultry pathogen)."
   }
 ]
