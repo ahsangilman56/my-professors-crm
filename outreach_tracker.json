@@ -6720,8 +6720,10 @@
     "subject": "Prospective Graduate Student in Antibiotic Discovery and Antimicrobial Resistance",
     "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T05:13:43Z",
-    "status": "draft",
-    "notes": "Draft ready — CRISPRi-seq PTH inhibitor paper cited"
+    "status": "sent",
+    "notes": "Draft ready — CRISPRi-seq PTH inhibitor paper cited",
+    "dateSent": "2026-08-26",
+    "replyReceived": false
   },
   {
     "id": "not_drafted-brannick@udel.edu",
