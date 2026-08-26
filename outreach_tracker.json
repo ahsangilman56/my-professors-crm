@@ -7124,8 +7124,10 @@
     "country": "United States",
     "email": "andrew.goodman@yale.edu",
     "timestamp": "2026-08-26T07:06:52Z",
-    "status": "not_drafted",
-    "notes": "Draft ready — Bacteroides thetaiotaomicron effector proteins, gut population spatial structure. 2025 LAST-author paper with single-cell approaches. STRONG FIT: gut commensal biology + effectors."
+    "status": "draft",
+    "notes": "Draft FINAL v5 2026-08-26: Homepage verified (medicine.yale.edu/lab/goodman - commensal competition/cooperation mechanisms, microbiome variation & infection/drug response, MSI). LAST-author Cell Host Microbe 2025 BSAP-5ab paper PMC12757102, full Results read from PMC. Finding 24w + interpretation: host cues activate effectors restructuring populations in vivo.",
+    "subject": "Prospective Graduate Student in Gut Microbiome Population Dynamics Research",
+    "dateCreated": "2026-08-26"
   },
   {
     "id": "draft-stavroula.hatzios@yale.edu",
