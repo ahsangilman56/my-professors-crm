@@ -7466,5 +7466,29 @@
     "timestamp": "2026-08-26T10:10:22Z",
     "status": "draft",
     "notes": "Draft ready — Structure-aware metagenomic modeling. MODERATE FIT: computational biology + bioinformatics."
+  },
+  {
+    "id": "draft-nbcech@uncg.edu",
+    "name": "Nadja Cech",
+    "university": "University of North Carolina Greensboro",
+    "country": "United States",
+    "email": "nbcech@uncg.edu",
+    "subject": "Prospective Graduate Student in Interaction Metabolomics Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:12:46Z",
+    "status": "draft",
+    "notes": "Draft ready — Interaction metabolomics, synergistic antimicrobial compound discovery. MODERATE FIT: metabolomics + natural products."
+  },
+  {
+    "id": "draft-l_ponnus@uncg.edu",
+    "name": "Loganathan Ponnusamy",
+    "university": "University of North Carolina Greensboro",
+    "country": "United States",
+    "email": "l_ponnus@uncg.edu",
+    "subject": "Prospective Graduate Student in Vector Borne Disease Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:12:46Z",
+    "status": "draft",
+    "notes": "Draft ready — Orientia infection + vector bacterial communities. MODERATE FIT: vector-borne disease + DVM relevance."
   }
 ]
