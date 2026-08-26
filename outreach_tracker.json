@@ -7550,5 +7550,29 @@
     "timestamp": "2026-08-26T10:19:06Z",
     "status": "draft",
     "notes": "Draft ready — WGS outbreak investigation source tracking. GOOD FIT: genomic epidemiology + clinical infectious disease."
+  },
+  {
+    "id": "draft-louis.tisa@unh.edu",
+    "name": "Louis Tisa",
+    "university": "University of New Hampshire",
+    "country": "United States",
+    "email": "louis.tisa@unh.edu",
+    "subject": "Prospective Graduate Student in Beneficial Bacteria and Symbiosis Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:20:24Z",
+    "status": "draft",
+    "notes": "Draft ready — Frankia root nodule symbiosis, longitudinal alder microbiome study. MODERATE FIT: beneficial bacteria + genomics."
+  },
+  {
+    "id": "draft-robyn.barbato@unh.edu",
+    "name": "Robyn Barbato",
+    "university": "University of New Hampshire",
+    "country": "United States",
+    "email": "robyn.barbato@unh.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance Environmental Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:20:24Z",
+    "status": "draft",
+    "notes": "Draft ready — AMR varies with warming in active layer soils, climate-AMR link. GOOD FIT: environmental AMR + climate change."
   }
 ]
