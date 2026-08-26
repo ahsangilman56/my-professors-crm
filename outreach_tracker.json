@@ -6790,8 +6790,10 @@
     "country": "United States",
     "email": "rernst@umaryland.edu",
     "timestamp": "2026-08-26T06:05:39Z",
-    "status": "not_drafted",
-    "notes": "Draft ready — Lipid A phosphoethanolamine transferases (PETs), colistin resistance, innate immune recognition. 2024 LAST-author mSphere paper: mcr-1/mcr-3 similar colistin resistance with low fitness cost. STRONG FIT: AMR mechanisms + Gram-negative pathogens + innate immunity."
+    "status": "draft",
+    "notes": "Draft FINAL v5 2026-08-26: homepage verified (ernstlab.com - lipid A/LPS/BECC/colistin resistance), LAST-author Microbiol Spectrum 2026 shark SF21 paper (10.1128/spectrum.00662-26, PMC13436394), full Results read from PMC page. Finding 29w + interpretation: pEtN arises from environmental stress not just antibiotic pressure.",
+    "subject": "Prospective Graduate Student in Lipid A Modification and Antimicrobial Resistance Research",
+    "dateCreated": "2026-08-26"
   },
   {
     "id": "draft-nelsayed@umd.edu",
