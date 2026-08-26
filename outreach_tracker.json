@@ -7322,5 +7322,41 @@
     "timestamp": "2026-08-26T09:58:50Z",
     "status": "skipped",
     "notes": "SKIP — CSHL has no active microbiology/AMR programs. Primary focus is cancer/neuroscience/genomics. No qualifying professors identified."
+  },
+  {
+    "id": "draft-kashyap.purna@mayo.edu",
+    "name": "Purna Kashyap",
+    "university": "Mayo Clinic Graduate School",
+    "country": "United States",
+    "email": "kashyap.purna@mayo.edu",
+    "subject": "Prospective Graduate Student in Gut Microbiome and Infectious Disease Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:01:38Z",
+    "status": "draft",
+    "notes": "Draft ready — Gut microbiome signatures during acute infection. Mayo Clinic Microbiome Program. STRONG FIT: clinical microbiome + GI infections."
+  },
+  {
+    "id": "draft-sung.jaeyun@mayo.edu",
+    "name": "Jaeyun Sung",
+    "university": "Mayo Clinic Graduate School",
+    "country": "United States",
+    "email": "sung.jaeyun@mayo.edu",
+    "subject": "Prospective Graduate Student in Microbiome Bioinformatics and Computational Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:01:38Z",
+    "status": "draft",
+    "notes": "Draft ready — Nasal microbiome wellness index, shotgun metagenomics, computational tools. GOOD FIT: bioinformatics + multi-omics."
+  },
+  {
+    "id": "draft-khanna.sahil@mayo.edu",
+    "name": "Sahil Khanna",
+    "university": "Mayo Clinic Graduate School",
+    "country": "United States",
+    "email": "khanna.sahil@mayo.edu",
+    "subject": "Prospective Graduate Student in Gastrointestinal Infections Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:01:38Z",
+    "status": "draft",
+    "notes": "Draft ready — GI infections including C. difficile, microbiome therapeutics. STRONG FIT: C. diff + clinical GI infections."
   }
 ]
