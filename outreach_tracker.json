@@ -6764,10 +6764,12 @@
     "name": "Angela Brown",
     "university": "Lehigh University",
     "country": "United States",
-    "email": "abrown@lehigh.edu",
+    "email": "acb313@lehigh.edu",
     "timestamp": "2026-08-26T05:49:10Z",
-    "status": "not_drafted",
-    "notes": "Draft ready — Bacterial OMVs as antibiotic delivery vehicles, bypassing porin resistance. 2026 LAST-author paper: OMV-encapsulated imipenem effective against MDR isolates. STRONG FIT: AMR + drug delivery + Gram-negative pathogens."
+    "status": "draft",
+    "notes": "Draft FINAL v5 2026-08-26: homepage verified (engineering.lehigh.edu + brownlab), LAST-author bioRxiv 2025 OMV-imipenem paper (10.1101/2025.01.08.631972), full Results read. Email corrected to acb313@lehigh.edu per lab site. Finding 24w + interpretation.",
+    "subject": "Prospective Graduate Student in Antibiotic Delivery and Bacterial Pathogenesis Research",
+    "dateCreated": "2026-08-26"
   },
   {
     "id": "draft-anselh@ucr.edu",
