@@ -6729,10 +6729,10 @@
     "university": "University of Delaware",
     "country": "United States",
     "email": "brannick@udel.edu",
-    "subject": "",
+    "subject": "Prospective Graduate Student in Poultry Health and Pathology Research",
     "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T05:34:02Z",
-    "status": "not_drafted",
+    "status": "draft",
     "notes": "Poultry health, heat stress, pathology. 2026 LAST-author paper. DVM-adjacent field."
   },
   {
@@ -7682,5 +7682,17 @@
     "timestamp": "2026-08-26T10:28:09Z",
     "status": "draft",
     "notes": "Draft ready — E. faecalis biofilm dispersion via nutrient limitation. GOOD FIT: enterococcal pathogenesis + metabolism."
+  },
+  {
+    "id": "draft-nicole.denisco@utdallas.edu",
+    "name": "Nicole De Nisco",
+    "university": "University of Texas at Dallas",
+    "country": "United States",
+    "email": "nicole.denisco@utdallas.edu",
+    "subject": "Prospective Graduate Student in Urobiome and Urinary Tract Infection Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:38:05Z",
+    "status": "draft",
+    "notes": "Draft ready — Urobiome dynamics, rUTI pathogenesis, metabolic reprogramming in infected bladder. STRONG FIT: microbiome + host-pathogen metabolism."
   }
 ]
