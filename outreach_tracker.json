@@ -6775,5 +6775,17 @@
     "timestamp": "2026-08-26T05:59:13Z",
     "status": "draft",
     "notes": "Draft ready — Gut microbiome colonization resistance, V. cholerae pathogenesis. 2022 LAST-author paper: commensal community composition reprograms V. cholerae biofilm gene expression during infection. STRONG FIT: microbiome-pathogen interactions + gut colonization."
+  },
+  {
+    "id": "draft-rernst@umaryland.edu",
+    "name": "Robert Ernst",
+    "university": "University of Maryland",
+    "country": "United States",
+    "email": "rernst@umaryland.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance Mechanisms Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:05:39Z",
+    "status": "draft",
+    "notes": "Draft ready — Lipid A phosphoethanolamine transferases (PETs), colistin resistance, innate immune recognition. 2024 LAST-author mSphere paper: mcr-1/mcr-3 similar colistin resistance with low fitness cost. STRONG FIT: AMR mechanisms + Gram-negative pathogens + innate immunity."
   }
 ]
