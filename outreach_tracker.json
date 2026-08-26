@@ -7171,5 +7171,29 @@
     "timestamp": "2026-08-26T07:06:52Z",
     "status": "draft",
     "notes": "Draft ready — Type VI secretion system co-secretion of synergistic effectors. 2025 LAST-author. GOOD FIT: bacterial competition + secretion systems."
+  },
+  {
+    "id": "draft-epamer@uchicago.edu",
+    "name": "Eric Pamer",
+    "university": "University of Chicago",
+    "country": "United States",
+    "email": "epamer@uchicago.edu",
+    "subject": "Prospective Graduate Student in Microbiome Resilience and Antimicrobial Resistance",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:09:45Z",
+    "status": "draft",
+    "notes": "Draft ready — Lantibiotic-producing bacteria + microbiome resilience + C. difficile colonization resistance. 2025 LAST-author papers. STRONG FIT: AMR + microbiome resilience + C. diff."
+  },
+  {
+    "id": "draft-eclaud@peds.bsd.uchicago.edu",
+    "name": "Erika Claud",
+    "university": "University of Chicago",
+    "country": "United States",
+    "email": "eclaud@peds.bsd.uchicago.edu",
+    "subject": "Prospective Graduate Student in Neonatal Microbiome and Bile Acid Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:09:45Z",
+    "status": "draft",
+    "notes": "Draft ready — Preterm infant microbiome + bile acid profiles, NEC mechanisms. 2025 LAST-author paper. GOOD FIT: neonatal microbiome."
   }
 ]
