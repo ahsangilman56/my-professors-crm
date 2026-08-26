@@ -152,7 +152,7 @@
   {
     "id": "mail-1787222218",
     "name": "Jukka Corander",
-    "university": "University of Helsinki (FIMM)",
+    "university": "University of Helsinki",
     "country": "Finland",
     "email": "jukka.corander@medisin.uio.no",
     "subject": "Prospective Graduate Student in Bacterial Genomics and Antimicrobial Resistance",
@@ -167,7 +167,7 @@
   {
     "id": "mail-1787222221",
     "name": "Heli Viljakainen",
-    "university": "University of Helsinki (Folkhalsan)",
+    "university": "University of Helsinki",
     "country": "Finland",
     "email": "heli.viljakainen@helsinki.fi",
     "subject": "Prospective Graduate Student in Microbiome and Metabolic Health",
@@ -1487,7 +1487,7 @@
   {
     "id": "draft_abraundmeier88@siumed.edu",
     "name": "Andrea Braundmeier-Fleming",
-    "university": "Southern Illinois University School of Medicine",
+    "university": "Southern Illinois University Carbondale",
     "country": "USA",
     "email": "abraundmeier88@siumed.edu",
     "subject": "Prospective Graduate Student in Microbiome Research and Mucosal Immunology",
@@ -2002,7 +2002,7 @@
   {
     "id": "prof-1776499696216",
     "name": "lahiru N. Jayakody",
-    "university": "Southern Illinois University",
+    "university": "Southern Illinois University Carbondale",
     "country": "USA",
     "email": "lahiru.jayakody@siu.edu",
     "subject": "",
@@ -2018,7 +2018,7 @@
   {
     "id": "prof-1776499881053",
     "name": "Bethany Rader",
-    "university": "Southern Illinois University",
+    "university": "Southern Illinois University Carbondale",
     "country": "USA",
     "email": "bethany.rader@siu.edu",
     "subject": "",
@@ -3204,7 +3204,7 @@
   {
     "id": "prof-1787196814",
     "name": "Willem de Vos",
-    "university": "University of Helsinki / Wageningen University",
+    "university": "University of Helsinki",
     "country": "Finland",
     "email": "willem.devos@helsinki.fi",
     "subject": "",
@@ -6278,7 +6278,7 @@
   {
     "id": "prof-1787453272300",
     "name": "Christian Seyboldt",
-    "university": "Friedrich-Loeffler-Institut (Jena)",
+    "university": "Friedrich-Loeffler-Institut",
     "country": "Germany",
     "email": "Christian.Seyboldt@fli.de",
     "subject": "",
