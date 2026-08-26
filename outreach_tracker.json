@@ -7430,5 +7430,41 @@
     "timestamp": "2026-08-26T10:08:09Z",
     "status": "draft",
     "notes": "Draft ready — Nanomaterials to combat AMR. MODERATE FIT: materials chemistry leaning but AMR relevant."
+  },
+  {
+    "id": "draft-nsurana@tulane.edu",
+    "name": "Neeraj Surana",
+    "university": "Tulane University",
+    "country": "United States",
+    "email": "nsurana@tulane.edu",
+    "subject": "Prospective Graduate Student in Commensal Pathogen Interactions Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:10:22Z",
+    "status": "draft",
+    "notes": "Draft ready — Commensal bacteria inhibit viral infections via tryptophan metabolism pathway. 2026 LAST-author. STRONG FIT: commensal pathogen interactions + metabolic resistance."
+  },
+  {
+    "id": "draft-monica.embers@tulane.edu",
+    "name": "Monica Embers",
+    "university": "Tulane University",
+    "country": "United States",
+    "email": "members@tulane.edu",
+    "subject": "Prospective Graduate Student in Spirochete Biology and Lyme Disease Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:10:22Z",
+    "status": "draft",
+    "notes": "Draft ready — Borrelia burgdorferi persistence, perinatal transmission, Lyme diagnostics. Tulane National Primate Research Center. GOOD FIT: spirochete + DVM relevance."
+  },
+  {
+    "id": "draft-hshen@tulane.edu",
+    "name": "Hui Shen",
+    "university": "Tulane University",
+    "country": "United States",
+    "email": "hshen@tulane.edu",
+    "subject": "Prospective Graduate Student in Microbiome Computational Biology Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:10:22Z",
+    "status": "draft",
+    "notes": "Draft ready — Structure-aware metagenomic modeling. MODERATE FIT: computational biology + bioinformatics."
   }
 ]
