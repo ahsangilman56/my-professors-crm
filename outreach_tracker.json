@@ -7670,5 +7670,41 @@
     "timestamp": "2026-08-26T10:26:45Z",
     "status": "draft",
     "notes": "Draft ready — Disease co-infection dynamic optimization, bacterial growth resource allocation modeling. MODERATE FIT: computational biology. Skipped Gaur/Ali (crop viruses per no-crop rule). Tulsa has very limited microbiology."
+  },
+  {
+    "id": "draft-ksauer@binghamton.edu",
+    "name": "Karin Sauer",
+    "university": "Binghamton University",
+    "country": "United States",
+    "email": "ksauer@binghamton.edu",
+    "subject": "Prospective Graduate Student in Biofilm Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:28:09Z",
+    "status": "draft",
+    "notes": "Draft ready — P. aeruginosa biofilm dispersion requires component relocation. STRONG FIT: biofilms + chronic infection + ASM leader."
+  },
+  {
+    "id": "draft-jschertzer@binghamton.edu",
+    "name": "Jeffrey Schertzer",
+    "university": "Binghamton University",
+    "country": "United States",
+    "email": "jschertzer@binghamton.edu",
+    "subject": "Prospective Graduate Student in Outer Membrane Vesicle Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:28:09Z",
+    "status": "draft",
+    "notes": "Draft ready — OprF latch directing OMV release in Pseudomonas. GOOD FIT: OMV biology + cell envelope."
+  },
+  {
+    "id": "draft-pmckenne@binghamton.edu",
+    "name": "Peter McKenney",
+    "university": "Binghamton University",
+    "country": "United States",
+    "email": "pmckenne@binghamton.edu",
+    "subject": "Prospective Graduate Student in Enterococcus Biofilm Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:28:09Z",
+    "status": "draft",
+    "notes": "Draft ready — E. faecalis biofilm dispersion via nutrient limitation. GOOD FIT: enterococcal pathogenesis + metabolism."
   }
 ]
