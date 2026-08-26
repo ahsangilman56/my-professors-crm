@@ -6729,10 +6729,8 @@
     "university": "University of Delaware",
     "country": "United States",
     "email": "brannick@udel.edu",
-    "subject": "Prospective Graduate Student in Poultry Health and Pathology Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T05:34:02Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Poultry health, heat stress, pathology. 2026 LAST-author paper. DVM-adjacent field."
   },
   {
@@ -6753,10 +6751,8 @@
     "university": "Syracuse University",
     "country": "United States",
     "email": "dren@syr.edu",
-    "subject": "Prospective Graduate Student in Biofilm Research and Antimicrobial Resistance",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T05:41:03Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Biofilm/persister cell control, antimicrobial biomaterials. 2025 LAST-author AAC paper: compounds 173/175 killed 99.7%/99.2% UPEC biofilm persisters. STRONG FIT: AMR + persisters + biofilms."
   },
   {
@@ -6765,10 +6761,8 @@
     "university": "Lehigh University",
     "country": "United States",
     "email": "abrown@lehigh.edu",
-    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Drug Delivery Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T05:49:10Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Bacterial OMVs as antibiotic delivery vehicles, bypassing porin resistance. 2026 LAST-author paper: OMV-encapsulated imipenem effective against MDR isolates. STRONG FIT: AMR + drug delivery + Gram-negative pathogens."
   },
   {
@@ -6789,10 +6783,8 @@
     "university": "University of Maryland",
     "country": "United States",
     "email": "rernst@umaryland.edu",
-    "subject": "Prospective Graduate Student in Antimicrobial Resistance Mechanisms Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:05:39Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Lipid A phosphoethanolamine transferases (PETs), colistin resistance, innate immune recognition. 2024 LAST-author mSphere paper: mcr-1/mcr-3 similar colistin resistance with low fitness cost. STRONG FIT: AMR mechanisms + Gram-negative pathogens + innate immunity."
   },
   {
@@ -6801,10 +6793,8 @@
     "university": "University of Maryland",
     "country": "United States",
     "email": "nelsayed@umd.edu",
-    "subject": "Prospective Graduate Student in Host Pathogen Interactions and Genomic Medicine",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:13:26Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Leishmania antimony resistance + host macrophage transcriptomics. 2025 LAST-author PLOS NTD paper. STRONG FIT: pathogen genomics + host immune profiling."
   },
   {
@@ -6813,10 +6803,8 @@
     "university": "University of Maryland",
     "country": "United States",
     "email": "dfouts@som.umaryland.edu",
-    "subject": "Prospective Graduate Student in Genomic Approaches to Antimicrobial Resistance",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:13:26Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Tn-Seq fitness genes across bacterial species, carbapenem-resistant K. pneumoniae. 2025 FIRST-author paper: tatC disruption resensitized K. pneumoniae to ampicillin. STRONG FIT: genomics + AMR + functional genomics."
   },
   {
@@ -6825,10 +6813,8 @@
     "university": "Rochester Institute of Technology",
     "country": "United States",
     "email": "aohbsc@rit.edu",
-    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Genomic Surveillance",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:17:29Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Environmental AMR surveillance WGS, plant terpenes vs AMR. 2025 LAST-author paper: 7 RIT campus isolates showed diverse resistance patterns. STRONG FIT: AMR + genomics + environment."
   },
   {
@@ -6837,10 +6823,8 @@
     "university": "Rochester Institute of Technology",
     "country": "United States",
     "email": "lxmsbi@rit.edu",
-    "subject": "Prospective Graduate Student in Bacterial Pathogenesis and Extracellular Vesicle Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:17:29Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Bacterial EV release modulated by antibiotics, otitis media vaccine targets. 2025 LAST-author paper: antibiotics enhance EV release during sepsis treatment. GOOD FIT: bacterial pathogenesis."
   },
   {
@@ -6849,10 +6833,8 @@
     "university": "Rochester Institute of Technology",
     "country": "United States",
     "email": "trgbme@rit.edu",
-    "subject": "Prospective Graduate Student in Bacterial Extracellular Vesicles and Biomedical Engineering",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:17:29Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Bacterial EV bioprocess optimization, EV effects on host cells. MODERATE FIT — biomedical engineering leaning but microbiology adjacent."
   },
   {
@@ -6861,10 +6843,8 @@
     "university": "Rochester Institute of Technology",
     "country": "United States",
     "email": "masbio@rit.edu",
-    "subject": "Prospective Graduate Student in Bacterial Genomics and Antimicrobial Resistance Surveillance",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:17:29Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Wildlife bacterial WGS, plant-associated bacteria. MODERATE FIT — wildlife genomics + environmental AMR reservoir angle."
   },
   {
@@ -6873,10 +6853,8 @@
     "university": "University of Montana",
     "country": "United States",
     "email": "patrick.secor@umontana.edu",
-    "subject": "Prospective Graduate Student in Biofilm Research and Bacterial Phage Interactions",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:21:23Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Pseudomonas biofilm/phage interactions in CF lungs. 9 LAST-author papers. 2024 paper: targeted Pf prophage deletion technique across clinical isolates. STRONG FIT: AMR + biofilms + phage."
   },
   {
@@ -6885,10 +6863,8 @@
     "university": "University of Montana",
     "country": "United States",
     "email": "sechou@umontana.edu",
-    "subject": "Prospective Graduate Student in Spirochete Biology and Transcriptomic Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:21:23Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Borrelia burgdorferi longitudinal transcriptomics, Lyme disease spirochete biology. 2023 LAST-author longitudinal transcriptome map. GOOD FIT: tick-borne pathogen genomics."
   },
   {
@@ -6897,10 +6873,8 @@
     "university": "University of Montana",
     "country": "United States",
     "email": "tara.hensleymcbain@umontana.edu",
-    "subject": "Prospective Graduate Student in Microbiome and Inflammation Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:21:23Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — APOE genotype/sex drive microbiome divergence after infection; chronic LPS inflammation. 2025 LAST-author. MODERATE FIT: microbiome + immunology."
   },
   {
@@ -6909,10 +6883,8 @@
     "university": "University of Montana",
     "country": "United States",
     "email": "william.holben@umontana.edu",
-    "subject": "Prospective Graduate Student in Environmental Microbiology and Wildlife Health",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:21:23Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Non-invasive wildlife health monitoring via fecal DNA. Environmental microbiology. MODERATE FIT: wildlife health + DVM overlap."
   },
   {
@@ -6921,10 +6893,8 @@
     "university": "University of Montana",
     "country": "United States",
     "email": "john.mccutcheon@umontana.edu",
-    "subject": "Prospective Graduate Student in Comparative Genomics and Symbiosis Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:26:49Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Endosymbiont genome evolution, mealybug 4-way symbiosis, genome reduction. 2021 LAST-author paper. MODERATE FIT: genomics + evolution but not AMR-focused."
   },
   {
@@ -6933,10 +6903,8 @@
     "university": "University of Montana",
     "country": "United States",
     "email": "michael.church@umontana.edu",
-    "subject": "Prospective Graduate Student in Microbial Physiology and Ecology",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:26:49Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Bacterial physiology, resource response. WEAK-MODERATE FIT — general microbiology, no specific AMR focus identified."
   },
   {
@@ -6945,10 +6913,8 @@
     "university": "University of New Mexico",
     "country": "United States",
     "email": "sbradfute@salud.unm.edu",
-    "subject": "Prospective Graduate Student in Infectious Disease and Microbiome Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:31:21Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Virology (SARS-CoV-2, VEEV, LCMV) + wild Peromyscus gut microbiome. GOOD FIT: infectious disease + wildlife microbiome."
   },
   {
@@ -6957,10 +6923,8 @@
     "university": "University of New Mexico",
     "country": "United States",
     "email": "dnorthup@unm.edu",
-    "subject": "Prospective Graduate Student in Microbial Ecology and Cave Microbiome Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:31:21Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Bat skin microbiome by ecoregion, cave microbial ecology. 2026 LAST-author. MODERATE FIT: environmental microbiology."
   },
   {
@@ -6969,10 +6933,8 @@
     "university": "University of New Mexico",
     "country": "United States",
     "email": "efcastillo@salud.unm.edu",
-    "subject": "Prospective Graduate Student in Gut Liver Microbiome and Metabolic Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:31:21Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Gut-liver metabolic remodeling, enterohormonal changes. GOOD FIT: microbiome-metabolism + clinical."
   },
   {
@@ -6981,10 +6943,8 @@
     "university": "University of New Mexico",
     "country": "United States",
     "email": "jonalcock@unm.edu",
-    "subject": "Prospective Graduate Student in Gut Microbiota and Disease Mechanisms",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:31:21Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Obstructive sleep apnea + gut microbiota. MODERATE FIT: clinical microbiome."
   },
   {
@@ -6993,10 +6953,8 @@
     "university": "University of Wyoming",
     "country": "United States",
     "email": "ksondgeroth@uwyo.edu",
-    "subject": "Prospective Graduate Student in Veterinary Antimicrobial Resistance Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:51:46Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — AMR E. coli from livestock + wildlife (Wyoming State Vet Lab). STRONG FIT: veterinary AMR + DVM + diagnostic microbiology."
   },
   {
@@ -7005,10 +6963,8 @@
     "university": "University of Wyoming",
     "country": "United States",
     "email": "jblock@uwyo.edu",
-    "subject": "Prospective Graduate Student in Reproductive Microbiome and Animal Science Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:51:46Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Bull reproductive microbiome comparative analysis. GOOD FIT: livestock microbiome + DVM."
   },
   {
@@ -7017,10 +6973,8 @@
     "university": "University of Wyoming",
     "country": "United States",
     "email": "mislam4@uwyo.edu",
-    "subject": "Prospective Graduate Student in Foodborne Antimicrobial Resistance Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:51:46Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Foodborne AMR E. coli transmission pathways. STRONG FIT: food safety + AMR + One Health."
   },
   {
@@ -7029,10 +6983,8 @@
     "university": "University of Wyoming",
     "country": "United States",
     "email": "zli@uwyo.edu",
-    "subject": "Prospective Graduate Student in Bacterial Predation and Alternative Antimicrobial Strategies",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:51:46Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Bacterial predator-prey interactions as alternative antimicrobial approach. MODERATE FIT: novel antimicrobial strategies."
   },
   {
@@ -7041,10 +6993,8 @@
     "university": "Illinois Institute of Technology",
     "country": "United States",
     "email": "abhushan@iit.edu",
-    "subject": "Prospective Graduate Student in Microbiome and Bacterial Metabolism Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:54:28Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Bile salt hydrolase activity, microbiome-pathogen interactions, organ-on-chip. GOOD FIT: microbiome + metabolism."
   },
   {
@@ -7053,10 +7003,8 @@
     "university": "Illinois Institute of Technology",
     "country": "United States",
     "email": "shong5@iit.edu",
-    "subject": "Prospective Graduate Student in Synthetic Biology and Antimicrobial Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:54:28Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Colicin engineering in E. coli, cell-free antimicrobial protein synthesis, biofilm control via synthetic biology. STRONG FIT: AMR + synthetic biology."
   },
   {
@@ -7065,10 +7013,8 @@
     "university": "Illinois Institute of Technology",
     "country": "United States",
     "email": "cceapa@iit.edu",
-    "subject": "Prospective Graduate Student in Antimicrobial Peptide Discovery Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:54:28Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — AMP discovery from Clostridium (clostrisin + cellulosin), novel AMR targets. STRONG FIT: antimicrobial discovery."
   },
   {
@@ -7077,10 +7023,8 @@
     "university": "Johns Hopkins University",
     "country": "United States",
     "email": "vpetter1@jhmi.edu",
-    "subject": "Prospective Graduate Student in Gut Resistome and Early Life Microbiome Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:58:49Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Gut resistome/mobilome dynamics in early life, ARG enrichment. 2025 LAST-author EBioMedicine meta-analysis + 2023 longitudinal study. STRONG FIT: AMR genes + microbiome."
   },
   {
@@ -7089,10 +7033,8 @@
     "university": "Johns Hopkins University",
     "country": "United States",
     "email": "jsuez1@jhmi.edu",
-    "subject": "Prospective Graduate Student in Microbiome Metabolism and Host Interactions",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:58:49Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Microbiome metabolite supplementation/elimination for disease treatment, non-nutritive sweeteners on microbiome. GOOD FIT: microbiome metabolism."
   },
   {
@@ -7101,10 +7043,8 @@
     "university": "Johns Hopkins University",
     "country": "United States",
     "email": "psimner1@jhmi.edu",
-    "subject": "Prospective Graduate Student in Clinical Antimicrobial Resistance Diagnostics",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T06:58:49Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Novel beta-lactam susceptibility testing, carbapenem-resistant organism environmental reservoirs, aztreonam+avibactam diagnostics. STRONG FIT: clinical AMR diagnostics + AST."
   },
   {
@@ -7113,10 +7053,8 @@
     "university": "Brown University",
     "country": "United States",
     "email": "peter_belenky@brown.edu",
-    "subject": "Prospective Graduate Student in Antibiotic Microbiome Interactions Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:02:53Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Antibiotic effects on microbiome metabolism, nutrient availability shapes susceptibility. 2025 LAST-author papers on hemin/iron and amoxicillin. STRONG FIT: antibiotic mechanisms + microbiome."
   },
   {
@@ -7125,10 +7063,8 @@
     "university": "Brown University",
     "country": "United States",
     "email": "anita_shukla@brown.edu",
-    "subject": "Prospective Graduate Student in Antimicrobial Drug Delivery Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:02:53Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Beta-lactamase responsive hydrogels, enzyme-triggered antimicrobial release. GOOD FIT: smart drug delivery for AMR infections."
   },
   {
@@ -7137,10 +7073,8 @@
     "university": "Brown University",
     "country": "United States",
     "email": "anubhav_tripathi@brown.edu",
-    "subject": "Prospective Graduate Student in Rapid Pathogen Diagnostics Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:02:53Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Rapid automated pathogen genomic surveillance workflow. GOOD FIT: diagnostics + bioinformatics."
   },
   {
@@ -7149,10 +7083,8 @@
     "university": "Yale University",
     "country": "United States",
     "email": "andrew.goodman@yale.edu",
-    "subject": "Prospective Graduate Student in Gut Microbiome Population Dynamics Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:06:52Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Bacteroides thetaiotaomicron effector proteins, gut population spatial structure. 2025 LAST-author paper with single-cell approaches. STRONG FIT: gut commensal biology + effectors."
   },
   {
@@ -7161,10 +7093,8 @@
     "university": "Yale University",
     "country": "United States",
     "email": "stavroula.hatzios@yale.edu",
-    "subject": "Prospective Graduate Student in Microbial Metabolism and Redox Biology",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:06:52Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Metabolic cross-feeding of dietary antioxidant ergothioneine, Clostridium symbiosum ergothionases. 2025 LAST-author. GOOD FIT: microbial metabolism + redox."
   },
   {
@@ -7173,10 +7103,8 @@
     "university": "Yale University",
     "country": "United States",
     "email": "xia.gao@yale.edu",
-    "subject": "Prospective Graduate Student in Bacterial Secretion Systems and Interspecies Competition",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:06:52Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Type VI secretion system co-secretion of synergistic effectors. 2025 LAST-author. GOOD FIT: bacterial competition + secretion systems."
   },
   {
@@ -7185,10 +7113,8 @@
     "university": "University of Chicago",
     "country": "United States",
     "email": "epamer@uchicago.edu",
-    "subject": "Prospective Graduate Student in Microbiome Resilience and Antimicrobial Resistance",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:09:45Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Lantibiotic-producing bacteria + microbiome resilience + C. difficile colonization resistance. 2025 LAST-author papers. STRONG FIT: AMR + microbiome resilience + C. diff."
   },
   {
@@ -7197,10 +7123,8 @@
     "university": "University of Chicago",
     "country": "United States",
     "email": "eclaud@peds.bsd.uchicago.edu",
-    "subject": "Prospective Graduate Student in Neonatal Microbiome and Bile Acid Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:09:45Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Preterm infant microbiome + bile acid profiles, NEC mechanisms. 2025 LAST-author paper. GOOD FIT: neonatal microbiome."
   },
   {
@@ -7209,10 +7133,8 @@
     "university": "Rockefeller University",
     "country": "United States",
     "email": "lmarraffini@rockefeller.edu",
-    "subject": "Prospective Graduate Student in Bacterial Immunity Systems Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:12:29Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — CRISPR-Cas immunity, TIR-based phage sensing, bacterial defense systems. HHMI investigator. 2025 LAST-author multiple papers. STRONG FIT: bacterial immunity + genomics."
   },
   {
@@ -7221,10 +7143,8 @@
     "university": "Rockefeller University",
     "country": "United States",
     "email": "vfischetti@rockefeller.edu",
-    "subject": "Prospective Graduate Student in Enzyme Based Antimicrobial Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:12:29Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Lysins/lysocins as antimicrobials against P. aeruginosa, acne. 2025 LAST-author 2 papers. STRONG FIT: enzyme antimicrobials vs MDR pathogens."
   },
   {
@@ -7233,10 +7153,8 @@
     "university": "Rockefeller University",
     "country": "United States",
     "email": "zsong@rockefeller.edu",
-    "subject": "Prospective Graduate Student in Gut Microbiome Engineering Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:12:29Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — In situ gut microbiota editing for therapeutic efficacy. MODERATE-GOOD FIT: microbiome engineering."
   },
   {
@@ -7245,10 +7163,8 @@
     "university": "Baylor College of Medicine",
     "country": "United States",
     "email": "savidge@bcm.edu",
-    "subject": "Prospective Graduate Student in Gut Microbiome Metagenomics Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:15:18Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Gut microbiome metagenomics in clinical practice. 2025 LAST-author. STRONG FIT: clinical metagenomics."
   },
   {
@@ -7257,10 +7173,8 @@
     "university": "Baylor College of Medicine",
     "country": "United States",
     "email": "preidis@bcm.edu",
-    "subject": "Prospective Graduate Student in Neonatal Microbiome Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:15:18Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Microbiota-derived isovalerate + gut barrier, neonatal microbiome, probiotics. 2026 LAST-author. GOOD FIT."
   },
   {
@@ -7269,10 +7183,8 @@
     "university": "Baylor College of Medicine",
     "country": "United States",
     "email": "costamam@bcm.edu",
-    "subject": "Prospective Graduate Student in Gut Microbiome and Host Physiology Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T07:15:18Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Gut microbial ecology activation impacts host physiology, microbiome-gut-brain axis. MODERATE-GOOD FIT."
   },
   {
@@ -7281,10 +7193,8 @@
     "university": "UT Southwestern Medical Center",
     "country": "United States",
     "email": "david.hendrixson@utsouthwestern.edu",
-    "subject": "Prospective Graduate Student in Campylobacter Pathogenesis Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T09:56:42Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Campylobacter jejuni flagellar filament length and colonization. STRONG FIT: foodborne pathogen + veterinary relevance (Campylobacter is major poultry pathogen)."
   },
   {
@@ -7305,10 +7215,8 @@
     "university": "Mayo Clinic Graduate School",
     "country": "United States",
     "email": "kashyap.purna@mayo.edu",
-    "subject": "Prospective Graduate Student in Gut Microbiome and Infectious Disease Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:01:38Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Gut microbiome signatures during acute infection. Mayo Clinic Microbiome Program. STRONG FIT: clinical microbiome + GI infections."
   },
   {
@@ -7317,10 +7225,8 @@
     "university": "Mayo Clinic Graduate School",
     "country": "United States",
     "email": "sung.jaeyun@mayo.edu",
-    "subject": "Prospective Graduate Student in Microbiome Bioinformatics and Computational Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:01:38Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Nasal microbiome wellness index, shotgun metagenomics, computational tools. GOOD FIT: bioinformatics + multi-omics."
   },
   {
@@ -7329,10 +7235,8 @@
     "university": "Mayo Clinic Graduate School",
     "country": "United States",
     "email": "khanna.sahil@mayo.edu",
-    "subject": "Prospective Graduate Student in Gastrointestinal Infections Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:01:38Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — GI infections including C. difficile, microbiome therapeutics. STRONG FIT: C. diff + clinical GI infections."
   },
   {
@@ -7341,10 +7245,8 @@
     "university": "Arizona State University",
     "country": "United States",
     "email": "kerry.hamilton@asu.edu",
-    "subject": "Prospective Graduate Student in Antimicrobial Resistance Environmental Surveillance",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:03:56Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — AMR environmental mapping, waste streams, One Health. STRONG FIT: environmental AMR + risk assessment."
   },
   {
@@ -7353,10 +7255,8 @@
     "university": "Arizona State University",
     "country": "United States",
     "email": "yue.cui@asu.edu",
-    "subject": "Prospective Graduate Student in Gut Microbiome and Toxicology Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:03:56Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Akkermansia muciniphila prevents cadmium cognitive impairment, gut-liver toxicology. GOOD FIT: microbiome + toxicology."
   },
   {
@@ -7365,10 +7265,8 @@
     "university": "Arizona State University",
     "country": "United States",
     "email": "taichi.suzuki@asu.edu",
-    "subject": "Prospective Graduate Student in Gut Microbial Evolution Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:03:56Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Gut microbial genome size evolution across health/disease. MODERATE FIT: evolution + genomics."
   },
   {
@@ -7377,10 +7275,8 @@
     "university": "Arizona State University",
     "country": "United States",
     "email": "kevin.kwok@asu.edu",
-    "subject": "Prospective Graduate Student in Salmonella Genomics and AMR Prediction Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:03:56Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Nontyphoidal Salmonella genomic AMR prediction. STRONG FIT: Salmonella + AMR + genomics."
   },
   {
@@ -7389,10 +7285,8 @@
     "university": "Michigan Technological University",
     "country": "United States",
     "email": "scjacks@mtu.edu",
-    "subject": "Prospective Graduate Student in Antimicrobial Resistance Wastewater Surveillance Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:08:09Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — AMR gene wastewater surveillance, quantifying workflow bias. GOOD FIT: environmental AMR + methodology."
   },
   {
@@ -7401,10 +7295,8 @@
     "university": "Michigan Technological University",
     "country": "United States",
     "email": "aogunlaj@mtu.edu",
-    "subject": "Prospective Graduate Student in Nanomaterial Based Antimicrobial Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:08:09Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Nanomaterials to combat AMR. MODERATE FIT: materials chemistry leaning but AMR relevant."
   },
   {
@@ -7413,10 +7305,8 @@
     "university": "Tulane University",
     "country": "United States",
     "email": "nsurana@tulane.edu",
-    "subject": "Prospective Graduate Student in Commensal Pathogen Interactions Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:10:22Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Commensal bacteria inhibit viral infections via tryptophan metabolism pathway. 2026 LAST-author. STRONG FIT: commensal pathogen interactions + metabolic resistance."
   },
   {
@@ -7425,10 +7315,8 @@
     "university": "Tulane University",
     "country": "United States",
     "email": "members@tulane.edu",
-    "subject": "Prospective Graduate Student in Spirochete Biology and Lyme Disease Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:10:22Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Borrelia burgdorferi persistence, perinatal transmission, Lyme diagnostics. Tulane National Primate Research Center. GOOD FIT: spirochete + DVM relevance."
   },
   {
@@ -7437,10 +7325,8 @@
     "university": "Tulane University",
     "country": "United States",
     "email": "hshen@tulane.edu",
-    "subject": "Prospective Graduate Student in Microbiome Computational Biology Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:10:22Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Structure-aware metagenomic modeling. MODERATE FIT: computational biology + bioinformatics."
   },
   {
@@ -7449,10 +7335,8 @@
     "university": "University of North Carolina Greensboro",
     "country": "United States",
     "email": "nbcech@uncg.edu",
-    "subject": "Prospective Graduate Student in Interaction Metabolomics Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:12:46Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Interaction metabolomics, synergistic antimicrobial compound discovery. MODERATE FIT: metabolomics + natural products."
   },
   {
@@ -7461,10 +7345,8 @@
     "university": "University of North Carolina Greensboro",
     "country": "United States",
     "email": "l_ponnus@uncg.edu",
-    "subject": "Prospective Graduate Student in Vector Borne Disease Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:12:46Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Orientia infection + vector bacterial communities. MODERATE FIT: vector-borne disease + DVM relevance."
   },
   {
@@ -7473,10 +7355,8 @@
     "university": "University of Maine",
     "country": "United States",
     "email": "anne.lichtenwalner@maine.edu",
-    "subject": "Prospective Graduate Student in Veterinary Microbiology Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:16:05Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Veterinary diagnostic microbiology, small ruminant health. DVM+PhD. GOOD FIT: veterinary microbiology + DVM background. Limited EPMC indexing at UMaine."
   },
   {
@@ -7485,10 +7365,8 @@
     "university": "Case Western Reserve University",
     "country": "United States",
     "email": "mahmoud.ghannoum@case.edu",
-    "subject": "Prospective Graduate Student in Mycobiome and Antimicrobial Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:19:06Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Candida auris chloramine antiseptic decolonization. STRONG FIT: mycobiome pioneer + antifungal/antimicrobial research."
   },
   {
@@ -7497,10 +7375,8 @@
     "university": "Case Western Reserve University",
     "country": "United States",
     "email": "jan.claesen@case.edu",
-    "subject": "Prospective Graduate Student in Bacterial Metabolism and Microbiome Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:19:06Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — E. coli aryl polyene expression under oxidative stress, sensitization mechanism. STRONG FIT: bacterial metabolism + microbiome chemistry."
   },
   {
@@ -7509,10 +7385,8 @@
     "university": "Case Western Reserve University",
     "country": "United States",
     "email": "thaddeus.stappenbeck@case.edu",
-    "subject": "Prospective Graduate Student in Mucosal Immunology and Microbiome Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:19:06Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — HIL1 strain-level adhesion + immune recognition, gut mucosal biology. STRONG FIT: commensal-host interactions + IBD."
   },
   {
@@ -7521,10 +7395,8 @@
     "university": "Case Western Reserve University",
     "country": "United States",
     "email": "elie.saade@uhhospitals.org",
-    "subject": "Prospective Graduate Student in Genomic Epidemiology Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:19:06Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — WGS outbreak investigation source tracking. GOOD FIT: genomic epidemiology + clinical infectious disease."
   },
   {
@@ -7533,10 +7405,8 @@
     "university": "University of New Hampshire",
     "country": "United States",
     "email": "louis.tisa@unh.edu",
-    "subject": "Prospective Graduate Student in Beneficial Bacteria and Symbiosis Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:20:24Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Frankia root nodule symbiosis, longitudinal alder microbiome study. MODERATE FIT: beneficial bacteria + genomics."
   },
   {
@@ -7545,10 +7415,8 @@
     "university": "University of New Hampshire",
     "country": "United States",
     "email": "robyn.barbato@unh.edu",
-    "subject": "Prospective Graduate Student in Antimicrobial Resistance Environmental Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:20:24Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — AMR varies with warming in active layer soils, climate-AMR link. GOOD FIT: environmental AMR + climate change."
   },
   {
@@ -7557,10 +7425,8 @@
     "university": "Clarkson University",
     "country": "United States",
     "email": "jkusi@clarkson.edu",
-    "subject": "Prospective Graduate Student in Multidrug Resistant Salmonella Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:23:15Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — MDR Salmonella occurrence + resistance patterns. GOOD FIT: Salmonella AMR + food safety."
   },
   {
@@ -7569,10 +7435,8 @@
     "university": "Clarkson University",
     "country": "United States",
     "email": "eandreescu@clarkson.edu",
-    "subject": "Prospective Graduate Student in Antimicrobial Materials Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:23:15Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — 3D-printed biodegradable antimicrobial films for food packaging. MODERATE FIT: materials chemistry leaning."
   },
   {
@@ -7581,10 +7445,8 @@
     "university": "University of Rochester",
     "country": "United States",
     "email": "qiusheng.shi@rochester.edu",
-    "subject": "Prospective Graduate Student in Bacterial Pathogenesis Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:24:33Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Mechanical forces in bacterial pathogenesis (sensing, tropism, mechanotransduction). GOOD FIT: pathogenesis + mechanobiology."
   },
   {
@@ -7593,10 +7455,8 @@
     "university": "University of Rochester",
     "country": "United States",
     "email": "gowrishankar.muthukrishnan@urmc.rochester.edu",
-    "subject": "Prospective Graduate Student in Staphylococcus aureus Infection Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:24:33Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — S. aureus osteomyelitis T cell dysfunction. GOOD FIT: S. aureus persistence + immunology."
   },
   {
@@ -7605,10 +7465,8 @@
     "university": "Wayne State University",
     "country": "United States",
     "email": "cody.black@wayne.edu",
-    "subject": "Prospective Graduate Student in Antimicrobial Resistance Data Science Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:25:48Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — ClinicalTrials.gov AMR diagnostic landscape mapping. MODERATE FIT: data science + AMR policy."
   },
   {
@@ -7617,10 +7475,8 @@
     "university": "Wayne State University",
     "country": "United States",
     "email": "aktham.mestareehi@wayne.edu",
-    "subject": "Prospective Graduate Student in Veterinary Pharmacology Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:25:48Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — PK/PD modeling of ceftiofur (veterinary cephalosporin). STRONG DVM FIT: veterinary antimicrobial stewardship."
   },
   {
@@ -7629,10 +7485,8 @@
     "university": "Wayne State University",
     "country": "United States",
     "email": "markbrown@wayne.edu",
-    "subject": "Prospective Graduate Student in Microbiome Environmental Health Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:25:48Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — PFAS-driven microbiome reorganization. GOOD FIT: environmental toxicology + microbiome."
   },
   {
@@ -7641,10 +7495,8 @@
     "university": "University of Tulsa",
     "country": "United States",
     "email": "brett-mckinney@utulsa.edu",
-    "subject": "Prospective Graduate Student in Computational Infectious Disease Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:26:45Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Disease co-infection dynamic optimization, bacterial growth resource allocation modeling. MODERATE FIT: computational biology. Skipped Gaur/Ali (crop viruses per no-crop rule). Tulsa has very limited microbiology."
   },
   {
@@ -7653,10 +7505,8 @@
     "university": "Binghamton University",
     "country": "United States",
     "email": "ksauer@binghamton.edu",
-    "subject": "Prospective Graduate Student in Biofilm Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:28:09Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — P. aeruginosa biofilm dispersion requires component relocation. STRONG FIT: biofilms + chronic infection + ASM leader."
   },
   {
@@ -7665,10 +7515,8 @@
     "university": "Binghamton University",
     "country": "United States",
     "email": "jschertzer@binghamton.edu",
-    "subject": "Prospective Graduate Student in Outer Membrane Vesicle Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:28:09Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — OprF latch directing OMV release in Pseudomonas. GOOD FIT: OMV biology + cell envelope."
   },
   {
@@ -7677,10 +7525,8 @@
     "university": "Binghamton University",
     "country": "United States",
     "email": "pmckenne@binghamton.edu",
-    "subject": "Prospective Graduate Student in Enterococcus Biofilm Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:28:09Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — E. faecalis biofilm dispersion via nutrient limitation. GOOD FIT: enterococcal pathogenesis + metabolism."
   },
   {
@@ -7689,10 +7535,8 @@
     "university": "University of Texas at Dallas",
     "country": "United States",
     "email": "nicole.denisco@utdallas.edu",
-    "subject": "Prospective Graduate Student in Urobiome and Urinary Tract Infection Research",
-    "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T10:38:05Z",
-    "status": "draft",
+    "status": "not_drafted",
     "notes": "Draft ready — Urobiome dynamics, rUTI pathogenesis, metabolic reprogramming in infected bladder. STRONG FIT: microbiome + host-pathogen metabolism."
   }
 ]
