@@ -6968,8 +6968,10 @@
     "country": "United States",
     "email": "ksondgeroth@uwyo.edu",
     "timestamp": "2026-08-26T06:51:46Z",
-    "status": "not_drafted",
-    "notes": "Draft ready — AMR E. coli from livestock + wildlife (Wyoming State Vet Lab). STRONG FIT: veterinary AMR + DVM + diagnostic microbiology."
+    "status": "draft",
+    "notes": "Draft FINAL v5 2026-08-26: Homepage verified (uwyo.edu news - DVM Colorado State 2006, PhD WSU 2013, veterinary bacteriologist at Wyoming State Vet Lab, Riverbend Endowed Professor of Wildlife-Livestock Health). LAST-author BMC Vet Res 2026 AMR phenotypes paper PMC13085668, full Results read (Table 5 logistic regression). Finding 24w + interpretation: livestock drives environmental AMR. DVM-to-DVM match.",
+    "subject": "Prospective Graduate Student in Livestock and Wildlife Antimicrobial Resistance Research",
+    "dateCreated": "2026-08-26"
   },
   {
     "id": "draft-jblock@uwyo.edu",
