@@ -7598,5 +7598,29 @@
     "timestamp": "2026-08-26T10:23:15Z",
     "status": "draft",
     "notes": "Draft ready — 3D-printed biodegradable antimicrobial films for food packaging. MODERATE FIT: materials chemistry leaning."
+  },
+  {
+    "id": "draft-qiusheng.shi@rochester.edu",
+    "name": "Qiusheng Shi",
+    "university": "University of Rochester",
+    "country": "United States",
+    "email": "qiusheng.shi@rochester.edu",
+    "subject": "Prospective Graduate Student in Bacterial Pathogenesis Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:24:33Z",
+    "status": "draft",
+    "notes": "Draft ready — Mechanical forces in bacterial pathogenesis (sensing, tropism, mechanotransduction). GOOD FIT: pathogenesis + mechanobiology."
+  },
+  {
+    "id": "draft-gowrishankar@urmc.rochester.edu",
+    "name": "Gowrishankar Muthukrishnan",
+    "university": "University of Rochester",
+    "country": "United States",
+    "email": "gowrishankar.muthukrishnan@urmc.rochester.edu",
+    "subject": "Prospective Graduate Student in Staphylococcus aureus Infection Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:24:33Z",
+    "status": "draft",
+    "notes": "Draft ready — S. aureus osteomyelitis T cell dysfunction. GOOD FIT: S. aureus persistence + immunology."
   }
 ]
