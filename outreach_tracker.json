@@ -6754,8 +6754,10 @@
     "country": "United States",
     "email": "dren@syr.edu",
     "timestamp": "2026-08-26T05:41:03Z",
-    "status": "not_drafted",
-    "notes": "Draft ready — Biofilm/persister cell control, antimicrobial biomaterials. 2025 LAST-author AAC paper: compounds 173/175 killed 99.7%/99.2% UPEC biofilm persisters. STRONG FIT: AMR + persisters + biofilms."
+    "status": "draft",
+    "notes": "Draft FINAL v5 format 2026-08-26: homepage verified (ecs.syracuse.edu biofilm/dormancy/persister), LAST-author AAC 2025 PMC12406675, full Results read via EPMC XML. Area-specific wet bacteriology skills. Finding 15w + This shows interpretation.",
+    "subject": "Prospective Graduate Student in Biofilm and Persister Cell Control Research",
+    "dateCreated": "2026-08-26"
   },
   {
     "id": "draft-abrown@lehigh.edu",
