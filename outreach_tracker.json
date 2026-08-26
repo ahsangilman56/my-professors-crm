@@ -6751,5 +6751,17 @@
     "timestamp": "2026-08-26T05:41:03Z",
     "status": "draft",
     "notes": "Draft ready — Biofilm/persister cell control, antimicrobial biomaterials. 2025 LAST-author AAC paper: compounds 173/175 killed 99.7%/99.2% UPEC biofilm persisters. STRONG FIT: AMR + persisters + biofilms."
+  },
+  {
+    "id": "draft-abrown@lehigh.edu",
+    "name": "Angela Brown",
+    "university": "Lehigh University",
+    "country": "United States",
+    "email": "abrown@lehigh.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Drug Delivery Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T05:49:10Z",
+    "status": "draft",
+    "notes": "Draft ready — Bacterial OMVs as antibiotic delivery vehicles, bypassing porin resistance. 2026 LAST-author paper: OMV-encapsulated imipenem effective against MDR isolates. STRONG FIT: AMR + drug delivery + Gram-negative pathogens."
   }
 ]
