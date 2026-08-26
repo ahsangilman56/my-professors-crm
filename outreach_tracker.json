@@ -7135,5 +7135,41 @@
     "timestamp": "2026-08-26T07:02:53Z",
     "status": "draft",
     "notes": "Draft ready — Rapid automated pathogen genomic surveillance workflow. GOOD FIT: diagnostics + bioinformatics."
+  },
+  {
+    "id": "draft-andrew.goodman@yale.edu",
+    "name": "Andrew Goodman",
+    "university": "Yale University",
+    "country": "United States",
+    "email": "andrew.goodman@yale.edu",
+    "subject": "Prospective Graduate Student in Gut Microbiome Population Dynamics Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:06:52Z",
+    "status": "draft",
+    "notes": "Draft ready — Bacteroides thetaiotaomicron effector proteins, gut population spatial structure. 2025 LAST-author paper with single-cell approaches. STRONG FIT: gut commensal biology + effectors."
+  },
+  {
+    "id": "draft-stavroula.hatzios@yale.edu",
+    "name": "Stavroula Hatzios",
+    "university": "Yale University",
+    "country": "United States",
+    "email": "stavroula.hatzios@yale.edu",
+    "subject": "Prospective Graduate Student in Microbial Metabolism and Redox Biology",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:06:52Z",
+    "status": "draft",
+    "notes": "Draft ready — Metabolic cross-feeding of dietary antioxidant ergothioneine, Clostridium symbiosum ergothionases. 2025 LAST-author. GOOD FIT: microbial metabolism + redox."
+  },
+  {
+    "id": "draft-xia.gao@yale.edu",
+    "name": "Xia Gao",
+    "university": "Yale University",
+    "country": "United States",
+    "email": "xia.gao@yale.edu",
+    "subject": "Prospective Graduate Student in Bacterial Secretion Systems and Interspecies Competition",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:06:52Z",
+    "status": "draft",
+    "notes": "Draft ready — Type VI secretion system co-secretion of synergistic effectors. 2025 LAST-author. GOOD FIT: bacterial competition + secretion systems."
   }
 ]
