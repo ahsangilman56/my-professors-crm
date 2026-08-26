@@ -6787,5 +6787,29 @@
     "timestamp": "2026-08-26T06:05:39Z",
     "status": "draft",
     "notes": "Draft ready — Lipid A phosphoethanolamine transferases (PETs), colistin resistance, innate immune recognition. 2024 LAST-author mSphere paper: mcr-1/mcr-3 similar colistin resistance with low fitness cost. STRONG FIT: AMR mechanisms + Gram-negative pathogens + innate immunity."
+  },
+  {
+    "id": "draft-nelsayed@umd.edu",
+    "name": "Najib El-Sayed",
+    "university": "University of Maryland",
+    "country": "United States",
+    "email": "nelsayed@umd.edu",
+    "subject": "Prospective Graduate Student in Host Pathogen Interactions and Genomic Medicine",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:13:26Z",
+    "status": "draft",
+    "notes": "Draft ready — Leishmania antimony resistance + host macrophage transcriptomics. 2025 LAST-author PLOS NTD paper. STRONG FIT: pathogen genomics + host immune profiling."
+  },
+  {
+    "id": "draft-dfouts@som.umaryland.edu",
+    "name": "David Fouts",
+    "university": "University of Maryland",
+    "country": "United States",
+    "email": "dfouts@som.umaryland.edu",
+    "subject": "Prospective Graduate Student in Genomic Approaches to Antimicrobial Resistance",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:13:26Z",
+    "status": "draft",
+    "notes": "Draft ready — Tn-Seq fitness genes across bacterial species, carbapenem-resistant K. pneumoniae. 2025 FIRST-author paper: tatC disruption resensitized K. pneumoniae to ampicillin. STRONG FIT: genomics + AMR + functional genomics."
   }
 ]
