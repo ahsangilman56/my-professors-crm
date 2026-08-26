@@ -7033,13 +7033,15 @@
   },
   {
     "id": "draft-shong5@iit.edu",
-    "name": "Sung Hong",
+    "name": "Seok-Hoon Hong",
     "university": "Illinois Institute of Technology",
     "country": "United States",
     "email": "shong5@iit.edu",
     "timestamp": "2026-08-26T06:54:28Z",
-    "status": "not_drafted",
-    "notes": "Draft ready — Colicin engineering in E. coli, cell-free antimicrobial protein synthesis, biofilm control via synthetic biology. STRONG FIT: AMR + synthetic biology."
+    "status": "draft",
+    "notes": "Draft FINAL v5 2026-08-26: NAME CORRECTED to Seok-Hoon Hong. Homepage verified via jina (hong-lab: synthetic biology + cell-free biology + biofilm engineering at IIT). LAST-author AIChE J 2021 colicin paper PMC9629166, full Results read. 2024 Methods Mol Biol EXCLUDED as methods protocol; 2020 Biotechnol Adv EXCLUDED as review. Finding 27w + interpretation. NOTE: Ceapă EXCLUDED - corresponding email is UNAM Mexico, IIT status unverifiable.",
+    "subject": "Prospective Graduate Student in Synthetic Biology and Biofilm Control Research",
+    "dateCreated": "2026-08-26"
   },
   {
     "id": "draft-cceapa@iit.edu",
