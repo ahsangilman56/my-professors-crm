@@ -6763,5 +6763,29 @@
     "timestamp": "2026-08-26T05:49:10Z",
     "status": "draft",
     "notes": "Draft ready — Bacterial OMVs as antibiotic delivery vehicles, bypassing porin resistance. 2026 LAST-author paper: OMV-encapsulated imipenem effective against MDR isolates. STRONG FIT: AMR + drug delivery + Gram-negative pathogens."
+  },
+  {
+    "id": "draft-wenboma@ucr.edu",
+    "name": "Wenbo Ma",
+    "university": "University of California Riverside",
+    "country": "United States",
+    "email": "wenboma@ucr.edu",
+    "subject": "Prospective Graduate Student in Plant Microbiome and Host Pathogen Interactions",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T05:54:12Z",
+    "status": "draft",
+    "notes": "Draft ready — Huanglongbing pathogen effectors, plant immunity. 2026 LAST-author paper: CsRD21a protease overexpression reduced Las ~10-fold. STRONG FIT: bacterial pathogenesis + host-pathogen."
+  },
+  {
+    "id": "draft-hailingjin@ucr.edu",
+    "name": "Hailing Jin",
+    "university": "University of California Riverside",
+    "country": "United States",
+    "email": "hailingjin@ucr.edu",
+    "subject": "Prospective Graduate Student in Host Pathogen Interactions and Antimicrobial Discovery",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T05:54:12Z",
+    "status": "draft",
+    "notes": "Draft ready — Cross-kingdom RNA, antimicrobial peptide discovery vs Liberibacter. 2025 LAST-author paper: SAMP from finger lime controls HLB+ZCD. STRONG FIT: antimicrobial discovery + host-pathogen RNA biology."
   }
 ]
