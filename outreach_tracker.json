@@ -7195,5 +7195,41 @@
     "timestamp": "2026-08-26T07:09:45Z",
     "status": "draft",
     "notes": "Draft ready — Preterm infant microbiome + bile acid profiles, NEC mechanisms. 2025 LAST-author paper. GOOD FIT: neonatal microbiome."
+  },
+  {
+    "id": "draft-lmarraffini@rockefeller.edu",
+    "name": "Luciano Marraffini",
+    "university": "Rockefeller University",
+    "country": "United States",
+    "email": "lmarraffini@rockefeller.edu",
+    "subject": "Prospective Graduate Student in Bacterial Immunity Systems Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:12:29Z",
+    "status": "draft",
+    "notes": "Draft ready — CRISPR-Cas immunity, TIR-based phage sensing, bacterial defense systems. HHMI investigator. 2025 LAST-author multiple papers. STRONG FIT: bacterial immunity + genomics."
+  },
+  {
+    "id": "draft-vfischetti@rockefeller.edu",
+    "name": "Vincent Fischetti",
+    "university": "Rockefeller University",
+    "country": "United States",
+    "email": "vfischetti@rockefeller.edu",
+    "subject": "Prospective Graduate Student in Enzyme Based Antimicrobial Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:12:29Z",
+    "status": "draft",
+    "notes": "Draft ready — Lysins/lysocins as antimicrobials against P. aeruginosa, acne. 2025 LAST-author 2 papers. STRONG FIT: enzyme antimicrobials vs MDR pathogens."
+  },
+  {
+    "id": "draft-zsong@rockefeller.edu",
+    "name": "Zijun Song",
+    "university": "Rockefeller University",
+    "country": "United States",
+    "email": "zsong@rockefeller.edu",
+    "subject": "Prospective Graduate Student in Gut Microbiome Engineering Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T07:12:29Z",
+    "status": "draft",
+    "notes": "Draft ready — In situ gut microbiota editing for therapeutic efficacy. MODERATE-GOOD FIT: microbiome engineering."
   }
 ]
