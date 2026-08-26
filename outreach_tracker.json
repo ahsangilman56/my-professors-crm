@@ -2190,7 +2190,7 @@
     "replySummary": "",
     "sendAfter": null,
     "replyNote": "Pending draft",
-    "notes": "Pending draft"
+    "notes": "SKIP: Wade Nichols no longer on ISU faculty page; recent publications are different Nichols (pulmonary). Cannot verify identity."
   },
   {
     "id": "prof-1777720000004",
@@ -4807,15 +4807,15 @@
     "university": "University of British Columbia",
     "country": "Canada",
     "email": "bfinlay@msl.ubc.ca",
-    "subject": "",
+    "subject": "Prospective Graduate Student in Gut Microbiome and Mucosal Immunology Research",
     "dateSent": null,
     "timestamp": 1787505172,
-    "status": "not_drafted",
+    "status": "draft",
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
     "replyNote": "Pending draft",
-    "notes": "Pending draft"
+    "notes": "Draft ready — Human milk IgA E. ramosum paper cited"
   },
   {
     "id": "prof-1787505172749",
@@ -4831,7 +4831,7 @@
     "replySummary": "",
     "sendAfter": null,
     "replyNote": "Pending draft",
-    "notes": "Pending draft"
+    "notes": "SKIP: Bhatt identity unverifiable on Europe PMC (different Bhatts in physics/urology)."
   },
   {
     "id": "prof-1787505172750",
@@ -4839,15 +4839,15 @@
     "university": "University of British Columbia",
     "country": "Canada",
     "email": "rachel.fernandez@ubc.ca",
-    "subject": "",
+    "subject": "Prospective Graduate Student in Bacterial Pathogenesis and Host Immune Response",
     "dateSent": null,
     "timestamp": 1787505172,
-    "status": "not_drafted",
+    "status": "draft",
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
     "replyNote": "Pending draft",
-    "notes": "Pending draft"
+    "notes": "Draft ready — Bordetella LPS TLR4 paper cited"
   },
   {
     "id": "prof-1787505172751",
@@ -4863,7 +4863,7 @@
     "replySummary": "",
     "sendAfter": null,
     "replyNote": "Pending draft",
-    "notes": "Pending draft"
+    "notes": "SKIP: Crowe output mixed nursing/geochemistry - cannot confirm microbiology focus. Weak fit."
   },
   {
     "id": "prof-1787505172752",
@@ -5129,15 +5129,15 @@
     "university": "Carleton University",
     "country": "Canada",
     "email": "alex.wong@carleton.ca",
-    "subject": "",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Microbial Genomics",
     "dateSent": null,
     "timestamp": 1787505172,
-    "status": "not_drafted",
+    "status": "draft",
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
     "replyNote": "Pending draft",
-    "notes": "Pending draft"
+    "notes": "Draft ready — Ionophore narAB paper cited"
   },
   {
     "id": "prof-1787505172769",
@@ -5169,7 +5169,7 @@
     "replySummary": "",
     "sendAfter": null,
     "replyNote": "Pending draft",
-    "notes": "Pending draft"
+    "notes": "SKIP: Elsayed recent output all mid-author clinical papers - no qualifying original research as first/last author."
   },
   {
     "id": "prof-1787505172771",
@@ -6481,7 +6481,7 @@
     "replySummary": "",
     "sendAfter": null,
     "replyNote": "Pending draft",
-    "notes": "Pending draft"
+    "notes": "SKIP: Rovira all middle-author recently - no qualifying first/last paper. UMN also in cooldown until Sep 1."
   },
   {
     "id": "prof-1787475953837",
@@ -6679,5 +6679,17 @@
     "notes": "Sent despite U Alberta cooldown (Madsen sent earlier today) - user override. Weak profile match noted.",
     "dateSent": "2026-08-25",
     "replyReceived": false
+  },
+  {
+    "id": "draft-Silvia.Cardona@umanitoba.ca",
+    "name": "Silvia Cardona",
+    "university": "University of Manitoba",
+    "country": "Canada",
+    "email": "Silvia.Cardona@umanitoba.ca",
+    "subject": "Prospective Graduate Student in Antibiotic Discovery and Antimicrobial Resistance",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T05:13:43Z",
+    "status": "draft",
+    "notes": "Draft ready — CRISPRi-seq PTH inhibitor paper cited"
   }
 ]
