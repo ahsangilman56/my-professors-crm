@@ -6820,10 +6820,12 @@
     "name": "André Hudson",
     "university": "Rochester Institute of Technology",
     "country": "United States",
-    "email": "aohbsc@rit.edu",
+    "email": "aohsbi@rit.edu",
     "timestamp": "2026-08-26T06:17:29Z",
-    "status": "not_drafted",
-    "notes": "Draft ready — Environmental AMR surveillance WGS, plant terpenes vs AMR. 2025 LAST-author paper: 7 RIT campus isolates showed diverse resistance patterns. STRONG FIT: AMR + genomics + environment."
+    "status": "draft",
+    "notes": "Draft FINAL v5 2026-08-26: homepage verified via jina (genome sequencing/AMR/peptidoglycan enzymes; now Dean College of Science), LAST-author MRA 2025 campus AMR surveillance paper PMC12243573. Terpene ACS paper EXCLUDED as review. Finding 22w + interpretation. Email corrected to aohsbi@rit.edu.",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance Genomic Surveillance Research",
+    "dateCreated": "2026-08-26"
   },
   {
     "id": "draft-lxmsbi@rit.edu",
