@@ -6979,5 +6979,53 @@
     "timestamp": "2026-08-26T06:31:21Z",
     "status": "draft",
     "notes": "Draft ready — Obstructive sleep apnea + gut microbiota. MODERATE FIT: clinical microbiome."
+  },
+  {
+    "id": "draft-ksondgeroth@uwyo.edu",
+    "name": "Kerry Sondgeroth",
+    "university": "University of Wyoming",
+    "country": "United States",
+    "email": "ksondgeroth@uwyo.edu",
+    "subject": "Prospective Graduate Student in Veterinary Antimicrobial Resistance Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:51:46Z",
+    "status": "draft",
+    "notes": "Draft ready — AMR E. coli from livestock + wildlife (Wyoming State Vet Lab). STRONG FIT: veterinary AMR + DVM + diagnostic microbiology."
+  },
+  {
+    "id": "draft-jblock@uwyo.edu",
+    "name": "Jennifer Block",
+    "university": "University of Wyoming",
+    "country": "United States",
+    "email": "jblock@uwyo.edu",
+    "subject": "Prospective Graduate Student in Reproductive Microbiome and Animal Science Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:51:46Z",
+    "status": "draft",
+    "notes": "Draft ready — Bull reproductive microbiome comparative analysis. GOOD FIT: livestock microbiome + DVM."
+  },
+  {
+    "id": "draft-mislam4@uwyo.edu",
+    "name": "M. A. Islam",
+    "university": "University of Wyoming",
+    "country": "United States",
+    "email": "mislam4@uwyo.edu",
+    "subject": "Prospective Graduate Student in Foodborne Antimicrobial Resistance Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:51:46Z",
+    "status": "draft",
+    "notes": "Draft ready — Foodborne AMR E. coli transmission pathways. STRONG FIT: food safety + AMR + One Health."
+  },
+  {
+    "id": "draft-zli@uwyo.edu",
+    "name": "Zhen Li",
+    "university": "University of Wyoming",
+    "country": "United States",
+    "email": "zli@uwyo.edu",
+    "subject": "Prospective Graduate Student in Bacterial Predation and Alternative Antimicrobial Strategies",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:51:46Z",
+    "status": "draft",
+    "notes": "Draft ready — Bacterial predator-prey interactions as alternative antimicrobial approach. MODERATE FIT: novel antimicrobial strategies."
   }
 ]
