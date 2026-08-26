@@ -7092,8 +7092,10 @@
     "country": "United States",
     "email": "peter_belenky@brown.edu",
     "timestamp": "2026-08-26T07:02:53Z",
-    "status": "not_drafted",
-    "notes": "Draft ready — Antibiotic effects on microbiome metabolism, nutrient availability shapes susceptibility. 2025 LAST-author papers on hemin/iron and amoxicillin. STRONG FIT: antibiotic mechanisms + microbiome."
+    "status": "draft",
+    "notes": "Draft FINAL v5 2026-08-26: Homepage verified (mmi.brown.edu - microbiome/bacteria/fungi response to antimicrobial stress, dysbiosis, tolerance/resistance via high-throughput sequencing; email confirmed). LAST-author Front Microbiol 2025 hemin/amoxicillin ex vivo paper PMC12702856, full Results read. Finding 22w + interpretation: iron metabolism modulates gut antibiotic susceptibility.",
+    "subject": "Prospective Graduate Student in Microbiome Antimicrobial Stress Response Research",
+    "dateCreated": "2026-08-26"
   },
   {
     "id": "draft-anita_shukla@brown.edu",
