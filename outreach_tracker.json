@@ -7063,5 +7063,41 @@
     "timestamp": "2026-08-26T06:54:28Z",
     "status": "draft",
     "notes": "Draft ready — AMP discovery from Clostridium (clostrisin + cellulosin), novel AMR targets. STRONG FIT: antimicrobial discovery."
+  },
+  {
+    "id": "draft-vpetter1@jhmi.edu",
+    "name": "Veronica Pettersen",
+    "university": "Johns Hopkins University",
+    "country": "United States",
+    "email": "vpetter1@jhmi.edu",
+    "subject": "Prospective Graduate Student in Gut Resistome and Early Life Microbiome Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:58:49Z",
+    "status": "draft",
+    "notes": "Draft ready — Gut resistome/mobilome dynamics in early life, ARG enrichment. 2025 LAST-author EBioMedicine meta-analysis + 2023 longitudinal study. STRONG FIT: AMR genes + microbiome."
+  },
+  {
+    "id": "draft-jsuez1@jhmi.edu",
+    "name": "Jonathan Suez",
+    "university": "Johns Hopkins University",
+    "country": "United States",
+    "email": "jsuez1@jhmi.edu",
+    "subject": "Prospective Graduate Student in Microbiome Metabolism and Host Interactions",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:58:49Z",
+    "status": "draft",
+    "notes": "Draft ready — Microbiome metabolite supplementation/elimination for disease treatment, non-nutritive sweeteners on microbiome. GOOD FIT: microbiome metabolism."
+  },
+  {
+    "id": "draft-psimner1@jhmi.edu",
+    "name": "Patricia Simner",
+    "university": "Johns Hopkins University",
+    "country": "United States",
+    "email": "psimner1@jhmi.edu",
+    "subject": "Prospective Graduate Student in Clinical Antimicrobial Resistance Diagnostics",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T06:58:49Z",
+    "status": "draft",
+    "notes": "Draft ready — Novel beta-lactam susceptibility testing, carbapenem-resistant organism environmental reservoirs, aztreonam+avibactam diagnostics. STRONG FIT: clinical AMR diagnostics + AST."
   }
 ]
