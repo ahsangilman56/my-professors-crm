@@ -7658,5 +7658,17 @@
     "timestamp": "2026-08-26T10:25:48Z",
     "status": "draft",
     "notes": "Draft ready — PFAS-driven microbiome reorganization. GOOD FIT: environmental toxicology + microbiome."
+  },
+  {
+    "id": "draft-brett-mckinney@utulsa.edu",
+    "name": "Brett McKinney",
+    "university": "University of Tulsa",
+    "country": "United States",
+    "email": "brett-mckinney@utulsa.edu",
+    "subject": "Prospective Graduate Student in Computational Infectious Disease Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:26:45Z",
+    "status": "draft",
+    "notes": "Draft ready — Disease co-infection dynamic optimization, bacterial growth resource allocation modeling. MODERATE FIT: computational biology. Skipped Gaur/Ali (crop viruses per no-crop rule). Tulsa has very limited microbiology."
   }
 ]
