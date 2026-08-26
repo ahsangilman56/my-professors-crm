@@ -6691,5 +6691,41 @@
     "timestamp": "2026-08-26T05:13:43Z",
     "status": "draft",
     "notes": "Draft ready — CRISPRi-seq PTH inhibitor paper cited"
+  },
+  {
+    "id": "not_drafted-adutta@udel.edu",
+    "name": "Anupa Dutta",
+    "university": "University of Delaware",
+    "country": "United States",
+    "email": "adutta@udel.edu",
+    "subject": "",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T05:34:02Z",
+    "status": "not_drafted",
+    "notes": "Poultry reproductive microbiome, laying hen performance, transcriptomics. 2025 LAST-author paper on layer hen microbiome. STRONG FIT: poultry + microbiome + DVM overlap."
+  },
+  {
+    "id": "not_drafted-brannick@udel.edu",
+    "name": "Erin Brannick",
+    "university": "University of Delaware",
+    "country": "United States",
+    "email": "brannick@udel.edu",
+    "subject": "",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T05:34:02Z",
+    "status": "not_drafted",
+    "notes": "Poultry health, heat stress, pathology. 2026 LAST-author paper. DVM-adjacent field."
+  },
+  {
+    "id": "not_drafted-jkan@udel.edu",
+    "name": "Jinjun Kan",
+    "university": "University of Delaware",
+    "country": "United States",
+    "email": "jkan@udel.edu",
+    "subject": "",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T05:34:02Z",
+    "status": "not_drafted",
+    "notes": "Environmental microbiome, riparian ecology. Moderate fit - environmental rather than clinical AMR."
   }
 ]
