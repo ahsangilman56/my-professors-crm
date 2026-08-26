@@ -595,12 +595,13 @@
     "country": "Germany",
     "email": "annemarie.kaesbohrer@bfr.bund.de",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_frank.pessler@twincore.de",
@@ -609,12 +610,13 @@
     "country": "Germany",
     "email": "frank.pessler@twincore.de",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_r.straubinger@lmu.de",
@@ -623,12 +625,13 @@
     "country": "Germany",
     "email": "r.straubinger@lmu.de",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_dennis.nurjadi@uni-luebeck.de",
@@ -637,12 +640,13 @@
     "country": "Germany",
     "email": "dennis.nurjadi@uni-luebeck.de",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_wliebl@wzw.tum.de",
@@ -651,12 +655,13 @@
     "country": "Germany",
     "email": "wliebl@wzw.tum.de",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_dobrindt@uni-muenster.de",
@@ -665,12 +670,13 @@
     "country": "Germany",
     "email": "dobrindt@uni-muenster.de",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_charles.lee@waikato.ac.nz",
@@ -833,12 +839,13 @@
     "country": "Germany",
     "email": "trinad.chakraborty@mikrobio.med.uni-giessen.de",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_heinrich.neubauer@fli.de",
@@ -847,12 +854,13 @@
     "country": "Germany",
     "email": "heinrich.neubauer@fli.de",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_l.j.v.piddock@bham.ac.uk",
@@ -1860,12 +1868,13 @@
     "country": "Germany",
     "email": "stefan.schwarz@fu-berlin.de",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_christoph.baums@vetmed.uni-leipzig.de",
@@ -1874,12 +1883,13 @@
     "country": "Germany",
     "email": "christoph.baums@vetmed.uni-leipzig.de",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_kathrin.valentin-weigand@tiho-hannover.de",
@@ -1888,12 +1898,13 @@
     "country": "Germany",
     "email": "kathrin.valentin-weigand@tiho-hannover.de",
     "subject": "",
-    "status": "draft",
-    "dateSent": null,
+    "status": "sent",
+    "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready — send after cooldown",
+    "replyReceived": false
   },
   {
     "id": "draft_charlotte.alster@lincoln.ac.nz",
