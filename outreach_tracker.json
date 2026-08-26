@@ -6944,10 +6944,12 @@
     "name": "EF Castillo",
     "university": "University of New Mexico",
     "country": "United States",
-    "email": "efcastillo@salud.unm.edu",
+    "email": "ECastillo@salud.unm.edu",
     "timestamp": "2026-08-26T06:31:21Z",
-    "status": "not_drafted",
-    "notes": "Draft ready — Gut-liver metabolic remodeling, enterohormonal changes. GOOD FIT: microbiome-metabolism + clinical."
+    "status": "draft",
+    "notes": "Draft FINAL v5 2026-08-26: Homepage verified (hsc.unm.edu + mgm.unm.edu - gut-liver axis, enteroendocrine, mucosal immunology; email ECastillo@salud.unm.edu confirmed). LAST-author Metabolism 2026 MASLD-to-MASH paper (10.1016/j.metabol.2026.156652, PMC13387142), full Results read. Finding 28w + interpretation: MASH loses enteroendocrine feedback. Bradfute EXCLUDED as virologist (wrong fit).",
+    "subject": "Prospective Graduate Student in Gut Liver Axis and Metabolic Disease Research",
+    "dateCreated": "2026-08-26"
   },
   {
     "id": "draft-jonalcock@unm.edu",
