@@ -7502,5 +7502,53 @@
     "timestamp": "2026-08-26T10:16:05Z",
     "status": "draft",
     "notes": "Draft ready — Veterinary diagnostic microbiology, small ruminant health. DVM+PhD. GOOD FIT: veterinary microbiology + DVM background. Limited EPMC indexing at UMaine."
+  },
+  {
+    "id": "draft-mahmoud.ghannoum@case.edu",
+    "name": "Mahmoud Ghannoum",
+    "university": "Case Western Reserve University",
+    "country": "United States",
+    "email": "mahmoud.ghannoum@case.edu",
+    "subject": "Prospective Graduate Student in Mycobiome and Antimicrobial Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:19:06Z",
+    "status": "draft",
+    "notes": "Draft ready — Candida auris chloramine antiseptic decolonization. STRONG FIT: mycobiome pioneer + antifungal/antimicrobial research."
+  },
+  {
+    "id": "draft-jan.claesen@case.edu",
+    "name": "Jan Claesen",
+    "university": "Case Western Reserve University",
+    "country": "United States",
+    "email": "jan.claesen@case.edu",
+    "subject": "Prospective Graduate Student in Bacterial Metabolism and Microbiome Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:19:06Z",
+    "status": "draft",
+    "notes": "Draft ready — E. coli aryl polyene expression under oxidative stress, sensitization mechanism. STRONG FIT: bacterial metabolism + microbiome chemistry."
+  },
+  {
+    "id": "draft-thaddeus.stappenbeck@case.edu",
+    "name": "Thaddeus Stappenbeck",
+    "university": "Case Western Reserve University",
+    "country": "United States",
+    "email": "thaddeus.stappenbeck@case.edu",
+    "subject": "Prospective Graduate Student in Mucosal Immunology and Microbiome Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:19:06Z",
+    "status": "draft",
+    "notes": "Draft ready — HIL1 strain-level adhesion + immune recognition, gut mucosal biology. STRONG FIT: commensal-host interactions + IBD."
+  },
+  {
+    "id": "draft-elie.saade@uhhospitals.org",
+    "name": "Elie Saade",
+    "university": "Case Western Reserve University",
+    "country": "United States",
+    "email": "elie.saade@uhhospitals.org",
+    "subject": "Prospective Graduate Student in Genomic Epidemiology Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:19:06Z",
+    "status": "draft",
+    "notes": "Draft ready — WGS outbreak investigation source tracking. GOOD FIT: genomic epidemiology + clinical infectious disease."
   }
 ]
