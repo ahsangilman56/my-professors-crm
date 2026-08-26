@@ -7622,5 +7622,41 @@
     "timestamp": "2026-08-26T10:24:33Z",
     "status": "draft",
     "notes": "Draft ready — S. aureus osteomyelitis T cell dysfunction. GOOD FIT: S. aureus persistence + immunology."
+  },
+  {
+    "id": "draft-cody.black@wayne.edu",
+    "name": "Cody Black",
+    "university": "Wayne State University",
+    "country": "United States",
+    "email": "cody.black@wayne.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance Data Science Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:25:48Z",
+    "status": "draft",
+    "notes": "Draft ready — ClinicalTrials.gov AMR diagnostic landscape mapping. MODERATE FIT: data science + AMR policy."
+  },
+  {
+    "id": "draft-aktham.mestareehi@wayne.edu",
+    "name": "Aktham Mestareehi",
+    "university": "Wayne State University",
+    "country": "United States",
+    "email": "aktham.mestareehi@wayne.edu",
+    "subject": "Prospective Graduate Student in Veterinary Pharmacology Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:25:48Z",
+    "status": "draft",
+    "notes": "Draft ready — PK/PD modeling of ceftiofur (veterinary cephalosporin). STRONG DVM FIT: veterinary antimicrobial stewardship."
+  },
+  {
+    "id": "draft-markbrown@wayne.edu",
+    "name": "J. Mark Brown",
+    "university": "Wayne State University",
+    "country": "United States",
+    "email": "markbrown@wayne.edu",
+    "subject": "Prospective Graduate Student in Microbiome Environmental Health Research",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T10:25:48Z",
+    "status": "draft",
+    "notes": "Draft ready — PFAS-driven microbiome reorganization. GOOD FIT: environmental toxicology + microbiome."
   }
 ]
