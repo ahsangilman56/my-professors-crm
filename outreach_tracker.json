@@ -7310,5 +7310,17 @@
     "timestamp": "2026-08-26T09:56:42Z",
     "status": "draft",
     "notes": "Draft ready — Campylobacter jejuni flagellar filament length and colonization. STRONG FIT: foodborne pathogen + veterinary relevance (Campylobacter is major poultry pathogen)."
+  },
+  {
+    "id": "skipped-cshl",
+    "name": "Cold Spring Harbor Laboratory [SKIPPED]",
+    "university": "Cold Spring Harbor Laboratory",
+    "country": "United States",
+    "email": "",
+    "subject": "",
+    "dateCreated": "2026-08-26",
+    "timestamp": "2026-08-26T09:58:50Z",
+    "status": "skipped",
+    "notes": "SKIP — CSHL has no active microbiology/AMR programs. Primary focus is cancer/neuroscience/genomics. No qualifying professors identified."
   }
 ]
