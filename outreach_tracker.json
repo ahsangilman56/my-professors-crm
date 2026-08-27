@@ -625,13 +625,15 @@
     "country": "Germany",
     "email": "r.straubinger@lmu.de",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyNote": "Rejected - no capacity",
+    "replyReceived": true,
+    "replySummary": "No capacities to take on another researcher",
+    "replyDate": "2026-08-26"
   },
   {
     "id": "draft_dennis.nurjadi@uni-luebeck.de",
@@ -869,13 +871,15 @@
     "country": "UK",
     "email": "l.j.v.piddock@bham.ac.uk",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyNote": "Rejected - retired",
+    "replyReceived": true,
+    "replySummary": "Retired, laboratory closed, no longer host PhD students",
+    "replyDate": "2026-08-26"
   },
   {
     "id": "draft_timothy.walsh@biology.ox.ac.uk",
@@ -899,13 +903,15 @@
     "country": "UK",
     "email": "jp369@cam.ac.uk",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyNote": "Rejected - retiring soon",
+    "replyReceived": true,
+    "replySummary": "Winding down group for retirement in couple years",
+    "replyDate": "2026-08-26"
   },
   {
     "id": "draft_dgally@ed.ac.uk",
@@ -959,13 +965,15 @@
     "country": "UK",
     "email": "a.j.oneill@leeds.ac.uk",
     "subject": "",
-    "status": "sent",
+    "status": "replied - positive",
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyNote": "POSITIVE - interested but funding dependent",
+    "replyReceived": true,
+    "replySummary": "Keen to welcome motivated PhD students; perennial issue is funding",
+    "replyDate": "2026-08-26"
   },
   {
     "id": "draft_christopher.stewart@ncl.ac.uk",
@@ -1034,13 +1042,15 @@
     "country": "UK",
     "email": "t.darton@sheffield.ac.uk",
     "subject": "",
-    "status": "sent",
+    "status": "replied - auto-reply",
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyNote": "Auto-reply - away until Sept 1",
+    "replyReceived": true,
+    "replySummary": "On carers leave until September 1st",
+    "replyDate": "2026-08-26"
   },
   {
     "id": "draft_christine.dodd@nottingham.ac.uk",
@@ -1049,13 +1059,15 @@
     "country": "UK",
     "email": "christine.dodd@nottingham.ac.uk",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyNote": "Rejected - wrong professor cited",
+    "replyReceived": true,
+    "replySummary": "Confused with another researcher (Claire E Dodd)",
+    "replyDate": "2026-08-26"
   },
   {
     "id": "draft_mvm198@soton.ac.uk",
@@ -1422,12 +1434,15 @@
     "country": "Australia",
     "email": "bhowden@unimelb.edu.au",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "replyNote": "Rejected - no capacity",
+    "replyReceived": true,
+    "replySummary": "Not accepting new PhD or Master's students",
+    "replyDate": "2026-08-27"
   },
   {
     "id": "draft_erick.motta@ag.tamu.edu",
@@ -1452,17 +1467,17 @@
     "country": "USA",
     "email": "mannin71@msu.edu",
     "subject": "",
-    "status": "replied - positive",
+    "status": "replied - rejected",
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "sendAfter": "2026-08-27",
     "note": "Hold until 2026-08-27 - same-university send cooldown",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Rejected - program structure limitation",
     "replyReceived": true,
     "replyDate": "2026-08-25",
-    "replySummary": "Cannot admit directly; interviews students after BMS PhD program acceptance. Sent thank-you reply in thread."
+    "replySummary": "Cannot directly admit students; interviews after BMS acceptance"
   },
   {
     "id": "draft_wangche@auburn.edu",
@@ -1630,10 +1645,10 @@
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "replied - auto-reply 2026-08-25: Intermittent email access until Aug 30, 2026",
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Auto-reply - intermittent access",
     "replyReceived": true,
     "replyDate": "2026-08-25",
-    "replySummary": "Intermittent email access until Aug 30, 2026"
+    "replySummary": "Intermittent email access until August 30, 2026"
   },
   {
     "id": "draft_joergoverhage@cunet.carleton.ca",
@@ -1647,10 +1662,10 @@
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "replied - rejected 2026-08-25: All 2027 spots filled; not taking students",
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Rejected - spots filled",
     "replyReceived": true,
     "replyDate": "2026-08-25",
-    "replySummary": "All 2027 spots filled; not taking students"
+    "replySummary": "All spots filled for 2027"
   },
   {
     "id": "draft_surette@mcmaster.ca",
@@ -1664,10 +1679,10 @@
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "replied - rejected 2026-08-25: No additional positions available for coming year",
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Rejected - no openings",
     "replyReceived": true,
     "replyDate": "2026-08-25",
-    "replySummary": "No additional positions available for coming year"
+    "replySummary": "No additional positions for coming year"
   },
   {
     "id": "draft_kmadsen@ualberta.ca",
@@ -1726,10 +1741,10 @@
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "replied - auto-reply 2026-08-25: On vacation (newborn), limited email access until return",
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Auto-reply - vacation",
     "replyReceived": true,
     "replyDate": "2026-08-25",
-    "replySummary": "On vacation (newborn), limited email access until return"
+    "replySummary": "Vacation with limited/no email access until newborn wrangled"
   },
   {
     "id": "draft_meghan.azad@umanitoba.ca",
@@ -1743,7 +1758,7 @@
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "replied - rejected 2026-08-25: Not accepting new students at this time",
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Rejected - no openings",
     "replyReceived": true,
     "replyDate": "2026-08-25",
     "replySummary": "Not accepting new students at this time"
@@ -1868,13 +1883,15 @@
     "country": "Germany",
     "email": "stefan.schwarz@fu-berlin.de",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyNote": "Rejected - retiring",
+    "replyReceived": true,
+    "replySummary": "Will retire soon",
+    "replyDate": "2026-08-26"
   },
   {
     "id": "draft_christoph.baums@vetmed.uni-leipzig.de",
@@ -2091,7 +2108,7 @@
     "replyReceived": true,
     "replySummary": "Not looking for further candidates for next intakes",
     "sendAfter": null,
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Rejected - no openings",
     "notes": "No action needed. Illinois State still has other candidates (Nichols not yet contacted) - cooldown lifted by this rejection.",
     "replyDate": "2026-08-25"
   },
@@ -2748,7 +2765,7 @@
     "replyReceived": true,
     "replySummary": "No openings in lab",
     "sendAfter": null,
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Rejected - no openings",
     "notes": "No action needed. MSU is now LOCKED anyway (Manning positive reply). Kaneene sent same day - awaiting his response.",
     "replyDate": "2026-08-25"
   },
@@ -4841,12 +4858,13 @@
     "subject": "Prospective Graduate Student in Gut Microbiome and Mucosal Immunology Research",
     "dateSent": "2026-08-26",
     "timestamp": 1787505172,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Retired",
     "sendAfter": null,
-    "replyNote": "Pending draft",
-    "notes": "Draft ready — Human milk IgA E. ramosum paper cited"
+    "replyNote": "Rejected - retired",
+    "notes": "Draft ready — Human milk IgA E. ramosum paper cited",
+    "replyDate": "2026-08-26"
   },
   {
     "id": "prof-1787505172749",
@@ -4989,7 +5007,7 @@
     "replyReceived": true,
     "replySummary": "No positions available",
     "sendAfter": null,
-    "replyNote": "Pending draft",
+    "replyNote": "Rejected - no openings",
     "notes": "No action needed. SFU cooldown lifted; Saravanamuthu email in CRM is invalid (djgreen@sfu.ca mismatch) - fix before any new draft.",
     "replyDate": "2026-08-25"
   },
@@ -5148,9 +5166,9 @@
     "timestamp": 1787505172,
     "status": "replied - positive",
     "replyReceived": true,
-    "replySummary": "Interested! Asked for more background info + transcripts; questioned 5+ year DVM duration. NEEDS FOLLOW-UP REPLY with transcripts",
+    "replySummary": "Asked for more background, transcripts; noted DVM duration question",
     "sendAfter": null,
-    "replyNote": "Pending draft",
+    "replyNote": "POSITIVE - requested more info",
     "notes": "ACTION NEEDED: Reply with background summary + transcripts + explain DVM duration (5-year professional degree in Bangladesh, standard at GAU). Strong lead - respond ASAP.",
     "replyDate": "2026-08-25"
   },
@@ -7082,12 +7100,15 @@
     "country": "United States",
     "email": "psimner1@jhmi.edu",
     "timestamp": "2026-08-26T06:58:49Z",
-    "status": "sent",
+    "status": "replied - auto-reply",
     "notes": "Draft FINAL v5 2026-08-26: Homepage verified (Scholar verified email jhmi.edu; ASM bio; SimnerLab - Director Medical Bacteriology & Infectious Disease Sequencing Labs JHU). LAST-author JAC Antimicrob Resist 2025 CRE resistome paper PMC12392892, full Results read. Finding 27w + interpretation. PETTERSEN REPLACED as primary target: her primary affiliation is UiT Norway (email veronika.k.pettersen@uit.no), JHU only secondary affiliation #7.",
     "subject": "Prospective Graduate Student in Resistome and Carbapenem Resistance Research",
     "dateCreated": "2026-08-26",
     "dateSent": "2026-08-26",
-    "replyReceived": false
+    "replyReceived": true,
+    "replySummary": "Email no longer attended, new email: simner.patricia@mayo.edu",
+    "replyDate": "2026-08-26",
+    "replyNote": "Auto-reply with new contact"
   },
   {
     "id": "draft-peter_belenky@brown.edu",
