@@ -2396,5 +2396,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439111",
+    "name": "Robyn Barbato",
+    "university": "University of New Hampshire",
+    "country": "USA",
+    "email": "robyn.barbato@unh.edu",
+    "subject": "Prospective Graduate Student in Environmental Microbiome and Climate-AMR Research",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439111,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
