@@ -2383,5 +2383,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439110",
+    "name": "Anup Kollanoor-Johny",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "email": "anupjohn@umn.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Microbiome Research",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439110,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
