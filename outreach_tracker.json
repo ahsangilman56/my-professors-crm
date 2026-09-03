@@ -2240,5 +2240,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439092",
+    "name": "Seok-Hoon Hong",
+    "university": "Illinois Institute of Technology",
+    "country": "USA",
+    "email": "shong5@iit.edu",
+    "subject": "Prospective Graduate Student in Synthetic Biology and Biofilm Control Research",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439092,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
