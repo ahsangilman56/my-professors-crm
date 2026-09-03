@@ -2266,5 +2266,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439096",
+    "name": "Sonny T.M. Lee",
+    "university": "Kansas State University",
+    "country": "USA",
+    "email": "leet1@ksu.edu",
+    "subject": "Prospective Graduate Student in Microbial Ecology and Metagenomics Research",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439096,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
