@@ -2318,5 +2318,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439102",
+    "name": "Vincent Fischetti",
+    "university": "Rockefeller University",
+    "country": "USA",
+    "email": "vfischetti@rockefeller.edu",
+    "subject": "Prospective Graduate Student in Antimicrobial Therapeutics and Protein Engineering",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439102,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
