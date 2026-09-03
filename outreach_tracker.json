@@ -2370,5 +2370,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439108",
+    "name": "Todd Callaway",
+    "university": "University of Georgia",
+    "country": "USA",
+    "email": "todd.callaway@uga.edu",
+    "subject": "Prospective Graduate Student in Rumen Microbiology and Preharvest Food Safety",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439108,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
