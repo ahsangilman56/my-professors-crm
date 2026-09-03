@@ -2827,5 +2827,35 @@
     "replySummary": "",
     "notes": "Associate Professor | Official Johns Hopkins University faculty portal verified | Bacterial population changes during infection, host immune response and pathogen adaptation",
     "source": "https://publichealth.jhu.edu/faculty/3543/kimberly-m-davis"
+  },
+  {
+    "id": "prof-1788456776001",
+    "name": "Dylan Shropshire",
+    "university": "Lehigh University",
+    "country": "USA",
+    "email": "dys222@lehigh.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788456776,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor | Official Lehigh University Biological Sciences faculty portal verified | Microbiome, symbiosis, host biology, and evolutionary ecology",
+    "source": "https://bio.cas.lehigh.edu/faculty-staff/dylan-shropshire"
+  },
+  {
+    "id": "prof-1788456776003",
+    "name": "Vassie Ware",
+    "university": "Lehigh University",
+    "country": "USA",
+    "email": "vcw0@lehigh.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788456776,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Professor | Official Lehigh University Biological Sciences faculty portal verified | Phage biology, functional genomics, phage resistant bacterial strains, and biotechnology",
+    "source": "https://bio.cas.lehigh.edu/faculty-staff/vassie-ware"
   }
 ]
