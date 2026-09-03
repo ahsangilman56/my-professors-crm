@@ -2279,5 +2279,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439097",
+    "name": "Caroline Turner",
+    "university": "Loyola University Chicago",
+    "country": "USA",
+    "email": "cturner9@luc.edu",
+    "subject": "Prospective Graduate Student in Bacterial Evolution and Antibiotic Resistance",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439097,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
