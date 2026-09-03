@@ -2292,5 +2292,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439099",
+    "name": "Greg Habing",
+    "university": "Ohio State University",
+    "country": "USA",
+    "email": "habing.4@osu.edu",
+    "subject": "Prospective Graduate Student in Salmonella Surveillance and Dairy Epidemiology",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439099,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
