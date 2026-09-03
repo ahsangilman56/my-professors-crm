@@ -2344,5 +2344,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439105",
+    "name": "Jolene Ramsey",
+    "university": "Texas A&M University",
+    "country": "USA",
+    "email": "jolenerr@tamu.edu",
+    "subject": "Prospective Graduate Student in Bacteriophage Research and Phage Therapy",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439105,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
