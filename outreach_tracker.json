@@ -2253,5 +2253,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439094",
+    "name": "Melha Mellata",
+    "university": "Iowa State University",
+    "country": "USA",
+    "email": "mmellata@iastate.edu",
+    "subject": "Prospective Graduate Student in Bacterial Genomics and Gut Microbiome Research",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439094,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
