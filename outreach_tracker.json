@@ -2227,5 +2227,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439091",
+    "name": "Mark Forsyth",
+    "university": "College of William and Mary",
+    "country": "USA",
+    "email": "mhfors@wm.edu",
+    "subject": "Prospective Graduate Student in Bacterial Pathogenesis and Host Pathogen Interactions",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439091,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
