@@ -2305,5 +2305,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439100",
+    "name": "Udaya DeSilva",
+    "university": "Oklahoma State University",
+    "country": "USA",
+    "email": "udaya.desilva@okstate.edu",
+    "subject": "Prospective Graduate Student in Animal Microbiome and Metagenomics Research",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439100,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
