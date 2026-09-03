@@ -2409,5 +2409,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "prof-1788455114",
+    "name": "Katherine Siddle",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "katherine_siddle@brown.edu",
+    "subject": "Prospective Graduate Student in Pathogen Genomics and Epidemiology",
+    "dateSent": "",
+    "timestamp": 1788455114,
+    "status": "draft",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
