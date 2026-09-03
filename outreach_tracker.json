@@ -2357,5 +2357,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439107",
+    "name": "Monica Embers",
+    "university": "Tulane University",
+    "country": "USA",
+    "email": "members@tulane.edu",
+    "subject": "Prospective Graduate Student in Infectious Diseases and Antimicrobial Therapy",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439107,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
