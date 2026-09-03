@@ -2331,5 +2331,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1788439104",
+    "name": "Mostafa Rahnama",
+    "university": "Tennessee Technological University",
+    "country": "USA",
+    "email": "mrahnama@tntech.edu",
+    "subject": "Prospective Graduate Student in Fungal Genomics and Evolution",
+    "dateSent": "2026-09-03",
+    "timestamp": 1788439104,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
