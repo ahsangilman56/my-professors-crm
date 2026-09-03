@@ -3172,5 +3172,50 @@
     "replySummary": "",
     "notes": "Professor | Official RIT portal verified | Bacterial genomics, quorum sensing, grape crown gall disease, and whole genome sequencing",
     "source": "https://www.rit.edu/directory/massbi-michael-savka"
+  },
+  {
+    "id": "prof-1788458234616",
+    "name": "Vance McCracken",
+    "university": "Southern Illinois University Edwardsville",
+    "country": "USA",
+    "email": "vmccrac@siue.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788458234,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Associate Professor | Official SIUE portal verified | Gastrointestinal microbiology, mucosal immunology, Helicobacter pylori, enterohepatic Helicobacter species, inflammatory bowel disease, and antimicrobial compounds",
+    "source": "https://www.siue.edu/arts-and-sciences/biological-sciences/meet-the-team/mccracken.shtml"
+  },
+  {
+    "id": "prof-1788458234618",
+    "name": "Susanne DiSalvo",
+    "university": "Southern Illinois University Edwardsville",
+    "country": "USA",
+    "email": "sdisalv@siue.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788458234,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Associate Professor | Official SIUE portal verified | Host symbiont interactions, social amoeba Dictyostelium as model for bacterial symbionts, Burkholderia, and bacteriophages",
+    "source": "https://www.siue.edu/artsandsciences/biology/sdisalv/"
+  },
+  {
+    "id": "prof-1788458234620",
+    "name": "Tom Anderson",
+    "university": "Southern Illinois University Edwardsville",
+    "country": "USA",
+    "email": "thander@siue.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788458234,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Associate Professor | Official SIUE portal verified | Population and community ecology, species interactions, and aquatic ecology",
+    "source": "https://www.siue.edu/arts-and-sciences/biological-sciences/meet-the-team/"
   }
 ]
