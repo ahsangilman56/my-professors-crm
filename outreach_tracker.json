@@ -222,8 +222,8 @@
     "replyReceived": true,
     "replySummary": "Away until Aug 25; auto-reply with delayed response notice",
     "replyDate": "2026-08-20",
-    "replyNote": "Auto-reply only — watch inbox",
-    "notes": "Auto-reply only — watch inbox"
+    "replyNote": "Auto-reply only \u2014 watch inbox",
+    "notes": "Auto-reply only \u2014 watch inbox"
   },
   {
     "id": "mail-1787233188",
@@ -424,8 +424,8 @@
     "replyReceived": false,
     "replySummary": "",
     "replyDate": "2026-08-20",
-    "replyNote": "Positive reply — interested in lab",
-    "notes": "Positive reply — interested in lab"
+    "replyNote": "Positive reply \u2014 interested in lab",
+    "notes": "Positive reply \u2014 interested in lab"
   },
   {
     "id": "mail-1787393548-tiedjej",
@@ -440,8 +440,8 @@
     "replyReceived": true,
     "replyDate": "2026-08-21",
     "replySummary": "I'm sorry but I'm retired.",
-    "notes": "Retired — do not contact",
-    "replyNote": "Retired — do not contact"
+    "notes": "Retired \u2014 do not contact",
+    "replyNote": "Retired \u2014 do not contact"
   },
   {
     "id": "draft_wbeauvai@purdue.edu",
@@ -555,8 +555,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -570,8 +570,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -585,8 +585,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -600,8 +600,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -615,7 +615,7 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
     "replyNote": "Rejected - no capacity",
     "replyReceived": true,
     "replySummary": "No capacities to take on another researcher",
@@ -632,8 +632,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -647,8 +647,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -662,8 +662,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -677,8 +677,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -692,8 +692,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -707,7 +707,7 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
     "replyNote": "Rejected - retired",
     "replyReceived": true,
     "replySummary": "Retired, laboratory closed, no longer host PhD students",
@@ -724,8 +724,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -739,7 +739,7 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
     "replyNote": "Rejected - retiring soon",
     "replyReceived": true,
     "replySummary": "Winding down group for retirement in couple years",
@@ -756,8 +756,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -771,8 +771,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -786,8 +786,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -801,7 +801,7 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
     "replyNote": "POSITIVE - interested but funding dependent",
     "replyReceived": true,
     "replySummary": "Keen to welcome motivated PhD students; perennial issue is funding",
@@ -818,8 +818,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -833,8 +833,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -848,8 +848,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -863,8 +863,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -878,7 +878,7 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
     "replyNote": "Auto-reply - away until Sept 1",
     "replyReceived": true,
     "replySummary": "On carers leave until September 1st",
@@ -895,7 +895,7 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
     "replyNote": "Rejected - wrong professor cited",
     "replyReceived": true,
     "replySummary": "Confused with another researcher (Claire E Dodd)",
@@ -912,8 +912,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -927,8 +927,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -942,8 +942,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -957,8 +957,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -972,8 +972,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -987,8 +987,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -1002,8 +1002,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -1017,8 +1017,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "draft_anna.walduck@rmit.edu.au",
@@ -1032,7 +1032,7 @@
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Replied 2026-08-25: no funding for new students; advised advertised project + scholarship route",
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": true,
     "replyDate": "2026-08-25",
     "replySummary": "no funding for new students; advised advertised project + scholarship route"
@@ -1048,8 +1048,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "draft_david.lynn@flinders.edu.au",
@@ -1063,7 +1063,7 @@
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Replied 2026-08-25: not taking new PhD students",
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": true,
     "replyDate": "2026-08-25",
     "replySummary": "not taking new PhD students"
@@ -1079,8 +1079,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "draft_olumide.odeyemi@utas.edu.au",
@@ -1093,8 +1093,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "draft_d.williamson@griffith.edu.au",
@@ -1107,8 +1107,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "draft_l.marques@latrobe.edu.au",
@@ -1121,8 +1121,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "draft_simon.chen@qut.edu.au",
@@ -1135,8 +1135,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "draft_philip.hansbro@uts.edu.au",
@@ -1149,8 +1149,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "draft_martyn.kirk@anu.edu.au",
@@ -1164,7 +1164,7 @@
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Replied 2026-08-25: not taking students",
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": true,
     "replyDate": "2026-08-25",
     "replySummary": "not taking students"
@@ -1181,7 +1181,7 @@
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Replied 2026-08-25: just retired",
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": true,
     "replyDate": "2026-08-25",
     "replySummary": "just retired"
@@ -1197,8 +1197,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "draft_anton.peleg@monash.edu",
@@ -1211,8 +1211,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "draft_m.schembri@uq.edu.au",
@@ -1226,7 +1226,7 @@
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Replied 2026-08-25: no suitable position available in lab",
-    "replyNote": "Draft ready — send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": true,
     "replyDate": "2026-08-25",
     "replySummary": "no suitable position available in lab"
@@ -1242,8 +1242,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown"
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "draft_bhowden@unimelb.edu.au",
@@ -1256,7 +1256,7 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
     "replyNote": "Rejected - no capacity",
     "replyReceived": true,
     "replySummary": "Not accepting new PhD or Master's students",
@@ -1275,7 +1275,7 @@
     "timestamp": "2026-08-23T12:18:16Z",
     "sendAfter": "2026-08-27",
     "note": "Hold until 2026-08-27 - same-university send cooldown",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
     "replyNote": "Rejected - program structure limitation",
     "replyReceived": true,
     "replyDate": "2026-08-25",
@@ -1307,8 +1307,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false,
     "replySummary": "BOUNCE 2026-08-25: Bounced: Access denied (Outlook/UBC). Email undeliverable"
   },
@@ -1323,8 +1323,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -1338,8 +1338,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -1353,8 +1353,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -1419,8 +1419,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -1434,8 +1434,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -1449,8 +1449,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -1498,8 +1498,8 @@
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -1513,7 +1513,7 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
     "replyNote": "Rejected - retiring",
     "replyReceived": true,
     "replySummary": "Will retire soon",
@@ -1530,8 +1530,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -1545,8 +1545,8 @@
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown",
+    "replyNote": "Draft ready \u2014 send after cooldown",
     "replyReceived": false
   },
   {
@@ -1595,8 +1595,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready — send after cooldown",
-    "notes": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready \u2014 send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "prof-1777800000005",
@@ -1627,8 +1627,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready — send after cooldown",
-    "notes": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready \u2014 send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "prof-1777800000037",
@@ -1643,8 +1643,8 @@
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": "Draft ready — send after cooldown",
-    "notes": "Draft ready — send after cooldown"
+    "replyNote": "Draft ready \u2014 send after cooldown",
+    "notes": "Draft ready \u2014 send after cooldown"
   },
   {
     "id": "prof-1777800000042",
@@ -1725,7 +1725,7 @@
     "replySummary": "Retired",
     "sendAfter": null,
     "replyNote": "Rejected - retired",
-    "notes": "Draft ready — Human milk IgA E. ramosum paper cited",
+    "notes": "Draft ready \u2014 Human milk IgA E. ramosum paper cited",
     "replyDate": "2026-08-26"
   },
   {
@@ -1776,7 +1776,7 @@
     "replySummary": "",
     "sendAfter": null,
     "replyNote": "Pending draft",
-    "notes": "Draft ready — Ionophore narAB paper cited"
+    "notes": "Draft ready \u2014 Ionophore narAB paper cited"
   },
   {
     "id": "prof-1787505172771",
@@ -2013,7 +2013,7 @@
     "dateCreated": "2026-08-26",
     "timestamp": "2026-08-26T05:13:43Z",
     "status": "sent",
-    "notes": "Draft ready — CRISPRi-seq PTH inhibitor paper cited",
+    "notes": "Draft ready \u2014 CRISPRi-seq PTH inhibitor paper cited",
     "dateSent": "2026-08-26",
     "replyReceived": false
   },
@@ -2089,7 +2089,7 @@
   },
   {
     "id": "draft-aohbsc@rit.edu",
-    "name": "André Hudson",
+    "name": "Andr\u00e9 Hudson",
     "university": "Rochester Institute of Technology",
     "country": "United States",
     "email": "aohsbi@rit.edu",
@@ -2416,10 +2416,10 @@
     "university": "Brown University",
     "country": "USA",
     "email": "katherine_siddle@brown.edu",
-    "subject": "Prospective Graduate Student in Pathogen Genomics and Epidemiology",
+    "subject": "",
     "dateSent": "",
     "timestamp": 1788455114,
-    "status": "draft",
+    "status": "not_drafted",
     "replyReceived": false,
     "replySummary": ""
   },
@@ -4259,10 +4259,10 @@
     "university": "Brown University",
     "country": "USA",
     "email": "Richard_Bennett@brown.edu",
-    "subject": "Prospective Graduate Student in Fungal Pathogenesis and Microbial Immunology",
+    "subject": "",
     "dateSent": "",
     "timestamp": 1788464239,
-    "status": "draft",
+    "status": "not_drafted",
     "replyReceived": false,
     "replySummary": "",
     "notes": "Professor | Official Brown portal verified | Candida biology, fungal pathogenesis, genome sequencing and RNA sequencing",
@@ -4675,7 +4675,7 @@
   },
   {
     "id": "prof-1788683634626",
-    "name": "Michelle A. O’Malley",
+    "name": "Michelle A. O\u2019Malley",
     "university": "University of California Santa Barbara",
     "country": "USA",
     "email": "momalley@ucsb.edu",
@@ -5591,7 +5591,7 @@
   },
   {
     "id": "prof-1777800000055",
-    "name": "DÃÂÃÂ¶rte DÃÂÃÂ¶pfer",
+    "name": "D\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00b6rte D\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00b6pfer",
     "university": "University of Wisconsin-Madison",
     "country": "USA",
     "email": "dopfer@wisc.edu",
@@ -5936,8 +5936,8 @@
   },
   {
     "id": "prof-1787196817",
-    "name": "Matej OreÅ¡iÄ",
-    "university": "University of Eastern Finland / Ãrebro University",
+    "name": "Matej Ore\u00c5\u00a1i\u00c4\u008d",
+    "university": "University of Eastern Finland / \u00c3\u0096rebro University",
     "country": "Finland",
     "email": "matej.oresic@uef.fi",
     "subject": "",
@@ -5951,8 +5951,8 @@
   },
   {
     "id": "prof-1787196818",
-    "name": "Jaakko LamminmÃ¤ki",
-    "university": "FolkhÃ¤lsan Research Center, Helsinki",
+    "name": "Jaakko Lamminm\u00c3\u00a4ki",
+    "university": "Folkh\u00c3\u00a4lsan Research Center, Helsinki",
     "country": "Finland",
     "email": "jaakko.lamminmaki@folkhalsan.fi",
     "subject": "",
@@ -5996,7 +5996,7 @@
   },
   {
     "id": "prof-1787196821",
-    "name": "Ana Maria PirttilÃ¤",
+    "name": "Ana Maria Pirttil\u00c3\u00a4",
     "university": "University of Oulu",
     "country": "Finland",
     "email": "anna.pirttila@oulu.fi",
@@ -7886,7 +7886,7 @@
   },
   {
     "id": "prof-1787338319420",
-    "name": "Dr Dragana Gagić",
+    "name": "Dr Dragana Gagi\u0107",
     "university": "Massey University",
     "country": "New Zealand",
     "email": "D.Gagic@massey.ac.nz",
@@ -8531,7 +8531,7 @@
   },
   {
     "id": "prof-1787422934285",
-    "name": "Séamus Fanning",
+    "name": "S\u00e9amus Fanning",
     "university": "University College Dublin",
     "country": "Ireland",
     "email": "sfanning@ucd.ie",
