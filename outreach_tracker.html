@@ -119,6 +119,7 @@ h2 { font-size: 16px; font-weight: 500; color: var(--text-dim); margin-bottom: 2
 .prof-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: center; }
 .badge-drafted { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; background: rgba(59,130,246,0.15); color: var(--accent); border: 1px solid var(--accent); }
 .badge-hold { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; background: rgba(234,179,8,0.15); color: var(--yellow); border: 1px solid var(--yellow); }
+.count-pill { display: inline-block; margin-left: 6px; padding: 2px 7px; border-radius: 999px; background: rgba(59,130,246,0.15); color: var(--accent); font-size: 11px; font-weight: 700; }
 </style>
 </head>
 <body>
@@ -143,7 +144,7 @@ h2 { font-size: 16px; font-weight: 500; color: var(--text-dim); margin-bottom: 2
     <select class="draft-select" id="sel-country" onchange="onCountryChange()"><option value="">Select Country...</option></select>
     <select class="draft-select" id="sel-uni" onchange="onUniChange()" disabled><option value="">Select University...</option></select>
   </div>
-  <div class="draft-hint">Pick a country, then a university, to see which professors have mail ready (drafted).</div>
+  <div class="draft-hint">Counts show the number of universities in each country and the number of available professors at each university. Pick a country, then a university, to see their draft status.</div>
   <div id="draft-list"></div>
 </div>
 
@@ -417,9 +418,18 @@ function buildDraftFromCRM() {
   // Populate country dropdown
   const selC = document.getElementById('sel-country');
   if (!selC) return;
-  const countries = [...new Set(available.map(p => p.country).filter(Boolean))].sort();
+  // Reset options so refreshes do not duplicate countries.
+  selC.innerHTML = '<option value="">Select Country...</option>';
+  const countryUnis = {};
+  available.forEach(p => {
+    if (!countryUnis[p.country]) countryUnis[p.country] = new Set();
+    countryUnis[p.country].add(p.university);
+  });
+  const countries = Object.keys(countryUnis).sort();
   for (const c of countries) {
-    const opt = document.createElement('option'); opt.value = c; opt.textContent = getCountryFlag(c)+' '+c;
+    const opt = document.createElement('option');
+    opt.value = c;
+    opt.textContent = `${getCountryFlag(c)} ${c} (${countryUnis[c].size} universities)`;
     selC.appendChild(opt);
   }
 }
@@ -454,9 +464,13 @@ function onCountryChange() {
   
   // Get universities from CRM (available professors only - exclude sent/replied)
   const available = CRM_PROFS.filter(p => p.country === c && !mailedNames.has(p.name.toLowerCase().trim()));
-  const unis = [...new Set(available.map(p => p.university))].sort();
+  const uniCounts = {};
+  available.forEach(p => { uniCounts[p.university] = (uniCounts[p.university] || 0) + 1; });
+  const unis = Object.keys(uniCounts).sort();
   for (const u of unis) {
-    const opt = document.createElement('option'); opt.value = u; opt.textContent = u;
+    const opt = document.createElement('option');
+    opt.value = u;
+    opt.textContent = `${u} (${uniCounts[u]} professors)`;
     selU.appendChild(opt);
   }
   selU.disabled = false;
