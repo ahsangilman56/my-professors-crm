@@ -4567,5 +4567,50 @@
     "replySummary": "",
     "notes": "Distinguished Professor of Biochemistry, Biophysics and Structural Biology | Official UC Berkeley Molecular and Cell Biology profile verified | Listeria monocytogenes, intracellular foodborne pathogen biology, host pathogen interactions and infection mechanisms",
     "source": "https://mcb.berkeley.edu/faculty/BMB/portnoyd.html"
+  },
+  {
+    "id": "prof-1788683307901",
+    "name": "Gregory P. Donaldson",
+    "university": "University of California Los Angeles",
+    "country": "USA",
+    "email": "donaldson@g.ucla.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788683307,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor | Official UCLA Microbiology, Immunology and Molecular Genetics profile verified | Gut microbiome, probiotics, host epithelial interactions, bacterial physiology and microbiome related health and disease",
+    "source": "https://mimg.ucla.edu/people/gregory-p-donaldson-phd"
+  },
+  {
+    "id": "prof-1788683307911",
+    "name": "Elaine Yih-Nien Hsiao",
+    "university": "University of California Los Angeles",
+    "country": "USA",
+    "email": "ehsiao@g.ucla.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788683307,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Associate Professor | Official UCLA Integrative Biology and Physiology profile verified | Gut microbiota, microbiome immune interactions, neuroimmune biology, animal behavior, neurodevelopment and host health",
+    "source": "https://www.ibp.ucla.edu/faculty/elaine-hsiao/"
+  },
+  {
+    "id": "prof-1788683307922",
+    "name": "Nandita Garud",
+    "university": "University of California Los Angeles",
+    "country": "USA",
+    "email": "ngarud@g.ucla.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788683307,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Associate Professor | Official UCLA Medical School profile verified | Human gut microbiome, microbial ecology and evolution, population genetics, microbial adaptation and genomics",
+    "source": "https://medschool.ucla.edu/people/nandita-garud-phd"
   }
 ]
