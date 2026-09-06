@@ -4612,5 +4612,50 @@
     "replySummary": "",
     "notes": "Associate Professor | Official UCLA Medical School profile verified | Human gut microbiome, microbial ecology and evolution, population genetics, microbial adaptation and genomics",
     "source": "https://medschool.ucla.edu/people/nandita-garud-phd"
+  },
+  {
+    "id": "prof-1788683485687",
+    "name": "James Chen",
+    "university": "University of California San Francisco",
+    "country": "USA",
+    "email": "James.Chen5@ucsf.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788683485,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor | Official UCSF Microbiology and Immunology profile verified | Mycobacterial pathogenesis, bacterial genetics, structural cell biology, antibiotic resistance and Mycobacterium tuberculosis",
+    "source": "https://profiles.ucsf.edu/james.chen"
+  },
+  {
+    "id": "prof-1788683485698",
+    "name": "Chaz Langelier",
+    "university": "University of California San Francisco",
+    "country": "USA",
+    "email": "chaz.langelier@ucsf.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788683485,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Professor in Residence | Official UCSF Infectious Diseases profile and UCSF lab contact page verified | Lower respiratory tract infections, ARDS, sepsis, nosocomial infections, emerging pathogens, microbiome and metagenomic AMR diagnostics",
+    "source": "https://infectiousdiseases.ucsf.edu/people/chaz-langelier"
+  },
+  {
+    "id": "prof-1788683485708",
+    "name": "Charles Chiu",
+    "university": "University of California San Francisco",
+    "country": "USA",
+    "email": "charles.chiu@ucsf.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788683485,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Professor | Official UCSF Department of Medicine profile verified | Infectious diseases, pathogen detection, metagenomic next-generation sequencing, genomic diagnostics and microbial discovery",
+    "source": "https://medicine.ucsf.edu/people/charles-chiu"
   }
 ]
