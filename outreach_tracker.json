@@ -4657,5 +4657,50 @@
     "replySummary": "",
     "notes": "Professor | Official UCSF Department of Medicine profile verified | Infectious diseases, pathogen detection, metagenomic next-generation sequencing, genomic diagnostics and microbial discovery",
     "source": "https://medicine.ucsf.edu/people/charles-chiu"
+  },
+  {
+    "id": "prof-1788683634616",
+    "name": "Michael J. Mahan",
+    "university": "University of California Santa Barbara",
+    "country": "USA",
+    "email": "michael.mahan@lifesci.ucsb.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788683634,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Professor | Official UC Santa Barbara MCDB profile verified | Bacterial pathogenesis, Salmonella and foodborne infection, antimicrobials, antimicrobial resistance testing, bacterial virulence and infectious disease",
+    "source": "https://www.mcdb.ucsb.edu/people/faculty/michael-mahan"
+  },
+  {
+    "id": "prof-1788683634626",
+    "name": "Michelle A. O’Malley",
+    "university": "University of California Santa Barbara",
+    "country": "USA",
+    "email": "momalley@ucsb.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788683634,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Professor | Official UC Santa Barbara Bioengineering profile verified | Anaerobic gut fungi from large herbivores, gut microbial consortia, genome sequencing, RNA sequencing, microbial engineering and natural-product discovery",
+    "source": "https://bioengineering.ucsb.edu/people/faculty/michelle-omalley"
+  },
+  {
+    "id": "prof-1788683634636",
+    "name": "Rebecca Vega Thurber",
+    "university": "University of California Santa Barbara",
+    "country": "USA",
+    "email": "rvegathurber@ucsb.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788683634,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Professor and Director of the Marine Science Institute | Official UC Santa Barbara EEMB profile verified | Bacterial and viral ecology in threatened animal hosts, host-associated microbiomes, infectious disease ecology and disease mitigation",
+    "source": "https://www.eemb.ucsb.edu/people/faculty/vega-thurber"
   }
 ]
