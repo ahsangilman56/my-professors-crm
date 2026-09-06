@@ -4702,5 +4702,50 @@
     "replySummary": "",
     "notes": "Professor and Director of the Marine Science Institute | Official UC Santa Barbara EEMB profile verified | Bacterial and viral ecology in threatened animal hosts, host-associated microbiomes, infectious disease ecology and disease mitigation",
     "source": "https://www.eemb.ucsb.edu/people/faculty/vega-thurber"
+  },
+  {
+    "id": "prof-1788683912518",
+    "name": "Catherine R. Armbruster",
+    "university": "Carnegie Mellon University",
+    "country": "USA",
+    "email": "c4t@cmu.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788683912,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor | Official Carnegie Mellon Biological Sciences profile verified | Bacterial biofilms, Pseudomonas aeruginosa, host pathogen interactions, evolutionary genomics, cystic fibrosis infections and antimicrobial resistance",
+    "source": "https://www.cmu.edu/bio/people/faculty/armbruster.html"
+  },
+  {
+    "id": "prof-1788683912529",
+    "name": "Zheng Kuang",
+    "university": "Carnegie Mellon University",
+    "country": "USA",
+    "email": "zhengkua@andrew.cmu.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788683912,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Associate Professor | Official Carnegie Mellon Biological Sciences profile and lab homepage verified | Gut microbiota, mouse models, host metabolism, intestinal immunity, antibiotic effects and host microbe interactions",
+    "source": "https://www.cmu.edu/bio/people/faculty/kuang.html"
+  },
+  {
+    "id": "prof-1788683912539",
+    "name": "Hosein Mohimani",
+    "university": "Carnegie Mellon University",
+    "country": "USA",
+    "email": "hoseinm@andrew.cmu.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788683912,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor of Computational Biology | Official Carnegie Mellon Computational Biology profile verified | Computational metabolomics and metagenomics, antibiotic discovery, microbial natural products and bioinformatics",
+    "source": "https://www.cmu.edu/cbd/msas/people/mohimani.html"
   }
 ]
