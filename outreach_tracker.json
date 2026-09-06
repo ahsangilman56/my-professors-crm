@@ -4539,33 +4539,48 @@
     "source": "https://mcb.berkeley.edu/directory/search/detail/7652"
   },
   {
-    "id": "prof-1788682206271",
-    "name": "Patricia Lang",
+    "id": "prof-1788682438903",
+    "name": "Ashley Wolf",
     "university": "University of California Berkeley",
     "country": "USA",
-    "email": "plang@berkeley.edu",
+    "email": "awolf@berkeley.edu",
     "subject": "",
     "dateSent": "",
-    "timestamp": 1788682206,
+    "timestamp": 1788682438,
     "status": "not_drafted",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Assistant Professor | Official UC Berkeley Plant and Microbial Biology profile verified | Plant climate change adaptation, historical functional genomics, herbarium genomics, population genetics",
-    "source": "https://plantandmicrobiology.berkeley.edu/people/patricia-lang"
+    "notes": "Assistant Professor | Official UC Berkeley Public Health profile verified | Gut microbiome variation, microbial communities in mammalian health and disease, microbial competition, host factors, computational microbiology and microbial therapeutics",
+    "source": "https://publichealth.berkeley.edu/people/ashley-wolf"
   },
   {
-    "id": "prof-1788682206281",
-    "name": "Yan Gong",
+    "id": "prof-1788682438914",
+    "name": "Leah Guthrie",
     "university": "University of California Berkeley",
     "country": "USA",
-    "email": "yangong@berkeley.edu",
+    "email": "lguthrie@berkeley.edu",
     "subject": "",
     "dateSent": "",
-    "timestamp": 1788682206,
+    "timestamp": 1788682438,
     "status": "not_drafted",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Assistant Professor | Official UC Berkeley Plant and Microbial Biology profile verified | Microbial biology, genomics, plant-microbe interactions",
-    "source": "https://vcresearch.berkeley.edu/faculty/yan-gong"
+    "notes": "Assistant Professor | Official UC Berkeley Bioengineering profile verified | Microbial metabolism and signaling, computational biology, systems biology, molecular biology, gut microbiome and host health",
+    "source": "https://bioeng.berkeley.edu/person/leah-guthrie"
+  },
+  {
+    "id": "prof-1788682438924",
+    "name": "Charles Whittaker",
+    "university": "University of California Berkeley",
+    "country": "USA",
+    "email": "cwhittaker@berkeley.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788682438,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor | Official UC Berkeley Public Health profile verified | Pathogen surveillance, zoonotic spillover, infectious diseases, pathogen genomics, epidemiological modelling, machine learning and pandemic preparedness",
+    "source": "https://publichealth.berkeley.edu/people/charles-whittaker"
   }
 ]
