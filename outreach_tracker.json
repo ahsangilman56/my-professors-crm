@@ -4282,5 +4282,35 @@
     "replySummary": "",
     "notes": "Assistant Professor | Official University of Alabama homepage verified | Environmental microbiology, microbial ecology, functional genomics, pathogens, antibiotic resistance, water quality and One Water systems",
     "source": "https://eng.ua.edu/eng-directory/dr-matthew-blair/"
+  },
+  {
+    "id": "prof-1788681214436",
+    "name": "Melanie Higgins",
+    "university": "The University of Alabama",
+    "country": "USA",
+    "email": "mahiggins1@ua.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788681214,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor | Accepting Graduate Students | Official University of Alabama homepage verified | Microbial natural products, genome mining, bacterial glycan degradation, commensal and pathogenic bacteria, gastrointestinal microbiology, antibiotic discovery",
+    "source": "https://bsc.ua.edu/people/melanie-higgins/"
+  },
+  {
+    "id": "prof-1788681214446",
+    "name": "Soyoung Park",
+    "university": "The University of Alabama",
+    "country": "USA",
+    "email": "spark85@ua.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788681214,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor | Accepting Graduate Students | Official University of Alabama homepage verified | Human pathogenic bacteria, Pseudomonas aeruginosa biofilms, bacterial environmental sensing, motile and sessile transitions, infection control",
+    "source": "https://bsc.ua.edu/people/soyoung-park/"
   }
 ]
