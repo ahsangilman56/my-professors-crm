@@ -1463,7 +1463,7 @@
   },
   {
     "id": "1777800000055",
-    "name": "D\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00b6rte D\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00b6pfer",
+    "name": "DÃÂÃÂ¶rte DÃÂÃÂ¶pfer",
     "university": "University of Wisconsin-Madison",
     "country": "USA",
     "email": "dopfer@wisc.edu",
@@ -1879,7 +1879,7 @@
   {
     "id": "1787196816",
     "name": " Heli Viljakainen",
-    "university": "Folkh\u00c3\u00a4lsan Research Center, Helsinki",
+    "university": "FolkhÃ¤lsan Research Center, Helsinki",
     "country": "Finland",
     "email": "heli.viljakainen@helsinki.fi",
     "researchArea": "Gut Microbiome, Nutritional Epidemiology, Public Health",
@@ -1892,8 +1892,8 @@
   },
   {
     "id": "1787196817",
-    "name": " Matej Ore\u00c5\u00a1i\u00c4\u008d",
-    "university": "University of Eastern Finland / \u00c3\u0096rebro University",
+    "name": " Matej OreÅ¡iÄ",
+    "university": "University of Eastern Finland / Ãrebro University",
     "country": "Finland",
     "email": "matej.oresic@uef.fi",
     "researchArea": "Microbiome, Metabolomics, Lipidomics, Type 1 Diabetes",
@@ -1906,8 +1906,8 @@
   },
   {
     "id": "1787196818",
-    "name": " Jaakko Lamminm\u00c3\u00a4ki",
-    "university": "Folkh\u00c3\u00a4lsan Research Center, Helsinki",
+    "name": " Jaakko LamminmÃ¤ki",
+    "university": "FolkhÃ¤lsan Research Center, Helsinki",
     "country": "Finland",
     "email": "jaakko.lamminmaki@folkhalsan.fi",
     "researchArea": "Gut Microbiome, Allergy, Immunology",
@@ -1948,7 +1948,7 @@
   },
   {
     "id": "1787196821",
-    "name": " Ana Maria Pirttil\u00c3\u00a4",
+    "name": " Ana Maria PirttilÃ¤",
     "university": "University of Oulu",
     "country": "Finland",
     "email": "anna.pirttila@oulu.fi",
@@ -3713,7 +3713,7 @@
   },
   {
     "id": "1787338319420",
-    "name": "Dr Dragana Gagi\u0107",
+    "name": "Dr Dragana Gagić",
     "university": "Massey University",
     "country": "New Zealand",
     "email": "D.Gagic@massey.ac.nz",
@@ -3768,7 +3768,7 @@
     "university": "Massey University",
     "country": "New Zealand",
     "email": "J.McKenzie@massey.ac.nz",
-    "researchArea": "AMROH programme (Fleming Fund \u00a32.3M), One Health AMR surveillance South Asia, COMBAT-AMR",
+    "researchArea": "AMROH programme (Fleming Fund £2.3M), One Health AMR surveillance South Asia, COMBAT-AMR",
     "homepage": "https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=947790",
     "researchProfile": "",
     "status": {
@@ -4420,7 +4420,7 @@
   },
   {
     "id": "1787422934285",
-    "name": "S\u00e9amus Fanning",
+    "name": "Séamus Fanning",
     "university": "University College Dublin",
     "country": "Ireland",
     "email": "sfanning@ucd.ie",
@@ -5645,5 +5645,3184 @@
     "country": "Australia",
     "email": "yue.qu@monash.edu",
     "researchArea": "Staphylococcal biofilm AMR, antimicrobial resistance mechanisms"
+  },
+  {
+    "id": "1788685379",
+    "name": "Martin Taubel",
+    "university": "Finnish Institute for Health and Welfare (THL)",
+    "country": "Finland",
+    "email": "martin.taubel@thl.fi",
+    "researchArea": "Sent 2026-08-20; awaiting reply",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-20",
+    "replySummary": "Sent 2026-08-20; awaiting reply"
+  },
+  {
+    "id": "1788685380",
+    "name": "Raed Al-Juboori",
+    "university": "Aalto University",
+    "country": "Finland",
+    "email": "raed.al-juboori@aalto.fi",
+    "researchArea": "Rejected",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": true,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-20",
+    "replySummary": "No funds to support doctoral position. Wishes best."
+  },
+  {
+    "id": "1788685381",
+    "name": "Hongbo Zhang",
+    "university": "Abo Akademi University",
+    "country": "Finland",
+    "email": "hongbo.zhang@abo.fi",
+    "researchArea": "Sent 2026-08-20; awaiting reply",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-20",
+    "replySummary": "Sent 2026-08-20; awaiting reply"
+  },
+  {
+    "id": "1788685382",
+    "name": "Matej Oresic",
+    "university": "Orebro University",
+    "country": "Finland",
+    "email": "matej.oresic@oru.se",
+    "researchArea": "Sent 2026-08-20; awaiting reply",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-20",
+    "replySummary": "Sent 2026-08-20; awaiting reply"
+  },
+  {
+    "id": "1788685383",
+    "name": "Jukka Corander",
+    "university": "University of Helsinki",
+    "country": "Finland",
+    "email": "jukka.corander@medisin.uio.no",
+    "researchArea": "Sent 2026-08-20; awaiting reply",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-20",
+    "replySummary": "Sent 2026-08-20; awaiting reply"
+  },
+  {
+    "id": "1788685384",
+    "name": "Xu Wang",
+    "university": "Auburn University",
+    "country": "USA",
+    "email": "xuwang@auburn.edu",
+    "researchArea": "Sent 2026-08-18; awaiting reply",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-18",
+    "replySummary": "Sent 2026-08-18; awaiting reply"
+  },
+  {
+    "id": "1788685385",
+    "name": "Ryan Patrick",
+    "university": "Illinois State University",
+    "country": "United States",
+    "email": "rmpatr2@ilstu.edu",
+    "researchArea": "",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-25",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685386",
+    "name": "Lauren Guillette",
+    "university": "University of Alberta",
+    "country": "Canada",
+    "email": "guillett@ualberta.ca",
+    "researchArea": "Sent despite U Alberta cooldown (Madsen sent earlier today) - user override. Weak profile match noted.",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-25",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685387",
+    "name": "Erin Brannick",
+    "university": "University of Delaware",
+    "country": "United States",
+    "email": "brannick@udel.edu",
+    "researchArea": "Draft FINAL v5: AREA-SPECIFIC skills - wet bacteriology front (isolation/culture, AST, PCR, gel electrophoresis) matching poultry pathogenesis lab. Finding 22w + interpretation.",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685388",
+    "name": "Dacheng Ren",
+    "university": "Syracuse University",
+    "country": "United States",
+    "email": "dren@syr.edu",
+    "researchArea": "Draft FINAL v5 format 2026-08-26: homepage verified (ecs.syracuse.edu biofilm/dormancy/persister), LAST-author AAC 2025 PMC12406675, full Results read via EPMC XML. Area-specific wet bacteriology skills. Finding 15w + This shows interpretation.",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685389",
+    "name": "Angela Brown",
+    "university": "Lehigh University",
+    "country": "United States",
+    "email": "acb313@lehigh.edu",
+    "researchArea": "Draft FINAL v5 2026-08-26: homepage verified (engineering.lehigh.edu + brownlab), LAST-author bioRxiv 2025 OMV-imipenem paper (10.1101/2025.01.08.631972), full Results read. Email corrected to acb313@lehigh.edu per lab site. Finding 24w + interpretation.",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685390",
+    "name": "Ansel Hsiao",
+    "university": "University of California Riverside",
+    "country": "United States",
+    "email": "ansel.hsiao@ucr.edu",
+    "researchArea": "Draft FINAL v5 2026-08-26: homepage verified via jina (gut microbiota/quorum sensing/V. cholerae), LAST-author Cell Host Microbe 2025 diet paper PMC12834465, full Results read from PMC. Finding 24w + interpretation. 16S/shotgun metagenomics skills matched. | SENT 2026-08-26 to ansel.hsiao@ucr.edu (verified from Cell Host Microbe paper).",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685391",
+    "name": "Robert Ernst",
+    "university": "University of Maryland",
+    "country": "United States",
+    "email": "rernst@umaryland.edu",
+    "researchArea": "Draft FINAL v5 2026-08-26: homepage verified (ernstlab.com - lipid A/LPS/BECC/colistin resistance), LAST-author Microbiol Spectrum 2026 shark SF21 paper (10.1128/spectrum.00662-26, PMC13436394), full Results read from PMC page. Finding 29w + interpretation: pEtN arises from environmental stress not just antibiotic pressure.",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685392",
+    "name": "André Hudson",
+    "university": "Rochester Institute of Technology",
+    "country": "United States",
+    "email": "aohsbi@rit.edu",
+    "researchArea": "Draft FINAL v5 2026-08-26: homepage verified via jina (genome sequencing/AMR/peptidoglycan enzymes; now Dean College of Science), LAST-author MRA 2025 campus AMR surveillance paper PMC12243573. Terpene ACS paper EXCLUDED as review. Finding 22w + interpretation. Email corrected to aohsbi@rit.edu.",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685393",
+    "name": "Patrick Secor",
+    "university": "Montana State University",
+    "country": "United States",
+    "email": "patrick.secor@montana.edu",
+    "researchArea": "Draft FINAL v5 2026-08-26: UNIVERSITY CORRECTED to Montana State University (secorlab.org confirms). Email corrected to patrick.secor@montana.edu. Homepage verified (filamentous phages/chronic infection/Lyme/Biofilm Eng Center). LAST-author PLoS Pathog 2026 prophage sRNA paper PMC12803456, full Results read. Finding 14w + interpretation.",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685394",
+    "name": "EF Castillo",
+    "university": "University of New Mexico",
+    "country": "United States",
+    "email": "ECastillo@salud.unm.edu",
+    "researchArea": "Draft FINAL v5 2026-08-26: Homepage verified (hsc.unm.edu + mgm.unm.edu - gut-liver axis, enteroendocrine, mucosal immunology; email ECastillo@salud.unm.edu confirmed). LAST-author Metabolism 2026 MASLD-to-MASH paper (10.1016/j.metabol.2026.156652, PMC13387142), full Results read. Finding 28w + interpretation: MASH loses enteroendocrine feedback. Bradfute EXCLUDED as virologist (wrong fit).",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685395",
+    "name": "Kerry Sondgeroth",
+    "university": "University of Wyoming",
+    "country": "United States",
+    "email": "ksondgeroth@uwyo.edu",
+    "researchArea": "Draft FINAL v5 2026-08-26: Homepage verified (uwyo.edu news - DVM Colorado State 2006, PhD WSU 2013, veterinary bacteriologist at Wyoming State Vet Lab, Riverbend Endowed Professor of Wildlife-Livestock Health). LAST-author BMC Vet Res 2026 AMR phenotypes paper PMC13085668, full Results read (Table 5 logistic regression). Finding 24w + interpretation: livestock drives environmental AMR. DVM-to-DVM match.",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685396",
+    "name": "Patricia Simner",
+    "university": "Johns Hopkins University",
+    "country": "United States",
+    "email": "psimner1@jhmi.edu",
+    "researchArea": "Draft FINAL v5 2026-08-26: Homepage verified (Scholar verified email jhmi.edu; ASM bio; SimnerLab - Director Medical Bacteriology & Infectious Disease Sequencing Labs JHU). LAST-author JAC Antimicrob Resist 2025 CRE resistome paper PMC12392892, full Results read. Finding 27w + interpretation. PETTERSEN REPLACED as primary target: her primary affiliation is UiT Norway (email veronika.k.pettersen@uit.no), JHU only secondary affiliation #7.",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": true,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": "Email no longer attended, new email: simner.patricia@mayo.edu"
+  },
+  {
+    "id": "1788685397",
+    "name": "Peter Belenky",
+    "university": "Brown University",
+    "country": "United States",
+    "email": "peter_belenky@brown.edu",
+    "researchArea": "Draft FINAL v5 2026-08-26: Homepage verified (mmi.brown.edu - microbiome/bacteria/fungi response to antimicrobial stress, dysbiosis, tolerance/resistance via high-throughput sequencing; email confirmed). LAST-author Front Microbiol 2025 hemin/amoxicillin ex vivo paper PMC12702856, full Results read. Finding 22w + interpretation: iron metabolism modulates gut antibiotic susceptibility.",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685398",
+    "name": "Andrew Goodman",
+    "university": "Yale University",
+    "country": "United States",
+    "email": "andrew.goodman@yale.edu",
+    "researchArea": "Draft FINAL v5 2026-08-26: Homepage verified (medicine.yale.edu/lab/goodman - commensal competition/cooperation mechanisms, microbiome variation & infection/drug response, MSI). LAST-author Cell Host Microbe 2025 BSAP-5ab paper PMC12757102, full Results read from PMC. Finding 24w + interpretation: host cues activate effectors restructuring populations in vivo.",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685399",
+    "name": "Nicole De Nisco",
+    "university": "University of Texas at Dallas",
+    "country": "United States",
+    "email": "nicole.denisco@utdallas.edu",
+    "researchArea": "Draft FINAL v5: AREA-SPECIFIC skills - 16S rRNA/shotgun metagenomics + microbiome bioinformatics first (dry) matching urobiome lab. Finding 14w + interpretation.",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-08-26",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685400",
+    "name": "Kerry Hamilton",
+    "university": "Arizona State University",
+    "country": "USA",
+    "email": "kerry.hamilton@asu.edu",
+    "researchArea": "",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-09-03",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685401",
+    "name": "Seok-Hoon Hong",
+    "university": "Illinois Institute of Technology",
+    "country": "USA",
+    "email": "shong5@iit.edu",
+    "researchArea": "",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-09-03",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685402",
+    "name": "Vincent Fischetti",
+    "university": "Rockefeller University",
+    "country": "USA",
+    "email": "vfischetti@rockefeller.edu",
+    "researchArea": "",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-09-03",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685403",
+    "name": "Mostafa Rahnama",
+    "university": "Tennessee Technological University",
+    "country": "USA",
+    "email": "mrahnama@tntech.edu",
+    "researchArea": "",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-09-03",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685404",
+    "name": "Monica Embers",
+    "university": "Tulane University",
+    "country": "USA",
+    "email": "members@tulane.edu",
+    "researchArea": "",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-09-03",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685405",
+    "name": "Robyn Barbato",
+    "university": "University of New Hampshire",
+    "country": "USA",
+    "email": "robyn.barbato@unh.edu",
+    "researchArea": "",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "2026-09-03",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685406",
+    "name": "Katherine Siddle",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "katherine_siddle@brown.edu",
+    "researchArea": "",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685407",
+    "name": "Richard Bennett",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "Richard_Bennett@brown.edu",
+    "researchArea": "Professor of Biology and Molecular Microbiology and Immunology | Official Brown portal verified | Candida biology, fungal pathogenesis, genome sequencing and RNA sequencing",
+    "homepage": "Brown University official faculty or research faculty portal",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685408",
+    "name": "Lalit Beura",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "Lalit_Beura@brown.edu",
+    "researchArea": "Assistant Professor of Molecular Microbiology and Immunology | Official Brown portal verified | Antiviral immune responses, mucosal immunology, host pathogen interaction",
+    "homepage": "Brown University official faculty or research faculty portal",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685409",
+    "name": "Karthikeyani Chellappa",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "karthikeyani_chellappa@brown.edu",
+    "researchArea": "Basaviah-Ganesan Family Assistant Professor of Molecular Microbiology and Immunology | Official Brown portal verified | Host microbiome, systems biology, metabolism and aging",
+    "homepage": "Brown University official faculty or research faculty portal",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685410",
+    "name": "Christina Cuomo",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "christina_cuomo@brown.edu",
+    "researchArea": "Professor of Molecular Microbiology and Immunology | Official Brown portal verified | Human fungal pathogens, comparative genomics, population genomics and antifungal resistance",
+    "homepage": "Brown University official faculty or research faculty portal",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685411",
+    "name": "Christopher de Graffenried",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "Christopher_deGraffenried@Brown.edu",
+    "researchArea": "Associate Professor of Molecular Microbiology and Immunology | Official Brown portal verified | Trypanosoma brucei biology, parasite cell division and cytoskeletal mechanisms",
+    "homepage": "Brown University official faculty or research faculty portal",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685412",
+    "name": "Amanda Jamieson",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "Amanda_Jamieson@Brown.edu",
+    "researchArea": "Esther Elizabeth Brintzenhoff Associate Professor of Molecular Microbiology and Immunology | Official Brown portal verified | Lung microbiome, viral and bacterial coinfection, host resilience and infection",
+    "homepage": "Brown University official faculty or research faculty portal",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685413",
+    "name": "Sanghyun Lee",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "Sanghyun_Lee@brown.edu",
+    "researchArea": "Assistant Professor of Molecular Microbiology and Immunology | Official Brown portal verified | Host virus interaction, viral pathogenesis, CRISPR screening and antiviral genes",
+    "homepage": "Brown University official faculty or research faculty portal",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685414",
+    "name": "Yang Zhou",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "Yang_Zhou@brown.edu",
+    "researchArea": "Assistant Professor of Molecular Microbiology and Immunology | Official Brown portal verified | Immunopathogenesis, lung injury and repair, pulmonary infection biology",
+    "homepage": "Brown University official faculty or research faculty portal",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685415",
+    "name": "Suchitra Kamle",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "suchitra_kamle@brown.edu",
+    "researchArea": "Assistant Professor of Molecular Microbiology and Immunology (Research) | Official Brown portal verified | Molecular microbiology and immunology, host response and disease mechanisms",
+    "homepage": "Brown University official faculty or research faculty portal",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685416",
+    "name": "Bing Ma",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "Bing_Ma@brown.edu",
+    "researchArea": "Assistant Professor of Molecular Microbiology and Immunology (Research) | Official Brown portal verified | Molecular microbiology and immunology, cancer biology and disease mechanisms",
+    "homepage": "Brown University official faculty or research faculty portal",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685417",
+    "name": "Cliff Oduor",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "cliff_oduor@brown.edu",
+    "researchArea": "Assistant Professor of Pathology and Laboratory Medicine (Research) | Official Brown portal verified | Infectious disease genomics, pathogen genetic diversity, long read sequencing and single cell sequencing",
+    "homepage": "Brown University official faculty or research faculty portal",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685418",
+    "name": "Susan De Long",
+    "university": "Colorado State University",
+    "country": "USA",
+    "email": "skdelong@colostate.edu",
+    "researchArea": "Assistant Professor | Official CSU Microbiome Network portal verified | Soils and subsurface microbiomes, engineered and aquatic microbiomes",
+    "homepage": "https://microbiomenetwork.colostate.edu/dr-susan-de-long/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685419",
+    "name": "Peipei Zhang",
+    "university": "Colorado State University",
+    "country": "USA",
+    "email": "peipei.zhang@colostate.edu",
+    "researchArea": "Assistant Professor of Food Microbiology | Official CSU Microbiome Network portal verified | Animal host, aerobiome and meat microbiome",
+    "homepage": "https://microbiomenetwork.colostate.edu/peipei-zhang/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685420",
+    "name": "Sarah Raabis",
+    "university": "Colorado State University",
+    "country": "USA",
+    "email": "sraabis@colostate.edu",
+    "researchArea": "Assistant Professor | Official CSU Microbiome Network portal verified | Animal host microbiome and veterinary research; currently taking graduate students",
+    "homepage": "https://microbiomenetwork.colostate.edu/sarah-raabis/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685421",
+    "name": "Claire De La Serre",
+    "university": "Colorado State University",
+    "country": "USA",
+    "email": "cdlserre@colostate.edu",
+    "researchArea": "Associate Professor | Official CSU Microbiome Network portal verified | Animal host microbiome research",
+    "homepage": "https://microbiomenetwork.colostate.edu/claire-de-la-serre/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685422",
+    "name": "Zaid Abdo",
+    "university": "Colorado State University",
+    "country": "USA",
+    "email": "zabdo@colostate.edu",
+    "researchArea": "Professor | Official CSU Microbiome Network portal verified | Human host, animal host and computational microbiome research; graduate programs DMIP and CMB",
+    "homepage": "https://microbiomenetwork.colostate.edu/dr-zaid-abdo/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685423",
+    "name": "Ilana Brito",
+    "university": "Cornell University",
+    "country": "USA",
+    "email": "ilana.brito@cornell.edu",
+    "researchArea": "Assistant Professor | Official Cornell University portal verified | Antimicrobial resistance, genetics and genomics, and transmission of bacterial and genetic components of the human microbiome",
+    "homepage": "https://centerforimmunology.cornell.edu/faculty/brito/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685424",
+    "name": "Lisa-Marie Nisbett",
+    "university": "Cornell University",
+    "country": "USA",
+    "email": "lisa-marie.nisbett@cornell.edu",
+    "researchArea": "Assistant Professor | Official Cornell University portal verified | Bacterial signal transduction, biofilm formation, and molecular microbiology",
+    "homepage": "https://cals.cornell.edu/people/lisa-marie-nisbett",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685425",
+    "name": "Aisha Burton",
+    "university": "Cornell University",
+    "country": "USA",
+    "email": "atb89@cornell.edu",
+    "researchArea": "Assistant Professor | Official Cornell University portal verified | Bacterial stress response and small proteins",
+    "homepage": "https://cals.cornell.edu/people/aisha-burton",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685426",
+    "name": "Amandine Gamble",
+    "university": "Cornell University",
+    "country": "USA",
+    "email": "amandine.gamble@cornell.edu",
+    "researchArea": "Assistant Professor | Official Cornell University portal verified | One Health, infectious disease ecology, wildlife epidemiology, and pathogen dynamics",
+    "homepage": "https://www.vet.cornell.edu/about-us/people/amandine-gamble-phd-dvm-msc",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685427",
+    "name": "Tory Hendry",
+    "university": "Cornell University",
+    "country": "USA",
+    "email": "th572@cornell.edu",
+    "researchArea": "Associate Professor | Official Cornell University portal verified | Host microbe interactions, bacterial evolution and ecology",
+    "homepage": "https://cals.cornell.edu/people/tory-hendry",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685428",
+    "name": "Pirmin Nietlisbach",
+    "university": "Illinois State University",
+    "country": "USA",
+    "email": "pnietli@ilstu.edu",
+    "researchArea": "Associate Professor of Evolutionary Biology | Official Illinois State University School of Biological Sciences portal verified | Evolutionary and conservation genetics and genomics",
+    "homepage": "https://biology.illinoisstate.edu/faculty-staff/profile/?ulid=pnietli",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685429",
+    "name": "Jotham Suez",
+    "university": "Johns Hopkins University",
+    "country": "USA",
+    "email": "jsuez1@jhu.edu",
+    "researchArea": "Assistant Professor | Official Johns Hopkins University faculty portal verified | Microbiome, microbial ecology, symbiotic bacteria, viruses and fungi in human health",
+    "homepage": "https://publichealth.jhu.edu/faculty/4091/jotham-suez",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685430",
+    "name": "Thomas M. Hart",
+    "university": "Johns Hopkins University",
+    "country": "USA",
+    "email": "thart15@jh.edu",
+    "researchArea": "Assistant Professor | Official Johns Hopkins University faculty portal verified | Infectious disease microbiology, Lyme disease bacteria, host pathogen interactions, vaccines and therapeutics",
+    "homepage": "https://publichealth.jhu.edu/faculty/4872/thomas-m-hart",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685431",
+    "name": "Melissa D. Conrad",
+    "university": "Johns Hopkins University",
+    "country": "USA",
+    "email": "mconrad6@jh.edu",
+    "researchArea": "Associate Professor | Official Johns Hopkins University faculty portal verified | Antimalarial drug resistance, malaria transmission and molecular epidemiology",
+    "homepage": "https://publichealth.jhu.edu/faculty/5071/melissa-d-conrad",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685432",
+    "name": "Meghan F. Davis",
+    "university": "Johns Hopkins University",
+    "country": "USA",
+    "email": "mdavis65@jhu.edu",
+    "researchArea": "Associate Professor | Official Johns Hopkins University faculty portal verified | Antimicrobial resistance, environmental epidemiology, One Health, and bacteria host interfaces",
+    "homepage": "https://publichealth.jhu.edu/faculty/3059/meghan-frost-davis",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685433",
+    "name": "Kimberly M. Davis",
+    "university": "Johns Hopkins University",
+    "country": "USA",
+    "email": "kdavi140@jhu.edu",
+    "researchArea": "Associate Professor | Official Johns Hopkins University faculty portal verified | Bacterial population changes during infection, host immune response and pathogen adaptation",
+    "homepage": "https://publichealth.jhu.edu/faculty/3543/kimberly-m-davis",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685434",
+    "name": "Dylan Shropshire",
+    "university": "Lehigh University",
+    "country": "USA",
+    "email": "dys222@lehigh.edu",
+    "researchArea": "Assistant Professor | Official Lehigh University Biological Sciences faculty portal verified | Microbiome, symbiosis, host biology, and evolutionary ecology",
+    "homepage": "https://bio.cas.lehigh.edu/faculty-staff/dylan-shropshire",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685435",
+    "name": "Vassie Ware",
+    "university": "Lehigh University",
+    "country": "USA",
+    "email": "vcw0@lehigh.edu",
+    "researchArea": "Professor | Official Lehigh University Biological Sciences faculty portal verified | Phage biology, functional genomics, phage resistant bacterial strains, and biotechnology",
+    "homepage": "https://bio.cas.lehigh.edu/faculty-staff/vassie-ware",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685436",
+    "name": "Neal D. Hammer",
+    "university": "Michigan State University",
+    "country": "USA",
+    "email": "hammern2@msu.edu",
+    "researchArea": "Associate Professor | Official Michigan State University portal verified | Bacterial physiology, metabolism, and antibiotic resistance",
+    "homepage": "https://directory.natsci.msu.edu/directory/Profiles/Person/101749",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685437",
+    "name": "Jonathan Hardy",
+    "university": "Michigan State University",
+    "country": "USA",
+    "email": "hardyjon@msu.edu",
+    "researchArea": "Associate Professor | Official Michigan State University portal verified | Bacterial biofilms, bacterial metabolism, and antibiotic resistance",
+    "homepage": "https://directory.natsci.msu.edu/directory/Profiles/Person/103371",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685438",
+    "name": "Christopher Waters",
+    "university": "Michigan State University",
+    "country": "USA",
+    "email": "watersc3@msu.edu",
+    "researchArea": "Professor | Official Michigan State University portal verified | Bacterial pathogenesis, biofilms, phage biology, and antibacterial therapies",
+    "homepage": "https://mgi.natsci.msu.edu/research/microbial-symbiosis-pathogenicity.aspx",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685439",
+    "name": "Robert Abramovitch",
+    "university": "Michigan State University",
+    "country": "USA",
+    "email": "abramov5@msu.edu",
+    "researchArea": "Professor | Official Michigan State University portal verified | Bacterial pathogenesis, tuberculosis biology, biosensors, and drug discovery",
+    "homepage": "https://cvm.msu.edu/directory/abramovitch",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685440",
+    "name": "George Sundin",
+    "university": "Michigan State University",
+    "country": "USA",
+    "email": "sundin@msu.edu",
+    "researchArea": "University Distinguished Professor | Official Michigan State University portal verified | Bacterial plant pathogens and bacteriophage based disease control",
+    "homepage": "https://directory.natsci.msu.edu/directory/Profiles/Person/103069",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685441",
+    "name": "Diane Bimczok",
+    "university": "Montana State University",
+    "country": "USA",
+    "email": "diane.bimczok@montana.edu",
+    "researchArea": "Professor | Official Montana State University portal verified | Veterinary microbiology, gut microbiome, host immunity, and avian influenza",
+    "homepage": "https://www.montana.edu/mbi/directory/1819499/diane-bimczok",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685442",
+    "name": "Frank Stewart",
+    "university": "Montana State University",
+    "country": "USA",
+    "email": "frank.stewart@montana.edu",
+    "researchArea": "Professor | Official Montana State University portal verified | Aquatic microbiology, microbial symbiosis, genomics, and low oxygen microbial systems",
+    "homepage": "https://www.montana.edu/mbi/directory/2257528/frank-stewart",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685443",
+    "name": "Jovanka Voyich",
+    "university": "Montana State University",
+    "country": "USA",
+    "email": "jovanka@montana.edu",
+    "researchArea": "Professor | Official Montana State University portal verified | Bacterial pathogenesis, infectious disease, and host pathogen interactions",
+    "homepage": "https://www.montana.edu/mbi/directory/1524709/jovanka-voyich",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685444",
+    "name": "Heather Callaway",
+    "university": "Montana State University",
+    "country": "USA",
+    "email": "heather.callaway@montana.edu",
+    "researchArea": "Assistant Professor | Official Montana State University portal verified | Pathogen biology, molecular microbiology, and antibody and vaccine design",
+    "homepage": "https://www.montana.edu/mbi/directory/2457667/heather-callaway",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685445",
+    "name": "Eric Boyd",
+    "university": "Montana State University",
+    "country": "USA",
+    "email": "eboyd@montana.edu",
+    "researchArea": "Professor | Official Montana State University portal verified | Microbial genomics, extremophile microbiology, and environmental microbial ecology",
+    "homepage": "https://www.montana.edu/mbi/directory/1523925/eric-boyd",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685446",
+    "name": "Jasna Kovac",
+    "university": "Penn State University",
+    "country": "USA",
+    "email": "jzk303@psu.edu",
+    "researchArea": "Associate Professor of Food Science | Official Penn State University portal verified | Microbial food safety, foodborne pathogens, genomic epidemiology, food system microbiomes, and antimicrobial resistance",
+    "homepage": "https://foodscience.psu.edu/directory/jzk303",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685447",
+    "name": "Darrell W. Cockburn",
+    "university": "Penn State University",
+    "country": "USA",
+    "email": "dwc30@psu.edu",
+    "researchArea": "Associate Professor of Food Science | Official Penn State University portal verified | Human gut microbiome, carbohydrate active enzymes, and food microbiology",
+    "homepage": "https://foodscience.psu.edu/directory/dwc30",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685448",
+    "name": "Tim Miyashiro",
+    "university": "Penn State University",
+    "country": "USA",
+    "email": "tim14@psu.edu",
+    "researchArea": "Professor of Biochemistry and Molecular Biology | Official Penn State University portal verified | Bacterial genetics, host associated microbial symbiosis, microbial competition, and microbiome science",
+    "homepage": "https://science.psu.edu/bmb/people/tim14",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685449",
+    "name": "Tingting Ju",
+    "university": "Purdue University",
+    "country": "USA",
+    "email": "ju48@purdue.edu",
+    "researchArea": "Assistant Professor | Official Purdue University portal verified | Microbiome and microbial resistance, gut health, host microbe interaction, and nutrition",
+    "homepage": "https://ag.purdue.edu/directory/ju48",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685450",
+    "name": "Tim Johnson",
+    "university": "Purdue University",
+    "country": "USA",
+    "email": "john2185@purdue.edu",
+    "researchArea": "Associate Professor | Official Purdue University portal verified | Food animal microbiome, microbial ecology, antibiotic resistance, and gut microbiome",
+    "homepage": "https://ag.purdue.edu/directory/john2185",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685451",
+    "name": "Mohit Verma",
+    "university": "Purdue University",
+    "country": "USA",
+    "email": "msverma@purdue.edu",
+    "researchArea": "Associate Professor | Official Purdue University portal verified | Microbiome engineering, gut microbiome, biosensors, and physical organic chemistry",
+    "homepage": "https://engineering.purdue.edu/ABE/people/ptProfile?resource_id=172745",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685452",
+    "name": "Stephen Lindemann",
+    "university": "Purdue University",
+    "country": "USA",
+    "email": "lindems@purdue.edu",
+    "researchArea": "Associate Professor | Official Purdue University portal verified | Diet microbiome interactions, microbiome engineering, and fermentation by gut microbiota",
+    "homepage": "https://ag.purdue.edu/directory/lindems",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685453",
+    "name": "Elle Barnes",
+    "university": "Rochester Institute of Technology",
+    "country": "USA",
+    "email": "embsbi@rit.edu",
+    "researchArea": "Assistant Professor | Official RIT portal verified | Community and microbial ecology, environmental genomics, eDNA, and salamander microbiome",
+    "homepage": "https://www.rit.edu/directory/embsbi-elle-barnes",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685454",
+    "name": "Elena Lopez Peredo",
+    "university": "Rochester Institute of Technology",
+    "country": "USA",
+    "email": "elpsbi@rit.edu",
+    "researchArea": "Assistant Professor | Official RIT portal verified | Marine microbiology, microbiomes across environments, and marine biology",
+    "homepage": "https://www.rit.edu/directory/elpsbi-elena-lopez-peredo",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685455",
+    "name": "Stefan Schulze",
+    "university": "Rochester Institute of Technology",
+    "country": "USA",
+    "email": "sxssbi1@rit.edu",
+    "researchArea": "Assistant Professor | Official RIT portal verified | Proteomics, biomedical treatments, Arctic climate change, and bioinformatics",
+    "homepage": "https://www.rit.edu/pht180/affiliated_faculty",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685456",
+    "name": "Michael Savka",
+    "university": "Rochester Institute of Technology",
+    "country": "USA",
+    "email": "massbi@rit.edu",
+    "researchArea": "Professor | Official RIT portal verified | Bacterial genomics, quorum sensing, grape crown gall disease, and whole genome sequencing",
+    "homepage": "https://www.rit.edu/directory/massbi-michael-savka",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685457",
+    "name": "Vance McCracken",
+    "university": "Southern Illinois University Edwardsville",
+    "country": "USA",
+    "email": "vmccrac@siue.edu",
+    "researchArea": "Associate Professor | Official SIUE portal verified | Gastrointestinal microbiology, mucosal immunology, Helicobacter pylori, enterohepatic Helicobacter species, inflammatory bowel disease, and antimicrobial compounds",
+    "homepage": "https://www.siue.edu/arts-and-sciences/biological-sciences/meet-the-team/mccracken.shtml",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685458",
+    "name": "Susanne DiSalvo",
+    "university": "Southern Illinois University Edwardsville",
+    "country": "USA",
+    "email": "sdisalv@siue.edu",
+    "researchArea": "Associate Professor | Official SIUE portal verified | Host symbiont interactions, social amoeba Dictyostelium as model for bacterial symbionts, Burkholderia, and bacteriophages",
+    "homepage": "https://www.siue.edu/artsandsciences/biology/sdisalv/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685459",
+    "name": "Tom Anderson",
+    "university": "Southern Illinois University Edwardsville",
+    "country": "USA",
+    "email": "thander@siue.edu",
+    "researchArea": "Associate Professor | Official SIUE portal verified | Population and community ecology, species interactions, and aquatic ecology",
+    "homepage": "https://www.siue.edu/arts-and-sciences/biological-sciences/meet-the-team/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685460",
+    "name": "Sarah K. Lucas",
+    "university": "Syracuse University",
+    "country": "USA",
+    "email": "sklucas@syr.edu",
+    "researchArea": "Assistant Professor | Official Syracuse University portal verified | Human microbiome, metagenomics, bioinformatics, anaerobic microbiology, and experimental microbiology",
+    "homepage": "https://artsandsciences.syracuse.edu/people/faculty/sarah-k-lucas/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685461",
+    "name": "Angela M. Oliverio",
+    "university": "Syracuse University",
+    "country": "USA",
+    "email": "amoliver@syr.edu",
+    "researchArea": "Assistant Professor | Official Syracuse University portal verified | Eco-evolutionary dynamics, experimental biology, bioinformatics, soil microbiology, systems and computational biology, metagenomics, and synthetic sourdough starter microbiomes",
+    "homepage": "https://artsandsciences.syracuse.edu/people/faculty/angela-m-oliverio/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685462",
+    "name": "Yasir Ahmed-Braimah",
+    "university": "Syracuse University",
+    "country": "USA",
+    "email": "yahmed@syr.edu",
+    "researchArea": "Associate Professor | Official Syracuse University portal verified | Computational genomics, evolutionary genetics, speciation, and molecular basis of reproductive interactions",
+    "homepage": "https://thecollege.syr.edu/people/faculty/yasir-ahmed-braimah/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685463",
+    "name": "Anthony Garza",
+    "university": "Syracuse University",
+    "country": "USA",
+    "email": "agarza@syr.edu",
+    "researchArea": "Professor Emeritus | Official Syracuse University portal verified | Biofilm formation, stress resistance in bacteria, bacterial natural products, and Myxococcus xanthus",
+    "homepage": "https://artsandsciences.syracuse.edu/people/faculty/garza-anthony/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685464",
+    "name": "David M. Althoff",
+    "university": "Syracuse University",
+    "country": "USA",
+    "email": "dmalthof@syr.edu",
+    "researchArea": "Associate Professor | Official Syracuse University portal verified | Evolutionary ecology of species interactions, insect community ecology, molecular ecology, and phylogenetics",
+    "homepage": "https://thecollege.syr.edu/people/faculty/althoff-david-m-/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685465",
+    "name": "Amanda M.V. Brown",
+    "university": "Texas Tech University",
+    "country": "USA",
+    "email": "amanda.mv.brown@ttu.edu",
+    "researchArea": "Associate Professor | Official Texas Tech University portal verified | Microbial metagenomics, population and evolutionary ecology, symbiosis, transcriptomics, and microbiome",
+    "homepage": "https://www.depts.ttu.edu/biology/people/Faculty/Brown/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685466",
+    "name": "Caleb D. Phillips",
+    "university": "Texas Tech University",
+    "country": "USA",
+    "email": "caleb.phillips@ttu.edu",
+    "researchArea": "Associate Professor | Official Texas Tech University portal verified | Functional genomics, metagenomics, metagenomics, gut microbiome, and microbial ecology",
+    "homepage": "https://www.depts.ttu.edu/biology/people/Faculty/phillipscaleb/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685467",
+    "name": "Margaret Steele",
+    "university": "Texas Tech University",
+    "country": "USA",
+    "email": "margaret.steele@ttu.edu",
+    "researchArea": "Assistant Professor | Official Texas Tech University portal verified | Bacterial genetics, microbial evolution, Pseudomonas protegens, and microbial ecology",
+    "homepage": "https://www.depts.ttu.edu/biology/people/Faculty/Steele/index.php",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685468",
+    "name": "Guy H. Loneragan",
+    "university": "Texas Tech University",
+    "country": "USA",
+    "email": "Guy.loneragan@ttu.edu",
+    "researchArea": "Dean and Professor | Official Texas Tech University portal verified | Antimicrobial use and resistance in bacterial populations of livestock, ecology of zoonotic bacteria, One Health",
+    "homepage": "https://www.depts.ttu.edu/vetschool/about/who-we-are/directory/faculty/guy-loneragan/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685469",
+    "name": "Bryan Brown",
+    "university": "University of California Riverside",
+    "country": "USA",
+    "email": "bryan.brown1@ucr.edu",
+    "researchArea": "Assistant Professor | Official UC Riverside portal verified | Microbiome initiative, systems microbiology, immune cell bacteria interactions, computational and molecular tools",
+    "homepage": "https://profiles.ucr.edu/app/home/profile/bbrown",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685470",
+    "name": "Sydney Glassman",
+    "university": "University of California Riverside",
+    "country": "USA",
+    "email": "sydney.glassman@ucr.edu",
+    "researchArea": "Associate Professor | Official UC Riverside portal verified | Plant pathology, microbiology, fungal and bacterial responses to fire, microbial ecology",
+    "homepage": "https://profiles.ucr.edu/app/home/profile/sydneyg",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685471",
+    "name": "Patrick Degnan",
+    "university": "University of California Riverside",
+    "country": "USA",
+    "email": "patrick.degnan@ucr.edu",
+    "researchArea": "Professor | Official UC Riverside portal verified | Microbial diversity, host symbiont interactions, human gut bacteria, vitamin B12 sharing, and carb eating bacteria",
+    "homepage": "https://cnas.ucr.edu/people/faculty/microbiology-plant-pathology",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685472",
+    "name": "Joel L. Sachs",
+    "university": "University of California Riverside",
+    "country": "USA",
+    "email": "joel.sachs@ucr.edu",
+    "researchArea": "Professor and Department Chair | Official UC Riverside portal verified | Evolutionary ecology, plant microbe interactions, microbial symbiosis, and mutualism",
+    "homepage": "https://profiles.ucr.edu/app/home/profile/joels",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685473",
+    "name": "Katherine Borkovich",
+    "university": "University of California Riverside",
+    "country": "USA",
+    "email": "katherine.borkovich@ucr.edu",
+    "researchArea": "Professor and Divisional Dean | Official UC Riverside portal verified | Fungal cell biology, biochemistry, microbiology, plant pathology, and microbial genomics",
+    "homepage": "https://profiles.ucr.edu/app/home/profile/katherib",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685474",
+    "name": "Aditya Kunjapur",
+    "university": "University of Delaware",
+    "country": "USA",
+    "email": "kunjapur@udel.edu",
+    "researchArea": "Associate Professor | Official University of Delaware portal verified | Biological containment of microbes, live bacterial vaccine platforms, bacterial spore display, synthetic biology",
+    "homepage": "https://www.udel.edu/academics/colleges/grad/prospective-students/programs/interdisciplinary/microbiology/faculty/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685475",
+    "name": "Jennifer Biddle",
+    "university": "University of Delaware",
+    "country": "USA",
+    "email": "jennifer.biddle@udel.edu",
+    "researchArea": "Professor | Official University of Delaware portal verified | Microbial ecology, marine science, deep subsurface microbiology, fungi beneath seafloor",
+    "homepage": "https://www.udel.edu/academics/colleges/ceoe/departments/smsp/faculty/jennifer-biddle/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685476",
+    "name": "Shawn W. Polson",
+    "university": "University of Delaware",
+    "country": "USA",
+    "email": "polson@udel.edu",
+    "researchArea": "Professor | Official University of Delaware portal verified | Bioinformatics, computational biology, bioinformatics data science core, INBRE",
+    "homepage": "https://bioinformatics.udel.edu/people/shawn-w-polson-phd/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685477",
+    "name": "Alexa Johnson",
+    "university": "University of Delaware",
+    "country": "USA",
+    "email": "alexacbj@udel.edu",
+    "researchArea": "Assistant Professor | Official University of Delaware portal verified | Gut microbiome of horses and dairy cattle, animal health microbiome, equine microbiome",
+    "homepage": "https://www.udel.edu/academics/colleges/canr/news/2026/july/alexa-johnson-animal-health-microbiome/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685478",
+    "name": "Ryan Blaustein",
+    "university": "University of Maryland",
+    "country": "USA",
+    "email": "rblauste@umd.edu",
+    "researchArea": "Assistant Professor | Official University of Maryland portal verified | Microbial ecology, microbial genomics, food safety, public health, antibiotic resistance in urban farms",
+    "homepage": "https://agnr.umd.edu/about/directory/ryan-blaustein",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685479",
+    "name": "Brantley Hall",
+    "university": "University of Maryland",
+    "country": "USA",
+    "email": "brantley@umd.edu",
+    "researchArea": "Associate Professor | Official University of Maryland portal verified | Gut microbiome, human health, bacterial genes, gastrointestinal diseases, wearable microbiome monitoring",
+    "homepage": "https://cbmg.umd.edu/people/brantley-hall",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685480",
+    "name": "Birthe Kjellerup",
+    "university": "University of Maryland",
+    "country": "USA",
+    "email": "bkjeller@umd.edu",
+    "researchArea": "Professor | Official University of Maryland portal verified | Civil and environmental engineering, co-director Center of Excellence in Microbiome Sciences, biofilm, environmental microbiome",
+    "homepage": "https://microbiome.umd.edu/team/faculty/birthe-kjellerup",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685481",
+    "name": "Mihai Pop",
+    "university": "University of Maryland",
+    "country": "USA",
+    "email": "mpop@umd.edu",
+    "researchArea": "Professor | Official University of Maryland portal verified | Computer science, director University of Maryland Center of Excellence in Microbiome Sciences, bioinformatics, microbiome",
+    "homepage": "https://microbiome.umd.edu/news-events/news/mihai-pop-named-mpower-professor",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685482",
+    "name": "Pia Moisander",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "USA",
+    "email": "pmoisander@umassd.edu",
+    "researchArea": "Professor | Official UMass Dartmouth portal verified | Marine microbiology, microbiomes, microbial community ecology, biofilms",
+    "homepage": "https://www.umassd.edu/cas/biology/faculty/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685483",
+    "name": "Katrina Velle",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "USA",
+    "email": "kvelle@umassd.edu",
+    "researchArea": "Assistant Professor | Official UMass Dartmouth portal verified | Cell migration, actin cytoskeleton, amoebae, microbial pathogenesis",
+    "homepage": "https://www.umassd.edu/cas/biology/faculty/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685484",
+    "name": "Genevieve Kozak",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "USA",
+    "email": "gkozak@umassd.edu",
+    "researchArea": "Associate Professor | Official UMass Dartmouth portal verified | Speciation, genomics, evolutionary biology, hybridization",
+    "homepage": "https://www.umassd.edu/cas/biology/faculty/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685485",
+    "name": "Robert Drew",
+    "university": "University of Massachusetts Dartmouth",
+    "country": "USA",
+    "email": "rdrew@umassd.edu",
+    "researchArea": "Associate Professor | Official UMass Dartmouth portal verified | Genomic and quantitative genetic approaches, fish domestication, adaptations",
+    "homepage": "https://www.umassd.edu/cas/biology/faculty/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685486",
+    "name": "Patrick D. Schloss",
+    "university": "University of Michigan",
+    "country": "USA",
+    "email": "pschloss@umich.edu",
+    "researchArea": "Professor | Official University of Michigan portal verified | Microbiome research, gut microbiome, colon cancer detection, microbial ecology",
+    "homepage": "https://medschool.umich.edu/profile/2341/patrick-d-schloss",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685487",
+    "name": "Eric C. Martens",
+    "university": "University of Michigan",
+    "country": "USA",
+    "email": "emartens@umich.edu",
+    "researchArea": "Professor | Official University of Michigan portal verified | Commensal microbiota, bacteriophages, inflammatory bowel disease, gut microbiome",
+    "homepage": "https://medschool.umich.edu/profile/3787/eric-c-martens",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685488",
+    "name": "Gary B. Huffnagle",
+    "university": "University of Michigan",
+    "country": "USA",
+    "email": "ghuffnag@umich.edu",
+    "researchArea": "Professor | Official University of Michigan portal verified | Mucosal immunity, lung microbiome, microbiome, probiotics, gut microbiome",
+    "homepage": "https://medschool.umich.edu/profile/2641/gary-b-huffnagle",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685489",
+    "name": "Marcy J. Balunas",
+    "university": "University of Michigan",
+    "country": "USA",
+    "email": "mbalunas@umich.edu",
+    "researchArea": "Associate Professor | Official University of Michigan portal verified | Microbial symbiosis, medicinal chemistry, multi-omics integration, drug discovery",
+    "homepage": "https://medschool.umich.edu/profile/8870/marcy-j-balunas",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685490",
+    "name": "Thomas M. Schmidt",
+    "university": "University of Michigan",
+    "country": "USA",
+    "email": "schmidti@umich.edu",
+    "researchArea": "Professor | Official University of Michigan portal verified | Microbial ecology, ecology of microbes and microbial communities, microbiome",
+    "homepage": "https://medschool.umich.edu/profile/203/thomas-m-schmidt",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685491",
+    "name": "Andres M. Gomez",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "email": "gomeza@umn.edu",
+    "researchArea": "Associate Professor | Official University of Minnesota portal verified | Microbiomics, diet, food animals, nonhuman primates, evolution, animal microbiome",
+    "homepage": "https://ansci.umn.edu/people/andres-gomez",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685492",
+    "name": "Dan Knights",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "email": "dknights@umn.edu",
+    "researchArea": "Associate Professor | Official University of Minnesota portal verified | Computational genomics, microbiome, industrialization, human health, bioinformatics",
+    "homepage": "https://cse.umn.edu/cs/dan-knights",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685493",
+    "name": "Alexander Khoruts",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "email": "khoru002@umn.edu",
+    "researchArea": "Professor | Official University of Minnesota portal verified | Mucosal immunology, gut microbiome, fecal microbiota transplantation, microbiome therapeutics",
+    "homepage": "https://med.umn.edu/bio/alexander-khoruts",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685494",
+    "name": "Christopher Staley",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "email": "cmstaley@umn.edu",
+    "researchArea": "Associate Professor | Official University of Minnesota portal verified | Microbial ecology, metagenomics, microbiome, fecal microbiota transplantation",
+    "homepage": "https://med.umn.edu/bio/christopher-staley",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685495",
+    "name": "Timothy J. Johnson",
+    "university": "University of Minnesota",
+    "country": "USA",
+    "email": "tjj@umn.edu",
+    "researchArea": "Professor | Official University of Minnesota portal verified | Salmonella, antimicrobial resistance, microbiome, poultry, E. coli, food safety",
+    "homepage": "https://vetmed.umn.edu/bio/college-of-veterinary-medicine/tim-johnson",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685496",
+    "name": "Vincent G. Martinson",
+    "university": "University of New Mexico",
+    "country": "USA",
+    "email": "vmartinson@unm.edu",
+    "researchArea": "Assistant Professor | Official UNM portal verified | Genetics, Invertebrate Biology, Microbial Ecology, Microbiology",
+    "homepage": "https://biology.unm.edu/people/faculty/faculty.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685497",
+    "name": "Cristina D. Takacs-Vesbach",
+    "university": "University of New Mexico",
+    "country": "USA",
+    "email": "cvesbach@unm.edu",
+    "researchArea": "Professor | Official UNM portal verified | Evolutionary Biology, Immunology, Microbiology, Molecular Evolution, Aquatic Ecology, Microbial Ecology",
+    "homepage": "https://biology.unm.edu/people/faculty/faculty.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685498",
+    "name": "Irene Salinas Remiro",
+    "university": "University of New Mexico",
+    "country": "USA",
+    "email": "isalinas@unm.edu",
+    "researchArea": "Professor | Official UNM portal verified | Evolutionary Biology, Immunology, Microbiology, Molecular Evolution",
+    "homepage": "https://biology.unm.edu/people/faculty/faculty.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685499",
+    "name": "Robert D. Miller",
+    "university": "University of New Mexico",
+    "country": "USA",
+    "email": "rdmiller@unm.edu",
+    "researchArea": "Distinguished Professor | Official UNM portal verified | Immunology, Vertebrate Biology, Molecular Biology",
+    "homepage": "https://biology.unm.edu/people/faculty/faculty.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685500",
+    "name": "Lindsey Burcham",
+    "university": "University of Tennessee",
+    "country": "USA",
+    "email": "lburcham@utk.edu",
+    "researchArea": "Assistant Professor | Official UTK Microbiology portal verified | Microbiology, AMR working group affiliate",
+    "homepage": "https://micro.utk.edu/people/our-faculty/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685501",
+    "name": "Zachary Burcham",
+    "university": "University of Tennessee",
+    "country": "USA",
+    "email": "zburcham@utk.edu",
+    "researchArea": "Assistant Professor | Official UTK Microbiology portal verified | Microbiology, AMR working group affiliate",
+    "homepage": "https://micro.utk.edu/people/our-faculty/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685502",
+    "name": "Sara Clasen",
+    "university": "University of Tennessee",
+    "country": "USA",
+    "email": "sclasen@utk.edu",
+    "researchArea": "Assistant Professor | Official UTK Microbiology portal verified | Microbiology, AMR working group affiliate",
+    "homepage": "https://micro.utk.edu/people/our-faculty/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685503",
+    "name": "Dinesh Gupta",
+    "university": "University of Tennessee",
+    "country": "USA",
+    "email": "dgupta6@utk.edu",
+    "researchArea": "Assistant Professor | Official UTK Microbiology portal verified | Microbiology, AMR working group affiliate",
+    "homepage": "https://micro.utk.edu/people/our-faculty/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685504",
+    "name": "Jennifer Heppert",
+    "university": "University of Tennessee",
+    "country": "USA",
+    "email": "jheppert@utk.edu",
+    "researchArea": "Assistant Professor | Official UTK Microbiology portal verified | Microbiology, AMR working group affiliate",
+    "homepage": "https://micro.utk.edu/people/our-faculty/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685505",
+    "name": "Brett Baker",
+    "university": "University of Texas at Austin",
+    "country": "USA",
+    "email": "brett_baker@utexas.edu",
+    "researchArea": "Associate Professor | Official UT Austin portal verified | Microbial ecology, microbial evolution, microbiome, planetary science and habitability",
+    "homepage": "https://marinescience.utexas.edu/directory/brett-baker",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685506",
+    "name": "Nancy Moran",
+    "university": "University of Texas at Austin",
+    "country": "USA",
+    "email": "nancy.moran@austin.utexas.edu",
+    "researchArea": "Professor | Official UT Austin portal verified | Evolutionary biology, gut microbiome, insect symbiosis, honeybee microbiome",
+    "homepage": "https://integrativebio.utexas.edu/directory/nancy-moran",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685507",
+    "name": "Amanda Koltz",
+    "university": "University of Texas at Austin",
+    "country": "USA",
+    "email": "akoltz@utexas.edu",
+    "researchArea": "Assistant Professor | Official UT Austin portal verified | Integrative biology, microbiome, ecology",
+    "homepage": "https://integrativebio.utexas.edu/directory/amanda-koltz",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685508",
+    "name": "Kelli Palmer",
+    "university": "University of Texas at Austin",
+    "country": "USA",
+    "email": "kpalmer@utexas.edu",
+    "researchArea": "Assistant Professor | Official UT Austin portal verified | Molecular and cell biology, antibiotic resistance, microbiome",
+    "homepage": "https://integrativebio.utexas.edu/directory/kelli-palmer",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685509",
+    "name": "Andrew Ellington",
+    "university": "University of Texas at Austin",
+    "country": "USA",
+    "email": "andy.ellington@austin.utexas.edu",
+    "researchArea": "Professor | Official UT Austin portal verified | Molecular biology, microbiome, synthetic biology, bioinformatics",
+    "homepage": "https://integrativebio.utexas.edu/directory/andrew-ellington",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685510",
+    "name": "Kelli Palmer",
+    "university": "University of Texas at Dallas",
+    "country": "USA",
+    "email": "kelli.palmer@utdallas.edu",
+    "researchArea": "Assistant Professor | Official UT Dallas portal verified | Molecular and cell biology, antibiotic resistance, genomics, bacterial physiology, microbiome",
+    "homepage": "https://profiles.utdallas.edu/kelli.palmer",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685511",
+    "name": "Margaret Alexander",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "mralexander2@wisc.edu",
+    "researchArea": "Assistant Professor | Official UW-Madison portal verified | Diet, microbiota and immune response interactions",
+    "homepage": "https://microbiology.wisc.edu/trainer-directory/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685512",
+    "name": "Daniel Amador-Noguez",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "amadornoguez@wisc.edu",
+    "researchArea": "Associate Professor | Official UW-Madison portal verified | Metabolic regulation in biofuels, microbial systems biology, metabolism",
+    "homepage": "https://microbiology.wisc.edu/trainer-directory/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685513",
+    "name": "Mostafa Zamanian",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "mzamanian@wisc.edu",
+    "researchArea": "Associate Professor | Official UW-Madison portal verified | Molecular communication and drug resistance, parasitic worms, genomics",
+    "homepage": "https://microbiology.wisc.edu/trainer-directory/genomics-research-area/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685514",
+    "name": "Erica Majumder",
+    "university": "University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "emajumder@wisc.edu",
+    "researchArea": "Assistant Professor | Official UW-Madison portal verified | Bacteriology, microbial ecology, phage biology",
+    "homepage": "https://masters.bact.wisc.edu/2026/06/02/pbs-wisconsin-education-article-breaking-it-down-features-bacteriology-ms-trainer-dr-erica-majumder/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685515",
+    "name": "Bledar Bisha",
+    "university": "University of Wyoming",
+    "country": "USA",
+    "email": "bbisha@uwyo.edu",
+    "researchArea": "Professor | Official UWyo portal verified | Food microbiology, antimicrobial resistance, microbial food safety, population level AMR surveillance",
+    "homepage": "https://www.uwyo.edu/anisci/personnel-directory/wyoming-faculty-and-staff/bledar-bisha.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685516",
+    "name": "Grant Bowman",
+    "university": "University of Wyoming",
+    "country": "USA",
+    "email": "gbowman2@uwyo.edu",
+    "researchArea": "Associate Professor | Official UWyo portal verified | Molecular biology, microbial genetics, cellular life sciences",
+    "homepage": "https://www.uwyo.edu/molecbio/faculty-and-staff/grant-bowman.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685517",
+    "name": "Thomas Boothby",
+    "university": "University of Wyoming",
+    "country": "USA",
+    "email": "tboothby@uwyo.edu",
+    "researchArea": "Associate Professor | Official UWyo portal verified | Molecular biology, tardigrade proteins, radiation exposure, extremophile biology",
+    "homepage": "https://www.uwyo.edu/molecbio/faculty-and-staff/thomas-boothby.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685518",
+    "name": "Nicole Bedford",
+    "university": "University of Wyoming",
+    "country": "USA",
+    "email": "nbedford@uwyo.edu",
+    "researchArea": "Assistant Professor | Official UWyo portal verified | Zoology and physiology, life sciences, ecology",
+    "homepage": "https://www.uwyo.edu/uwgrad/interdisciplinary-programs/mcls/faculty-staff.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685519",
+    "name": "Dana Dittoe",
+    "university": "University of Wyoming",
+    "country": "USA",
+    "email": "ddittoe@uwyo.edu",
+    "researchArea": "Assistant Professor | Official UWyo portal verified | Meat microbiology, food safety, microbial food safety",
+    "homepage": "https://www.uwyo.edu/anisci/personnel-directory/wyoming-faculty-and-staff/index.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685520",
+    "name": "Eric Lofgren",
+    "university": "Washington State University",
+    "country": "USA",
+    "email": "eric.lofgren@wsu.edu",
+    "researchArea": "Associate Professor | Official WSU portal verified | Antimicrobial resistance, bioinformatics, epidemiology, infectious disease modeling",
+    "homepage": "https://vetmed.wsu.edu/our-team/wsu-profile/eric.lofgren/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685521",
+    "name": "Brooke Ramay",
+    "university": "Washington State University",
+    "country": "USA",
+    "email": "brooke.ramay@wsu.edu",
+    "researchArea": "Associate Professor | Official WSU portal verified | Antimicrobial resistance, One Health, global health, veterinary medicine",
+    "homepage": "https://vetmed.wsu.edu/our-team/wsu-profile/brooke.ramay/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685522",
+    "name": "Marcie Logsdon",
+    "university": "Washington State University",
+    "country": "USA",
+    "email": "marcie.logsdon@wsu.edu",
+    "researchArea": "Associate Professor | Official WSU portal verified | Exotics, antimicrobial resistance, bioinformatics, veterinary medicine",
+    "homepage": "https://vetmed.wsu.edu/education/graduate-degrees/faculty-directory/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685523",
+    "name": "Abu Chowdhury",
+    "university": "Washington State University",
+    "country": "USA",
+    "email": "abu.chowdhury@wsu.edu",
+    "researchArea": "Assistant Professor | Official WSU portal verified | Antimicrobial exposure, hospital epidemiology, infectious disease",
+    "homepage": "https://rex.libraries.wsu.edu/view/pdfCoverPage?instCode=01ALLIANCE_WSU&filePid=13344497940001842&download=true",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685524",
+    "name": "Jason Crawford",
+    "university": "Yale University",
+    "country": "USA",
+    "email": "jason.crawford@yale.edu",
+    "researchArea": "Professor | Official Yale portal verified | Chemistry, microbial pathogenesis, gut microbiome, genome sequence guided discovery",
+    "homepage": "https://medicine.yale.edu/profile/jason-crawford/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685525",
+    "name": "Purushottam Dixit",
+    "university": "Yale University",
+    "country": "USA",
+    "email": "purushottam.dixit@yale.edu",
+    "researchArea": "Assistant Professor | Official Yale portal verified | Biomedical engineering, quantitative biology, microbiome, biophysics",
+    "homepage": "https://medicine.yale.edu/profile/purushottam-dixit/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685526",
+    "name": "Vanessa Ezenwa",
+    "university": "Yale University",
+    "country": "USA",
+    "email": "vanessa.ezenwa@yale.edu",
+    "researchArea": "Professor | Official Yale portal verified | Disease ecology, host parasite interaction, co-infection, helminths, microbiome",
+    "homepage": "https://eeb.yale.edu/people/faculty/vanessa-ezenwa",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685527",
+    "name": "Melinda Pettigrew",
+    "university": "Yale University",
+    "country": "USA",
+    "email": "melinda.pettigrew@yale.edu",
+    "researchArea": "Professor | Official Yale portal verified | Antimicrobial resistance, epidemiology of microbial diseases, microbiome, public health",
+    "homepage": "https://ysph.yale.edu/profile/melinda-pettigrew/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685528",
+    "name": "Richard Bennett",
+    "university": "Brown University",
+    "country": "USA",
+    "email": "Richard_Bennett@brown.edu",
+    "researchArea": "Professor | Official Brown portal verified | Candida biology, fungal pathogenesis, genome sequencing and RNA sequencing",
+    "homepage": "https://vivo.brown.edu/display/rbennett",
+    "researchProfile": "",
+    "status": {
+      "mailed": true,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685529",
+    "name": "Matthew Blair",
+    "university": "The University of Alabama",
+    "country": "USA",
+    "email": "matthew.blair@ua.edu",
+    "researchArea": "Assistant Professor | Official University of Alabama homepage verified | Environmental microbiology, microbial ecology, functional genomics, pathogens, antibiotic resistance, water quality and One Water systems",
+    "homepage": "https://eng.ua.edu/eng-directory/dr-matthew-blair/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685530",
+    "name": "Melanie Higgins",
+    "university": "The University of Alabama",
+    "country": "USA",
+    "email": "mahiggins1@ua.edu",
+    "researchArea": "Assistant Professor | Accepting Graduate Students | Official University of Alabama homepage verified | Microbial natural products, genome mining, bacterial glycan degradation, commensal and pathogenic bacteria, gastrointestinal microbiology, antibiotic discovery",
+    "homepage": "https://bsc.ua.edu/people/melanie-higgins/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685531",
+    "name": "Soyoung Park",
+    "university": "The University of Alabama",
+    "country": "USA",
+    "email": "spark85@ua.edu",
+    "researchArea": "Assistant Professor | Accepting Graduate Students | Official University of Alabama homepage verified | Human pathogenic bacteria, Pseudomonas aeruginosa biofilms, bacterial environmental sensing, motile and sessile transitions, infection control",
+    "homepage": "https://bsc.ua.edu/people/soyoung-park/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685532",
+    "name": "Liliana Salvador",
+    "university": "University of Arizona",
+    "country": "USA",
+    "email": "lilianasalvador@arizona.edu",
+    "researchArea": "Assistant Professor | Member of the Graduate Faculty | Official University of Arizona profile verified | One Health, zoonotic disease ecology and evolution, veterinary epidemiology, molecular epidemiology and bioinformatics",
+    "homepage": "https://profiles.arizona.edu/person/lilianasalvador",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685533",
+    "name": "Rebecca Schomer",
+    "university": "University of Arizona",
+    "country": "USA",
+    "email": "rschomer@arizona.edu",
+    "researchArea": "Assistant Professor | Member of the Graduate Faculty | Official University of Arizona profile verified | Microbial physiology, microbial diversity, bacterial genetics, plant pathology, chemotaxis and biodegradation",
+    "homepage": "https://profiles.arizona.edu/person/rschomer",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685534",
+    "name": "Laura Meredith",
+    "university": "University of Arizona",
+    "country": "USA",
+    "email": "laurameredith@arizona.edu",
+    "researchArea": "Assistant Professor of Ecosystem Genomics | Official University of Arizona profile verified | Environmental microbiology, ecosystem genomics, microbial communities, microbe-mediated processes and gene-to-function analysis",
+    "homepage": "https://profiles.arizona.edu/person/laurameredith",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685535",
+    "name": "Kerry K Cooper",
+    "university": "University of Arizona",
+    "country": "USA",
+    "email": "kcooper@arizona.edu",
+    "researchArea": "Official University of Arizona profile verified | Food safety and epidemiology, foodborne pathogens, Salmonella, Campylobacter, E. coli, bacterial pathogenesis, comparative genomics, WGS, bioinformatics, microbiome and outbreak source tracking",
+    "homepage": "https://profiles.arizona.edu/person/kcooper",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685536",
+    "name": "Michael D. L. Johnson",
+    "university": "University of Arizona",
+    "country": "USA",
+    "email": "mdljohnson@arizona.edu",
+    "researchArea": "Official University of Arizona profile verified | Microbiology, microbial genomics, molecular microbiology, bacterial response to metal stress, pathogen biology and host immunity",
+    "homepage": "https://profiles.arizona.edu/person/mdljohnson",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685537",
+    "name": "Amir Mani",
+    "university": "University of Arkansas",
+    "country": "USA",
+    "email": "amani1@uark.edu",
+    "researchArea": "Assistant Professor | Official University of Arkansas faculty directory and university news verified | Gut microbiome, antibiotic resistance, probiotics, bacterial effects on the immune system and microbiome sustainability",
+    "homepage": "https://animal-science.uark.edu/people/faculty-directory.php",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685538",
+    "name": "Aranyak Goswami",
+    "university": "University of Arkansas",
+    "country": "USA",
+    "email": "garanyak@uark.edu",
+    "researchArea": "Assistant Professor | Official University of Arkansas lab homepage verified | Computational biology, genomics, precision medicine, human and animal microbiome, metagenomics, microbial evolution and host pathogen interactions",
+    "homepage": "https://goswamilab.uark.edu/about/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685539",
+    "name": "Jennifer C. Acuff",
+    "university": "University of Arkansas",
+    "country": "USA",
+    "email": "jcacuff@uark.edu",
+    "researchArea": "Assistant Professor | Official University of Arkansas Food Science faculty page verified | Food microbiology and safety, foodborne pathogen control, food processing interventions and post-harvest safety",
+    "homepage": "https://food-science.uark.edu/people/faculty/uid/jcacuff/name/Jennifer+C.+Acuff/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685540",
+    "name": "Tomi Obe",
+    "university": "University of Arkansas",
+    "country": "USA",
+    "email": "toobe@uark.edu",
+    "researchArea": "Assistant Professor | Official University of Arkansas Food Science and Poultry Science faculty pages verified | Foodborne pathogens in poultry, pathogen identification and subtyping, intervention strategies and poultry food safety",
+    "homepage": "https://food-science.uark.edu/people/faculty/uid/toobe/name/Tomi+Obe/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685541",
+    "name": "Yolanda Huang",
+    "university": "University at Buffalo",
+    "country": "USA",
+    "email": "yyh@buffalo.edu",
+    "researchArea": "Assistant Professor | Official University at Buffalo Jacobs School profile verified | Bacterial pathogenesis, gut bacteria and phages, functional genomics, genome-wide screening, microbial metabolism, bioinformatics and host microbe interactions",
+    "homepage": "https://medicine.buffalo.edu/phdprogram/faculty/profile.html?ubit=yyh",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685542",
+    "name": "Marcella Baiz",
+    "university": "University at Buffalo",
+    "country": "USA",
+    "email": "mbaiz@buffalo.edu",
+    "researchArea": "Assistant Professor | Official University at Buffalo Biological Sciences profile verified | Evolutionary genomics, host-associated microbiomes, microbial community differentiation, symbiotic interactions, adaptation and speciation",
+    "homepage": "https://arts-sciences.buffalo.edu/biological-sciences/faculty/faculty-directory/marcella-baiz.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685543",
+    "name": "Ryan Hunter",
+    "university": "University at Buffalo",
+    "country": "USA",
+    "email": "rhunter2@buffalo.edu",
+    "researchArea": "Professor | Official University at Buffalo Jacobs School profile verified | Bacterial pathogenesis, airway polymicrobial communities, microbiome, genomics, bacterial genetics, infectious disease and microbial interactions",
+    "homepage": "https://medicine.buffalo.edu/phdprogram/faculty/profile.html?ubit=rhunter2",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685544",
+    "name": "Yijun Sun",
+    "university": "University at Buffalo",
+    "country": "USA",
+    "email": "yijunsun@buffalo.edu",
+    "researchArea": "Professor of Bioinformatics | Official University at Buffalo Jacobs School profile verified | Metagenomics, microbial-community analysis, computational biology, bioinformatics, infectious-disease signatures and microbial genome analysis",
+    "homepage": "https://medicine.buffalo.edu/phdprogram/faculty/profile.html?ubit=yijunsun",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685545",
+    "name": "Ashley Wolf",
+    "university": "University of California Berkeley",
+    "country": "USA",
+    "email": "awolf@berkeley.edu",
+    "researchArea": "Assistant Professor | Official UC Berkeley Public Health profile verified | Gut microbiome variation, microbial communities in mammalian health and disease, microbial competition, host factors, computational microbiology and microbial therapeutics",
+    "homepage": "https://publichealth.berkeley.edu/people/ashley-wolf",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685546",
+    "name": "Charles Whittaker",
+    "university": "University of California Berkeley",
+    "country": "USA",
+    "email": "cwhittaker@berkeley.edu",
+    "researchArea": "Assistant Professor | Official UC Berkeley Public Health profile verified | Pathogen surveillance, zoonotic spillover, infectious diseases, pathogen genomics, epidemiological modelling, machine learning and pandemic preparedness",
+    "homepage": "https://publichealth.berkeley.edu/people/charles-whittaker",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685547",
+    "name": "Tierra Smiley Evans",
+    "university": "University of California Berkeley",
+    "country": "USA",
+    "email": "tsmevans@berkeley.edu",
+    "researchArea": "Assistant Professor of Emerging Zoonoses | DVM, PhD | Official UC Berkeley Public Health and Integrative Biology profiles verified | Emerging zoonoses, wildlife health, pathogen spillover, infectious disease ecology, computational and field-based pathogen research",
+    "homepage": "https://publichealth.berkeley.edu/people/tierra-smiley-evans",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685548",
+    "name": "Daniel Portnoy",
+    "university": "University of California Berkeley",
+    "country": "USA",
+    "email": "portnoy@berkeley.edu",
+    "researchArea": "Distinguished Professor of Biochemistry, Biophysics and Structural Biology | Official UC Berkeley Molecular and Cell Biology profile verified | Listeria monocytogenes, intracellular foodborne pathogen biology, host pathogen interactions and infection mechanisms",
+    "homepage": "https://mcb.berkeley.edu/faculty/BMB/portnoyd.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685549",
+    "name": "Gregory P. Donaldson",
+    "university": "University of California Los Angeles",
+    "country": "USA",
+    "email": "donaldson@g.ucla.edu",
+    "researchArea": "Assistant Professor | Official UCLA Microbiology, Immunology and Molecular Genetics profile verified | Gut microbiome, probiotics, host epithelial interactions, bacterial physiology and microbiome related health and disease",
+    "homepage": "https://mimg.ucla.edu/people/gregory-p-donaldson-phd",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685550",
+    "name": "Elaine Yih-Nien Hsiao",
+    "university": "University of California Los Angeles",
+    "country": "USA",
+    "email": "ehsiao@g.ucla.edu",
+    "researchArea": "Associate Professor | Official UCLA Integrative Biology and Physiology profile verified | Gut microbiota, microbiome immune interactions, neuroimmune biology, animal behavior, neurodevelopment and host health",
+    "homepage": "https://www.ibp.ucla.edu/faculty/elaine-hsiao/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685551",
+    "name": "Nandita Garud",
+    "university": "University of California Los Angeles",
+    "country": "USA",
+    "email": "ngarud@g.ucla.edu",
+    "researchArea": "Associate Professor | Official UCLA Medical School profile verified | Human gut microbiome, microbial ecology and evolution, population genetics, microbial adaptation and genomics",
+    "homepage": "https://medschool.ucla.edu/people/nandita-garud-phd",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685552",
+    "name": "James Chen",
+    "university": "University of California San Francisco",
+    "country": "USA",
+    "email": "James.Chen5@ucsf.edu",
+    "researchArea": "Assistant Professor | Official UCSF Microbiology and Immunology profile verified | Mycobacterial pathogenesis, bacterial genetics, structural cell biology, antibiotic resistance and Mycobacterium tuberculosis",
+    "homepage": "https://profiles.ucsf.edu/james.chen",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685553",
+    "name": "Chaz Langelier",
+    "university": "University of California San Francisco",
+    "country": "USA",
+    "email": "chaz.langelier@ucsf.edu",
+    "researchArea": "Professor in Residence | Official UCSF Infectious Diseases profile and UCSF lab contact page verified | Lower respiratory tract infections, ARDS, sepsis, nosocomial infections, emerging pathogens, microbiome and metagenomic AMR diagnostics",
+    "homepage": "https://infectiousdiseases.ucsf.edu/people/chaz-langelier",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685554",
+    "name": "Charles Chiu",
+    "university": "University of California San Francisco",
+    "country": "USA",
+    "email": "charles.chiu@ucsf.edu",
+    "researchArea": "Professor | Official UCSF Department of Medicine profile verified | Infectious diseases, pathogen detection, metagenomic next-generation sequencing, genomic diagnostics and microbial discovery",
+    "homepage": "https://medicine.ucsf.edu/people/charles-chiu",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685555",
+    "name": "Michael J. Mahan",
+    "university": "University of California Santa Barbara",
+    "country": "USA",
+    "email": "michael.mahan@lifesci.ucsb.edu",
+    "researchArea": "Professor | Official UC Santa Barbara MCDB profile verified | Bacterial pathogenesis, Salmonella and foodborne infection, antimicrobials, antimicrobial resistance testing, bacterial virulence and infectious disease",
+    "homepage": "https://www.mcdb.ucsb.edu/people/faculty/michael-mahan",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685556",
+    "name": "Michelle A. O’Malley",
+    "university": "University of California Santa Barbara",
+    "country": "USA",
+    "email": "momalley@ucsb.edu",
+    "researchArea": "Professor | Official UC Santa Barbara Bioengineering profile verified | Anaerobic gut fungi from large herbivores, gut microbial consortia, genome sequencing, RNA sequencing, microbial engineering and natural-product discovery",
+    "homepage": "https://bioengineering.ucsb.edu/people/faculty/michelle-omalley",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685557",
+    "name": "Rebecca Vega Thurber",
+    "university": "University of California Santa Barbara",
+    "country": "USA",
+    "email": "rvegathurber@ucsb.edu",
+    "researchArea": "Professor and Director of the Marine Science Institute | Official UC Santa Barbara EEMB profile verified | Bacterial and viral ecology in threatened animal hosts, host-associated microbiomes, infectious disease ecology and disease mitigation",
+    "homepage": "https://www.eemb.ucsb.edu/people/faculty/vega-thurber",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685558",
+    "name": "Catherine R. Armbruster",
+    "university": "Carnegie Mellon University",
+    "country": "USA",
+    "email": "c4t@cmu.edu",
+    "researchArea": "Assistant Professor | Official Carnegie Mellon Biological Sciences profile verified | Bacterial biofilms, Pseudomonas aeruginosa, host pathogen interactions, evolutionary genomics, cystic fibrosis infections and antimicrobial resistance",
+    "homepage": "https://www.cmu.edu/bio/people/faculty/armbruster.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685559",
+    "name": "Zheng Kuang",
+    "university": "Carnegie Mellon University",
+    "country": "USA",
+    "email": "zhengkua@andrew.cmu.edu",
+    "researchArea": "Associate Professor | Official Carnegie Mellon Biological Sciences profile and lab homepage verified | Gut microbiota, mouse models, host metabolism, intestinal immunity, antibiotic effects and host microbe interactions",
+    "homepage": "https://www.cmu.edu/bio/people/faculty/kuang.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685560",
+    "name": "Hosein Mohimani",
+    "university": "Carnegie Mellon University",
+    "country": "USA",
+    "email": "hoseinm@andrew.cmu.edu",
+    "researchArea": "Assistant Professor of Computational Biology | Official Carnegie Mellon Computational Biology profile verified | Computational metabolomics and metagenomics, antibiotic discovery, microbial natural products and bioinformatics",
+    "homepage": "https://www.cmu.edu/cbd/msas/people/mohimani.html",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685561",
+    "name": "Khaled Abdelaziz",
+    "university": "Clemson University",
+    "country": "USA",
+    "email": "khaled2@clemson.edu",
+    "researchArea": "Assistant Professor | Official Clemson University profile verified | Poultry gut health, probiotics, bacterial infections, foodborne pathogens, antimicrobial resistance and alternatives to antibiotics, vaccine development and animal health",
+    "homepage": "https://www.clemson.edu/cafls/faculty_staff/profiles/khaled2",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685562",
+    "name": "Anna Seekatz",
+    "university": "Clemson University",
+    "country": "USA",
+    "email": "aseekat@clemson.edu",
+    "researchArea": "Assistant Professor | Official Clemson University Biological Sciences profile verified | Gut microbiome, bioinformatics, animal models of disease, microbial ecology and host microbe interactions",
+    "homepage": "https://www.clemson.edu/science/academics/departments/biosci/about/profiles/aseekat",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685563",
+    "name": "Jeremy Tzeng",
+    "university": "Clemson University",
+    "country": "USA",
+    "email": "tzuenrt@clemson.edu",
+    "researchArea": "Assistant Professor | Official Clemson University Biological Sciences profile verified | Bacterial infections, microbial pathogenesis, non-antibiotic approaches for prevention and treatment of microbial infections",
+    "homepage": "https://www.clemson.edu/science/academics/departments/biosci/about/profiles/tzuenrt",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685564",
+    "name": "Harris Wang",
+    "university": "Columbia University",
+    "country": "USA",
+    "email": "hw2429@columbia.edu",
+    "researchArea": "Professor and Chair of Systems Biology | Official Columbia University Systems Biology profile verified | Gut microbiome engineering, microbial genomics, multi-omics, computational biology, microbiome gene therapy and antimicrobial-resistance trait elimination",
+    "homepage": "https://systemsbiology.columbia.edu/faculty/harris-wang",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "1788685565",
+    "name": "Sachel Mok",
+    "university": "Columbia University",
+    "country": "USA",
+    "email": "sm4223@cumc.columbia.edu",
+    "researchArea": "Assistant Professor in Medicine | Official Columbia University Infectious Diseases profile verified | Plasmodium falciparum drug resistance, parasite genomics, systems-based multi-omics, genetic mapping, gene editing and molecular resistance surveillance",
+    "homepage": "https://www.infectiousdiseases.cuimc.columbia.edu/profile/sachel-mok-phd",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
   }
 ]
