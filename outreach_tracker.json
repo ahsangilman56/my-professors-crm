@@ -4509,36 +4509,6 @@
     "source": "https://medicine.buffalo.edu/phdprogram/faculty/profile.html?ubit=yijunsun"
   },
   {
-    "id": "prof-1788682206251",
-    "name": "Lotus Lofgren",
-    "university": "University of California Berkeley",
-    "country": "USA",
-    "email": "lotuslofgren@berkeley.edu",
-    "subject": "",
-    "dateSent": "",
-    "timestamp": 1788682206,
-    "status": "not_drafted",
-    "replyReceived": false,
-    "replySummary": "",
-    "notes": "Assistant Professor | Official UC Berkeley Plant and Microbial Biology profile verified | Comparative genomics, bioinformatics, fungal ecology, mycology, host-microbe interactions",
-    "source": "https://vcresearch.berkeley.edu/faculty/lotus-lofgren"
-  },
-  {
-    "id": "prof-1788682206261",
-    "name": "Dipti Nayak",
-    "university": "University of California Berkeley",
-    "country": "USA",
-    "email": "dnayak@berkeley.edu",
-    "subject": "",
-    "dateSent": "",
-    "timestamp": 1788682206,
-    "status": "not_drafted",
-    "replyReceived": false,
-    "replySummary": "",
-    "notes": "Assistant Professor | Official UC Berkeley Molecular and Cell Biology profile verified | Archaea, methanogenesis, microbial evolution, CRISPR-Cas9 genome editing, methanogenic archaea as model systems",
-    "source": "https://mcb.berkeley.edu/directory/search/detail/7652"
-  },
-  {
     "id": "prof-1788682438903",
     "name": "Ashley Wolf",
     "university": "University of California Berkeley",
@@ -4554,21 +4524,6 @@
     "source": "https://publichealth.berkeley.edu/people/ashley-wolf"
   },
   {
-    "id": "prof-1788682438914",
-    "name": "Leah Guthrie",
-    "university": "University of California Berkeley",
-    "country": "USA",
-    "email": "lguthrie@berkeley.edu",
-    "subject": "",
-    "dateSent": "",
-    "timestamp": 1788682438,
-    "status": "not_drafted",
-    "replyReceived": false,
-    "replySummary": "",
-    "notes": "Assistant Professor | Official UC Berkeley Bioengineering profile verified | Microbial metabolism and signaling, computational biology, systems biology, molecular biology, gut microbiome and host health",
-    "source": "https://bioeng.berkeley.edu/person/leah-guthrie"
-  },
-  {
     "id": "prof-1788682438924",
     "name": "Charles Whittaker",
     "university": "University of California Berkeley",
@@ -4582,5 +4537,35 @@
     "replySummary": "",
     "notes": "Assistant Professor | Official UC Berkeley Public Health profile verified | Pathogen surveillance, zoonotic spillover, infectious diseases, pathogen genomics, epidemiological modelling, machine learning and pandemic preparedness",
     "source": "https://publichealth.berkeley.edu/people/charles-whittaker"
+  },
+  {
+    "id": "prof-1788682593640",
+    "name": "Tierra Smiley Evans",
+    "university": "University of California Berkeley",
+    "country": "USA",
+    "email": "tsmevans@berkeley.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788682593,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor of Emerging Zoonoses | DVM, PhD | Official UC Berkeley Public Health and Integrative Biology profiles verified | Emerging zoonoses, wildlife health, pathogen spillover, infectious disease ecology, computational and field-based pathogen research",
+    "source": "https://publichealth.berkeley.edu/people/tierra-smiley-evans"
+  },
+  {
+    "id": "prof-1788682593650",
+    "name": "Daniel Portnoy",
+    "university": "University of California Berkeley",
+    "country": "USA",
+    "email": "portnoy@berkeley.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788682593,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Distinguished Professor of Biochemistry, Biophysics and Structural Biology | Official UC Berkeley Molecular and Cell Biology profile verified | Listeria monocytogenes, intracellular foodborne pathogen biology, host pathogen interactions and infection mechanisms",
+    "source": "https://mcb.berkeley.edu/faculty/BMB/portnoyd.html"
   }
 ]
