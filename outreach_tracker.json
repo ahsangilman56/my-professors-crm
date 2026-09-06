@@ -4747,5 +4747,50 @@
     "replySummary": "",
     "notes": "Assistant Professor of Computational Biology | Official Carnegie Mellon Computational Biology profile verified | Computational metabolomics and metagenomics, antibiotic discovery, microbial natural products and bioinformatics",
     "source": "https://www.cmu.edu/cbd/msas/people/mohimani.html"
+  },
+  {
+    "id": "prof-1788684198767",
+    "name": "Khaled Abdelaziz",
+    "university": "Clemson University",
+    "country": "USA",
+    "email": "khaled2@clemson.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788684198,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor | Official Clemson University profile verified | Poultry gut health, probiotics, bacterial infections, foodborne pathogens, antimicrobial resistance and alternatives to antibiotics, vaccine development and animal health",
+    "source": "https://www.clemson.edu/cafls/faculty_staff/profiles/khaled2"
+  },
+  {
+    "id": "prof-1788684198777",
+    "name": "Anna Seekatz",
+    "university": "Clemson University",
+    "country": "USA",
+    "email": "aseekat@clemson.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788684198,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor | Official Clemson University Biological Sciences profile verified | Gut microbiome, bioinformatics, animal models of disease, microbial ecology and host microbe interactions",
+    "source": "https://www.clemson.edu/science/academics/departments/biosci/about/profiles/aseekat"
+  },
+  {
+    "id": "prof-1788684198788",
+    "name": "Jeremy Tzeng",
+    "university": "Clemson University",
+    "country": "USA",
+    "email": "tzuenrt@clemson.edu",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788684198,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor | Official Clemson University Biological Sciences profile verified | Bacterial infections, microbial pathogenesis, non-antibiotic approaches for prevention and treatment of microbial infections",
+    "source": "https://www.clemson.edu/science/academics/departments/biosci/about/profiles/tzuenrt"
   }
 ]
