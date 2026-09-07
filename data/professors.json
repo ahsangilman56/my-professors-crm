@@ -9054,5 +9054,73 @@
     },
     "mailedAt": "",
     "replySummary": ""
+  },
+  {
+    "id": "prof-1788776669",
+    "name": "Hooman Derakhshani",
+    "university": "University of Manitoba",
+    "country": "Canada",
+    "email": "hooman.derakhshani@umanitoba.ca",
+    "researchArea": "Animal and human microbiomes, microbiome therapeutics, immune homeostasis, pathogen colonization resistance and livestock disease resilience",
+    "homepage": "https://umanitoba.ca/agricultural-food-sciences/animal-science/hooman-derakhshani",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "prof-1788776670",
+    "name": "Alicia Berard",
+    "university": "University of Manitoba",
+    "country": "Canada",
+    "email": "alicia.berard@umanitoba.ca",
+    "researchArea": "Mucosal microbiology, microbiome, bacterial infections, female reproductive health and multi-omics",
+    "homepage": "https://umanitoba.ca/medicine/faculty-staff/alicia-berard",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "prof-1788776671",
+    "name": "Julie Lajoie",
+    "university": "University of Manitoba",
+    "country": "Canada",
+    "email": "julie.lajoie@umanitoba.ca",
+    "researchArea": "Infectious diseases, HIV and HPV, mucosal immunology, host response and inflammation",
+    "homepage": "https://umanitoba.ca/medicine/faculty-staff/julie-lajoie",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "prof-1788776672",
+    "name": "Miguel Uyaguari",
+    "university": "University of Manitoba",
+    "country": "Canada",
+    "email": "Miguel.Uyaguari@umanitoba.ca",
+    "researchArea": "Environmental microbiomes, metagenomics, microbial source tracking, antibiotic-resistance genes and aquatic ecosystems",
+    "homepage": "https://vada.cs.umanitoba.ca/profiles/dr-miguel-uyaguari/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
   }
 ]
