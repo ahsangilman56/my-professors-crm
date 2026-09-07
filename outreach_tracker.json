@@ -3498,11 +3498,12 @@
     "subject": "Prospective Graduate Student in Microbial Genomics and Food Safety",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Professor replied that the lab is not hiring (2026-09-07).",
     "notes": "Assistant Professor | Official University of Maryland portal verified | Microbial ecology, microbial genomics, food safety, public health, antibiotic resistance in urban farms",
-    "source": "https://agnr.umd.edu/about/directory/ryan-blaustein"
+    "source": "https://agnr.umd.edu/about/directory/ryan-blaustein",
+    "replyNote": "Professor replied that the lab is not hiring (2026-09-07)."
   },
   {
     "id": "prof-1788461244233",
@@ -4428,11 +4429,12 @@
     "subject": "Prospective Graduate Student in Food Microbiology and Food Safety",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Professor replied that no positions are available for the foreseeable future (2026-09-07).",
     "notes": "Assistant Professor | Official University of Arkansas Food Science faculty page verified | Food microbiology and safety, foodborne pathogen control, food processing interventions and post-harvest safety",
-    "source": "https://food-science.uark.edu/people/faculty/uid/jcacuff/name/Jennifer+C.+Acuff/"
+    "source": "https://food-science.uark.edu/people/faculty/uid/jcacuff/name/Jennifer+C.+Acuff/",
+    "replyNote": "Professor replied that no positions are available for the foreseeable future (2026-09-07)."
   },
   {
     "id": "prof-1788681578940",
@@ -5225,11 +5227,11 @@
     "subject": "Prospective Graduate Student in Poultry Gut Health and Microbiome Research",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Professor replied that the lab cannot take another graduate student in the foreseeable future (2026-09-07).",
     "sendAfter": null,
-    "replyNote": null
+    "replyNote": "Professor replied that the lab cannot take another graduate student in the foreseeable future (2026-09-07)."
   },
   {
     "id": "prof-1777800000018",
