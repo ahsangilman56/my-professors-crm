@@ -3595,10 +3595,19 @@
   },
   {
     "name": "Elena Verdu",
-    "email": "elena.verdu@mcgill.ca",
-    "university": "McGill University",
+    "email": "verdue@mcmaster.ca",
+    "university": "McMaster University",
     "country": "Canada",
-    "researchArea": "Microbiome, metagenomics"
+    "researchArea": "Gut microbiome, intestinal inflammation, celiac disease, inflammatory bowel disease and gnotobiotic models",
+    "homepage": "https://experts.mcmaster.ca/people/verdue",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
   },
   {
     "name": "Dao Nguyen",
@@ -8884,6 +8893,74 @@
     "email": "acrawley@ohri.ca",
     "researchArea": "Chronic hepatitis C virus, HIV-HCV coinfection, host immune dysfunction and infectious disease immunology",
     "homepage": "https://carleton.ca/biology/people/angela-m-crawley/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "prof-1788767089",
+    "name": "Lindsay Kalan",
+    "university": "McMaster University",
+    "country": "Canada",
+    "email": "kalanlr@mcmaster.ca",
+    "researchArea": "Skin microbiome, infectious disease, microbial community interactions and host health",
+    "homepage": "https://kalanlab.healthsci.mcmaster.ca/people/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "prof-1788767090",
+    "name": "Jon Stokes",
+    "university": "McMaster University",
+    "country": "Canada",
+    "email": "stokesjm@mcmaster.ca",
+    "researchArea": "Antibiotic discovery, antimicrobial resistance, bacterial pathogens and machine learning guided drug discovery",
+    "homepage": "https://bdcprogram.healthsci.mcmaster.ca/our-faculty/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "prof-1788767091",
+    "name": "Eric Brown",
+    "university": "McMaster University",
+    "country": "Canada",
+    "email": "ebrown@mcmaster.ca",
+    "researchArea": "Microbial chemical biology, antibiotic discovery, bacterial physiology and antimicrobial research",
+    "homepage": "https://experts.mcmaster.ca/people/ebrown",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "prof-1788767092",
+    "name": "Rebecca Doyle",
+    "university": "McMaster University",
+    "country": "Canada",
+    "email": "rebecca.doyle@mcmaster.ca",
+    "researchArea": "Microbial genomics, bioinformatics, functional genomics and bacterial systems biology",
+    "homepage": "https://biology.mcmaster.ca/research-areas/bioinformatics-functional-genomics/",
     "researchProfile": "",
     "status": {
       "mailed": false,
