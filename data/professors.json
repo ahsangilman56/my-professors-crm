@@ -8969,5 +8969,90 @@
     },
     "mailedAt": "",
     "replySummary": ""
+  },
+  {
+    "id": "prof-1788773415",
+    "name": "Sylvain Moineau",
+    "university": "Universite Laval",
+    "country": "Canada",
+    "email": "sylvain.moineau@bcm.ulaval.ca",
+    "researchArea": "Bacterial viruses, CRISPR-Cas systems, phage biology, microbial genetics and antimicrobial applications",
+    "homepage": "https://www.ibis.ulaval.ca/en/research/research-teams/sylvain-moineau-en/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "prof-1788773416",
+    "name": "Steve Charette",
+    "university": "Universite Laval",
+    "country": "Canada",
+    "email": "steve.charette@bcm.ulaval.ca",
+    "researchArea": "Bacterial genomics, bacteriology, Aeromonas salmonicida, phage biology and fish health",
+    "homepage": "https://www.ibis.ulaval.ca/en/research/steve-charette/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "prof-1788773417",
+    "name": "Eric Biron",
+    "university": "Universite Laval",
+    "country": "Canada",
+    "email": "eric.biron@pha.ulaval.ca",
+    "researchArea": "Medicinal chemistry, antimicrobial agents, antimicrobial resistance and therapeutic discovery",
+    "homepage": "https://www.pha.ulaval.ca/en/research/meet-our-research-professors",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "prof-1788773418",
+    "name": "Ismail Fliss",
+    "university": "Universite Laval",
+    "country": "Canada",
+    "email": "ismail.fliss@fsaa.ulaval.ca",
+    "researchArea": "Food microbiology, probiotics, beneficial microorganisms, antimicrobial activity and food safety",
+    "homepage": "https://www.inaf.ulaval.ca/en/members/ismail-fliss/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "prof-1788773419",
+    "name": "Antony Vincent",
+    "university": "Universite Laval",
+    "country": "Canada",
+    "email": "antony.vincent@fsaa.ulaval.ca",
+    "researchArea": "Animal microbiology, bacterial genomics, Aeromonas salmonicida, phages and fish health",
+    "homepage": "https://www.ibis.ulaval.ca/en/research/research-teams/antony-vincent/",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
   }
 ]
