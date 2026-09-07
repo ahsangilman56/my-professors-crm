@@ -2672,11 +2672,12 @@
     "subject": "Prospective Graduate Student in Antimicrobial Resistance and Microbiome Spatial Ecology",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
+    "status": "bounced",
     "replyReceived": false,
-    "replySummary": "",
+    "replySummary": "Delivery failure: recipient not found 2026-09-07",
     "notes": "Assistant Professor | Official Cornell University portal verified | Antimicrobial resistance, genetics and genomics, and transmission of bacterial and genetic components of the human microbiome",
-    "source": "https://centerforimmunology.cornell.edu/faculty/brito/"
+    "source": "https://centerforimmunology.cornell.edu/faculty/brito/",
+    "replyNote": "Delivery failure: recipient not found 2026-09-07"
   },
   {
     "id": "prof-1788456113607",
@@ -4547,11 +4548,12 @@
     "subject": "Prospective Graduate Student in Zoonotic Disease Ecology and One Health",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - auto-reply",
+    "replyReceived": true,
+    "replySummary": "Automatic reply received 2026-09-07",
     "notes": "Assistant Professor of Emerging Zoonoses | DVM, PhD | Official UC Berkeley Public Health and Integrative Biology profiles verified | Emerging zoonoses, wildlife health, pathogen spillover, infectious disease ecology, computational and field-based pathogen research",
-    "source": "https://publichealth.berkeley.edu/people/tierra-smiley-evans"
+    "source": "https://publichealth.berkeley.edu/people/tierra-smiley-evans",
+    "replyNote": "Automatic reply received 2026-09-07"
   },
   {
     "id": "prof-1788682593650",
@@ -5088,11 +5090,11 @@
     "subject": "Prospective Graduate Student in Comparative Genomics and  Bioinformatics",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
+    "status": "bounced",
     "replyReceived": false,
-    "replySummary": "",
+    "replySummary": "Delivery failure: address not found 2026-09-07",
     "sendAfter": null,
-    "replyNote": null
+    "replyNote": "Delivery failure: address not found 2026-09-07"
   },
   {
     "id": "prof-1777800000004",
@@ -7578,11 +7580,11 @@
     "subject": "Prospective Graduate Student in Gut Microbiome and Microbial Ecology",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - auto-reply",
+    "replyReceived": true,
+    "replySummary": "Automatic reply received 2026-09-07",
     "sendAfter": null,
-    "replyNote": null
+    "replyNote": "Automatic reply received 2026-09-07"
   },
   {
     "id": "prof-1788685563",
@@ -7743,11 +7745,11 @@
     "subject": "Prospective Graduate Student in Gut Microbiome and Poultry Health",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
+    "status": "bounced",
     "replyReceived": false,
-    "replySummary": "",
+    "replySummary": "Delivery failure: address not found 2026-09-07",
     "sendAfter": null,
-    "replyNote": null
+    "replyNote": "Delivery failure: address not found 2026-09-07"
   },
   {
     "id": "prof-1788685574",
@@ -7758,12 +7760,13 @@
     "subject": "Prospective Graduate Student in Gut Microbiome and Intestinal Inflammation",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - auto-reply",
+    "replyReceived": true,
+    "replySummary": "Automatic reply received 2026-09-07",
     "sendAfter": null,
     "notes": "Professor | Official McMaster University Experts profile verified | Gut microbiome, intestinal inflammation, celiac disease, inflammatory bowel disease and gnotobiotic models",
-    "source": "https://experts.mcmaster.ca/people/verdue"
+    "source": "https://experts.mcmaster.ca/people/verdue",
+    "replyNote": "Automatic reply received 2026-09-07"
   },
   {
     "id": "prof-1788685575",
