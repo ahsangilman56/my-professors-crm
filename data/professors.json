@@ -9122,5 +9122,56 @@
     },
     "mailedAt": "",
     "replySummary": ""
+  },
+  {
+    "id": "uark-1788791609-0",
+    "name": "Xiaolun Sun",
+    "university": "University of Arkansas",
+    "country": "USA",
+    "email": "xiaoluns@uark.edu",
+    "researchArea": "Poultry gut health, intestinal microbiology, immunity",
+    "homepage": "https://poultry-science.uark.edu/people/faculty/uid/xiaoluns/name/Xiaolun+Sun/",
+    "researchProfile": "https://poultry-science.uark.edu/people/faculty/uid/xiaoluns/name/Xiaolun+Sun/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "uark-1788791609-1",
+    "name": "Danielle Graham",
+    "university": "University of Arkansas",
+    "country": "USA",
+    "email": "bmahaffe@uark.edu",
+    "researchArea": "Parasitology, poultry health, host-parasite interactions",
+    "homepage": "https://poultry-science.uark.edu/people/faculty/uid/bmahaffe/name/Danielle+Graham/",
+    "researchProfile": "https://poultry-science.uark.edu/people/faculty/uid/bmahaffe/name/Danielle+Graham/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
+  },
+  {
+    "id": "uark-1788791609-2",
+    "name": "Adnan Alrubaye",
+    "university": "University of Arkansas",
+    "country": "USA",
+    "email": "aakhalaf@uark.edu",
+    "researchArea": "Poultry microbiology, infectious disease, poultry health",
+    "homepage": "https://poultry-science.uark.edu/people/faculty/uid/aakhalaf/name/Adnan+Ali+Khalaf+Alrubaye/",
+    "researchProfile": "https://poultry-science.uark.edu/people/faculty/uid/aakhalaf/name/Adnan+Ali+Khalaf+Alrubaye/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
   }
 ]
