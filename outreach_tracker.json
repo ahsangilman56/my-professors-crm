@@ -9473,5 +9473,50 @@
     "sendAfter": null,
     "notes": "Associate Professor | Official University of Manitoba profile verified | Environmental microbiomes, metagenomics, microbial source tracking, antibiotic-resistance genes and aquatic ecosystems",
     "source": "https://vada.cs.umanitoba.ca/profiles/dr-miguel-uyaguari/"
+  },
+  {
+    "id": "uark-1788791607-0",
+    "name": "Xiaolun Sun",
+    "university": "University of Arkansas",
+    "country": "USA",
+    "email": "xiaoluns@uark.edu",
+    "subject": "",
+    "dateSent": null,
+    "timestamp": 1788791607,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "sendAfter": null,
+    "replyNote": null
+  },
+  {
+    "id": "uark-1788791607-1",
+    "name": "Danielle Graham",
+    "university": "University of Arkansas",
+    "country": "USA",
+    "email": "bmahaffe@uark.edu",
+    "subject": "",
+    "dateSent": null,
+    "timestamp": 1788791607,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "sendAfter": null,
+    "replyNote": null
+  },
+  {
+    "id": "uark-1788791607-2",
+    "name": "Adnan Alrubaye",
+    "university": "University of Arkansas",
+    "country": "USA",
+    "email": "aakhalaf@uark.edu",
+    "subject": "",
+    "dateSent": null,
+    "timestamp": 1788791607,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "sendAfter": null,
+    "replyNote": null
   }
 ]
