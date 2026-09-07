@@ -7752,17 +7752,18 @@
   {
     "id": "prof-1788685574",
     "name": "Elena Verdu",
-    "university": "McGill University",
+    "university": "McMaster University",
     "country": "Canada",
-    "email": "elena.verdu@mcgill.ca",
+    "email": "verdue@mcmaster.ca",
     "subject": "",
-    "dateSent": null,
+    "dateSent": "",
     "timestamp": 1788685574,
     "status": "not_drafted",
     "replyReceived": false,
     "replySummary": "",
     "sendAfter": null,
-    "replyNote": null
+    "notes": "Professor | Official McMaster University Experts profile verified | Gut microbiome, intestinal inflammation, celiac disease, inflammatory bowel disease and gnotobiotic models",
+    "source": "https://experts.mcmaster.ca/people/verdue"
   },
   {
     "id": "prof-1788685575",
@@ -9263,5 +9264,65 @@
     "replySummary": "",
     "notes": "Adjunct Research Professor | Official Carleton University profile verified | Chronic hepatitis C virus, HIV-HCV coinfection, host immune dysfunction and infectious disease immunology",
     "source": "https://carleton.ca/biology/people/angela-m-crawley/"
+  },
+  {
+    "id": "prof-1788767092",
+    "name": "Lindsay Kalan",
+    "university": "McMaster University",
+    "country": "Canada",
+    "email": "kalanlr@mcmaster.ca",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788767092,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Associate Professor | Official McMaster University profile verified | Skin microbiome, infectious disease, microbial community interactions and host health",
+    "source": "https://kalanlab.healthsci.mcmaster.ca/people/"
+  },
+  {
+    "id": "prof-1788767093",
+    "name": "Jon Stokes",
+    "university": "McMaster University",
+    "country": "Canada",
+    "email": "stokesjm@mcmaster.ca",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788767093,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor | Official McMaster University profile verified | Antibiotic discovery, antimicrobial resistance, bacterial pathogens and machine learning guided drug discovery",
+    "source": "https://bdcprogram.healthsci.mcmaster.ca/our-faculty/"
+  },
+  {
+    "id": "prof-1788767094",
+    "name": "Eric Brown",
+    "university": "McMaster University",
+    "country": "Canada",
+    "email": "ebrown@mcmaster.ca",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788767094,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Professor | Official McMaster University profile verified | Microbial chemical biology, antibiotic discovery, bacterial physiology and antimicrobial research",
+    "source": "https://experts.mcmaster.ca/people/ebrown"
+  },
+  {
+    "id": "prof-1788767095",
+    "name": "Rebecca Doyle",
+    "university": "McMaster University",
+    "country": "Canada",
+    "email": "rebecca.doyle@mcmaster.ca",
+    "subject": "",
+    "dateSent": "",
+    "timestamp": 1788767095,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "notes": "Assistant Professor | Official McMaster University profile verified | Microbial genomics, bioinformatics, functional genomics and bacterial systems biology",
+    "source": "https://biology.mcmaster.ca/research-areas/bioinformatics-functional-genomics/"
   }
 ]
