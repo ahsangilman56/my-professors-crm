@@ -9173,5 +9173,22 @@
     },
     "mailedAt": "",
     "replySummary": ""
+  },
+  {
+    "id": "auburn-srikumar",
+    "name": "Shabarinath Srikumar",
+    "university": "Auburn University",
+    "country": "USA",
+    "email": "szs0397@auburn.edu",
+    "researchArea": "Food microbiology, poultry microbiology, Salmonella pathogenesis, antimicrobial resistance, microbial communities",
+    "homepage": "https://agriculture.auburn.edu/directory/profile.php?id=szs0397",
+    "researchProfile": "https://agriculture.auburn.edu/directory/profile.php?id=szs0397",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
   }
 ]
