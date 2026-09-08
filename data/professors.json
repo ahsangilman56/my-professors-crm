@@ -9190,5 +9190,22 @@
     },
     "mailedAt": "",
     "replySummary": ""
+  },
+  {
+    "id": "western-guthrie",
+    "name": "Jennifer Guthrie",
+    "university": "Western University",
+    "country": "Canada",
+    "email": "jennifer.guthrie@uwo.ca",
+    "researchArea": "Pathogen genomics, bioinformatics, antimicrobial resistance, and disease transmission",
+    "homepage": "https://www.schulich.uwo.ca/microbiologyandimmunology/people/faculty/faculty-index.html",
+    "researchProfile": "https://www.schulich.uwo.ca/microbiologyandimmunology/people/faculty/faculty-index.html",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
   }
 ]
