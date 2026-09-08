@@ -9563,5 +9563,20 @@
     "replySummary": "",
     "sendAfter": null,
     "replyNote": null
+  },
+  {
+    "id": "uvic-goncheva",
+    "name": "Mariya Goncheva",
+    "university": "University of Victoria",
+    "country": "Canada",
+    "email": "mariyagoncheva@uvic.ca",
+    "subject": "",
+    "dateSent": null,
+    "timestamp": 1788863944,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "sendAfter": null,
+    "replyNote": null
   }
 ]
