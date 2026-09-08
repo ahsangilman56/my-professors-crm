@@ -9224,5 +9224,22 @@
     },
     "mailedAt": "",
     "replySummary": ""
+  },
+  {
+    "id": "uvic-goncheva",
+    "name": "Mariya Goncheva",
+    "university": "University of Victoria",
+    "country": "Canada",
+    "email": "mariyagoncheva@uvic.ca",
+    "researchArea": "Respiratory co-infections, Staphylococcus aureus, host-pathogen interactions, and molecular bacteriology",
+    "homepage": "https://www.uvic.ca/science/biochem/people/faculty/profiles/goncheva-mariya.php",
+    "researchProfile": "https://www.uvic.ca/science/biochem/people/faculty/profiles/goncheva-mariya.php",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
   }
 ]
