@@ -9533,5 +9533,20 @@
     "replySummary": "",
     "sendAfter": null,
     "replyNote": null
+  },
+  {
+    "id": "western-guthrie",
+    "name": "Jennifer Guthrie",
+    "university": "Western University",
+    "country": "Canada",
+    "email": "jennifer.guthrie@uwo.ca",
+    "subject": "",
+    "dateSent": null,
+    "timestamp": 1788863786,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "sendAfter": null,
+    "replyNote": null
   }
 ]
