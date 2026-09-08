@@ -9207,5 +9207,22 @@
     },
     "mailedAt": "",
     "replySummary": ""
+  },
+  {
+    "id": "sfu-fowler",
+    "name": "Jane Fowler",
+    "university": "Simon Fraser University",
+    "country": "Canada",
+    "email": "sjfowler@sfu.ca",
+    "researchArea": "Environmental microbiology, wastewater treatment, microbial communities, omics, and pollutant biodegradation",
+    "homepage": "https://www.sfu.ca/biology/people/faculty/sjfowler.html",
+    "researchProfile": "https://www.sfu.ca/biology/people/faculty/sjfowler.html",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": "",
+    "replySummary": ""
   }
 ]
