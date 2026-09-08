@@ -9548,5 +9548,20 @@
     "replySummary": "",
     "sendAfter": null,
     "replyNote": null
+  },
+  {
+    "id": "sfu-fowler",
+    "name": "Jane Fowler",
+    "university": "Simon Fraser University",
+    "country": "Canada",
+    "email": "sjfowler@sfu.ca",
+    "subject": "",
+    "dateSent": null,
+    "timestamp": 1788863878,
+    "status": "not_drafted",
+    "replyReceived": false,
+    "replySummary": "",
+    "sendAfter": null,
+    "replyNote": null
   }
 ]
