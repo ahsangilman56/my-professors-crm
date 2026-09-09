@@ -1501,7 +1501,8 @@
     "notes": "Draft ready — send after cooldown",
     "replyNote": "Genuine professor-specific rejection received 2026-09-08.",
     "replyReceived": true,
-    "replySummary": "Professor retired and is not accepting new collaborators."
+    "replySummary": "Professor retired and is not accepting new collaborators.",
+    "replyDate": "2026-09-08"
   },
   {
     "id": "draft_stefan.schwarz@fu-berlin.de",
@@ -2225,9 +2226,11 @@
     "subject": "Prospective Graduate Student in Microbial Ecology and Metagenomics",
     "dateSent": "2026-09-03",
     "timestamp": 1788439089,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Professor cannot take any new graduate students because of his administrative position.",
+    "replyNote": "Genuine professor-specific rejection received 2026-09-03.",
+    "replyDate": "2026-09-03"
   },
   {
     "id": "mail-1788439091",
@@ -2678,7 +2681,7 @@
     "replySummary": "Delivery failure: recipient not found 2026-09-07",
     "notes": "Assistant Professor | Official Cornell University portal verified | Antimicrobial resistance, genetics and genomics, and transmission of bacterial and genetic components of the human microbiome",
     "source": "https://centerforimmunology.cornell.edu/faculty/brito/",
-    "replyNote": "Delivery failure: recipient not found 2026-09-07"
+    "replyNote": "Delivery failure confirmed."
   },
   {
     "id": "prof-1788456113607",
@@ -2869,11 +2872,13 @@
     "subject": "Prospective Graduate Student in Bacterial Physiology and Antimicrobial Resistance",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - positive",
+    "replyReceived": true,
+    "replySummary": "Conditional positive: apply to the BMS program; if admitted, rotation in his lab may be possible, followed by discussion of joining the group.",
     "notes": "Associate Professor | Official Michigan State University portal verified | Bacterial physiology, metabolism, and antibiotic resistance",
-    "source": "https://directory.natsci.msu.edu/directory/Profiles/Person/101749"
+    "source": "https://directory.natsci.msu.edu/directory/Profiles/Person/101749",
+    "replyNote": "Conditional positive reply received 2026-09-08.",
+    "replyDate": "2026-09-08"
   },
   {
     "id": "prof-1788456957948",
@@ -5097,7 +5102,7 @@
     "replyReceived": false,
     "replySummary": "Delivery failure: address not found 2026-09-07",
     "sendAfter": null,
-    "replyNote": "Delivery failure: address not found 2026-09-07"
+    "replyNote": "Delivery failure confirmed."
   },
   {
     "id": "prof-1777800000004",
@@ -7587,7 +7592,8 @@
     "replyReceived": true,
     "replySummary": "No vacancies in the lab and unlikely to have vacancies for the foreseeable future.",
     "sendAfter": null,
-    "replyNote": "Automatic reply was followed by a genuine no-vacancy response on 2026-09-08."
+    "replyNote": "Automatic reply was followed by a genuine no-vacancy response on 2026-09-08.",
+    "replyDate": "2026-09-08"
   },
   {
     "id": "prof-1788685563",
@@ -7752,7 +7758,7 @@
     "replyReceived": false,
     "replySummary": "Delivery failure: address not found 2026-09-07",
     "sendAfter": null,
-    "replyNote": "Delivery failure: address not found 2026-09-07"
+    "replyNote": "Delivery failure confirmed."
   },
   {
     "id": "prof-1788685574",
@@ -9544,11 +9550,12 @@
     "subject": "Prospective Graduate Student in Pathogen Genomics and Antimicrobial Resistance",
     "dateSent": "2026-09-08",
     "timestamp": 1788870266,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - auto-reply",
+    "replyReceived": true,
+    "replySummary": "Generic high-volume response stating that individual inquiries cannot be answered; no admissions decision or position offer.",
     "sendAfter": null,
-    "replyNote": null
+    "replyNote": "Automated/generic response received 2026-09-08.",
+    "replyDate": "2026-09-08"
   },
   {
     "id": "sfu-fowler",
