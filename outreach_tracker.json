@@ -1494,13 +1494,14 @@
     "country": "Canada",
     "email": "pboerlin@uoguelph.ca",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-25",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyNote": "Genuine professor-specific rejection received 2026-09-08.",
+    "replyReceived": true,
+    "replySummary": "Professor retired and is not accepting new collaborators."
   },
   {
     "id": "draft_stefan.schwarz@fu-berlin.de",
@@ -7582,11 +7583,11 @@
     "subject": "Prospective Graduate Student in Gut Microbiome and Microbial Ecology",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "replied - auto-reply",
+    "status": "replied - rejected",
     "replyReceived": true,
-    "replySummary": "Automatic reply received 2026-09-07",
+    "replySummary": "No vacancies in the lab and unlikely to have vacancies for the foreseeable future.",
     "sendAfter": null,
-    "replyNote": "Automatic reply received 2026-09-07"
+    "replyNote": "Automatic reply was followed by a genuine no-vacancy response on 2026-09-08."
   },
   {
     "id": "prof-1788685563",
