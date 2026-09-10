@@ -983,13 +983,15 @@
     "country": "UK",
     "email": "m.vos@exeter.ac.uk",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
     "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "replyNote": "Genuine professor-specific funding rejection received 2026-09-04.",
+    "replyReceived": true,
+    "replySummary": "No funding for PhD students; advised applying through a DTP or CDT program.",
+    "replyDate": "2026-09-04"
   },
   {
     "id": "draft_gm657@bath.ac.uk",
@@ -2384,9 +2386,11 @@
     "subject": "Prospective Graduate Student in Rumen Microbiology and Preharvest Food Safety",
     "dateSent": "2026-09-03",
     "timestamp": 1788439108,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "No funding for a student for the next one or two years.",
+    "replyNote": "Genuine professor-specific funding rejection received 2026-09-03.",
+    "replyDate": "2026-09-03"
   },
   {
     "id": "mail-1788439110",
@@ -2692,11 +2696,13 @@
     "subject": "Prospective Graduate Student in Bacterial Pathogenesis and Biofilm Biology",
     "dateSent": "2026-09-07",
     "timestamp": 1788788461,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - informational",
+    "replyReceived": true,
+    "replySummary": "Explained that admission to Cornell’s Microbiology PhD program must come before discussing lab placement and provided admissions requirements.",
     "notes": "Assistant Professor | Official Cornell University portal verified | Bacterial signal transduction, biofilm formation, and molecular microbiology",
-    "source": "https://cals.cornell.edu/people/lisa-marie-nisbett"
+    "source": "https://cals.cornell.edu/people/lisa-marie-nisbett",
+    "replyNote": "Informational/admissions-guidance reply received 2026-09-07.",
+    "replyDate": "2026-09-07"
   },
   {
     "id": "prof-1788456113609",
@@ -2949,11 +2955,13 @@
     "subject": "Prospective Graduate Student in Veterinary Microbiology and Host-Pathogen Interactions",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Not in a position to take on additional students.",
     "notes": "Professor | Official Montana State University portal verified | Veterinary microbiology, gut microbiome, host immunity, and avian influenza",
-    "source": "https://www.montana.edu/mbi/directory/1819499/diane-bimczok"
+    "source": "https://www.montana.edu/mbi/directory/1819499/diane-bimczok",
+    "replyNote": "Genuine professor-specific rejection received 2026-09-07.",
+    "replyDate": "2026-09-07"
   },
   {
     "id": "prof-1788457170551",
@@ -3640,11 +3648,13 @@
     "subject": "Prospective Graduate Student in Gut Microbiome and Host Immunity",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Unlikely to have funding for a new PhD student or postdoc next year.",
     "notes": "Professor | Official University of Michigan portal verified | Commensal microbiota, bacteriophages, inflammatory bowel disease, gut microbiome",
-    "source": "https://medschool.umich.edu/profile/3787/eric-c-martens"
+    "source": "https://medschool.umich.edu/profile/3787/eric-c-martens",
+    "replyNote": "Genuine professor-specific rejection received 2026-09-09.",
+    "replyDate": "2026-09-09"
   },
   {
     "id": "prof-1788461997889",
@@ -3790,11 +3800,13 @@
     "subject": "Prospective Graduate Student in Evolutionary Biology and Microbial Ecology",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Not accepting new students at this time.",
     "notes": "Professor | Official UNM portal verified | Evolutionary Biology, Immunology, Microbiology, Molecular Evolution, Aquatic Ecology, Microbial Ecology",
-    "source": "https://biology.unm.edu/people/faculty/faculty.html"
+    "source": "https://biology.unm.edu/people/faculty/faculty.html",
+    "replyNote": "Genuine professor-specific rejection received 2026-09-08.",
+    "replyDate": "2026-09-08"
   },
   {
     "id": "prof-1788462955942",
@@ -4451,11 +4463,13 @@
     "subject": "Prospective Graduate Student in Poultry Food Safety and Antimicrobial Resistance",
     "dateSent": "2026-09-07",
     "timestamp": 1788791907,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "No openings in the research program at the moment.",
     "notes": "Assistant Professor | Official University of Arkansas Food Science and Poultry Science faculty pages verified | Foodborne pathogens in poultry, pathogen identification and subtyping, intervention strategies and poultry food safety",
-    "source": "https://food-science.uark.edu/people/faculty/uid/toobe/name/Tomi+Obe/"
+    "source": "https://food-science.uark.edu/people/faculty/uid/toobe/name/Tomi+Obe/",
+    "replyNote": "Genuine professor-specific rejection received 2026-09-07.",
+    "replyDate": "2026-09-07"
   },
   {
     "id": "prof-1788681785493",
@@ -4466,11 +4480,13 @@
     "subject": "Prospective Graduate Student in Gut Microbiome and Functional Genomics",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - informational",
+    "replyReceived": true,
+    "replySummary": "Directed the applicant to the University at Buffalo PPBS PhD program and explained that recruitment can occur through that program.",
     "notes": "Assistant Professor | Official University at Buffalo Jacobs School profile verified | Bacterial pathogenesis, gut bacteria and phages, functional genomics, genome-wide screening, microbial metabolism, bioinformatics and host microbe interactions",
-    "source": "https://medicine.buffalo.edu/phdprogram/faculty/profile.html?ubit=yyh"
+    "source": "https://medicine.buffalo.edu/phdprogram/faculty/profile.html?ubit=yyh",
+    "replyNote": "Informational/program-guidance reply received 2026-09-07.",
+    "replyDate": "2026-09-07"
   },
   {
     "id": "prof-1788681785503",
@@ -9196,11 +9212,12 @@
     "subject": "Prospective Graduate Student in Poultry Immunology and Gut Health Research",
     "dateSent": "2026-09-07",
     "timestamp": 1788788461,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - auto-reply",
+    "replyReceived": true,
+    "replySummary": "Automatic out-of-office response; away through September 7.",
     "sendAfter": null,
-    "replyNote": null
+    "replyNote": "Automatic reply received 2026-09-07.",
+    "replyDate": "2026-09-07"
   },
   {
     "id": "prof-1788685670",
