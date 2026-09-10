@@ -3694,11 +3694,11 @@
     "id": "uk-223",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "2026-08-26",
-    "replySummary": ""
+    "replySummary": "No funding for PhD students; advised applying through a DTP or CDT program."
   },
   {
     "name": "Guillaume Meric",
@@ -6677,11 +6677,11 @@
     "homepage": "",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "2026-09-03",
-    "replySummary": ""
+    "replySummary": "No funding for a student for the next one or two years."
   },
   {
     "id": "1787475953837",
@@ -6709,11 +6709,11 @@
     "homepage": "",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "2026-09-07",
-    "replySummary": ""
+    "replySummary": "Automatic out-of-office response; away through September 7."
   },
   {
     "id": "1787475953837",
@@ -7659,11 +7659,11 @@
     "researchProfile": "",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "2026-09-07",
-    "replySummary": ""
+    "replySummary": "Explained that admission to Cornell’s Microbiology PhD program must come before discussing lab placement and provided admissions requirements."
   },
   {
     "id": "1788685425",
@@ -7948,11 +7948,11 @@
     "researchProfile": "",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "2026-09-07",
-    "replySummary": ""
+    "replySummary": "Not in a position to take on additional students."
   },
   {
     "id": "1788685442",
@@ -8730,11 +8730,11 @@
     "researchProfile": "",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "2026-09-07",
-    "replySummary": ""
+    "replySummary": "Unlikely to have funding for a new PhD student or postdoc next year."
   },
   {
     "id": "1788685488",
@@ -8900,11 +8900,11 @@
     "researchProfile": "",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "2026-09-07",
-    "replySummary": ""
+    "replySummary": "Not accepting new students at this time."
   },
   {
     "id": "1788685498",
@@ -9631,11 +9631,11 @@
     "researchProfile": "",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "2026-09-07",
-    "replySummary": ""
+    "replySummary": "No openings in the research program at the moment."
   },
   {
     "id": "1788685541",
@@ -9648,11 +9648,11 @@
     "researchProfile": "",
     "status": {
       "mailed": true,
-      "replyReceived": false,
+      "replyReceived": true,
       "followUpNeeded": false
     },
     "mailedAt": "2026-09-07",
-    "replySummary": ""
+    "replySummary": "Directed the applicant to the University at Buffalo PPBS PhD program and explained that recruitment can occur through that program."
   },
   {
     "id": "1788685542",
