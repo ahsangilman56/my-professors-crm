@@ -782,13 +782,15 @@
     "country": "UK",
     "email": "matthewb.avison@bristol.ac.uk",
     "subject": "",
-    "status": "sent",
+    "status": "replied - rejected",
     "dateSent": "2026-08-26",
     "dateCreated": "2026-08-23",
     "timestamp": "2026-08-23T12:18:16Z",
-    "notes": "Draft ready — send after cooldown",
-    "replyNote": "Draft ready — send after cooldown",
-    "replyReceived": false
+    "notes": "Rejected: no postgraduate capacity for the next two years.",
+    "replyNote": "Rejected: no postgraduate capacity for the next two years.",
+    "replyReceived": true,
+    "replyDate": "2026-09-10",
+    "replySummary": "No space to take on postgraduate students in the next two years; wished me luck with my search."
   },
   {
     "id": "draft_a.j.oneill@leeds.ac.uk",
@@ -5339,11 +5341,13 @@
     "subject": "Prospective Graduate Student in Bacterial Physiology and Antimicrobial Resistance",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
+    "status": "replied - neutral",
+    "replyReceived": true,
+    "replySummary": "Oklahoma State's program does not require finding an advisor before applying. After acceptance, students meet faculty, rotate in three labs, and then decide; she referred questions to the graduate program director.",
     "sendAfter": null,
-    "replyNote": null
+    "replyNote": "Neutral/procedural reply; program route explained, no direct offer or rejection.",
+    "replyDate": "2026-09-11",
+    "notes": "Neutral/procedural reply; program route explained, no direct offer or rejection."
   },
   {
     "id": "prof-1777800000026",
