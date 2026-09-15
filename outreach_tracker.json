@@ -2362,9 +2362,13 @@
     "subject": "Prospective Graduate Student in Bacteriophage Research and Phage Therapy",
     "dateSent": "2026-09-03",
     "timestamp": 1788439105,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
+    "status": "replied - positive",
+    "replyReceived": true,
+    "replySummary": "Accepts students through the program; expects rotation students in Fall 2027 and may accept one student. Apply to the Microbiology PhD program by Dec 1; matching uses rotations.",
+    "replyDate": "2026-09-14",
+    "dateReplied": "2026-09-14",
+    "replyNote": "Accepts students through the program; expects rotation students in Fall 2027 and may accept one student. Apply to the Microbiology PhD program by Dec 1; matching uses rotations.",
+    "notes": "Accepts students through the program; expects rotation students in Fall 2027 and may accept one student. Apply to the Microbiology PhD program by Dec 1; matching uses rotations."
   },
   {
     "id": "mail-1788439107",
@@ -3214,11 +3218,14 @@
     "subject": "Prospective Graduate Student in Host-Symbiont Interactions and Microbial Ecology",
     "dateSent": "2026-09-07",
     "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
-    "notes": "Associate Professor | Official SIUE portal verified | Host symbiont interactions, social amoeba Dictyostelium as model for bacterial symbionts, Burkholderia, and bacteriophages",
-    "source": "https://www.siue.edu/artsandsciences/biology/sdisalv/"
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Lab at full capacity for the next several years; SIUE offers only a master’s program, no PhD-level students.",
+    "notes": "Lab at full capacity for the next several years; SIUE offers only a master’s program, no PhD-level students.",
+    "source": "https://www.siue.edu/artsandsciences/biology/sdisalv/",
+    "replyDate": "2026-09-14",
+    "dateReplied": "2026-09-14",
+    "replyNote": "Lab at full capacity for the next several years; SIUE offers only a master’s program, no PhD-level students."
   },
   {
     "id": "prof-1788458234620",
