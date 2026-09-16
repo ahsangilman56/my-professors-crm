@@ -10469,5 +10469,90 @@
     },
     "mailedAt": "2026-09-08",
     "replySummary": ""
+  },
+  {
+    "id": "1789586131599",
+    "name": "Gavin Douglas",
+    "university": "University of New Brunswick",
+    "country": "Canada",
+    "email": "gavin.douglas@unb.ca",
+    "researchArea": "Pangenome evolution in prokaryotes; microbial ecology; population genetics; bioinformatics",
+    "homepage": "https://www.unb.ca/faculty-staff/directory/science-fr-bio/douglas-gavin.html",
+    "researchProfile": "https://douglaslab.ca/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1789586131600",
+    "name": "Alla Gagarinova",
+    "university": "University of New Brunswick",
+    "country": "Canada",
+    "email": "Alla.Gagarinova@unb.ca",
+    "researchArea": "Antimicrobial resistance; host microbe interactions; bacterial systems biology; chemogenomics",
+    "homepage": "https://www.unb.ca/faculty-staff/directory/science-fr-bio/gagarinova-alla.html",
+    "researchProfile": "https://www.unb.ca/faculty-staff/directory/science-fr-bio/gagarinova-alla.html",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1789586131601",
+    "name": "Adrian Reyes-Prieto",
+    "university": "University of New Brunswick",
+    "country": "Canada",
+    "email": "areyes@unb.ca",
+    "researchArea": "Microbial comparative genomics; bioinformatics; microbial eukaryote evolution",
+    "homepage": "https://www.unb.ca/faculty-staff/directory/science-fr-bio/reyes-prieto-adrian.html",
+    "researchProfile": "https://www.unb.ca/faculty-staff/directory/science-fr-bio/reyes-prieto-adrian.html",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1789586131602",
+    "name": "Michael Duffy",
+    "university": "University of New Brunswick",
+    "country": "Canada",
+    "email": "mduffy@unb.ca",
+    "researchArea": "Parasitology; wildlife diseases; host responses to infection; molecular diagnostics",
+    "homepage": "https://www.unb.ca/faculty-staff/directory/science-fr-bio/duffy-michael.html",
+    "researchProfile": "https://www.unb.ca/faculty-staff/directory/science-fr-bio/duffy-michael.html",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1789586131603",
+    "name": "Dion Durnford",
+    "university": "University of New Brunswick",
+    "country": "Canada",
+    "email": "durnford@unb.ca",
+    "researchArea": "Transcriptomics; molecular genetics; algal cell biology; evolution",
+    "homepage": "https://www.unb.ca/faculty-staff/directory/science-fr-bio/durnford-dion.html",
+    "researchProfile": "https://www.unb.ca/faculty-staff/directory/science-fr-bio/durnford-dion.html",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
