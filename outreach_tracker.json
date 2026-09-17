@@ -4132,5 +4132,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1789652264",
+    "name": "Dasantila Golemi-Kotra",
+    "university": "York University",
+    "country": "Canada",
+    "email": "dgkotra@yorku.ca",
+    "subject": "Prospective Graduate Student in Antibiotic Resistance and Bacterial Pathogenesis",
+    "dateSent": "2026-09-17",
+    "timestamp": 1789652264,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
