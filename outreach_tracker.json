@@ -4171,5 +4171,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1789652564",
+    "name": "Edel Perez-Lopez",
+    "university": "Universite Laval",
+    "country": "Canada",
+    "email": "edel.perez-lopez@fsaa.ulaval.ca",
+    "subject": "Prospective Graduate Student in Plant Pathogen Genomics and Host Microbe Interactions",
+    "dateSent": "2026-09-17",
+    "timestamp": 1789652564,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
