@@ -4155,9 +4155,11 @@
     "subject": "Prospective Graduate Student in Microbial Genomics and Pangenome Evolution",
     "dateSent": "2026-09-17",
     "timestamp": 1789652266,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Said the applicant does not appear to be a good fit because the lab seeks demonstrated interest and background in molecular evolution; declined a follow-up conversation.",
+    "replyDate": "2026-09-17",
+    "replyNote": "Rejected: not considered a good fit for the lab; no follow-up offered."
   },
   {
     "id": "mail-1789652562",
@@ -4194,9 +4196,11 @@
     "subject": "Prospective Graduate Student in Antibiotic Discovery and Microbial Genetics",
     "dateSent": "2026-09-17",
     "timestamp": 1789652566,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Said there are currently no openings for new graduate students.",
+    "replyDate": "2026-09-17",
+    "replyNote": "Rejected: no current openings for new graduate students."
   },
   {
     "id": "mail-1789652568",
