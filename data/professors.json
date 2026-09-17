@@ -10554,5 +10554,90 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1789618147618",
+    "name": "Opeyemi Lawal",
+    "university": "University of Windsor",
+    "country": "Canada",
+    "email": "Opeyemi.Lawal@uwindsor.ca",
+    "researchArea": "Antimicrobial resistance; environmental pathogen surveillance; environmental microbiome; integrative multiomics; microbial ecology; bioinformatics; One Health",
+    "homepage": "https://www.uwindsor.ca/science/environment/620/faculty",
+    "researchProfile": "https://www.uwindsor.ca/science/environment/620/faculty",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1789618147619",
+    "name": "Cameron Proctor",
+    "university": "University of Windsor",
+    "country": "Canada",
+    "email": "cameron.proctor@uwindsor.ca",
+    "researchArea": "Peatland biogeochemistry; root soil microbial interactions; environmental systems",
+    "homepage": "https://www.uwindsor.ca/science/environment/620/faculty",
+    "researchProfile": "https://www.uwindsor.ca/science/environment/620/faculty",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1789618147620",
+    "name": "Robert (Mike) McKay",
+    "university": "University of Windsor",
+    "country": "Canada",
+    "email": "robert.mckay@uwindsor.ca",
+    "researchArea": "Environmental microbiology; harmful algal blooms; aquatic ecology and limnology",
+    "homepage": "https://www.uwindsor.ca/science/environment/620/faculty",
+    "researchProfile": "https://www.uwindsor.ca/science/environment/620/faculty",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1789618147621",
+    "name": "Chris Weisener",
+    "university": "University of Windsor",
+    "country": "Canada",
+    "email": "weisener@uwindsor.ca",
+    "researchArea": "Environmental microbiology; biogeochemistry; microbial processes and environmental systems",
+    "homepage": "https://www.uwindsor.ca/science/environment/620/faculty",
+    "researchProfile": "https://www.uwindsor.ca/science/environment/620/faculty",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1789618147622",
+    "name": "Ali Saber",
+    "university": "University of Windsor",
+    "country": "Canada",
+    "email": "asaber@uwindsor.ca",
+    "researchArea": "Wastewater treatment; water quality; biogeochemical modelling; watershed aquatic ecosystem interactions",
+    "homepage": "https://www.uwindsor.ca/science/environment/620/faculty",
+    "researchProfile": "https://www.uwindsor.ca/science/environment/620/faculty",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
