@@ -4223,5 +4223,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1789652574",
+    "name": "Burton Blais",
+    "university": "Carleton University",
+    "country": "Canada",
+    "email": "Burton.Blais@canada.ca",
+    "subject": "Prospective Graduate Student in Foodborne Pathogen Genomics and Antimicrobial Resistance",
+    "dateSent": "2026-09-17",
+    "timestamp": 1789652574,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
