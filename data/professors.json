@@ -10639,5 +10639,90 @@
     },
     "mailedAt": null,
     "replySummary": ""
+  },
+  {
+    "id": "1789618526822",
+    "name": "Yuqing Feng",
+    "university": "York University",
+    "country": "Canada",
+    "email": "yqfeng@yorku.ca",
+    "researchArea": "Host pathogen interactions; antibody responses; B cell biology; genomic instability",
+    "homepage": "https://www.yorku.ca/science/profiles/faculty/yuqing-feng/",
+    "researchProfile": "https://www.yorku.ca/science/profiles/faculty/yuqing-feng/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1789618526823",
+    "name": "Dasantila Golemi-Kotra",
+    "university": "York University",
+    "country": "Canada",
+    "email": "dgkotra@yorku.ca",
+    "researchArea": "Bacterial infections; antibiotic resistance mechanisms; bacterial cell wall damage signalling",
+    "homepage": "https://www.yorku.ca/science/profiles/faculty/dasantila-golemi-kotra/",
+    "researchProfile": "https://www.yorku.ca/science/profiles/faculty/dasantila-golemi-kotra/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1789618526824",
+    "name": "Luz Adriana Puentes Jácome",
+    "university": "York University",
+    "country": "Canada",
+    "email": "lpuentes@yorku.ca",
+    "researchArea": "Microbial ecology; environmental microbiology; biotechnology; bioremediation",
+    "homepage": "https://www.yorku.ca/science/profiles/faculty/luz-a-puentes-jacome/",
+    "researchProfile": "https://www.yorku.ca/science/profiles/faculty/luz-a-puentes-jacome/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1789618526825",
+    "name": "Vivian Saridakis",
+    "university": "York University",
+    "country": "Canada",
+    "email": "vsaridak@yorku.ca",
+    "researchArea": "Molecular mechanisms of viral and cellular protein interactions; pathogen related structural biology",
+    "homepage": "https://www.yorku.ca/science/profiles/faculty/vivian-saridakis/",
+    "researchProfile": "https://www.yorku.ca/science/profiles/faculty/vivian-saridakis/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
+  },
+  {
+    "id": "1789618526826",
+    "name": "Peter Cheung",
+    "university": "York University",
+    "country": "Canada",
+    "email": "pmcheung@yorku.ca",
+    "researchArea": "Genome regulation; chromatin; molecular mechanisms of cellular disease biology",
+    "homepage": "https://www.yorku.ca/science/profiles/faculty/peter-cheung/",
+    "researchProfile": "https://www.yorku.ca/science/profiles/faculty/peter-cheung/",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false
+    },
+    "mailedAt": null,
+    "replySummary": ""
   }
 ]
