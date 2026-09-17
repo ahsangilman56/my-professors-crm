@@ -4119,5 +4119,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1789652255",
+    "name": "Opeyemi Lawal",
+    "university": "University of Windsor",
+    "country": "Canada",
+    "email": "Opeyemi.Lawal@uwindsor.ca",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Environmental Genomics",
+    "dateSent": "2026-09-17",
+    "timestamp": 1789652255,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
