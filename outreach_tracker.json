@@ -4145,5 +4145,18 @@
     "status": "sent",
     "replyReceived": false,
     "replySummary": ""
+  },
+  {
+    "id": "mail-1789652266",
+    "name": "Gavin Douglas",
+    "university": "University of New Brunswick",
+    "country": "Canada",
+    "email": "gavin.douglas@unb.ca",
+    "subject": "Prospective Graduate Student in Microbial Genomics and Pangenome Evolution",
+    "dateSent": "2026-09-17",
+    "timestamp": 1789652266,
+    "status": "sent",
+    "replyReceived": false,
+    "replySummary": ""
   }
 ]
