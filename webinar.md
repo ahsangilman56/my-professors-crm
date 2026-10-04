@@ -79,10 +79,17 @@
     - Fee waiver: K-State’s official registration page states that eligible attendees receive a $65 application-fee waiver.
     - Registration confirmation received by Gmail message `1a0b2de1c61192a5`.
 
-25. **Oakland University — Fall 2026 Virtual Graduate Open House** — October 5–9, 2026; session times vary
+25. **Oakland University — Fall 2026 Virtual Graduate Open House** — **October 5–9, 2026; all times below are Eastern Daylight Time (EDT), converted to Bangladesh time (+10 hours).**
+    - **Monday, October 5 / Bangladesh October 5–6:** International Student Information Session 12:00–12:30 PM EDT (**10:00–10:30 PM +06**); Application Information Session 1:00–1:30 PM EDT (**11:00–11:30 PM +06**); Health Sciences programs 2:00–6:00 PM EDT (**October 6, 12:00–4:00 AM +06**).
+    - **Tuesday, October 6 / Bangladesh October 6–7:** Engineering/CS programs 11:00 AM–6:00 PM EDT (**9:00 PM–4:00 AM +06**); Nursing programs 6:00–8:00 PM EDT (**October 7, 4:00–6:00 AM +06**).
+    - **Wednesday, October 7 / Bangladesh October 7–8:** Financial Aid/Paying for College 11:00–11:30 AM EDT (**9:00–9:30 PM +06**); Grad School 101/Combined session 12:00–12:30 PM EDT (**10:00–10:30 PM +06**); Education/Human Services programs 3:00–7:00 PM EDT (**October 7, 1:00–5:00 AM +06**).
+    - **Thursday, October 8 / Bangladesh October 8–9:** Arts & Sciences programs 11:00 AM–6:00 PM EDT (**9:00 PM–4:00 AM +06**).
+    - **Friday, October 9 / Bangladesh October 9–10:** Business programs 11:00 AM–1:30 PM EDT (**9:00–11:30 PM +06**).
+    - **Scholarship competitions:** Health Sciences Monday 6:00 PM EDT (**October 6, 4:00 AM +06**); Engineering/CS Tuesday 6:00 PM EDT (**October 7, 4:00 AM +06**); Nursing Tuesday 8:00 PM EDT (**October 7, 6:00 AM +06**); Education/Human Services Wednesday 7:00 PM EDT (**October 8, 5:00 AM +06**); Arts & Sciences Thursday 6:00 PM EDT (**October 9, 4:00 AM +06**); Business Friday 1:30 PM EDT (**11:30 PM +06**).
     - All sessions are virtual. General Zoom link: https://oakland-edu.zoom.us/j/96852705858?pwd=7HgjyPV6LYFDaLtDL1wprNjxF9jk7E.1
     - Wednesday, October 7 uses a separate Zoom link provided in the registration email.
-    - Fee waiver: Confirmed conditionally. **During the webinar, attend at least one full 30-minute session and complete the Request for Application Waiver Form posted in the chat.** The waiver code will be emailed within three days. Nursing, PT, and PAS programs are excluded.
+    - Fee waiver: Confirmed conditionally. **Attend at least one full 30-minute session and complete the Request for Application Waiver Form posted in the chat.** The waiver code will be emailed within three days. Nursing, PT, and PAS programs are excluded.
+    - Official schedule: https://gradapply.oakland.edu/portal/vgoh2026
     - Registration confirmation received by Gmail message `1a0b2d042f8c287f`.
 
 26. **Washington University in St. Louis — I2DB Application Tips & FAQs Virtual Information Session** — October 7, 2026, 6:00–7:00 AM +06
