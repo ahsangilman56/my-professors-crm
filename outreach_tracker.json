@@ -4315,9 +4315,11 @@
     "subject": "Prospective Graduate Student in Bacterial Genomics and Antibiotic Resistance",
     "dateSent": "2026-10-14",
     "timestamp": 1791983522,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
+    "status": "replied - rejected",
+    "replyReceived": true,
+    "replySummary": "Stated that he does not know whether the lab will have funding to take additional trainees and wished the applicant luck.",
+    "replyDate": "2026-10-14",
+    "replyNote": "Stated that he does not know whether the lab will have funding to take additional trainees and wished the applicant luck."
   },
   {
     "id": "mail-1791983518",
@@ -4393,9 +4395,11 @@
     "subject": "Prospective Graduate Student in Food Safety and Antimicrobial Resistance",
     "dateSent": "2026-10-14",
     "timestamp": 1791983430,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
+    "status": "replied - auto-reply",
+    "replyReceived": true,
+    "replySummary": "Automatic out-of-office reply: attending ASM BIG; responses may be delayed. No decision about supervision or funding.",
+    "replyDate": "2026-10-14",
+    "replyNote": "Automatic out-of-office reply: attending ASM BIG; responses may be delayed. No decision about supervision or funding."
   },
   {
     "id": "mail-1791983414",
@@ -4471,9 +4475,11 @@
     "subject": "Prospective Graduate Student in Antimicrobial Resistance and Infection Control",
     "dateSent": "2026-10-14",
     "timestamp": 1791983690,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
+    "status": "replied - neutral",
+    "replyReceived": true,
+    "replySummary": "Requested a complete BMS graduate application before assessing position availability; provided application, transcript, score, resume, research-statement, and three-reference requirements. No acceptance or rejection.",
+    "replyDate": "2026-10-14",
+    "replyNote": "Requested a complete BMS graduate application before assessing position availability; provided application, transcript, score, resume, research-statement, and three-reference requirements. No acceptance or rejection."
   },
   {
     "id": "mail-1791983684",
