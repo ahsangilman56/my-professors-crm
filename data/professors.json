@@ -725,10 +725,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r2452493189202929895",
+    "draftSubject": "Prospective Research Master’s Student in Bacterial Genomics and Antimicrobial Resistance"
   },
   {
     "id": "1777800000009",
@@ -810,10 +814,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-48006438568332507",
+    "draftSubject": "Prospective Research Master’s Student in Veterinary Pathogen Genomics and Molecular Diagnostics"
   },
   {
     "id": "1777800000016",
@@ -1473,10 +1481,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-2968438524005240916",
+    "draftSubject": "Prospective Research Master’s Student in Antimicrobial Resistance Epidemiology and Food Safety"
   },
   {
     "id": "1777800000056",
@@ -2753,10 +2765,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r2858624435916943090",
+    "draftSubject": "Prospective Graduate Student in Streptococcus Pathogenesis and Vaccine Research"
   },
   {
     "name": "David Hume",
@@ -2799,10 +2815,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-5313450177439544610",
+    "draftSubject": "Prospective Graduate Student in Microbial Pathogenesis and Host-Pathogen Interactions"
   },
   {
     "name": "Emad El-Omar",
@@ -2877,10 +2897,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-4997821713873636364",
+    "draftSubject": "Prospective Graduate Student in Microbiome and Tumor Immunology Research"
   },
   {
     "name": "Philip Hansbro",
@@ -3032,10 +3056,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r798309698265029255",
+    "draftSubject": "Prospective Graduate Student in Gut Microbiota and Nutritional Psychiatry"
   },
   {
     "name": "Nicholas Coleman",
@@ -3079,10 +3107,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-5549416928008587525",
+    "draftSubject": "Prospective Graduate Student in Phage Biocontrol and Food Safety Research"
   },
   {
     "name": "Vipul Truong",
@@ -4932,10 +4964,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-2672510017978763193",
+    "draftSubject": "Prospective Graduate Student in Probiotics and Host Microbe Interactions"
   },
   {
     "id": "1787338319421",
@@ -5000,10 +5036,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r2326107848168845583",
+    "draftSubject": "Prospective Graduate Student in Antimicrobial Resistance and Biofilm Infections"
   },
   {
     "id": "1787338319425",
@@ -5051,10 +5091,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r2011419774401589270",
+    "draftSubject": "Prospective Graduate Student in Antimicrobial Resistance and Drug Target Discovery"
   },
   {
     "id": "1787338319428",
@@ -5085,10 +5129,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r2087274264465005432",
+    "draftSubject": "Prospective Graduate Student in Antimicrobial Resistance Evolution and Surveillance"
   },
   {
     "id": "1787338319430",
@@ -5102,10 +5150,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-5598858031248074530",
+    "draftSubject": "Prospective Graduate Student in Metagenomics and Natural Product Discovery"
   },
   {
     "id": "1787338319431",
@@ -5170,10 +5222,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r550142553178972519",
+    "draftSubject": "Prospective Graduate Student in Fermentation Microbiomes and Food Microbiology"
   },
   {
     "id": "1787338319435",
@@ -5187,10 +5243,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r353188563937318438",
+    "draftSubject": "Prospective Graduate Student in Microbial Ecology and Metagenomics"
   },
   {
     "id": "1787338319436",
@@ -5318,10 +5378,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r3184978149464978025",
+    "draftSubject": "Prospective Graduate Student in One Health Microbiome and AMR Research"
   },
   {
     "name": "Stanley Brul",
@@ -5558,10 +5622,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-1608085569928484634",
+    "draftSubject": "Prospective Graduate Student in Microbial Pathogenicity and Antimicrobial Resistance"
   },
   {
     "id": "1787422934285",
@@ -5606,10 +5674,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-2556887388639523931",
+    "draftSubject": "Prospective Graduate Student in Food Microbiome and Metagenomics"
   },
   {
     "id": "1787422934285",
@@ -5638,10 +5710,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r2857173718677955721",
+    "draftSubject": "Prospective Graduate Student in Foodborne Pathogen Genomics and AMR"
   },
   {
     "id": "1787422934285",
@@ -5654,10 +5730,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r1953475485608553919",
+    "draftSubject": "Prospective Graduate Student in Antimicrobial Resistance Mechanisms"
   },
   {
     "id": "1787422934285",
@@ -5670,10 +5750,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-4504320153348022199",
+    "draftSubject": "Prospective Graduate Student in Biofilm Associated Antimicrobial Tolerance"
   },
   {
     "id": "1787423550650",
@@ -5702,10 +5786,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-398597304737193155",
+    "draftSubject": "Prospective Graduate Student in Food Derived Immune Modulation"
   },
   {
     "id": "1787423550650",
@@ -5734,10 +5822,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r4999503575323278039",
+    "draftSubject": "Prospective Graduate Student in Biofilm Infections and Phage Endolysin Therapy"
   },
   {
     "id": "1787423550650",
@@ -5766,10 +5858,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r3248802577882653489",
+    "draftSubject": "Prospective Graduate Student in Clinical Microbiology and Genomic Surveillance"
   },
   {
     "id": "1787423550650",
@@ -5798,10 +5894,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r3338829697148764102",
+    "draftSubject": "Prospective Graduate Student in Livestock Gut Microbiome Research"
   },
   {
     "id": "1787423550651",
@@ -5942,10 +6042,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r904059817426912435",
+    "draftSubject": "Prospective Graduate Student in Microbial Genomics and the Rumen Microbiome"
   },
   {
     "id": "1787423749105",
@@ -6878,10 +6982,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": null,
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-6236732370698288033",
+    "draftSubject": "Prospective Graduate Student in Biofilm AMR and Staphylococcus Research"
   },
   {
     "id": "1788685379",
@@ -7473,10 +7581,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r2459002542578629332",
+    "draftSubject": "Prospective Graduate Student in Viral Pathogenesis and Mucosal Immunity"
   },
   {
     "id": "1788685414",
@@ -7609,10 +7721,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-6312302927563767170",
+    "draftSubject": "Prospective Research Master’s Student in Animal Microbiome and Gut Brain Biology"
   },
   {
     "id": "1788685422",
@@ -7796,10 +7912,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r683053168389745683",
+    "draftSubject": "Prospective Graduate Student in Antimicrobial Resistance and One Health"
   },
   {
     "id": "1788685433",
@@ -7983,10 +8103,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r1827343704654761784",
+    "draftSubject": "Prospective Graduate Student in Host Pathogen Interactions and Bacterial Virulence"
   },
   {
     "id": "1788685444",
@@ -8051,10 +8175,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r665236996308582215",
+    "draftSubject": "Prospective Research Master’s Student in Food Microbiology and Gut Microbiome"
   },
   {
     "id": "1788685448",
@@ -8119,10 +8247,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r1613145107020159727",
+    "draftSubject": "Prospective Graduate Student in Engineering Microbiomes and Biosensors"
   },
   {
     "id": "1788685452",
@@ -8170,10 +8302,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-2510426635271885158",
+    "draftSubject": "Prospective Graduate Student in Evolutionary Genomics and Plant Microbe Interactions"
   },
   {
     "id": "1788685455",
@@ -8221,10 +8357,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r6461316094968625285",
+    "draftSubject": "Prospective Research Master’s Student in Gastrointestinal Microbiology and Host Microbiome"
   },
   {
     "id": "1788685458",
@@ -8289,10 +8429,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r8139716243418723212",
+    "draftSubject": "Prospective Graduate Student in Microbial Ecology and Comparative Genomics"
   },
   {
     "id": "1788685462",
@@ -8374,10 +8518,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r1243812997984750300",
+    "draftSubject": "Prospective Graduate Student in Functional Genomics and Microbiome Evolution"
   },
   {
     "id": "1788685467",
@@ -8425,10 +8573,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r6439333197264853504",
+    "draftSubject": "Prospective Graduate Student in Microbiome Research and Reproductive Health"
   },
   {
     "id": "1788685470",
@@ -8561,10 +8713,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-5915530567241184302",
+    "draftSubject": "Prospective Graduate Student in Animal Gut Microbiomes and Equine Health"
   },
   {
     "id": "1788685478",
@@ -8595,10 +8751,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-1634387959567084992",
+    "draftSubject": "Prospective Graduate Student in Gut Microbiome and Microbial Genomics"
   },
   {
     "id": "1788685480",
@@ -8663,10 +8823,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r4520034707173258068",
+    "draftSubject": "Prospective Research Master’s Student in Microbial Pathogenesis and Host Cell Biology"
   },
   {
     "id": "1788685484",
@@ -8714,10 +8878,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r2287624177468774118",
+    "draftSubject": "Prospective Research Master’s Student in Microbiome Ecology and Microbial Evolution"
   },
   {
     "id": "1788685487",
@@ -8867,10 +9035,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r873389153479658391",
+    "draftSubject": "Prospective Research Master’s Student in Poultry Microbiology and Antimicrobial Resistance"
   },
   {
     "id": "1788685496",
@@ -8884,10 +9056,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-2398321436178561994",
+    "draftSubject": "Prospective Graduate Student in Animal Microbial Ecology and Host Microbe Interactions"
   },
   {
     "id": "1788685497",
@@ -8969,10 +9145,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r8629335371356732799",
+    "draftSubject": "Prospective Graduate Student in Microbial Community Dynamics and Host Microbiomes"
   },
   {
     "id": "1788685502",
@@ -9275,10 +9455,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-5862698288250898412",
+    "draftSubject": "Prospective Graduate Student in Meat Microbiology and Food Safety"
   },
   {
     "id": "1788685520",
@@ -9309,10 +9493,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r6513923108942476675",
+    "draftSubject": "Prospective Graduate Student in Antimicrobial Resistance and One Health"
   },
   {
     "id": "1788685522",
@@ -9394,10 +9582,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r2475698463689202378",
+    "draftSubject": "Prospective Graduate Student in Disease Ecology and Host Pathogen Interactions"
   },
   {
     "id": "1788685527",
@@ -9547,10 +9739,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-343887613499930609",
+    "draftSubject": "Prospective Graduate Student in Foodborne Pathogens and Food Safety"
   },
   {
     "id": "1788685536",
@@ -9598,10 +9794,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-2466990882537261515",
+    "draftSubject": "Prospective Graduate Student in Computational Genomics and Poultry Pathogen Surveillance"
   },
   {
     "id": "1788685539",
@@ -9683,10 +9883,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-4114430835230366585",
+    "draftSubject": "Prospective Graduate Student in Anaerobe Host Interactions and Bacterial Pathogenesis"
   },
   {
     "id": "1788685544",
@@ -9734,10 +9938,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r9200902530934184734",
+    "draftSubject": "Prospective Graduate Student in Pathogen Genomics and One Health Surveillance"
   },
   {
     "id": "1788685547",
@@ -9819,10 +10027,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-8130317708990727791",
+    "draftSubject": "Prospective Graduate Student in Microbiome Evolution and Population Genomics"
   },
   {
     "id": "1788685552",
@@ -9870,10 +10082,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r4271065356853249911",
+    "draftSubject": "Prospective Graduate Student in Clinical Metagenomics and Pathogen Detection"
   },
   {
     "id": "1788685555",
@@ -9904,10 +10120,14 @@
     "status": {
       "mailed": false,
       "replyReceived": false,
-      "followUpNeeded": false
+      "followUpNeeded": false,
+      "drafted": true
     },
     "mailedAt": "",
-    "replySummary": ""
+    "replySummary": "",
+    "draftedAt": "2026-10-25",
+    "draftId": "r-8372527571320750934",
+    "draftSubject": "Prospective Graduate Student in Gut Microbial Consortia and Synthetic Biology"
   },
   {
     "id": "1788685557",
@@ -10808,6 +11028,466 @@
       "followUpNeeded": false
     },
     "mailedAt": "2026-10-14",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148500",
+    "name": "Amanda Koltz",
+    "university": "The University of Texas at Austin",
+    "country": "USA",
+    "email": "amanda.koltz@austin.utexas.edu",
+    "researchArea": "microbiome ecology, host–microbe interactions, and One Health environmental biology",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r-4441676475546145938",
+    "draftSubject": "Prospective Research Master’s Student in Microbiome Ecology and Environmental Health",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148501",
+    "name": "Faisal Hai",
+    "university": "University of Wollongong",
+    "country": "Australia",
+    "email": "faisal_hai@uow.edu.au",
+    "researchArea": "environmental microbiology and wastewater treatment, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r6571490235829799157",
+    "draftSubject": "Prospective Master’s by Research Student in Environmental Microbiology and Water Research",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148502",
+    "name": "Anna Sheppard",
+    "university": "Adelaide University",
+    "country": "Australia",
+    "email": "anna.sheppard@adelaide.edu.au",
+    "researchArea": "antimicrobial-resistance gene dissemination and bacterial WGS, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r-2535348482610624466",
+    "draftSubject": "Prospective Master’s by Research Student in Antimicrobial Resistance and Bacterial Genomics",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148503",
+    "name": "Elizabeth Watkin",
+    "university": "Edith Cowan University",
+    "country": "Australia",
+    "email": "e.watkin@ecu.edu.au",
+    "researchArea": "microbial ecology and environmental biotechnology, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r-180138318246185785",
+    "draftSubject": "Prospective Master’s by Research Student in Microbial Ecology and Environmental Biotechnology",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148504",
+    "name": "Jessica Bayes",
+    "university": "Southern Cross University",
+    "country": "Australia",
+    "email": "jessica.bayes@scu.edu.au",
+    "researchArea": "the gut microbiome and dietary interventions, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r2215163184905175846",
+    "draftSubject": "Prospective Master’s by Research Student in Microbiome and Nutritional Health",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148505",
+    "name": "Robert Edwards",
+    "university": "Flinders University",
+    "country": "Australia",
+    "email": "robert.edwards@flinders.edu.au",
+    "researchArea": "phage biology, microbiome, and metagenomics, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r297940940431101033",
+    "draftSubject": "Prospective Master’s by Research Student in Microbiome and Metagenomics",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148506",
+    "name": "Garry Myers",
+    "university": "University of Technology Sydney",
+    "country": "Australia",
+    "email": "garry.myers@uts.edu.au",
+    "researchArea": "microbial genomics, antimicrobial resistance, and animal health, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r9038055129318675378",
+    "draftSubject": "Prospective Master’s by Research Student in Microbial Genomics and Animal Health",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148507",
+    "name": "Kate Seib",
+    "university": "Griffith University",
+    "country": "Australia",
+    "email": "k.seib@griffith.edu.au",
+    "researchArea": "molecular microbiology and bacterial virulence, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r3695970276196111476",
+    "draftSubject": "Prospective Master’s by Research Student in Molecular Microbiology and Vaccinology",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148508",
+    "name": "Sam Abraham",
+    "university": "Murdoch University",
+    "country": "Australia",
+    "email": "s.abraham@murdoch.edu.au",
+    "researchArea": "antimicrobial resistance and One Health zoonotic pathogens, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r7999602689218403561",
+    "draftSubject": "Prospective Master’s by Research Student in One Health Antimicrobial Resistance",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148509",
+    "name": "Brajesh Singh",
+    "university": "Western Sydney University",
+    "country": "Australia",
+    "email": "b.singh@westernsydney.edu.au",
+    "researchArea": "soil and plant microbiomes and microbial ecology, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r-5866813171973536834",
+    "draftSubject": "Prospective Master’s by Research Student in Microbiome and Environmental Biotechnology",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148510",
+    "name": "Thiru Vanniasinkam",
+    "university": "Charles Sturt University",
+    "country": "Australia",
+    "email": "tvanniasinkam@csu.edu.au",
+    "researchArea": "microbiology, veterinary pathogen research, and molecular diagnostics, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r847358122849519375",
+    "draftSubject": "Prospective Master’s by Research Student in Veterinary Pathogen Biology and Molecular Diagnostics",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148511",
+    "name": "Andreas Kupz",
+    "university": "James Cook University",
+    "country": "Australia",
+    "email": "andreas.kupz@jcu.edu.au",
+    "researchArea": "microbiology and intracellular pathogen immunology, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r-7208106448728876117",
+    "draftSubject": "Prospective Master’s by Research Student in Microbiology and Vaccine Immunology",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148512",
+    "name": "Claire O'Brien",
+    "university": "University of Canberra",
+    "country": "Australia",
+    "email": "claire.obrien@canberra.edu.au",
+    "researchArea": "gut microbiome, bacteriology, and antimicrobial resistance, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r-3040036218153141542",
+    "draftSubject": "Prospective Master’s by Research Student in Foodborne AMR and Host Microbe Interactions",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148513",
+    "name": "Jose A. Caparros-Martin",
+    "university": "Curtin University",
+    "country": "Australia",
+    "email": "jose.caparros-martin@curtin.edu.au",
+    "researchArea": "host microbial community interactions and functional microbiomes, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r-6932487812274246128",
+    "draftSubject": "Prospective Master’s by Research Student in Microbiome and Metagenomics",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148514",
+    "name": "Gene Tyson",
+    "university": "Queensland University of Technology",
+    "country": "Australia",
+    "email": "gene.tyson@qut.edu.au",
+    "researchArea": "microbiology, meta-omics, and bioinformatics, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r3454658093334640467",
+    "draftSubject": "Prospective Master’s by Research Student in Microbiome and Metagenomics",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148515",
+    "name": "Tanya Golubchik",
+    "university": "The University of Sydney",
+    "country": "Australia",
+    "email": "tanya.golubchik@sydney.edu.au",
+    "researchArea": "computational microbiology and pathogen genomics, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r-5585650160285811977",
+    "draftSubject": "Prospective Master’s by Research Student in Pathogen Genomics and Genomic Epidemiology",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148516",
+    "name": "Scott Beatson",
+    "university": "The University of Queensland",
+    "country": "Australia",
+    "email": "scott.beatson@uq.edu.au",
+    "researchArea": "bacterial pathogenomics and whole-genome sequencing, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r3832651913355313855",
+    "draftSubject": "Prospective Master’s by Research Student in Bacterial Pathogenomics and Antimicrobial Resistance",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148517",
+    "name": "Jason Kwong",
+    "university": "The University of Melbourne",
+    "country": "Australia",
+    "email": "jason.kwong@unimelb.edu.au",
+    "researchArea": "healthcare-associated infection epidemiology and microbial genomics, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r3487288794125803776",
+    "draftSubject": "Prospective Master’s by Research Student in Healthcare Associated Infection and Microbial Genomics",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148518",
+    "name": "Ruiting Lan",
+    "university": "UNSW Sydney",
+    "country": "Australia",
+    "email": "r.lan@unsw.edu.au",
+    "researchArea": "genomics and antimicrobial-resistance evolution, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r5491193378571447337",
+    "draftSubject": "Prospective Master’s by Research Student in Bacterial Genomics and Antimicrobial Resistance",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148519",
+    "name": "Verlaine Timms",
+    "university": "The University of Newcastle, Australia",
+    "country": "Australia",
+    "email": "verlaine.timms@newcastle.edu.au",
+    "researchArea": "microbial genomics and metagenomics, and One Health applications",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r-4022101896907864526",
+    "draftSubject": "Prospective Master’s by Research Student in Microbial Genomics and Antimicrobial Resistance",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148520",
+    "name": "Erin Price",
+    "university": "the University of the Sunshine Coast",
+    "country": "Australia",
+    "email": "eprice@usc.edu.au",
+    "researchArea": "antimicrobial resistance, microbial genomics, and One Health pathogen surveillance",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r7127021711859312134",
+    "draftSubject": "Prospective Master’s by Research Student in Microbial Genomics and Antimicrobial Resistance",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148521",
+    "name": "Marc Stadler",
+    "university": "the Helmholtz Centre for Infection Research",
+    "country": "Germany",
+    "email": "marc.stadler@helmholtz-hzi.de",
+    "researchArea": "natural product discovery, antimicrobial screening, and bioactive compounds from fungi",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r-1911328880065493532",
+    "draftSubject": "Prospective Graduate Student in Natural Product Discovery from Fungi",
+    "replySummary": ""
+  },
+  {
+    "id": "179293148522",
+    "name": "Jason Peters",
+    "university": "the University of Wisconsin-Madison",
+    "country": "USA",
+    "email": "jpeters@pharmacy.wisc.edu",
+    "researchArea": "bacterial genomics, functional genomic screens, and antimicrobial resistance mechanisms",
+    "homepage": "",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "draftedAt": "2026-10-25",
+    "draftId": "r-9042262815897709136",
+    "draftSubject": "Prospective Graduate Student in Bacterial Genomics and Antibiotic Resistance",
     "replySummary": ""
   }
 ]
