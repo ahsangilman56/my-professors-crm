@@ -306,8 +306,8 @@
     "university": "Southern Illinois University Carbondale",
     "country": "USA",
     "email": "iris.holmes@siu.edu",
-    "subject": "Prospective Graduate Student in Host Microbe Interactions and Microbiome Ecology",
-    "dateSent": "2026-08-20",
+    "subject": "Re: Prospective Graduate Student in Host Microbe Interactions and Microbiome Ecology",
+    "dateSent": "2026-10-21",
     "timestamp": 1787237859,
     "status": "replied - positive",
     "replyReceived": true,
@@ -315,7 +315,8 @@
     "replyDate": "2026-08-21",
     "dateReplied": "2026-08-21",
     "replyNote": "No funding now; follow up in November",
-    "notes": "No funding now; follow up in November"
+    "notes": "No funding now; follow up in November",
+    "lastSentMessageId": "1a15b13afb784946"
   },
   {
     "id": "mail-1787237863",
@@ -323,8 +324,8 @@
     "university": "University of Texas at Tyler",
     "country": "USA",
     "email": "who@uttyler.edu",
-    "subject": "Prospective Graduate Student in Microbial Genomics and Evolution",
-    "dateSent": "2026-08-20",
+    "subject": "Re: [EXTERNAL] Draft Statement of Research Interests",
+    "dateSent": "2026-10-29",
     "timestamp": 1787237863,
     "status": "replied - positive",
     "replyReceived": true,
@@ -332,7 +333,8 @@
     "replyDate": "2026-08-22",
     "dateReplied": "2026-08-22",
     "replyNote": "Interested! Follow up early Oct 2027 cycle",
-    "notes": "Interested! Follow up early Oct 2027 cycle"
+    "notes": "Interested! Follow up early Oct 2027 cycle",
+    "lastSentMessageId": "1a1854dec7a55c75"
   },
   {
     "id": "mail-1787237867",
@@ -3154,14 +3156,15 @@
     "university": "Carnegie Mellon University",
     "country": "USA",
     "email": "hoseinm@andrew.cmu.edu",
-    "subject": "Prospective Graduate Student in Metagenomics and Antibiotic Discovery",
-    "dateSent": "2026-09-15",
+    "subject": "Prospective Graduate Student in Computational Metabolomics and Metagenomics",
+    "dateSent": "2026-10-26",
     "timestamp": 1788683912,
     "status": "sent",
     "replyReceived": false,
     "replySummary": "",
     "notes": "Assistant Professor of Computational Biology | Official Carnegie Mellon Computational Biology profile verified | Computational metabolomics and metagenomics, antibiotic discovery, microbial natural products and bioinformatics",
-    "source": "https://www.cmu.edu/cbd/msas/people/mohimani.html"
+    "source": "https://www.cmu.edu/cbd/msas/people/mohimani.html",
+    "lastSentMessageId": "1a1785f1738746a0"
   },
   {
     "id": "prof-1788684198767",
@@ -3184,14 +3187,15 @@
     "university": "Clemson University",
     "country": "USA",
     "email": "aseekat@clemson.edu",
-    "subject": "Prospective Graduate Student in Gut Microbiome and Host Microbe Interactions",
-    "dateSent": "2026-09-15",
+    "subject": "Prospective Graduate Student in Gut Microbiome and Clostridioides difficile Infection",
+    "dateSent": "2026-10-26",
     "timestamp": 1788684198,
     "status": "sent",
     "replyReceived": false,
     "replySummary": "",
     "notes": "Assistant Professor | Official Clemson University Biological Sciences profile verified | Gut microbiome, bioinformatics, animal models of disease, microbial ecology and host microbe interactions",
-    "source": "https://www.clemson.edu/science/academics/departments/biosci/about/profiles/aseekat"
+    "source": "https://www.clemson.edu/science/academics/departments/biosci/about/profiles/aseekat",
+    "lastSentMessageId": "1a1785f166522d05"
   },
   {
     "id": "prof-1788684447869",
@@ -4252,7 +4256,8 @@
     "timestamp": 1791983565,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8ae346c9cd6"
   },
   {
     "id": "mail-1791983561",
@@ -4265,7 +4270,8 @@
     "timestamp": 1791983561,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8ad221428dd"
   },
   {
     "id": "mail-1791983556",
@@ -4278,7 +4284,8 @@
     "timestamp": 1791983556,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8ac3bd7a1ab"
   },
   {
     "id": "mail-1791983536",
@@ -4291,7 +4298,8 @@
     "timestamp": 1791983536,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8a6ec64ecce"
   },
   {
     "id": "mail-1791983528",
@@ -4304,7 +4312,8 @@
     "timestamp": 1791983528,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8a52529bd42"
   },
   {
     "id": "mail-1791983522",
@@ -4319,7 +4328,8 @@
     "replyReceived": true,
     "replySummary": "Stated that he does not know whether the lab will have funding to take additional trainees and wished the applicant luck.",
     "replyDate": "2026-10-14",
-    "replyNote": "Stated that he does not know whether the lab will have funding to take additional trainees and wished the applicant luck."
+    "replyNote": "Stated that he does not know whether the lab will have funding to take additional trainees and wished the applicant luck.",
+    "lastSentMessageId": "1a13a8a39e2ba226"
   },
   {
     "id": "mail-1791983518",
@@ -4332,7 +4342,8 @@
     "timestamp": 1791983518,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8a28672ab4d"
   },
   {
     "id": "mail-1791983460",
@@ -4345,7 +4356,8 @@
     "timestamp": 1791983460,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a894834a6896"
   },
   {
     "id": "mail-1791983453",
@@ -4358,7 +4370,8 @@
     "timestamp": 1791983453,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a892df70c039"
   },
   {
     "id": "mail-1791983448",
@@ -4371,7 +4384,8 @@
     "timestamp": 1791983448,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8917e1b6ae8"
   },
   {
     "id": "mail-1791983436",
@@ -4384,7 +4398,8 @@
     "timestamp": 1791983436,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a88e97f1451c"
   },
   {
     "id": "mail-1791983430",
@@ -4399,7 +4414,8 @@
     "replyReceived": true,
     "replySummary": "Automatic out-of-office reply: attending ASM BIG; responses may be delayed. No decision about supervision or funding.",
     "replyDate": "2026-10-14",
-    "replyNote": "Automatic out-of-office reply: attending ASM BIG; responses may be delayed. No decision about supervision or funding."
+    "replyNote": "Automatic out-of-office reply: attending ASM BIG; responses may be delayed. No decision about supervision or funding.",
+    "lastSentMessageId": "1a13a88d4428fa7c"
   },
   {
     "id": "mail-1791983414",
@@ -4412,7 +4428,8 @@
     "timestamp": 1791983414,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a88955ad5294"
   },
   {
     "id": "mail-1791983385",
@@ -4425,7 +4442,8 @@
     "timestamp": 1791983385,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a88230cdc12d"
   },
   {
     "id": "mail-1791983363",
@@ -4438,7 +4456,8 @@
     "timestamp": 1791983363,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a87d7b197066"
   },
   {
     "id": "mail-1791983714",
@@ -4451,7 +4470,8 @@
     "timestamp": 1791983714,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8d262ebd261"
   },
   {
     "id": "mail-1791983707",
@@ -4464,7 +4484,8 @@
     "timestamp": 1791983707,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8d0c19c5bd3"
   },
   {
     "id": "mail-1791983690",
@@ -4472,14 +4493,15 @@
     "university": "Auburn University",
     "country": "USA",
     "email": "avp0010@auburn.edu",
-    "subject": "Prospective Graduate Student in Antimicrobial Resistance and Infection Control",
+    "subject": "Re: Prospective Graduate Student in Antimicrobial Resistance and Infection Control",
     "dateSent": "2026-10-14",
     "timestamp": 1791983690,
     "status": "replied - neutral",
     "replyReceived": true,
     "replySummary": "Requested a complete BMS graduate application before assessing position availability; provided application, transcript, score, resume, research-statement, and three-reference requirements. No acceptance or rejection.",
     "replyDate": "2026-10-14",
-    "replyNote": "Requested a complete BMS graduate application before assessing position availability; provided application, transcript, score, resume, research-statement, and three-reference requirements. No acceptance or rejection."
+    "replyNote": "Requested a complete BMS graduate application before assessing position availability; provided application, transcript, score, resume, research-statement, and three-reference requirements. No acceptance or rejection.",
+    "lastSentMessageId": "1a13afb44f8b3a3a"
   },
   {
     "id": "mail-1791983684",
@@ -4492,7 +4514,8 @@
     "timestamp": 1791983684,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8cb20301074"
   },
   {
     "id": "mail-1791983633",
@@ -4505,7 +4528,8 @@
     "timestamp": 1791983633,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8bea458d70a"
   },
   {
     "id": "mail-1791983628",
@@ -4518,7 +4542,8 @@
     "timestamp": 1791983628,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8bd68cd7fbb"
   },
   {
     "id": "mail-1791983623",
@@ -4531,7 +4556,8 @@
     "timestamp": 1791983623,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8bc2b1bd6cd"
   },
   {
     "id": "mail-1791983614",
@@ -4544,7 +4570,8 @@
     "timestamp": 1791983614,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8ba3b052c09"
   },
   {
     "id": "mail-1791983608",
@@ -4557,7 +4584,8 @@
     "timestamp": 1791983608,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8b8b3602376"
   },
   {
     "id": "mail-1791983600",
@@ -4570,7 +4598,8 @@
     "timestamp": 1791983600,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8b6a75d4b23"
   },
   {
     "id": "mail-1791983594",
@@ -4583,7 +4612,8 @@
     "timestamp": 1791983594,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8b545aafb29"
   },
   {
     "id": "mail-1791983586",
@@ -4596,7 +4626,8 @@
     "timestamp": 1791983586,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8b344f3277c"
   },
   {
     "id": "mail-1791983580",
@@ -4604,12 +4635,13 @@
     "university": "Brown University",
     "country": "USA",
     "email": "christina_cuomo@brown.edu",
-    "subject": "Prospective Graduate Student in Fungal Genomics and Antifungal Resistance",
-    "dateSent": "2026-10-14",
+    "subject": "Re: Prospective Graduate Student in Fungal Genomics and Antifungal Resistance",
+    "dateSent": "2026-10-18",
     "timestamp": 1791983580,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a14f21f7d997c65"
   },
   {
     "id": "mail-1791983576",
@@ -4622,7 +4654,8 @@
     "timestamp": 1791983576,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8b0f9fe55f1"
   },
   {
     "id": "mail-1791983572",
@@ -4635,7 +4668,8 @@
     "timestamp": 1791983572,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8b0181c779d"
   },
   {
     "id": "mail-1791983568",
@@ -4648,7 +4682,8 @@
     "timestamp": 1791983568,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8aeebbfb2b2"
   },
   {
     "id": "mail-4490778040",
@@ -4661,7 +4696,8 @@
     "timestamp": 1791980000,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8cee5b538a0"
   },
   {
     "id": "mail-4115748041",
@@ -4674,7 +4710,8 @@
     "timestamp": 1791980000,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8c9b0272836"
   },
   {
     "id": "mail-7944557727",
@@ -4687,7 +4724,8 @@
     "timestamp": 1791980000,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8c81f841c75"
   },
   {
     "id": "mail-9694800096",
@@ -4700,7 +4738,8 @@
     "timestamp": 1791980000,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8c2be02ee6d"
   },
   {
     "id": "mail-5716070410",
@@ -4713,7 +4752,8 @@
     "timestamp": 1791980000,
     "status": "sent",
     "replyReceived": false,
-    "replySummary": ""
+    "replySummary": "",
+    "lastSentMessageId": "1a13a8c038654641"
   },
   {
     "id": "draft-1792931485-0",
@@ -4722,13 +4762,15 @@
     "country": "USA",
     "email": "vanessa.ezenwa@yale.edu",
     "subject": "Prospective Graduate Student in Disease Ecology and Host Pathogen Interactions",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r2475698463689202378",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f179df2223"
   },
   {
     "id": "draft-1792931485-1",
@@ -4737,13 +4779,15 @@
     "country": "USA",
     "email": "ddittoe@uwyo.edu",
     "subject": "Prospective Graduate Student in Meat Microbiology and Food Safety",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-5862698288250898412",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f16ca09d10"
   },
   {
     "id": "draft-1792931485-2",
@@ -4752,13 +4796,15 @@
     "country": "USA",
     "email": "vmartinson@unm.edu",
     "subject": "Prospective Graduate Student in Animal Microbial Ecology and Host Microbe Interactions",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-2398321436178561994",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f16d765262"
   },
   {
     "id": "draft-1792931485-3",
@@ -4767,13 +4813,15 @@
     "country": "USA",
     "email": "brantley@umd.edu",
     "subject": "Prospective Graduate Student in Gut Microbiome and Microbial Genomics",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-1634387959567084992",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f160bef95c"
   },
   {
     "id": "draft-1792931485-4",
@@ -4782,13 +4830,15 @@
     "country": "USA",
     "email": "alexacbj@udel.edu",
     "subject": "Prospective Graduate Student in Animal Gut Microbiomes and Equine Health",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-5915530567241184302",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f160548bdb"
   },
   {
     "id": "draft-1792931485-5",
@@ -4797,13 +4847,15 @@
     "country": "USA",
     "email": "momalley@ucsb.edu",
     "subject": "Prospective Graduate Student in Gut Microbial Consortia and Synthetic Biology",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-8372527571320750934",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f17675c5e1"
   },
   {
     "id": "draft-1792931485-6",
@@ -4812,13 +4864,15 @@
     "country": "USA",
     "email": "charles.chiu@ucsf.edu",
     "subject": "Prospective Graduate Student in Clinical Metagenomics and Pathogen Detection",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r4271065356853249911",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f16b7e1815"
   },
   {
     "id": "draft-1792931485-7",
@@ -4827,13 +4881,15 @@
     "country": "USA",
     "email": "ngarud@g.ucla.edu",
     "subject": "Prospective Graduate Student in Microbiome Evolution and Population Genomics",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-8130317708990727791",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f17e690ca7"
   },
   {
     "id": "draft-1792931485-8",
@@ -4842,13 +4898,15 @@
     "country": "USA",
     "email": "cwhittaker@berkeley.edu",
     "subject": "Prospective Graduate Student in Pathogen Genomics and One Health Surveillance",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r9200902530934184734",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f172c33316"
   },
   {
     "id": "draft-1792931485-9",
@@ -4872,13 +4930,15 @@
     "country": "USA",
     "email": "kcooper@arizona.edu",
     "subject": "Prospective Graduate Student in Foodborne Pathogens and Food Safety",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-343887613499930609",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f161e6126c"
   },
   {
     "id": "draft-1792931485-11",
@@ -4887,13 +4947,15 @@
     "country": "USA",
     "email": "rhunter2@buffalo.edu",
     "subject": "Prospective Graduate Student in Anaerobe Host Interactions and Bacterial Pathogenesis",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-4114430835230366585",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f175f0f67a"
   },
   {
     "id": "draft-1792931485-12",
@@ -4902,13 +4964,15 @@
     "country": "USA",
     "email": "bryan.brown1@ucr.edu",
     "subject": "Prospective Graduate Student in Microbiome Research and Reproductive Health",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r6439333197264853504",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f1656f396f"
   },
   {
     "id": "draft-1792931485-13",
@@ -4917,13 +4981,15 @@
     "country": "USA",
     "email": "amoliver@syr.edu",
     "subject": "Prospective Graduate Student in Microbial Ecology and Comparative Genomics",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r8139716243418723212",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f17b397429"
   },
   {
     "id": "draft-1792931485-14",
@@ -4932,13 +4998,15 @@
     "country": "USA",
     "email": "elpsbi@rit.edu",
     "subject": "Prospective Graduate Student in Evolutionary Genomics and Plant Microbe Interactions",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-2510426635271885158",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f17cd62ff3"
   },
   {
     "id": "draft-1792931485-15",
@@ -4947,13 +5015,15 @@
     "country": "USA",
     "email": "jovanka@montana.edu",
     "subject": "Prospective Graduate Student in Host Pathogen Interactions and Bacterial Virulence",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r1827343704654761784",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f165ed93b2"
   },
   {
     "id": "draft-1792931485-16",
@@ -4962,13 +5032,15 @@
     "country": "USA",
     "email": "mdavis65@jhu.edu",
     "subject": "Prospective Graduate Student in Antimicrobial Resistance and One Health",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r683053168389745683",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1785f173c886cd"
   },
   {
     "id": "draft-1792931485-17",
@@ -4976,14 +5048,16 @@
     "university": "Brown University",
     "country": "USA",
     "email": "sanghyun_lee@brown.edu",
-    "subject": "Prospective Graduate Student in Viral Pathogenesis and Mucosal Immunity",
-    "status": "draft",
+    "subject": "Re: Prospective Graduate Student in Viral Pathogenesis and Mucosal Immunity",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r2459002542578629332",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a18897e2438264a"
   },
   {
     "id": "draft-1792931485-18",
@@ -4992,13 +5066,15 @@
     "country": "USA",
     "email": "caleb.phillips@ttu.edu",
     "subject": "Prospective Graduate Student in Functional Genomics and Microbiome Evolution",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r1243812997984750300",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a17860ea03bb5cb"
   },
   {
     "id": "draft-1792931485-19",
@@ -5007,13 +5083,15 @@
     "country": "USA",
     "email": "brooke.ramay@wsu.edu",
     "subject": "Prospective Graduate Student in Antimicrobial Resistance and One Health",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r6513923108942476675",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a17861d43ea5827"
   },
   {
     "id": "draft-1792931485-20",
@@ -5037,13 +5115,15 @@
     "country": "USA",
     "email": "zburcham@utk.edu",
     "subject": "Prospective Graduate Student in Microbial Community Dynamics and Host Microbiomes",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r8629335371356732799",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a17852b0bb74b89"
   },
   {
     "id": "draft-1792931485-22",
@@ -5051,14 +5131,16 @@
     "university": "The University of Texas at Austin",
     "country": "USA",
     "email": "amanda.koltz@austin.utexas.edu",
-    "subject": "Prospective Research Master’s Student in Microbiome Ecology and Environmental Health",
-    "status": "draft",
+    "subject": "Prospective Graduate Student in Microbiome Ecology and Environmental Health",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-4441676475546145938",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-26",
+    "lastSentMessageId": "1a1786001acffab6"
   },
   {
     "id": "draft-1792931485-23",
@@ -5066,14 +5148,16 @@
     "university": "University of Minnesota",
     "country": "USA",
     "email": "tjj@umn.edu",
-    "subject": "Prospective Research Master’s Student in Poultry Microbiology and Antimicrobial Resistance",
-    "status": "draft",
+    "subject": "Prospective Graduate Student in Poultry Microbiology and Antimicrobial Resistance",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r873389153479658391",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a18293ceca68e2b"
   },
   {
     "id": "draft-1792931485-24",
@@ -5081,14 +5165,16 @@
     "university": "Colorado State University",
     "country": "USA",
     "email": "cdlserre@colostate.edu",
-    "subject": "Prospective Research Master’s Student in Animal Microbiome and Gut Brain Biology",
-    "status": "draft",
+    "subject": "Prospective Graduate Student in Animal Microbiome and Gut Brain Biology",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-6312302927563767170",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a18295fc927be23"
   },
   {
     "id": "draft-1792931485-25",
@@ -5096,14 +5182,16 @@
     "university": "Penn State University",
     "country": "USA",
     "email": "dwc30@psu.edu",
-    "subject": "Prospective Research Master’s Student in Food Microbiology and Gut Microbiome",
-    "status": "draft",
+    "subject": "Prospective Graduate Student in Food Microbiology and Gut Microbiome",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r665236996308582215",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a1829a0625b4d1f"
   },
   {
     "id": "draft-1792931485-26",
@@ -5111,14 +5199,16 @@
     "university": "University of Wisconsin Madison",
     "country": "USA",
     "email": "dopfer@wisc.edu",
-    "subject": "Prospective Research Master’s Student in Antimicrobial Resistance Epidemiology and Food Safety",
-    "status": "draft",
+    "subject": "Prospective Graduate Student in Antimicrobial Resistance Epidemiology and Food Safety",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-2968438524005240916",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a1829da77d7bf9c"
   },
   {
     "id": "draft-1792931485-27",
@@ -5126,14 +5216,16 @@
     "university": "Iowa State University",
     "country": "USA",
     "email": "osahin@iastate.edu",
-    "subject": "Prospective Research Master’s Student in Bacterial Genomics and Antimicrobial Resistance",
-    "status": "draft",
+    "subject": "Prospective Graduate Student in Bacterial Genomics and Antimicrobial Resistance",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r2452493189202929895",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a1829ed8440fe3d"
   },
   {
     "id": "draft-1792931485-28",
@@ -5141,14 +5233,16 @@
     "university": "Kansas State University",
     "country": "USA",
     "email": "jbai@ksu.edu",
-    "subject": "Prospective Research Master’s Student in Veterinary Pathogen Genomics and Molecular Diagnostics",
-    "status": "draft",
+    "subject": "Prospective Graduate Student in Veterinary Pathogen Genomics and Molecular Diagnostics",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-48006438568332507",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182a5521c93c81"
   },
   {
     "id": "draft-1792931485-29",
@@ -5156,14 +5250,16 @@
     "university": "Southern Illinois University Edwardsville",
     "country": "USA",
     "email": "vmccrac@siue.edu",
-    "subject": "Prospective Research Master’s Student in Gastrointestinal Microbiology and Host Microbiome",
-    "status": "draft",
+    "subject": "Prospective Graduate Student in Gastrointestinal Microbiology and Host Microbiome",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r6461316094968625285",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182a65d6b6092e"
   },
   {
     "id": "draft-1792931485-30",
@@ -5171,14 +5267,16 @@
     "university": "University of Michigan",
     "country": "USA",
     "email": "pschloss@umich.edu",
-    "subject": "Prospective Research Master’s Student in Microbiome Ecology and Microbial Evolution",
-    "status": "draft",
+    "subject": "Prospective Graduate Student in Microbiome Ecology and Microbial Evolution",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r2287624177468774118",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182a7b26e5d37d"
   },
   {
     "id": "draft-1792931485-31",
@@ -5186,14 +5284,16 @@
     "university": "University of Massachusetts Dartmouth",
     "country": "USA",
     "email": "kvelle@umassd.edu",
-    "subject": "Prospective Research Master’s Student in Microbial Pathogenesis and Host Cell Biology",
-    "status": "draft",
+    "subject": "Prospective Graduate Student in Microbial Pathogenesis and Host Cell Biology",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r4520034707173258068",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182ab5a756db8d"
   },
   {
     "id": "draft-1792931485-32",
@@ -5202,13 +5302,15 @@
     "country": "Australia",
     "email": "faisal_hai@uow.edu.au",
     "subject": "Prospective Master’s by Research Student in Environmental Microbiology and Water Research",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r6571490235829799157",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182aff8b0dd140"
   },
   {
     "id": "draft-1792931485-33",
@@ -5217,13 +5319,15 @@
     "country": "Australia",
     "email": "anna.sheppard@adelaide.edu.au",
     "subject": "Prospective Master’s by Research Student in Antimicrobial Resistance and Bacterial Genomics",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-2535348482610624466",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182b0dbd9e97ae"
   },
   {
     "id": "draft-1792931485-34",
@@ -5232,13 +5336,15 @@
     "country": "Australia",
     "email": "e.watkin@ecu.edu.au",
     "subject": "Prospective Master’s by Research Student in Microbial Ecology and Environmental Biotechnology",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-180138318246185785",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a18496872e53574"
   },
   {
     "id": "draft-1792931485-35",
@@ -5247,13 +5353,15 @@
     "country": "Australia",
     "email": "jessica.bayes@scu.edu.au",
     "subject": "Prospective Master’s by Research Student in Microbiome and Nutritional Health",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r2215163184905175846",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a1849686dec2e8f"
   },
   {
     "id": "draft-1792931485-36",
@@ -5262,13 +5370,15 @@
     "country": "Australia",
     "email": "robert.edwards@flinders.edu.au",
     "subject": "Prospective Master’s by Research Student in Microbiome and Metagenomics",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r297940940431101033",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a1849686a70387d"
   },
   {
     "id": "draft-1792931485-37",
@@ -5277,13 +5387,15 @@
     "country": "Australia",
     "email": "garry.myers@uts.edu.au",
     "subject": "Prospective Master’s by Research Student in Microbial Genomics and Animal Health",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r9038055129318675378",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a1849686d6dd074"
   },
   {
     "id": "draft-1792931485-38",
@@ -5292,13 +5404,15 @@
     "country": "Australia",
     "email": "k.seib@griffith.edu.au",
     "subject": "Prospective Master’s by Research Student in Molecular Microbiology and Vaccinology",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r3695970276196111476",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a18496863858ad4"
   },
   {
     "id": "draft-1792931485-39",
@@ -5307,13 +5421,15 @@
     "country": "Australia",
     "email": "s.abraham@murdoch.edu.au",
     "subject": "Prospective Master’s by Research Student in One Health Antimicrobial Resistance",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r7999602689218403561",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a1849687bc11fbd"
   },
   {
     "id": "draft-1792931485-40",
@@ -5322,13 +5438,15 @@
     "country": "Australia",
     "email": "b.singh@westernsydney.edu.au",
     "subject": "Prospective Master’s by Research Student in Microbiome and Environmental Biotechnology",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-5866813171973536834",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a1849687b03f644"
   },
   {
     "id": "draft-1792931485-41",
@@ -5337,13 +5455,15 @@
     "country": "Australia",
     "email": "tvanniasinkam@csu.edu.au",
     "subject": "Prospective Master’s by Research Student in Veterinary Pathogen Biology and Molecular Diagnostics",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r847358122849519375",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a1849686a4c2ce7"
   },
   {
     "id": "draft-1792931485-42",
@@ -5352,13 +5472,15 @@
     "country": "Australia",
     "email": "andreas.kupz@jcu.edu.au",
     "subject": "Prospective Master’s by Research Student in Microbiology and Vaccine Immunology",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-7208106448728876117",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a18496873bf8adb"
   },
   {
     "id": "draft-1792931485-43",
@@ -5367,13 +5489,15 @@
     "country": "Australia",
     "email": "claire.obrien@canberra.edu.au",
     "subject": "Prospective Master’s by Research Student in Foodborne AMR and Host Microbe Interactions",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-3040036218153141542",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a1849686685b3fb"
   },
   {
     "id": "draft-1792931485-44",
@@ -5382,13 +5506,15 @@
     "country": "Australia",
     "email": "jose.caparros-martin@curtin.edu.au",
     "subject": "Prospective Master’s by Research Student in Microbiome and Metagenomics",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-6932487812274246128",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a184968757283ca"
   },
   {
     "id": "draft-1792931485-45",
@@ -5397,13 +5523,15 @@
     "country": "Australia",
     "email": "gene.tyson@qut.edu.au",
     "subject": "Prospective Master’s by Research Student in Microbiome and Metagenomics",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r3454658093334640467",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a1849686a05dd2c"
   },
   {
     "id": "draft-1792931485-46",
@@ -5412,13 +5540,15 @@
     "country": "Australia",
     "email": "tanya.golubchik@sydney.edu.au",
     "subject": "Prospective Master’s by Research Student in Pathogen Genomics and Genomic Epidemiology",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-5585650160285811977",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a1849687ab0e034"
   },
   {
     "id": "draft-1792931485-47",
@@ -5427,13 +5557,15 @@
     "country": "Australia",
     "email": "scott.beatson@uq.edu.au",
     "subject": "Prospective Master’s by Research Student in Bacterial Pathogenomics and Antimicrobial Resistance",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r3832651913355313855",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a1849686dbf612a"
   },
   {
     "id": "draft-1792931485-48",
@@ -5442,13 +5574,15 @@
     "country": "Australia",
     "email": "jason.kwong@unimelb.edu.au",
     "subject": "Prospective Master’s by Research Student in Healthcare Associated Infection and Microbial Genomics",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r3487288794125803776",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a184968729b2c5c"
   },
   {
     "id": "draft-1792931485-49",
@@ -5457,13 +5591,15 @@
     "country": "Australia",
     "email": "r.lan@unsw.edu.au",
     "subject": "Prospective Master’s by Research Student in Bacterial Genomics and Antimicrobial Resistance",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r5491193378571447337",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a184968650392ab"
   },
   {
     "id": "draft-1792931485-50",
@@ -5472,13 +5608,15 @@
     "country": "Australia",
     "email": "verlaine.timms@newcastle.edu.au",
     "subject": "Prospective Master’s by Research Student in Microbial Genomics and Antimicrobial Resistance",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-4022101896907864526",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a184968676b15b5"
   },
   {
     "id": "draft-1792931485-51",
@@ -5487,13 +5625,15 @@
     "country": "Australia",
     "email": "eprice@usc.edu.au",
     "subject": "Prospective Master’s by Research Student in Microbial Genomics and Antimicrobial Resistance",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r7127021711859312134",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-29",
+    "lastSentMessageId": "1a1849687d6f05d7"
   },
   {
     "id": "draft-1792931485-52",
@@ -5502,13 +5642,15 @@
     "country": "Ireland",
     "email": "r.massey@ucc.ie",
     "subject": "Prospective Graduate Student in Microbial Pathogenicity and Antimicrobial Resistance",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-1608085569928484634",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182c9e3832cfa4"
   },
   {
     "id": "draft-1792931485-53",
@@ -5517,13 +5659,15 @@
     "country": "Ireland",
     "email": "sfanning@ucd.ie",
     "subject": "Prospective Graduate Student in Foodborne Pathogen Genomics and AMR",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r2857173718677955721",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182ca0d013d4fa"
   },
   {
     "id": "draft-1792931485-54",
@@ -5532,13 +5676,15 @@
     "country": "New Zealand",
     "email": "g.bashiri@auckland.ac.nz",
     "subject": "Prospective Graduate Student in Antimicrobial Resistance and Drug Target Discovery",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r2011419774401589270",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182ca3297e9a9e"
   },
   {
     "id": "draft-1792931485-55",
@@ -5547,13 +5693,15 @@
     "country": "New Zealand",
     "email": "c.higgins@aut.ac.nz",
     "subject": "Prospective Graduate Student in Fermentation Microbiomes and Food Microbiology",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r550142553178972519",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182ca408142424"
   },
   {
     "id": "draft-1792931485-56",
@@ -5562,13 +5710,15 @@
     "country": "New Zealand",
     "email": "daniel.pletzer@otago.ac.nz",
     "subject": "Prospective Graduate Student in Antimicrobial Resistance and Biofilm Infections",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r2326107848168845583",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182ca9fa2e7b2f"
   },
   {
     "id": "draft-1792931485-57",
@@ -5577,13 +5727,15 @@
     "country": "New Zealand",
     "email": "jack.heinemann@canterbury.ac.nz",
     "subject": "Prospective Graduate Student in Antimicrobial Resistance Evolution and Surveillance",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r2087274264465005432",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cab3a3903e3"
   },
   {
     "id": "draft-1792931485-58",
@@ -5592,13 +5744,15 @@
     "country": "Netherlands",
     "email": "a.bossers@uu.nl",
     "subject": "Prospective Graduate Student in One Health Microbiome and AMR Research",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r3184978149464978025",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cabd04fd21e"
   },
   {
     "id": "draft-1792931485-59",
@@ -5607,13 +5761,15 @@
     "country": "Australia",
     "email": "wolf.marx@deakin.edu.au",
     "subject": "Prospective Graduate Student in Gut Microbiota and Nutritional Psychiatry",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r798309698265029255",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cac60286c35"
   },
   {
     "id": "draft-1792931485-60",
@@ -5622,13 +5778,15 @@
     "country": "Ireland",
     "email": "paul.cotter@teagasc.ie",
     "subject": "Prospective Graduate Student in Food Microbiome and Metagenomics",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-2556887388639523931",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cad8624f5a7"
   },
   {
     "id": "draft-1792931485-61",
@@ -5637,13 +5795,15 @@
     "country": "Ireland",
     "email": "mmartins@tcd.ie",
     "subject": "Prospective Graduate Student in Antimicrobial Resistance Mechanisms",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r1953475485608553919",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cae4a85f722"
   },
   {
     "id": "draft-1792931485-62",
@@ -5652,13 +5812,15 @@
     "country": "Ireland",
     "email": "j.ogara@universityofgalway.ie",
     "subject": "Prospective Graduate Student in Biofilm Associated Antimicrobial Tolerance",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-4504320153348022199",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cb4e38a10a1"
   },
   {
     "id": "draft-1792931485-63",
@@ -5667,13 +5829,15 @@
     "country": "Ireland",
     "email": "eoneill@rcsi.ie",
     "subject": "Prospective Graduate Student in Biofilm Infections and Phage Endolysin Therapy",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r4999503575323278039",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cb9096c92ae"
   },
   {
     "id": "draft-1792931485-64",
@@ -5682,13 +5846,15 @@
     "country": "UK",
     "email": "c.creevey@qub.ac.uk",
     "subject": "Prospective Graduate Student in Microbial Genomics and the Rumen Microbiome",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r904059817426912435",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cba8ab3cdc4"
   },
   {
     "id": "draft-1792931485-65",
@@ -5697,13 +5863,15 @@
     "country": "Ireland",
     "email": "brigid.lucey@mtu.ie",
     "subject": "Prospective Graduate Student in Clinical Microbiology and Genomic Surveillance",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r3248802577882653489",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cbb62d0ff4b"
   },
   {
     "id": "draft-1792931485-66",
@@ -5712,13 +5880,15 @@
     "country": "Ireland",
     "email": "gillian.gardiner@setu.ie",
     "subject": "Prospective Graduate Student in Livestock Gut Microbiome Research",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r3338829697148764102",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cbe3e6738d7"
   },
   {
     "id": "draft-1792931485-67",
@@ -5727,13 +5897,15 @@
     "country": "Ireland",
     "email": "christine.loscher@dcu.ie",
     "subject": "Prospective Graduate Student in Food Derived Immune Modulation",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-398597304737193155",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cc019c91e22"
   },
   {
     "id": "draft-1792931485-68",
@@ -5742,13 +5914,15 @@
     "country": "New Zealand",
     "email": "d.gagic@massey.ac.nz",
     "subject": "Prospective Graduate Student in Probiotics and Host Microbe Interactions",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-2672510017978763193",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cc030c6dbb3"
   },
   {
     "id": "draft-1792931485-69",
@@ -5757,13 +5931,15 @@
     "country": "New Zealand",
     "email": "jeremy.owen@vuw.ac.nz",
     "subject": "Prospective Graduate Student in Metagenomics and Natural Product Discovery",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-5598858031248074530",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cc0a4f62310"
   },
   {
     "id": "draft-1792931485-70",
@@ -5772,13 +5948,15 @@
     "country": "New Zealand",
     "email": "charles.lee@waikato.ac.nz",
     "subject": "Prospective Graduate Student in Microbial Ecology and Metagenomics",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r353188563937318438",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cc16063ef46"
   },
   {
     "id": "draft-1792931485-71",
@@ -5787,13 +5965,15 @@
     "country": "Germany",
     "email": "marc.stadler@helmholtz-hzi.de",
     "subject": "Prospective Graduate Student in Natural Product Discovery from Fungi",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-1911328880065493532",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cc2283a0ad6"
   },
   {
     "id": "draft-1792931485-72",
@@ -5802,13 +5982,15 @@
     "country": "Australia",
     "email": "aude.fahrer@anu.edu.au",
     "subject": "Prospective Graduate Student in Microbiome and Tumor Immunology Research",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-4997821713873636364",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cc37906fc03"
   },
   {
     "id": "draft-1792931485-73",
@@ -5817,13 +5999,15 @@
     "country": "USA",
     "email": "yue.qu@monash.edu",
     "subject": "Prospective Graduate Student in Biofilm AMR and Staphylococcus Research",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-6236732370698288033",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cc42c9d0dda"
   },
   {
     "id": "draft-1792931485-74",
@@ -5832,13 +6016,15 @@
     "country": "USA",
     "email": "ana.traven@monash.edu",
     "subject": "Prospective Graduate Student in Microbial Pathogenesis and Host-Pathogen Interactions",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-5313450177439544610",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cc4ff68d0e1"
   },
   {
     "id": "draft-1792931485-75",
@@ -5847,13 +6033,15 @@
     "country": "Australia",
     "email": "enzo.palombo@rmit.edu.au",
     "subject": "Prospective Graduate Student in Phage Biocontrol and Food Safety Research",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-5549416928008587525",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cc5cc1aebb3"
   },
   {
     "id": "draft-1792931485-76",
@@ -5862,13 +6050,15 @@
     "country": "Australia",
     "email": "mark.walker@uq.edu.au",
     "subject": "Prospective Graduate Student in Streptococcus Pathogenesis and Vaccine Research",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r2858624435916943090",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cc6e9c7fba6"
   },
   {
     "id": "draft-1792931485-77",
@@ -5877,12 +6067,14 @@
     "country": "USA",
     "email": "jpeters@pharmacy.wisc.edu",
     "subject": "Prospective Graduate Student in Bacterial Genomics and Antibiotic Resistance",
-    "status": "draft",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-9042262815897709136",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-10-28",
+    "lastSentMessageId": "1a182cc804b3b09b"
   }
 ]
