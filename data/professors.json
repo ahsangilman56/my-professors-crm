@@ -11492,5 +11492,26 @@
     "draftId": "r-9042262815897709136",
     "draftSubject": "Prospective Graduate Student in Bacterial Genomics and Antibiotic Resistance",
     "replySummary": ""
+  },
+  {
+    "id": "can-draft-virginie-lachapelle",
+    "name": "Virginie Lachapelle",
+    "email": "virginie.lachapelle.1@umontreal.ca",
+    "university": "Universite de Montreal (CRBM Veterinary College)",
+    "country": "Canada",
+    "researchArea": "Associate Professor, food hygiene, biosecurity, zoonoses, veterinary microbiology, and antimicrobial resistance",
+    "homepage": "https://fmv.umontreal.ca/en/etudes/personnel-enseignant/fiche/in/in37592/sg/Virginie%20Lachapelle",
+    "researchProfile": "",
+    "status": {
+      "mailed": false,
+      "replyReceived": false,
+      "followUpNeeded": false,
+      "drafted": true
+    },
+    "mailedAt": "",
+    "replySummary": "",
+    "draftedAt": "2026-10-31",
+    "draftId": "r9098987383394317578",
+    "draftSubject": "Prospective Graduate Student in Food Safety and Veterinary Microbiology"
   }
 ]
