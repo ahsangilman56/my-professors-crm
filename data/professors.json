@@ -8173,16 +8173,19 @@
     "homepage": "https://foodscience.psu.edu/directory/dwc30",
     "researchProfile": "",
     "status": {
-      "mailed": false,
-      "replyReceived": false,
+      "mailed": true,
+      "replyReceived": true,
       "followUpNeeded": false,
       "drafted": true
     },
-    "mailedAt": "",
-    "replySummary": "",
+    "mailedAt": "2026-10-30",
+    "replySummary": "Professor replied that no positions are available at this time.",
     "draftedAt": "2026-10-25",
     "draftId": "r665236996308582215",
-    "draftSubject": "Prospective Research Master’s Student in Food Microbiology and Gut Microbiome"
+    "draftSubject": "Prospective Research Master’s Student in Food Microbiology and Gut Microbiome",
+    "replyDate": "2026-10-30",
+    "lastSentMessageId": "1a1829a0625b4d1f",
+    "lastReplyMessageId": "1a18e2fe6497108d"
   },
   {
     "id": "1788685448",
