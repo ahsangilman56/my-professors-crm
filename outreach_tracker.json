@@ -2185,20 +2185,6 @@
     "replyReceived": false
   },
   {
-    "id": "draft-andrew.goodman@yale.edu",
-    "name": "Andrew Goodman",
-    "university": "Yale University",
-    "country": "United States",
-    "email": "andrew.goodman@yale.edu",
-    "timestamp": "2026-08-26T07:06:52Z",
-    "status": "sent",
-    "notes": "Draft FINAL v5 2026-08-26: Homepage verified (medicine.yale.edu/lab/goodman - commensal competition/cooperation mechanisms, microbiome variation & infection/drug response, MSI). LAST-author Cell Host Microbe 2025 BSAP-5ab paper PMC12757102, full Results read from PMC. Finding 24w + interpretation: host cues activate effectors restructuring populations in vivo.",
-    "subject": "Prospective Graduate Student in Gut Microbiome Population Dynamics Research",
-    "dateCreated": "2026-08-26",
-    "dateSent": "2026-08-26",
-    "replyReceived": false
-  },
-  {
     "id": "draft-nicole.denisco@utdallas.edu",
     "name": "Nicole De Nisco",
     "university": "University of Texas at Dallas",
@@ -2965,21 +2951,6 @@
     "replySummary": "",
     "notes": "Associate Professor | Official WSU portal verified | Antimicrobial resistance, bioinformatics, epidemiology, infectious disease modeling",
     "source": "https://vetmed.wsu.edu/our-team/wsu-profile/eric.lofgren/"
-  },
-  {
-    "id": "prof-1788463870164",
-    "name": "Jason Crawford",
-    "university": "Yale University",
-    "country": "USA",
-    "email": "jason.crawford@yale.edu",
-    "subject": "Prospective Graduate Student in Gut Microbiome Metabolism and Host Immunity",
-    "dateSent": "2026-09-07",
-    "timestamp": 1788786615,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
-    "notes": "Professor | Official Yale portal verified | Chemistry, microbial pathogenesis, gut microbiome, genome sequence guided discovery",
-    "source": "https://medicine.yale.edu/profile/jason-crawford/"
   },
   {
     "id": "prof-1788464239",
@@ -3959,19 +3930,6 @@
     "replySummary": ""
   },
   {
-    "id": "mail-1789475763395-2",
-    "name": "Curtis Huttenhower",
-    "university": "Harvard University",
-    "country": "USA",
-    "email": "chuttenh@hsph.harvard.edu",
-    "subject": "Prospective Graduate Student in Functional Metagenomics and Microbiome Bioinformatics",
-    "dateSent": "2026-09-15",
-    "timestamp": 1789475763,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": ""
-  },
-  {
     "id": "mail-1789475763396-3",
     "name": "Shaun Brinsmade",
     "university": "Georgetown University",
@@ -4591,20 +4549,6 @@
     "lastSentMessageId": "1a13a8b8b3602376"
   },
   {
-    "id": "mail-1791983600",
-    "name": "Purushottam Dixit",
-    "university": "Yale University",
-    "country": "USA",
-    "email": "purushottam.dixit@yale.edu",
-    "subject": "Prospective Graduate Student in Microbiome Ecology and Quantitative Biology",
-    "dateSent": "2026-10-14",
-    "timestamp": 1791983600,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
-    "lastSentMessageId": "1a13a8b6a75d4b23"
-  },
-  {
     "id": "mail-1791983594",
     "name": "Amanda Jamieson",
     "university": "Brown University",
@@ -4743,37 +4687,6 @@
     "replyReceived": false,
     "replySummary": "",
     "lastSentMessageId": "1a13a8c2be02ee6d"
-  },
-  {
-    "id": "mail-5716070410",
-    "name": "Michael Baym",
-    "university": "Harvard University",
-    "country": "USA",
-    "email": "baym@hms.harvard.edu",
-    "subject": "Prospective Graduate Student in Antibiotic Resistance and Microbial Evolution",
-    "dateSent": "2026-10-14",
-    "timestamp": 1791980000,
-    "status": "sent",
-    "replyReceived": false,
-    "replySummary": "",
-    "lastSentMessageId": "1a13a8c038654641"
-  },
-  {
-    "id": "draft-1792931485-0",
-    "name": "vanessa.ezenwa",
-    "university": "Yale University",
-    "country": "USA",
-    "email": "vanessa.ezenwa@yale.edu",
-    "subject": "Prospective Graduate Student in Disease Ecology and Host Pathogen Interactions",
-    "status": "sent",
-    "dateCreated": "2026-10-25",
-    "timestamp": 1792931485,
-    "draftId": "r2475698463689202378",
-    "replyReceived": false,
-    "replySummary": "",
-    "notes": "Gmail draft ready; not sent",
-    "dateSent": "2026-10-26",
-    "lastSentMessageId": "1a1785f179df2223"
   },
   {
     "id": "draft-1792931485-1",
