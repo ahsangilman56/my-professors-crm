@@ -309,14 +309,15 @@
     "subject": "Re: Prospective Graduate Student in Host Microbe Interactions and Microbiome Ecology",
     "dateSent": "2026-11-02",
     "timestamp": 1787237859,
-    "status": "replied - neutral",
+    "status": "replied - positive",
     "replyReceived": true,
-    "replySummary": "Thank you for sharing this! Iris Iris Holmes Assistant Professor She/Her/Hers School Of Biological Sciences Mail Code 6501 Southern Illinois University 1125 Lincoln Drive, Life Science II, Rm 389",
+    "replySummary": "Thank you for sharing this! Iris Iris Holmes Assistant Professor She/Her/Hers School Of Biological Sciences Mail Code 6501 Southern Illinois University 1125 Lincoln Drive, Life Science II, Rm 389 Carbondale, Illinois 62901 iris.holmes@siu.edu<mailto:iris.holmes@siu.edu> P: 734.355.0190 ________________________________ From: Md Abu Ahsan Gilman <gilman5519@stu.gau.edu.bd> Sent: Monday, November 2, 2026 10:38 AM To: Holmes, Iris A <iris.holmes@siu.edu> Subject: Re: Prospective Graduate Student in ",
     "replyDate": "2026-11-02",
     "dateReplied": "2026-08-21",
-    "replyNote": "Inbox reply 2026-11-02T23:38:34+06:00: Re: Prospective Graduate Student in Host Microbe Interactions and Microbiome Ecology — Thank you for sharing this! Iris Iris Holmes Assistant Professor She/Her/Hers School Of Biological Sciences Mail Code 6501 Southern Illinois University 1125 Lincoln Drive, Life Science II, Rm 389",
+    "replyNote": "Expresses research/program interest or indicates a possible route forward.",
     "notes": "No funding now; follow up in November",
-    "lastSentMessageId": "1a19d202576d08f7"
+    "lastSentMessageId": "1a19d202576d08f7",
+    "replyMessageId": "1a19d5782952ae9d"
   },
   {
     "id": "mail-1787237863",
@@ -1957,11 +1958,12 @@
     "timestamp": 1755600000,
     "status": "replied - rejected",
     "replyReceived": true,
-    "replySummary": "Dear applicant, Thank you very much for your email and interest in my lab. Please note that my lab is currently fully staffed and not recruiting new MS or PhD trainees. My lab website will inform about",
+    "replySummary": "Dear applicant, Thank you very much for your email and interest in my lab. Please note that my lab is currently fully staffed and not recruiting new MS or PhD trainees. My lab website will inform about new openings in the future. Best of luck for your future. Kind regards, JD ​___________________________ Jan-Ulrik Dahl, Ph.D. Associate Professor of Microbiology Dr. Fred Gletten Endowed Chair of Biological Sciences Dahl Lab<https://about.illinoisstate.edu/jdahl1/> Illinois State University School",
     "notes": "Rejected application",
-    "replyNote": "Inbox reply 2026-11-02T20:17:16+06:00: Re: Prospective Graduate Student in Antimicrobial Resistance and Microbial Pathogenesis — Dear applicant, Thank you very much for your email and interest in my lab. Please note that my lab is currently fully staffed and not recruiting new MS or PhD trainees. My lab website will inform about",
+    "replyNote": "Explicitly reports no current capacity, funding, or student opening.",
     "replyDate": "2026-11-02",
-    "lastSentMessageId": "1a19c9b3582694ce"
+    "lastSentMessageId": "1a19c9b3582694ce",
+    "replyMessageId": "1a19c9f1e9d80f7e"
   },
   {
     "name": "Noelle Noyes",
@@ -2478,14 +2480,15 @@
     "university": "Colorado State University",
     "country": "USA",
     "email": "sraabis@colostate.edu",
-    "subject": "Prospective Graduate Student in Host Pathogen Interaction and Animal Microbiome",
-    "dateSent": "2026-09-07",
+    "subject": "Prospective Graduate Student in Veterinary Microbiome and Bacterial Pathogenesis",
+    "dateSent": "2026-11-05",
     "timestamp": 1788786615,
     "status": "sent",
     "replyReceived": false,
     "replySummary": "",
     "notes": "Assistant Professor | Official CSU Microbiome Network portal verified | Animal host microbiome and veterinary research; currently taking graduate students",
-    "source": "https://microbiomenetwork.colostate.edu/sarah-raabis/"
+    "source": "https://microbiomenetwork.colostate.edu/sarah-raabis/",
+    "lastSentMessageId": "1a1acc7391dc8483"
   },
   {
     "id": "prof-1788455924857",
@@ -4527,13 +4530,13 @@
     "university": "The University of Alabama",
     "country": "USA",
     "email": "matthew.blair@ua.edu",
-    "subject": "Prospective Graduate Student in Environmental Microbiology and Water Quality",
-    "dateSent": "2026-10-14",
+    "subject": "Prospective Graduate Student in Environmental Microbiology and Antimicrobial Resistance",
+    "dateSent": "2026-11-05",
     "timestamp": 1791983608,
     "status": "sent",
     "replyReceived": false,
     "replySummary": "",
-    "lastSentMessageId": "1a13a8b8b3602376"
+    "lastSentMessageId": "1a1ac4d75ce06d43"
   },
   {
     "id": "mail-1791983594",
@@ -4803,14 +4806,16 @@
     "university": "University of Arkansas",
     "country": "USA",
     "email": "garanyak@uark.edu",
-    "subject": "Prospective Graduate Student in Computational Genomics and Poultry Pathogen Surveillance",
-    "status": "draft",
+    "subject": "Prospective Graduate Student in Computational Genomics and Microbiome Research",
+    "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r-2466990882537261515",
     "replyReceived": false,
     "replySummary": "",
-    "notes": "Gmail draft ready; not sent"
+    "notes": "Gmail draft ready; not sent",
+    "dateSent": "2026-11-05",
+    "lastSentMessageId": "1a1ac50346259117"
   },
   {
     "id": "draft-1792931485-10",
@@ -4903,7 +4908,7 @@
     "university": "Montana State University",
     "country": "USA",
     "email": "jovanka@montana.edu",
-    "subject": "Prospective Graduate Student in Host Pathogen Interactions and Bacterial Virulence",
+    "subject": "Prospective Graduate Student in Bacterial Pathogenesis and Antimicrobial Resistance",
     "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
@@ -4911,8 +4916,8 @@
     "replyReceived": false,
     "replySummary": "",
     "notes": "Gmail draft ready; not sent",
-    "dateSent": "2026-10-26",
-    "lastSentMessageId": "1a1785f165ed93b2"
+    "dateSent": "2026-11-09",
+    "lastSentMessageId": "1a1c0f3029dc5399"
   },
   {
     "id": "draft-1792931485-16",
@@ -4928,8 +4933,8 @@
     "replyReceived": false,
     "replySummary": "",
     "notes": "Gmail draft ready; not sent",
-    "dateSent": "2026-10-26",
-    "lastSentMessageId": "1a1785f173c886cd"
+    "dateSent": "2026-11-09",
+    "lastSentMessageId": "1a1c0cd7d4a8d7e4"
   },
   {
     "id": "draft-1792931485-17",
@@ -4954,7 +4959,7 @@
     "university": "Texas Tech University",
     "country": "USA",
     "email": "caleb.phillips@ttu.edu",
-    "subject": "Prospective Graduate Student in Functional Genomics and Microbiome Evolution",
+    "subject": "Prospective Graduate Student in Metagenomics and Chronic Wound Microbiome Research",
     "status": "sent",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
@@ -4962,8 +4967,8 @@
     "replyReceived": false,
     "replySummary": "",
     "notes": "Gmail draft ready; not sent",
-    "dateSent": "2026-10-26",
-    "lastSentMessageId": "1a17860ea03bb5cb"
+    "dateSent": "2026-11-09",
+    "lastSentMessageId": "1a1c0f3ab2f6ca0b"
   },
   {
     "id": "draft-1792931485-19",
@@ -5109,16 +5114,19 @@
     "university": "Iowa State University",
     "country": "USA",
     "email": "osahin@iastate.edu",
-    "subject": "Prospective Graduate Student in Bacterial Genomics and Antimicrobial Resistance",
-    "status": "sent",
+    "subject": "Prospective Graduate Student in Campylobacter Genomics and Antimicrobial Resistance",
+    "status": "replied - auto-reply",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r2452493189202929895",
-    "replyReceived": false,
-    "replySummary": "",
+    "replyReceived": true,
+    "replySummary": "I will be out of office through 11/11/2026. I will have minimal access to email during this period. Please contact the lab (515-294-1217 or 515-294-9411) for questions related to Bacteriology Section. If you need assistance from the ISU-VDL, contact the front desk at 515-294-1950, or by emailing to isuvdl@iastate.edu",
     "notes": "Gmail draft ready; not sent",
-    "dateSent": "2026-10-28",
-    "lastSentMessageId": "1a1829ed8440fe3d"
+    "dateSent": "2026-11-09",
+    "lastSentMessageId": "1a1c0ca655da86ae",
+    "replyDate": "2026-11-09",
+    "replyNote": "Automatic/away notice; no substantive decision recorded.",
+    "replyMessageId": "1a1c0cb5309b761b"
   },
   {
     "id": "draft-1792931485-28",
@@ -5160,16 +5168,19 @@
     "university": "University of Michigan",
     "country": "USA",
     "email": "pschloss@umich.edu",
-    "subject": "Prospective Graduate Student in Microbiome Ecology and Microbial Evolution",
-    "status": "sent",
+    "subject": "Re: Prospective Graduate Student in Microbiome Ecology and Metagenomics",
+    "status": "replied - neutral",
     "dateCreated": "2026-10-25",
     "timestamp": 1792931485,
     "draftId": "r2287624177468774118",
-    "replyReceived": false,
-    "replySummary": "",
+    "replyReceived": true,
+    "replySummary": "Hi, Thanks for your email. PanGram suggests that it wasn't actually written by you, but mostly by AI. Is that true? If so, I have zero interest in working with people who use AI, especially if they don't self disclose that use. Pat [image: Screenshot 2026-11-09 at 09.55.16.png] On Mon, Nov 9, 2026 at 9:54 AM Md Abu Ahsan Gilman < gilman5519@stu.gau.edu.bd> wrote: > Dear Professor Schloss, > > I hope you are doing well. I am Md Abu Ahsan Gilman, and I completed my > Doctor of Veterinary Medicine ",
     "notes": "Gmail draft ready; not sent",
-    "dateSent": "2026-10-28",
-    "lastSentMessageId": "1a182a7b26e5d37d"
+    "dateSent": "2026-11-09",
+    "lastSentMessageId": "1a1c0dbd1e123a94",
+    "replyDate": "2026-11-09",
+    "replyNote": "Human reply received; no explicit acceptance or rejection identified.",
+    "replyMessageId": "1a1c0cf7ca7eb412"
   },
   {
     "id": "draft-1792931485-31",
@@ -5979,12 +5990,13 @@
     "subject": "Prospective MSc Student in Foodborne Pathogens and Livestock Health",
     "dateSent": "2026-11-02",
     "timestamp": 1793690642,
-    "status": "replied - neutral",
+    "status": "replied - rejected",
     "replyReceived": true,
-    "replySummary": "Dear Dr. Gilman: I am retiring soon and no longer accepting graduate students, sorry. Kim From: Md Abu Ahsan Gilman &lt;gilman5519@stu.gau.edu.bd&gt; Sent: November 2, 2026 6:48 AM To: Stanford, Kim",
+    "replySummary": "Dear Dr. Gilman: I am retiring soon and no longer accepting graduate students, sorry. Kim ________________________________ From: Md Abu Ahsan Gilman <gilman5519@stu.gau.edu.bd> Sent: November 2, 2026 6:48 AM To: Stanford, Kim <kim.stanford@uleth.ca> Subject: Prospective MSc Student in Foodborne Pathogens and Livestock Health Caution: This email was sent from someone outside of the University of Lethbridge. Do not click on links or open attachments unless you know they are safe. Suspicious emails",
     "replyDate": "2026-11-02",
-    "replyNote": "Inbox reply 2026-11-02T20:49:34+06:00: Re: Prospective MSc Student in Foodborne Pathogens and Livestock Health — Dear Dr. Gilman: I am retiring soon and no longer accepting graduate students, sorry. Kim From: Md Abu Ahsan Gilman &lt;gilman5519@stu.gau.edu.bd&gt; Sent: November 2, 2026 6:48 AM To: Stanford, Kim",
-    "lastSentMessageId": "1a19c4d654194b96"
+    "replyNote": "Explicitly reports no current capacity, funding, or student opening.",
+    "lastSentMessageId": "1a19c4d654194b96",
+    "replyMessageId": "1a19cbce5e9c140d"
   },
   {
     "id": "mail-cnc3@psu.edu",
@@ -5992,15 +6004,16 @@
     "university": "Penn State University",
     "country": "USA",
     "email": "cnc3@psu.edu",
-    "subject": "Prospective PhD Student in Food Safety and Food Microbiology",
+    "subject": "Prospective Graduate Student in Food Safety and Antimicrobial Interventions",
     "dateSent": "2026-11-02",
     "timestamp": 1793690642,
     "status": "replied - rejected",
     "replyReceived": true,
-    "replySummary": "Thanks for your message and for your interest in my research program. Unfortunately, I am planning to retire in 2026. As such, I am not taking on any new grad students, post-doctoral associates, or",
+    "replySummary": "Thanks for your message and for your interest in my research program. Unfortunately, I am planning to retire in 2026. As such, I am not taking on any new grad students, post-doctoral associates, or visiting scholars. You may want to review my colleagues' profiles at: https://foodscience.psu.edu/directory/faculty I wish you all the best in finding an advisor with whom to work. Regards, Dr. Cutter ****************************** Catherine Nettles Cutter, Ph. D. Professor and Food Safety Extension S",
     "replyDate": "2026-11-02",
-    "replyNote": "Inbox reply 2026-11-02T20:26:31+06:00: Re: Prospective PhD Student in Food Safety and Food Microbiology — Thanks for your message and for your interest in my research program. Unfortunately, I am planning to retire in 2026. As such, I am not taking on any new grad students, post-doctoral associates, or",
-    "lastSentMessageId": "1a19c9eec17b92fa"
+    "replyNote": "Explicitly reports no current capacity, funding, or student opening.",
+    "lastSentMessageId": "1a19c9b358c88aa8",
+    "replyMessageId": "1a19ca7c29f4f1c3"
   },
   {
     "id": "mail-david.guttman@utoronto.ca",
@@ -6013,10 +6026,11 @@
     "timestamp": 1793690642,
     "status": "replied - rejected",
     "replyReceived": true,
-    "replySummary": "Thank you for reaching out and for your interest in my lab. I am not taking on additional people at this time​, but I wish you the very best in your academic and research pursuits. Sincerely, David",
+    "replySummary": "Thank you for reaching out and for your interest in my lab. I am not taking on additional people at this time​, but I wish you the very best in your academic and research pursuits. Sincerely, David Guttman ------------------------------ David S. Guttman Professor, Department of Cell & Systems Biology Director, Centre for the Analysis of Genome Evolution & Function University of Toronto ________________________________ From: Md Abu Ahsan Gilman <gilman5519@stu.gau.edu.bd> Sent: Monday, November 2",
     "replyDate": "2026-11-02",
-    "replyNote": "Inbox reply 2026-11-02T20:18:26+06:00: Re: Prospective MSc Student in Comparative Genomics and Host Microbe Interactions — Thank you for reaching out and for your interest in my lab. I am not taking on additional people at this time​, but I wish you the very best in your academic and research pursuits. Sincerely, David",
-    "lastSentMessageId": "1a19c83698337cdd"
+    "replyNote": "Explicitly reports no current capacity, funding, or student opening.",
+    "lastSentMessageId": "1a19c83698337cdd",
+    "replyMessageId": "1a19ca0518591254"
   },
   {
     "id": "mail-ncheeptham@tru.ca",
@@ -6029,10 +6043,11 @@
     "timestamp": 1793690642,
     "status": "replied - neutral",
     "replyReceived": true,
-    "replySummary": "Apologies, I do not have a research grant or space to accept any new graduate students at the moments. Good luck with your endeavors. Ann ____________________________________ Naowarat Cheeptham (Ann),",
+    "replySummary": "Apologies, I do not have a research grant or space to accept any new graduate students at the moments. Good luck with your endeavors. Ann ____________________________________ Naowarat Cheeptham (Ann), Ph.D. [A button with \"Hear my name\" text for name playback in email signature] <https://www.name-coach.com/naowarat-cheeptham> Professor - Microbiology Department of Biological Sciences Office S354; Lab S365C Faculty of Science Thompson Rivers University 805 TRU Way Kamloops, BC V2C 0C8 Tel: 250-37",
     "replyDate": "2026-11-02",
-    "replyNote": "Inbox reply 2026-11-02T20:01:57+06:00: Re: Prospective MSc Student in Microbial Diversity and Antimicrobial Drug Discovery — Apologies, I do not have a research grant or space to accept any new graduate students at the moments. Good luck with your endeavors. Ann ____________________________________ Naowarat Cheeptham (Ann),",
-    "lastSentMessageId": "1a19c4d6406d2018"
+    "replyNote": "Human reply received; no explicit acceptance or rejection identified.",
+    "lastSentMessageId": "1a19c4d6406d2018",
+    "replyMessageId": "1a19c912f66055df"
   },
   {
     "id": "mail-fabrice.jean-pierre@usherbrooke.ca",
@@ -6045,10 +6060,11 @@
     "timestamp": 1793690642,
     "status": "replied - rejected",
     "replyReceived": true,
-    "replySummary": "Hi- Thank you for your interest. I am not recruiting. Best of luck in your research Fabrice ------------------------------------ Fabrice Jean-Pierre, Ph.D. (he/him/his) Assistant Professor/Professeur",
+    "replySummary": "Hi- Thank you for your interest. I am not recruiting. Best of luck in your research Fabrice ------------------------------------ Fabrice Jean-Pierre, Ph.D. (he/him/his) Assistant Professor/Professeur adjoint D8-1036 (lab), D8-1072 (office/bureau) 2500 boul. de l’Université Sherbrooke (QC), Canada, J1K 2R1 Université de Sherbrooke Ph/Tel: 819-821-8000 #63178 Email: fabrice.jean-pierre@usherbrooke.ca<mailto:fabrice.jean.pierre@usherbrooke.ca> @FabriceJPierre<https://bsky.app/profile/fabricejpierre",
     "replyDate": "2026-11-02",
-    "replyNote": "Inbox reply 2026-11-02T18:51:11+06:00: RE: Prospective MSc Student in Polymicrobial Biofilms and Antimicrobial Recalcitrance — Hi- Thank you for your interest. I am not recruiting. Best of luck in your research Fabrice ------------------------------------ Fabrice Jean-Pierre, Ph.D. (he/him/his) Assistant Professor/Professeur",
-    "lastSentMessageId": "1a19c9f31ff24153"
+    "replyNote": "Explicitly reports no current capacity, funding, or student opening.",
+    "lastSentMessageId": "1a19c9f31ff24153",
+    "replyMessageId": "1a19c50962005370"
   },
   {
     "id": "mail-vlloyd@mta.ca",
@@ -6061,10 +6077,11 @@
     "timestamp": 1793690642,
     "status": "replied - neutral",
     "replyReceived": true,
-    "replySummary": "Thank you for your message and your interest in my research group. I regret that I do not have any further positions available with my group. I wish you the best of success in finding a challenging and",
+    "replySummary": "Thank you for your message and your interest in my research group. I regret that I do not have any further positions available with my group. I wish you the best of success in finding a challenging and rewarding position. Sincerely, Vett Lloyd Vett Lloyd, PhD Professor Dept. Biology, Mt. Allison University, 35B York St. Sackville, New Brunswick, Canada E4L 1G7 www.lloydticklab.ca ________________________________ From: Md Abu Ahsan Gilman <gilman5519@stu.gau.edu.bd> Sent: Monday, November 2, 2026",
     "replyDate": "2026-11-02",
-    "replyNote": "Inbox reply 2026-11-02T18:51:07+06:00: Re: Prospective MSc Student in Genetics and Lyme Disease Research — Thank you for your message and your interest in my research group. I regret that I do not have any further positions available with my group. I wish you the best of success in finding a challenging and",
-    "lastSentMessageId": "1a19c4d6595732b6"
+    "replyNote": "Human reply received; no explicit acceptance or rejection identified.",
+    "lastSentMessageId": "1a19c4d6595732b6",
+    "replyMessageId": "1a19c50559f299a3"
   },
   {
     "id": "gmail-1a19c4d65fd07fb1",
@@ -6363,13 +6380,14 @@
     "subject": "Prospective MSc Student in Antimicrobial Peptides and AMR Research",
     "dateSent": "2026-11-02",
     "timestamp": 1793629002,
-    "status": "replied - neutral",
+    "status": "replied - rejected",
     "replyReceived": true,
-    "replySummary": "Hello I am sorry I cannot take any students Heidi From: Md Abu Ahsan Gilman &lt;gilman5519@stu.gau.edu.bd&gt; Sent: November 2, 2026 6:16 AM To: Heidi Huttunen-Hennelly &lt;Hhuttunen@tru.ca&gt; Subject",
+    "replySummary": "Hello I am sorry I cannot take any students Heidi ________________________________ From: Md Abu Ahsan Gilman <gilman5519@stu.gau.edu.bd> Sent: November 2, 2026 6:16 AM To: Heidi Huttunen-Hennelly <Hhuttunen@tru.ca> Subject: Prospective MSc Student in Antimicrobial Peptides and AMR Research CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe. Dear Professor Huttunen-Hennelly, I hope yo",
     "notes": "Sent 2026-11-02; reconciled from Gmail Sent (message 1a19c9e9c7548ed4)",
-    "replyNote": "Inbox reply 2026-11-02T22:44:37+06:00: Re: Prospective MSc Student in Antimicrobial Peptides and AMR Research — Hello I am sorry I cannot take any students Heidi From: Md Abu Ahsan Gilman &lt;gilman5519@stu.gau.edu.bd&gt; Sent: November 2, 2026 6:16 AM To: Heidi Huttunen-Hennelly &lt;Hhuttunen@tru.ca&gt; Subject",
+    "replyNote": "Explicitly reports no current capacity, funding, or student opening.",
     "replyDate": "2026-11-02",
-    "lastSentMessageId": "1a19c9e9c7548ed4"
+    "lastSentMessageId": "1a19c9e9c7548ed4",
+    "replyMessageId": "1a19d26204024f32"
   },
   {
     "id": "mail-19d52c8d44a1e313",
