@@ -201,7 +201,7 @@
       "followUpNeeded": false
     },
     "mailedAt": "2026-08-20",
-    "replySummary": "No current funding but may change later this fall. Get back in touch in November if still looking. Called user \"(soon to be) Dr. Gilman\"."
+    "replySummary": "Thank you for sharing this! Iris Iris Holmes Assistant Professor She/Her/Hers School Of Biological Sciences Mail Code 6501 Southern Illinois University 1125 Lincoln Drive, Life Science II, Rm 389 Carbondale, Illinois 62901 iris.holmes@siu.edu<mailto:iris.holmes@siu.edu> P: 734.355.0190 ________________________________ From: Md Abu Ahsan Gilman <gilman5519@stu.gau.edu.bd> Sent: Monday, November 2, 2026 10:38 AM To: Holmes, Iris A <iris.holmes@siu.edu> Subject: Re: Prospective Graduate Student in "
   },
   {
     "id": "1776499696216",
@@ -251,8 +251,8 @@
       "replyReceived": true,
       "followUpNeeded": false
     },
-    "mailedAt": "2026-08-19",
-    "replySummary": "Rejected"
+    "mailedAt": "2026-11-02",
+    "replySummary": "Dear applicant, Thank you very much for your email and interest in my lab. Please note that my lab is currently fully staffed and not recruiting new MS or PhD trainees. My lab website will inform about new openings in the future. Best of luck for your future. Kind regards, JD ​___________________________ Jan-Ulrik Dahl, Ph.D. Associate Professor of Microbiology Dr. Fred Gletten Endowed Chair of Biological Sciences Dahl Lab<https://about.illinoisstate.edu/jdahl1/> Illinois State University School"
   },
   {
     "id": "1776501698343",
@@ -723,13 +723,13 @@
     "homepage": "https://vetmed.iastate.edu/vdpam/people/orhan-sahin",
     "researchProfile": "https://scholar.google.com/citations?user=P-PZ1-AAAAAJ",
     "status": {
-      "mailed": false,
-      "replyReceived": false,
+      "mailed": true,
+      "replyReceived": true,
       "followUpNeeded": false,
       "drafted": true
     },
-    "mailedAt": null,
-    "replySummary": "",
+    "mailedAt": "2026-11-09",
+    "replySummary": "I will be out of office through 11/11/2026. I will have minimal access to email during this period. Please contact the lab (515-294-1217 or 515-294-9411) for questions related to Bacteriology Section. If you need assistance from the ISU-VDL, contact the front desk at 515-294-1950, or by emailing to isuvdl@iastate.edu",
     "draftedAt": "2026-10-25",
     "draftId": "r2452493189202929895",
     "draftSubject": "Prospective Research Master’s Student in Bacterial Genomics and Antimicrobial Resistance"
@@ -6636,11 +6636,11 @@
     "researchArea": "Veterinary AMR epidemiology, One Health, zoonotic pathogens",
     "homepage": "",
     "status": {
-      "mailed": false,
+      "mailed": true,
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": null,
+    "mailedAt": "2026-11-03",
     "replySummary": ""
   },
   {
@@ -7706,7 +7706,7 @@
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": "2026-09-07",
+    "mailedAt": "2026-11-05",
     "replySummary": ""
   },
   {
@@ -7910,12 +7910,12 @@
     "homepage": "https://publichealth.jhu.edu/faculty/3059/meghan-frost-davis",
     "researchProfile": "",
     "status": {
-      "mailed": false,
+      "mailed": true,
       "replyReceived": false,
       "followUpNeeded": false,
       "drafted": true
     },
-    "mailedAt": "",
+    "mailedAt": "2026-11-09",
     "replySummary": "",
     "draftedAt": "2026-10-25",
     "draftId": "r683053168389745683",
@@ -8101,12 +8101,12 @@
     "homepage": "https://www.montana.edu/mbi/directory/1524709/jovanka-voyich",
     "researchProfile": "",
     "status": {
-      "mailed": false,
+      "mailed": true,
       "replyReceived": false,
       "followUpNeeded": false,
       "drafted": true
     },
-    "mailedAt": "",
+    "mailedAt": "2026-11-09",
     "replySummary": "",
     "draftedAt": "2026-10-25",
     "draftId": "r1827343704654761784",
@@ -8519,12 +8519,12 @@
     "homepage": "https://www.depts.ttu.edu/biology/people/Faculty/phillipscaleb/",
     "researchProfile": "",
     "status": {
-      "mailed": false,
+      "mailed": true,
       "replyReceived": false,
       "followUpNeeded": false,
       "drafted": true
     },
-    "mailedAt": "",
+    "mailedAt": "2026-11-09",
     "replySummary": "",
     "draftedAt": "2026-10-25",
     "draftId": "r1243812997984750300",
@@ -8879,13 +8879,13 @@
     "homepage": "https://medschool.umich.edu/profile/2341/patrick-d-schloss",
     "researchProfile": "",
     "status": {
-      "mailed": false,
-      "replyReceived": false,
+      "mailed": true,
+      "replyReceived": true,
       "followUpNeeded": false,
       "drafted": true
     },
-    "mailedAt": "",
-    "replySummary": "",
+    "mailedAt": "2026-11-09",
+    "replySummary": "Hi, Thanks for your email. PanGram suggests that it wasn't actually written by you, but mostly by AI. Is that true? If so, I have zero interest in working with people who use AI, especially if they don't self disclose that use. Pat [image: Screenshot 2026-11-09 at 09.55.16.png] On Mon, Nov 9, 2026 at 9:54 AM Md Abu Ahsan Gilman < gilman5519@stu.gau.edu.bd> wrote: > Dear Professor Schloss, > > I hope you are doing well. I am Md Abu Ahsan Gilman, and I completed my > Doctor of Veterinary Medicine ",
     "draftedAt": "2026-10-25",
     "draftId": "r2287624177468774118",
     "draftSubject": "Prospective Research Master’s Student in Microbiome Ecology and Microbial Evolution"
@@ -9642,7 +9642,7 @@
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": "2026-10-14T19:13:28+0600",
+    "mailedAt": "2026-11-05",
     "replySummary": ""
   },
   {
@@ -9795,12 +9795,12 @@
     "homepage": "https://goswamilab.uark.edu/about/",
     "researchProfile": "",
     "status": {
-      "mailed": false,
+      "mailed": true,
       "replyReceived": false,
       "followUpNeeded": false,
       "drafted": true
     },
-    "mailedAt": "",
+    "mailedAt": "2026-11-05",
     "replySummary": "",
     "draftedAt": "2026-10-25",
     "draftId": "r-2466990882537261515",
@@ -10754,11 +10754,11 @@
     "homepage": "https://www.unb.ca/faculty-staff/directory/science-fr-bio/duffy-michael.html",
     "researchProfile": "https://www.unb.ca/faculty-staff/directory/science-fr-bio/duffy-michael.html",
     "status": {
-      "mailed": false,
+      "mailed": true,
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": null,
+    "mailedAt": "2026-11-02",
     "replySummary": ""
   },
   {
@@ -10839,11 +10839,11 @@
     "homepage": "https://www.uwindsor.ca/science/environment/620/faculty",
     "researchProfile": "https://www.uwindsor.ca/science/environment/620/faculty",
     "status": {
-      "mailed": false,
+      "mailed": true,
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": null,
+    "mailedAt": "2026-11-02",
     "replySummary": ""
   },
   {
@@ -10907,11 +10907,11 @@
     "homepage": "https://www.yorku.ca/science/profiles/faculty/luz-a-puentes-jacome/",
     "researchProfile": "https://www.yorku.ca/science/profiles/faculty/luz-a-puentes-jacome/",
     "status": {
-      "mailed": false,
+      "mailed": true,
       "replyReceived": false,
       "followUpNeeded": false
     },
-    "mailedAt": null,
+    "mailedAt": "2026-11-02",
     "replySummary": ""
   },
   {
